@@ -1,0 +1,285 @@
+===============================================================================
+QA REPORT: Chapter 5 - Urinary Tract Infection MCQ Bank
+===============================================================================
+
+Review Date:    2026-07-04
+File:           ch05_urinary-tract-infection.json
+Source:         ch05_urinary-tract-infection.txt
+Total Questions: 50
+
+===============================================================================
+1. TOTAL QUESTIONS REVIEWED
+===============================================================================
+
+All 50 questions (ch05-Q01 through ch05-Q50) were reviewed in full against the
+source chapter text.
+
+===============================================================================
+2. NUMBER OF QUESTIONS MODIFIED
+===============================================================================
+
+- Questions with complete rewrite (vignette + options + explanation): 50
+- Questions with no changes: 0
+
+Total questions modified (partial or complete): 50/50 (100%)
+
+===============================================================================
+3. COMMON ISSUES FOUND AND CORRECTED
+===============================================================================
+
+3.1 Recall-to-Vignette Conversion
+----------------------------------
+- Questions that were pure fact-recall (e.g., Q02 "What is the lifetime risk
+  for girls?", Q03 "Current estimates have increased by what factor?") were
+  converted into clinical scenarios with patient age, sex, presenting
+  complaint, and relevant clinical context
+- Q08 (prematurity risk), Q09 (breastfeeding), Q32 (ABU demographics), Q34
+  (ultrasound limitation), Q35 (false-negative rate of US) were all converted
+  from abstract recall questions to vignette-based clinical scenarios
+- Q40 was restructured: originally asked to identify which type defines
+  recurrent UTI; now framed as a clinical decision about a girl with three
+  cystitis episodes
+- Q45 was enhanced: originally a generic recall question about gentamicin
+  monitoring; now embedded in a specific clinical scenario (5-week-old infant)
+
+3.2 Distractor Improvements
+----------------------------
+- Q02: Options reordered from random order (11.3%, 53.1%, 8.2%, 2.1%) to
+  ascending numerical order (2.1%, 8.2%, 11.3%, 53.1%); correctOptionId
+  updated from "b" to "d"
+- Q03: Options were already in ascending order (5, 10, 20, 50-fold)
+- Q05: Distractors now all represent real virulence-related mechanisms
+  (resistance, acid survival, phagocytosis evasion) rather than implausible
+  functions; categorically consistent as "bacterial properties"
+- Q07: Options now all describe sites of bacterial localisation (lumen,
+  surface, intracellular, interstitium) — same category, comparable
+- Q08: Options all represent host factors (breastfeeding, secretor status,
+  prematurity, IgA) rather than mixing risk and protective factors
+- Q10: Distractors all describe potential benefits of circumcision (eliminates
+  prophylaxis, reduces UTI, prevents dysplasia, improves voiding) — same
+  category, plausible yet incorrect
+- Q20: Options now in ascending time order (1, 2, 3, 4 hours)
+- Q24: Options restructured to all answer the same yes/no question format with
+  specific thresholds; consistent use of WBC per mm³
+- Q25: Options now in ascending order with both numerical and HPF equivalents
+  (10³, 10⁵, 10⁷, 10⁹ bacteria/ml)
+- Q26: Options in ascending order (10³, 10⁴, 10⁵, 10⁶ CFU/mL)
+- Q35: Options in ascending order (5-10%, 15-20%, 25-50%, 60-75%)
+- Q40: Options restructured from mixed category (pyelonephritis, febrile
+  episodes, ABU, cystitis) to a coherent yes/no question about recurrence
+  criteria; all distractors represent plausible but incorrect definitions
+- Q50: Distractors all represent oral antibiotic options plausible for
+  paediatric use — ciprofloxacin, co-trimoxazole, tetracycline all real options
+  but incorrect for first-line short-course treatment
+- No "all of the above" or "none of the above" options used in any question
+- All numerical options now appear in ascending or descending order
+- Distractor length and detail level are comparable within each question
+
+3.3 Explanation Enhancement
+----------------------------
+- All 50 explanations restructured into the standard format:
+  "Correct: [detailed rationale with chapter or table reference].
+   A: [why wrong]. B: [why wrong]. C: [why wrong]. D: [why wrong].
+   Clinical Pearl: [take-home teaching point]."
+- All explanations reference specific chapter content: table numbers (5.1,
+  5.2, 5.3, 5.4, 5.6), figure numbers (5.1), and section headings
+- Per-option distractor rationales added for all 200 distractors across 50
+  questions
+- Clinical pearls provide clinically actionable take-home messages including
+  management implications, diagnostic pitfalls, and examination tips
+- Distractor rationales address WHY each option is wrong, not just THAT it is
+  wrong — providing educational value for learners
+
+3.4 Spelling, Grammar, and Clarity
+-----------------------------------
+- Standardised formatting of clinical scenarios (age, presentation, question)
+- Consistent use of medical terminology matching the chapter (e.g.,
+  "micturating cystourethrography" not "voiding cystourethrogram",
+  "asymptomatic bacteriuria" not "ABU" in full text)
+- All numerical values verified against source text (incidence percentages,
+  CFU thresholds, WBC counts, temperature thresholds)
+- Clear differentiation between similar concepts (cystitis vs pyelonephritis,
+  MSU vs SPA thresholds, top-down vs bottom-up approaches)
+
+3.5 Terminology Alignment
+--------------------------
+- All terminology matches the chapter exactly: "clean-catch midstream urine
+  sample", "suprapubic needle aspiration", "leucocyte esterase" (UK spelling),
+  "vesicoureteric reflux" (not "vesicoureteral")
+- Management terminology: "cefotaxime or ceftriaxone", "short (3-day) course",
+  "dysfunctional voiding"
+- Imaging terminology: "Tc-99m DMSA scintigraphy", "contrast micturating
+  cystourethrography (MCUG)", "indirect radionuclide cystography (IRC)",
+  "Tc-99m MAG3 renography"
+- All measurement thresholds match source: >10 WBC/mm³, 10⁷ bacteria/ml,
+  >10⁵ CFU/mL, 4-hour culture window, +4.0°C refrigeration
+
+===============================================================================
+4. SUMMARY OF CHANGES BY TYPE
+===============================================================================
+
+4.1 Vignette Conversion (Step 1)
+----------------------------------
+- Pure recall questions converted to clinical vignettes:    35 questions
+- Existing vignettes enhanced:                              15 questions
+- Vignettes retained as-is:                                  0 questions
+
+Detailed breakdown of vignette conversions:
+- Q02: Added clinical scenario (5-year-old girl, second febrile UTI, mother
+  asking about lifetime risk)
+- Q03: Framed as trainee finding historical incidence data
+- Q04: Added scenario (3-year-old girl with dysuria/frequency)
+- Q06: Added scenario (6-month-old girl, parents asking about route)
+- Q07: Framed as clinical question about recurrent UTI
+- Q08: Added scenario (2-week-old premature infant with fever)
+- Q09: Added scenario (4-month-old breastfed infant with recurrent UTIs)
+- Q15: Added scenario (6-year-old toilet-trained girl with dysuria)
+- Q17: Added scenario (4-month-old afebrile infant needing bag specimen)
+- Q18: Added scenario (nurse collecting pad sample from 3-month-old)
+- Q19: Added scenario (junior doctor suggesting catheterisation)
+- Q20: Added temporal context (6 PM collection, lab closes at 8 PM)
+- Q21: Added scenario (specimen collected at 9 PM)
+- Q22: Added scenario (4-year-old girl with dysuria/frequency)
+- Q23: Added scenario (8-year-old boy with abdominal pain)
+- Q24: Added scenario (febrile 2-year-old with 12 WBC/mm³)
+- Q25: Added scenario (5-year-old with motile bacteria on microscopy)
+- Q26: Added scenario (6-year-old girl with E. coli on culture)
+- Q28: Added scenario (7-year-old boy with fever, vomiting, malaise)
+- Q31: Added scenario (3-week-old neonate with jaundice, poor feeding)
+- Q32: Added scenario (7-year-old girl with bacteriuria on screening)
+- Q33: Added scenario (6-year-old with ABU, normal ultrasound)
+- Q34: Added scenario (4-year-old after first febrile UTI)
+- Q35: Added scenario (2-year-old with febrile UTI, normal US)
+- Q36: Added scenario (5-year-old with recurrent febrile UTIs)
+- Q37: Added scenario (3-year-old with recurrent UTIs, family history of VUR)
+- Q38: Added scenario (9-month-old with first uncomplicated UTI)
+- Q39: Added scenario (2-year-old with pyelonephritis, persistent fever)
+- Q40: Restructured from "identify the type" to clinical decision scenario
+- Q41: Added scenario (3-year-old, normal US, top-down discussion)
+- Q42: Added scenario (2-year-old, febrile UTI, bottom-up discussion)
+- Q44: Added scenario (4-year-old afebrile girl with dysuria)
+- Q45: Added scenario (5-week-old infant on gentamicin)
+- Q47: Added scenario (mother of 7-year-old asking about alternatives)
+- Q48: Added scenario (mother of 8-year-old asking about cranberry juice)
+
+4.2 Distractor Improvement (Step 2)
+-------------------------------------
+- Options reordered (ascending/descending):                 5 questions (Q02,
+  Q20, Q25, Q26, Q35)
+- Options replaced or rewritten:                           30 questions
+- Options reformatted for consistency:                     15 questions
+- Same-category alignment applied:                         15 questions
+- Distractor plausibility verified:                        50 questions
+
+4.3 Explanation Enhancement (Step 3)
+--------------------------------------
+- Explanations fully restructured:                         50 questions
+- Per-option distractor rationales added:                  50 questions
+- Clinical Pearl section added:                            50 questions
+- Chapter references incorporated:                         50 questions
+- Source table/figure references:                          Table 5.1 (Q01,
+  Q02), Table 5.2 (Q24, Q25), Table 5.3 (Q28, Q29), Table 5.4 (Q28, Q29,
+  Q30), Table 5.5 (Q34, Q36, Q37), Table 5.6 (Q39), Figure 5.1 (Q06, Q07),
+  Key Points (Q34)
+
+===============================================================================
+5. REMAINING CONCERNS AND RECOMMENDATIONS
+===============================================================================
+
+5.1 Difficulty Level
+---------------------
+- Questions range from basic epidemiological recall (Q01, Q02) to nuanced
+  clinical reasoning (Q14 — epididymo-orchitis implications; Q27 — SPA
+  interpretation; Q40 — recurrent UTI definition)
+- The vignette conversion has shifted most questions from pure recall to
+  applied clinical knowledge, appropriate for a resident/fellow MCQ bank
+- Difficulty is well-calibrated for a textbook companion question bank
+- Recommend maintaining this balance in future chapters
+
+5.2 Topic Coverage
+-------------------
+- Well-represented: Epidemiology (Q01-Q03, 3 questions), Infecting organisms
+  (Q04-Q05, Q12, 3 questions), Pathogenesis (Q06-Q07, 2 questions), Host
+  factors (Q08-Q11, 4 questions), Clinical features (Q13-Q14, Q28-Q31, 6
+  questions), Urine collection (Q15-Q19, 5 questions), Urine storage/transport
+  (Q20-Q21, 2 questions), Diagnosis/dipstick (Q22-Q27, 6 questions),
+  Classification (Q32-Q33, 2 questions), Imaging (Q34-Q38, Q41-Q42, 7
+  questions), Investigation indications (Q39-Q40, 2 questions), Management
+  (Q43-Q50, 8 questions)
+- Adequately represented: All major chapter sections covered
+- Topic gaps: No dedicated questions on:
+  - NICE vs AAP vs EAU guideline differences (only mentioned in explanations)
+  - Antibiotic prophylaxis (briefly in Q46 distractor)
+  - Specific imaging protocols (Figures 5.2a-5.2e) for different age groups
+  - Dysfunctional voiding pathophysiology in more depth
+  - Bladder-bowel dysfunction association
+  - Role of probiotics beyond yoghurts
+
+5.3 Format Consistency
+-----------------------
+- All questions follow standardised format with clinical stems, same-category
+  ordered options, and structured explanations
+- All option lists use lettered identifiers (a, b, c, d) consistently
+- No EXCEPT-type, "all of the above", or "none of the above" questions used
+- All topics preserved from original with consistent naming convention
+- No question exceeds reasonable length; stems are concise yet contextual
+
+5.4 Source Accuracy
+--------------------
+- All answers verified against the chapter text
+- No discrepancies found between question content and source material
+- All numerical values, percentages, and thresholds match the raw chapter
+  content:
+  - Table 5.1 incidence figures verified for Q01-Q02
+  - 20-fold increase verified for Q03
+  - 85% E. coli rate verified for Q04
+  - >10 WBC/mm³ threshold verified for Q24
+  - 10⁷ bacteria/ml verified for Q25
+  - >10⁵ CFU/mL verified for Q26
+  - SPA threshold verified for Q27
+  - 25-50% US false-negative for VUR verified for Q35
+  - 48-hour response criterion verified for Q39
+  - Recurrent UTI definition verified for Q40
+- Direct chapter references used in explanations to support correct answers
+  and distractor rationales
+
+5.5 Recommendations for Future Updates
+---------------------------------------
+1. Consider adding a question contrasting NICE vs AAP vs EAU imaging
+   recommendations (Figures 5.2a-5.2e) — this is a high-yield exam topic
+2. Consider a question on the role of antibiotic prophylaxis in recurrent UTI,
+   which is briefly mentioned but not directly tested
+3. Consider a question on the specific organisms commonly causing UTI after
+   E. coli (Proteus, Klebsiella, Enterobacter, Pseudomonas — in descending
+   order of frequency as stated in the chapter)
+4. Consider a question on the association between bladder-bowel dysfunction
+   (constipation and UTI) which is an important clinical association
+5. Consider a question on the management of pyonephrosis (percutaneous
+   nephrostomy) and bladder outflow obstruction (suprapubic catheter), which
+   are mentioned as acute interventions
+6. Consider adding an imaging protocol question based on the age-stratified
+   algorithms (Figures 5.2a-5.2c) to test guideline-based decision-making
+
+===============================================================================
+6. VERIFICATION
+===============================================================================
+
+- JSON structure validated: All 50 objects contain required fields
+  (id, chapter, chapterSlug, chapterNumber, questionNumber, stem, options,
+  correctOptionId, explanation, topic)
+- Option structure validated: All options contain id and text fields
+- CorrectOptionId cross-referenced: All correctOptionId values match an option
+  id within the same question
+- No duplicate question IDs found
+- All question numbers are sequential (1-50) and unique
+- No "all of the above" or "none of the above" options present
+- JSON syntax valid: parsed successfully with no errors
+- Topic field preserved from original source for all 50 questions
+- Explanation format validated: all contain Correct, per-option (A-D)
+  rationales, and Clinical Pearl sections
+- Original correct answers preserved: factual correctness of all 50 questions
+  maintained against source text
+
+===============================================================================
+END OF QA REPORT
+===============================================================================

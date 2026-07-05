@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch04-Q01",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 1,
+    "stem": "A 34-year-old G3P2 at 16 weeks gestation expresses concern about the safety of prenatal ultrasound. In explaining the history of this technology, you mention that prenatal screening with fetal ultrasonography became available and has been nearly ubiquitous since what decade?",
+    "options": [
+      { "id": "a", "text": "1970s" },
+      { "id": "b", "text": "1980s" },
+      { "id": "c", "text": "1960s" },
+      { "id": "d", "text": "1990s" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: Prenatal ultrasonography was introduced in the 1970s and rapidly became nearly ubiquitous for pregnancy screening. A: The 1980s saw refinement of the technology but the modality was already in widespread use by then. B: The 1960s saw early diagnostic ultrasound development but not widespread prenatal screening. D: By the 1990s prenatal ultrasound was already well established as standard of care.",
+    "topic": "Introduction / Epidemiology"
+  },
+  {
+    "id": "ch04-Q02",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 2,
+    "stem": "A 29-year-old primigravida at 20 weeks gestation undergoes a routine anatomy scan. The sonographer notes that abnormalities of one organ system are among the most commonly detected congenital anomalies on prenatal ultrasound, both because of their relatively high incidence and because dilatation of the fetal urinary tract is readily detected. Which organ system is most commonly implicated?",
+    "options": [
+      { "id": "a", "text": "Central nervous system" },
+      { "id": "b", "text": "Urogenital" },
+      { "id": "c", "text": "Cardiovascular" },
+      { "id": "d", "text": "Musculoskeletal" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: Urogenital system abnormalities are among the most commonly detected because of their relatively high incidence and the fact that dilatation of the fetal urinary tract (hydronephrosis) is readily detected on ultrasound. A: Although CNS anomalies such as neural tube defects are important, they are not the most commonly detected category. C: Cardiovascular anomalies are common but many are not reliably detectable until later in gestation or after birth. D: Musculoskeletal anomalies are less frequently identified prenatally compared to urogenital anomalies.",
+    "topic": "Introduction / Epidemiology"
+  },
+  {
+    "id": "ch04-Q03",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 3,
+    "stem": "A 28-year-old woman at 20 weeks gestation is found to have fetal hydronephrosis on routine ultrasound. She is concerned and asks about its significance. You explain that while the reported incidence of fetal hydronephrosis ranges from 0.5% to 5%, only a small proportion is associated with a clinically significant uropathy. What is that proportion?",
+    "options": [
+      { "id": "a", "text": "0.2%" },
+      { "id": "b", "text": "2%" },
+      { "id": "c", "text": "5%" },
+      { "id": "d", "text": "0.02%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: The overall incidence of antenatally detected hydronephrosis associated with a clinically significant uropathy is approximately 0.2%. B: 2% is higher than the true figure and falls within the overall reported range of fetal hydronephrosis (0.5%–5%), most of which is benign. C: 5% represents the upper end of the overall incidence of fetal hydronephrosis — most of these cases are mild or transient. D: 0.02% is too low and does not reflect the published literature.",
+    "topic": "Introduction / Epidemiology"
+  },
+  {
+    "id": "ch04-Q04",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 4,
+    "stem": "A 32-year-old primigravida at 20 weeks undergoes a fetal anatomy scan. The image quality is suboptimal. Which of the following factors does NOT influence the sensitivity and specificity of the scan for detecting congenital anomalies?",
+    "options": [
+      { "id": "a", "text": "Maternal obesity" },
+      { "id": "b", "text": "Sonographer experience" },
+      { "id": "c", "text": "Fetal position" },
+      { "id": "d", "text": "Maternal Rh status" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: Sensitivity and specificity of prenatal ultrasound depend on maternal obesity, fetal position, sonographic equipment, and operator experience. Maternal Rh status is unrelated to the quality of sonographic imaging. A: Maternal obesity reduces image quality through increased acoustic absorption and scatter. B: Sonographer experience is a well-established factor affecting anomaly detection rates. C: Fetal position can obscure certain anatomical structures, limiting the sensitivity of the scan.",
+    "topic": "Prenatal Imaging"
+  },
+  {
+    "id": "ch04-Q05",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 5,
+    "stem": "A 31-year-old G1P0 is scheduled for her primary fetal anatomy survey and asks when this scan typically occurs. What is the standard timing for this examination in the United States?",
+    "options": [
+      { "id": "a", "text": "15–17 weeks" },
+      { "id": "b", "text": "12–14 weeks" },
+      { "id": "c", "text": "18–22 weeks" },
+      { "id": "d", "text": "24–28 weeks" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: The primary anatomic survey is obtained at 18–22 weeks gestational age, which provides sufficient anatomical detail to screen for major congenital anomalies. A: 15–17 weeks is early; some structures may not be adequately visualized. B: 12–14 weeks is the typical timing for first-trimester screening (nuchal translucency), not the full anatomy survey. D: 24–28 weeks is late for the primary survey and is reserved for follow-up or high-risk pregnancies.",
+    "topic": "Prenatal Imaging"
+  },
+  {
+    "id": "ch04-Q06",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 6,
+    "stem": "A 26-year-old G2P1 at 10 weeks gestation asks how many ultrasounds are recommended during a low-risk pregnancy. You cite the World Health Organization recommendation, which advises a single routine ultrasound prior to what gestational age?",
+    "options": [
+      { "id": "a", "text": "24 weeks" },
+      { "id": "b", "text": "28 weeks" },
+      { "id": "c", "text": "16 weeks" },
+      { "id": "d", "text": "20 weeks" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: The WHO recommends a single routine ultrasound prior to 24 weeks gestation. B: 28 weeks is beyond the WHO-recommended window for a routine single scan. C: 16 weeks is too early for the optimal anatomy survey. D: 20 weeks is within the WHO window but the recommendation specifies prior to 24 weeks.",
+    "topic": "Prenatal Imaging"
+  },
+  {
+    "id": "ch04-Q07",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 7,
+    "stem": "A 34-year-old G2P1 at 24 weeks gestation has a fetus with complex urologic findings on ultrasound, including suspected ureteral duplication. The radiologist recommends fetal MRI for further evaluation. What is a key advantage of prenatal MRI over ultrasound in this setting?",
+    "options": [
+      { "id": "a", "text": "It uses ionizing radiation for better tissue detail" },
+      { "id": "b", "text": "It can be performed reliably in the first trimester" },
+      { "id": "c", "text": "It is not limited by oligohydramnios" },
+      { "id": "d", "text": "It does not require specialist reporting" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: Prenatal MRI has higher soft tissue contrast resolution and is not limited by maternal habitus, fetal position, ossified structures, or oligohydramnios. A: MRI does NOT use ionizing radiation — this is a key safety advantage and a distinction from CT. B: MRI is not performed in the first trimester; it is used as a problem-solving tool following second-trimester ultrasound. D: MRI requires specialist radiology reporting, similar to ultrasound.",
+    "topic": "Prenatal Imaging / MRI"
+  },
+  {
+    "id": "ch04-Q08",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 8,
+    "stem": "A fetus at 20 weeks gestation has an anterior-posterior (AP) renal pelvic diameter of 12 mm measured in the transverse plane at the level of the renal hilum. How should this finding be classified?",
+    "options": [
+      { "id": "a", "text": "Indicative of posterior urethral valves" },
+      { "id": "b", "text": "A significant finding requiring further surveillance" },
+      { "id": "c", "text": "Within normal limits for gestational age" },
+      { "id": "d", "text": "Diagnostic of ureteropelvic junction obstruction" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: An AP renal pelvic diameter >10 mm in the second trimester is generally regarded as a significant finding warranting further surveillance. A: An AP diameter of 12 mm alone does not indicate PUV — that diagnosis requires additional findings such as a thick-walled bladder or dilated posterior urethra. C: 12 mm exceeds the 10 mm threshold for the second trimester and is not within normal limits. D: While UPJ obstruction is a possible underlying etiology, the finding of isolated AP dilatation is not diagnostic of any specific condition.",
+    "topic": "Classification / AP Diameter"
+  },
+  {
+    "id": "ch04-Q09",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 9,
+    "stem": "A 28-year-old G1P0 at 32 weeks gestation has a growth scan that reveals a fetal renal pelvic AP diameter of 14 mm. You compare this to the upper threshold of normality for the third trimester. What is that threshold?",
+    "options": [
+      { "id": "a", "text": "10 mm" },
+      { "id": "b", "text": "20 mm" },
+      { "id": "c", "text": "15 mm" },
+      { "id": "d", "text": "25 mm" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: An AP diameter >15 mm is regarded as the upper threshold of normality in the third trimester. A: 10 mm is the threshold used in the second trimester, not the third. B: 20 mm is above the established third-trimester threshold and would represent significant dilatation. D: 25 mm is substantially above the accepted cutoff and would indicate severe hydronephrosis.",
+    "topic": "Classification / AP Diameter"
+  },
+  {
+    "id": "ch04-Q10",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 10,
+    "stem": "A 2-day-old neonate born at term with prenatally detected hydronephrosis undergoes a postnatal renal ultrasound. The radiologist reports dilatation confined to the renal pelvis with no calyceal involvement. According to the Society for Fetal Urology (SFU) classification, what grade best describes this finding?",
+    "options": [
+      { "id": "a", "text": "Grade I" },
+      { "id": "b", "text": "Grade II" },
+      { "id": "c", "text": "Grade III" },
+      { "id": "d", "text": "Grade 0" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: SFU Grade I is defined as dilatation confined to the renal pelvis with no calyceal involvement. B: Grade II involves dilatation of the major calyces in addition to the renal pelvis. C: Grade III adds minor calyceal dilatation. D: Grade 0 represents completely normal ultrasound findings with no dilatation.",
+    "topic": "Classification / SFU"
+  },
+  {
+    "id": "ch04-Q11",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 11,
+    "stem": "A neonate has a postnatal renal ultrasound showing dilatation of the renal pelvis accompanied by dilatation of the major calyces but not the minor calyces. What is the correct SFU grade?",
+    "options": [
+      { "id": "a", "text": "Grade I" },
+      { "id": "b", "text": "Grade III" },
+      { "id": "c", "text": "Grade II" },
+      { "id": "d", "text": "Grade IV" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: SFU Grade II is defined as dilatation of the renal pelvis accompanied by dilatation of the major calyces but not the minor calyces. A: Grade I is confined to the renal pelvis only. B: Grade III adds minor calyceal dilatation to the findings. D: Grade IV includes cortical thinning in addition to pelvic and calyceal dilatation.",
+    "topic": "Classification / SFU"
+  },
+  {
+    "id": "ch04-Q12",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 12,
+    "stem": "A pediatric urology fellow is reviewing the SFU classification with medical students. She describes a grade characterized by dilatation of the renal pelvis along with both major and minor calyceal dilatation, without cortical thinning. Which grade is she describing?",
+    "options": [
+      { "id": "a", "text": "Grade IV" },
+      { "id": "b", "text": "Grade II" },
+      { "id": "c", "text": "Grade III" },
+      { "id": "d", "text": "Grade I" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: SFU Grade III involves dilatation of the renal pelvis with both major and minor calyceal dilatation, without cortical thinning. A: Grade IV includes cortical thinning. B: Grade II involves only the major calyces, not the minor calyces. D: Grade I is confined to the renal pelvis.",
+    "topic": "Classification / SFU"
+  },
+  {
+    "id": "ch04-Q13",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 13,
+    "stem": "A 3-week-old infant with prenatally detected hydronephrosis has a postnatal renal ultrasound showing SFU Grade III findings (pelvic and calyceal dilatation) along with thinning of the renal cortex. What is the correct SFU grade for this finding?",
+    "options": [
+      { "id": "a", "text": "Grade II" },
+      { "id": "b", "text": "Grade IV" },
+      { "id": "c", "text": "Grade V" },
+      { "id": "d", "text": "Grade III" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: SFU Grade IV is defined as Grade III findings plus thinning of the renal cortex. A: Grade II does not include cortical thinning or minor calyceal dilatation. C: There is no Grade V in the SFU classification — the system ranges from Grade 0 to Grade IV. D: Grade III by definition does not include cortical thinning.",
+    "topic": "Classification / SFU"
+  },
+  {
+    "id": "ch04-Q14",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 14,
+    "stem": "A multidisciplinary consensus panel reviews the various classification systems for fetal hydronephrosis, noting inconsistencies in terminology between antenatal and postnatal grading. They develop a unified system. What was the primary aim of developing the Urinary Tract Dilation (UTD) classification?",
+    "options": [
+      { "id": "a", "text": "To eliminate the need for postnatal imaging" },
+      { "id": "b", "text": "To replace all surgical treatments with conservative management" },
+      { "id": "c", "text": "To standardize surgical techniques for hydronephrosis" },
+      { "id": "d", "text": "To unify different grading systems and correlate antenatal grading with clinical significance" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: The UTD classification was developed to unify different grading systems, introduce consistent terminology, and correlate antenatal grading with the clinical significance of the underlying genitourinary abnormality. A: The UTD system provides guidance for investigation but does not eliminate the need for postnatal imaging. B: The UTD system guides management decisions but does not replace surgical treatment when indicated. C: The UTD system is an imaging classification, not a surgical technique standard.",
+    "topic": "Classification / UTD"
+  },
+  {
+    "id": "ch04-Q15",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 15,
+    "stem": "A radiology resident is studying the UTD classification for an upcoming exam. She reviews the ultrasound parameters included in the system. Which of the following is NOT one of the parameters assessed?",
+    "options": [
+      { "id": "a", "text": "Calyceal dilation" },
+      { "id": "b", "text": "Ureteral dilation" },
+      { "id": "c", "text": "Bladder pathology" },
+      { "id": "d", "text": "Renal artery resistive index" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: Renal artery resistive index is not part of the UTD classification. The UTD system assesses: AP renal pelvic diameter, calyceal dilation, parenchymal thickness, parenchymal appearance (echogenicity, corticomedullary differentiation, cortical cysts), ureteral dilation, bladder pathology (ureterocele, wall thickening, dilated posterior urethra), and oligohydramnios. A: Calyceal dilation is a core parameter. B: Ureteral dilation is assessed. C: Bladder pathology including ureterocele and wall thickening is evaluated.",
+    "topic": "Classification / UTD"
+  },
+  {
+    "id": "ch04-Q16",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 16,
+    "stem": "A 30-year-old G1P0 at 24 weeks has a fetus with SFU Grade III hydronephrosis. Using the UTD classification, the radiologist assigns an antenatal risk category. Which UTD antenatal category denotes intermediate/high risk?",
+    "options": [
+      { "id": "a", "text": "A1" },
+      { "id": "b", "text": "A2-3" },
+      { "id": "c", "text": "P1" },
+      { "id": "d", "text": "P2" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: The UTD antenatal risk categories are A1 (low risk) and A2-3 (intermediate/high risk). A: A1 denotes low risk, not intermediate/high risk. C: P1 is a postnatal low-risk category designated by the letter P. D: P2 is a postnatal intermediate-risk category, not an antenatal category.",
+    "topic": "Classification / UTD"
+  },
+  {
+    "id": "ch04-Q17",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 17,
+    "stem": "A newborn has a postnatal ultrasound at 24 hours of life that appears to show only mild pelvic dilatation. Why should the clinician be cautious about interpreting this finding?",
+    "options": [
+      { "id": "a", "text": "MAG3 renography must be performed first for accurate assessment" },
+      { "id": "b", "text": "The SFU classification cannot be applied postnatally" },
+      { "id": "c", "text": "Antibiotic prophylaxis interferes with ultrasound imaging" },
+      { "id": "d", "text": "Physiological reduction in urine output in the first 48 hours may mask the true degree of hydronephrosis" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: The physiological reduction in urine output during the first 48 hours after birth may reduce the sensitivity of ultrasound for detecting hydronephrosis, so decision-making should be based on findings after 48 hours. A: MAG3 renography is deferred until 6–8 weeks due to renal functional immaturity and is not required for initial assessment. B: The SFU classification was originally devised for postnatal use and can certainly be applied. C: Antibiotic prophylaxis does not interfere with ultrasound imaging.",
+    "topic": "Postnatal Investigation"
+  },
+  {
+    "id": "ch04-Q18",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 18,
+    "stem": "A 32-year-old G2P1 at 22 weeks is told that her fetus has mild hydronephrosis (SFU Grade I). She is very anxious. You reassure her that in most cases this is a self-limiting phenomenon that resolves spontaneously by the third trimester. In what proportion of cases does this occur?",
+    "options": [
+      { "id": "a", "text": "More than 50%" },
+      { "id": "b", "text": "Less than 25%" },
+      { "id": "c", "text": "Approximately one third" },
+      { "id": "d", "text": "More than 90%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: Mild SFU Grade I hydronephrosis is often a self-limiting physiological phenomenon that resolves spontaneously by the third trimester in more than 50% of cases. B: Less than 25% understates the rate of spontaneous resolution. C: Approximately one third is too low for the observed resolution rate. D: More than 90% overstates the resolution rate; while most resolve, the figure is more than 50% but not that high.",
+    "topic": "Mild Hydronephrosis"
+  },
+  {
+    "id": "ch04-Q19",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 19,
+    "stem": "A 3-year-old child who had mild prenatally detected hydronephrosis (SFU Grade I) that resolved before birth is brought for follow-up. The parents ask whether their child is at higher risk for urinary tract infections. Based on follow-up studies, what is the expected incidence of UTIs and bladder symptoms in this child compared to age-matched controls?",
+    "options": [
+      { "id": "a", "text": "Significantly higher" },
+      { "id": "b", "text": "No higher" },
+      { "id": "c", "text": "Higher only in males" },
+      { "id": "d", "text": "Slightly higher but clinically insignificant" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: Follow-up studies of children born with mild hydronephrosis have found that their incidence of UTIs and bladder symptoms is no higher than in age-matched normal controls. A: The data do not support a significantly higher incidence. C: There is no evidence of a sex-specific difference in UTI risk for this population. D: Even a slight increase has not been demonstrated in the literature.",
+    "topic": "Mild Hydronephrosis"
+  },
+  {
+    "id": "ch04-Q20",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 20,
+    "stem": "A 6-week-old infant with prenatally detected SFU Grade III hydronephrosis is being evaluated. The parents ask about further testing. According to current SFU and AUA guidelines, when is a voiding cystourethrogram (VCUG) indicated in infants with prenatally detected hydronephrosis?",
+    "options": [
+      { "id": "a", "text": "In all infants regardless of severity" },
+      { "id": "b", "text": "VCUG is never indicated in prenatally detected hydronephrosis" },
+      { "id": "c", "text": "In infants with higher grades (SFU III–IV) and/or ureteral dilatation or bladder abnormalities" },
+      { "id": "d", "text": "Only in infants with SFU Grade I hydronephrosis" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: Current SFU and AUA guidelines recommend VCUG for infants with higher grade hydronephrosis (SFU III–IV) and/or those with ureteral dilatation or bladder abnormalities. A: Routine VCUG in all infants is no longer recommended — this was previously practiced but led to unnecessary invasive investigations. B: VCUG remains indicated in select higher-risk cases and is not never indicated. D: Isolated SFU Grade I is not an indication for VCUG.",
+    "topic": "VCUG Indications"
+  },
+  {
+    "id": "ch04-Q21",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 21,
+    "stem": "A 1-week-old male infant has bilateral SFU Grade IV hydronephrosis on postnatal ultrasound. What is the most important next investigation?",
+    "options": [
+      { "id": "a", "text": "Repeat ultrasound in 3 months" },
+      { "id": "b", "text": "VCUG prior to discharge from hospital" },
+      { "id": "c", "text": "MAG3 renography in 2 weeks" },
+      { "id": "d", "text": "Intravenous pyelography" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: Bilateral hydronephrosis in a male infant requires VCUG prior to discharge to investigate for posterior urethral valves. A: Repeat ultrasound in 3 months would delay the diagnosis of a potentially life-threatening obstructive uropathy. C: MAG3 renography is deferred until 6–8 weeks due to renal functional immaturity and is not the first-line investigation. D: Intravenous pyelography is rarely used in neonates and has been largely supplanted by ultrasound, VCUG, and renography.",
+    "topic": "Posterior Urethral Valves / VCUG"
+  },
+  {
+    "id": "ch04-Q22",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 22,
+    "stem": "A pediatric urologist is counseling the parents of a newborn with significant prenatally detected hydronephrosis. She explains that the most common underlying cause is a condition affecting the junction between the renal pelvis and the ureter. What is this condition?",
+    "options": [
+      { "id": "a", "text": "Primary megaureter" },
+      { "id": "b", "text": "Posterior urethral valves" },
+      { "id": "c", "text": "Ureteropelvic junction obstruction" },
+      { "id": "d", "text": "Vesicoureteral reflux" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: UPJ obstruction is the most common underlying cause of clinically significant hydronephrosis, occurring in approximately 1 in 500 live births. A: Primary megaureter accounts for only 5–10% of fetal hydronephrosis cases. B: PUV is an important cause of hydronephrosis in male infants but occurs less frequently than UPJ obstruction. D: VUR may present with hydronephrosis but is not the most common underlying cause of significant hydronephrosis.",
+    "topic": "UPJ Obstruction"
+  },
+  {
+    "id": "ch04-Q23",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 23,
+    "stem": "A 27-year-old G1P0 at 22 weeks is told her fetus has hydronephrosis. The perinatologist explains that the most likely underlying cause is UPJ obstruction. The mother asks how common this condition is. What is the approximate incidence of UPJ obstruction?",
+    "options": [
+      { "id": "a", "text": "1 in 500 live births" },
+      { "id": "b", "text": "1 in 200 live births" },
+      { "id": "c", "text": "1 in 1000 live births" },
+      { "id": "d", "text": "1 in 2500 live births" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: UPJ obstruction occurs in approximately 1 in 500 live births and is characterized by partial or intermittent occlusion of the UPJ lumen. B: 1 in 200 is too high — this would make it more common than generally reported. C: 1 in 1000 is lower than the reported incidence. D: 1 in 2500 is closer to the incidence of bilateral renal agenesis.",
+    "topic": "UPJ Obstruction"
+  },
+  {
+    "id": "ch04-Q24",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 24,
+    "stem": "A medical student is presenting a case of UPJ obstruction to the attending urologist. The attending asks which of the following statements about UPJ obstruction is correct.",
+    "options": [
+      { "id": "a", "text": "Girls are affected more commonly than boys" },
+      { "id": "b", "text": "Approximately 25% of cases are bilateral" },
+      { "id": "c", "text": "Ultrasound alone can reliably differentiate obstructive from non-obstructive hydronephrosis" },
+      { "id": "d", "text": "Dilatation is confined to the collecting system unless associated with other abnormalities" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: In UPJ obstruction, dilatation is confined to the renal collecting systems unless associated with other urinary tract abnormalities, in which case ureteral dilatation or bladder abnormalities may be present. A: Boys are affected more commonly than girls, not the reverse. B: Approximately 10% of cases are bilateral, not 25%. C: Ultrasound alone cannot reliably distinguish obstructive from non-obstructive hydronephrosis; diuretic renography (MAG3) is required to assess the functional significance of the dilatation.",
+    "topic": "UPJ Obstruction"
+  },
+  {
+    "id": "ch04-Q25",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 25,
+    "stem": "A 5-week-old female infant with prenatally detected SFU Grade III hydronephrosis is being evaluated. Vesicoureteral reflux is suspected. Which investigation is required to reliably establish the diagnosis of VUR?",
+    "options": [
+      { "id": "a", "text": "Prenatal MRI" },
+      { "id": "b", "text": "Postnatal VCUG" },
+      { "id": "c", "text": "Prenatal ultrasound with Doppler" },
+      { "id": "d", "text": "Postnatal MAG3 renography" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: There are no pathognomonic ultrasonographic features for VUR, and the diagnosis can only be reliably established on a postnatal VCUG. A: Prenatal MRI can delineate anatomy but cannot diagnose dynamic reflux. C: Prenatal ultrasound with Doppler cannot reliably diagnose VUR. D: MAG3 renography assesses drainage and differential renal function but cannot confirm or exclude VUR.",
+    "topic": "Vesicoureteral Reflux"
+  },
+  {
+    "id": "ch04-Q26",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 26,
+    "stem": "A newborn girl with SFU Grade III hydronephrosis and ureteral dilatation undergoes VCUG that confirms vesicoureteral reflux. The team considers starting prophylactic antibiotics. According to the text, which of the following is regarded as an indication for postnatal antibiotic prophylaxis?",
+    "options": [
+      { "id": "a", "text": "All grades of VUR in both sexes" },
+      { "id": "b", "text": "Low grade VUR in boys" },
+      { "id": "c", "text": "VUR alone is never an indication for prophylaxis" },
+      { "id": "d", "text": "Moderate to high grades of VUR in girls" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: Moderate to high grades of vesicoureteral reflux in girls is regarded as an indication for postnatal antibiotic prophylaxis. A: Not all grades of VUR require prophylaxis — the indication is specific to moderate to high grades in girls. B: Low-grade VUR in boys is not listed as an indication. C: VUR alone can be an indication for prophylaxis in the specific circumstance of moderate to high grade reflux in girls.",
+    "topic": "Prophylactic Antibiotics"
+  },
+  {
+    "id": "ch04-Q27",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 27,
+    "stem": "A 30-year-old G2P1 at 28 weeks is found to have a fetus with hydronephrosis and a disproportionately dilated ureter. The radiologist suspects primary megaureter and explains that this condition accounts for what percentage of cases of fetal hydronephrosis?",
+    "options": [
+      { "id": "a", "text": "1–2%" },
+      { "id": "b", "text": "5–10%" },
+      { "id": "c", "text": "15–20%" },
+      { "id": "d", "text": "25–30%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: Primary megaureter accounts for around 5–10% of cases of fetal hydronephrosis. A: 1–2% underestimates the contribution of megaureter to fetal hydronephrosis. C: 15–20% is higher than the reported range. D: 25–30% is significantly higher than the actual figure.",
+    "topic": "Megaureter"
+  },
+  {
+    "id": "ch04-Q28",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 28,
+    "stem": "A fetal medicine specialist is reviewing an ultrasound at 32 weeks gestation showing a dilated ureter. She recalls the diagnostic threshold for megaureter after 30 weeks. What ureteral diameter is considered abnormal?",
+    "options": [
+      { "id": "a", "text": "Greater than 4 mm" },
+      { "id": "b", "text": "Greater than 5 mm" },
+      { "id": "c", "text": "Greater than 7 mm" },
+      { "id": "d", "text": "Greater than 10 mm" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: After 30 weeks gestation, a ureteral diameter greater than 7 mm is regarded as an abnormal finding constituting a diagnosis of megaureter. A: 4 mm is within the normal range for gestational age. B: 5 mm is still within normal limits. D: 10 mm is above the threshold — megaureter would certainly be present, but the established diagnostic cutoff is >7 mm.",
+    "topic": "Megaureter"
+  },
+  {
+    "id": "ch04-Q29",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 29,
+    "stem": "A prenatal ultrasound reveals a thin-walled cystic structure within the fetal bladder accompanied by upper tract dilatation. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Posterior urethral valves" },
+      { "id": "b", "text": "Urachal cyst" },
+      { "id": "c", "text": "Bladder diverticulum" },
+      { "id": "d", "text": "Ureterocele" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: A ureterocele appears as a thin septum or thin-walled cystic structure within the bladder on prenatal ultrasound, often accompanied by upper tract dilatation. A: PUV presents with a thick-walled bladder and dilated posterior urethra (keyhole sign), not an intravesical cystic structure. B: A urachal cyst is located along the urachal remnant, not within the bladder lumen. C: A bladder diverticulum appears as an outpouching of the bladder wall, not an intravesical cyst.",
+    "topic": "Ureterocele"
+  },
+  {
+    "id": "ch04-Q30",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 30,
+    "stem": "A 22-week gestation male fetus has bilateral hydronephrosis, a distended thick-walled bladder, and a dilated posterior urethra (keyhole sign). What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Posterior urethral valves" },
+      { "id": "b", "text": "Prune-belly syndrome" },
+      { "id": "c", "text": "Ureteropelvic junction obstruction" },
+      { "id": "d", "text": "Bilateral vesicoureteral reflux" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: Bilateral hydronephrosis in a male fetus with a distended, thick-walled bladder and keyhole sign (dilated posterior urethra) is highly suggestive of posterior urethral valves. B: Prune-belly syndrome has different ultrasound features and is not associated with the keyhole sign. C: UPJ obstruction shows dilatation confined to the renal pelvis and calyces without bladder or urethral abnormalities. D: Bilateral VUR does not produce the keyhole sign or thick-walled bladder on prenatal ultrasound.",
+    "topic": "Posterior Urethral Valves"
+  },
+  {
+    "id": "ch04-Q31",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 31,
+    "stem": "A 24-week male fetus is diagnosed with posterior urethral valves. The parents are counseled about the prognosis. Which ultrasound finding would indicate the poorest prognosis?",
+    "options": [
+      { "id": "a", "text": "Mild unilateral hydronephrosis" },
+      { "id": "b", "text": "Bladder diverticula" },
+      { "id": "c", "text": "Patent urachus" },
+      { "id": "d", "text": "Oligohydramnios with pulmonary hypoplasia" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: Oligohydramnios and pulmonary hypoplasia are indicative of severe renal dysplasia and are strong predictors of a poor prognosis in PUV. A: Mild unilateral hydronephrosis suggests less severe obstruction and a better prognosis. B: Bladder diverticula are common in PUV but do not independently predict poor prognosis. C: Patent urachus may occur with PUV but is not the strongest predictor of poor outcome.",
+    "topic": "Posterior Urethral Valves"
+  },
+  {
+    "id": "ch04-Q32",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 32,
+    "stem": "A neonate with prenatally detected bilateral hydronephrosis is started on prophylactic antibiotics. The pharmacist notes that one of the commonly used prophylactic antibiotics is contraindicated in neonates due to the risk of hemolytic anemia. Which one?",
+    "options": [
+      { "id": "a", "text": "Amoxicillin" },
+      { "id": "b", "text": "Nitrofurantoin" },
+      { "id": "c", "text": "Cephalexin" },
+      { "id": "d", "text": "Trimethoprim" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: Nitrofurantoin is contraindicated in neonates due to the risk of hemolytic anemia. A: Amoxicillin (10–20 mg/kg/day) is commonly used for neonatal urinary prophylaxis. C: Cephalexin (10 mg/kg/day) is commonly used and considered safe. D: Trimethoprim (2 mg/kg/day) is used for prophylaxis; however, trimethoprim-sulfamethoxazole is contraindicated due to kernicterus risk.",
+    "topic": "Prophylactic Antibiotics"
+  },
+  {
+    "id": "ch04-Q33",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 33,
+    "stem": "A neonate with prenatally detected bilateral hydronephrosis is started on antibiotic prophylaxis. Which of the following medications is contraindicated due to the risk of kernicterus?",
+    "options": [
+      { "id": "a", "text": "Amoxicillin" },
+      { "id": "b", "text": "Trimethoprim-sulfamethoxazole" },
+      { "id": "c", "text": "Cephalexin" },
+      { "id": "d", "text": "Trimethoprim alone" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: Trimethoprim-sulfamethoxazole is contraindicated in neonates due to the risk of kernicterus from the sulfonamide component displacing bilirubin from albumin. A: Amoxicillin is safe and commonly used for neonatal prophylaxis. C: Cephalexin is safe and commonly used. D: Trimethoprim alone (2 mg/kg/day) is used for prophylaxis and does not carry the same kernicterus risk as the sulfamethoxazole combination.",
+    "topic": "Prophylactic Antibiotics"
+  },
+  {
+    "id": "ch04-Q34",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 34,
+    "stem": "A pediatric urology team is discussing indications for VCUG in infants with prenatally detected hydronephrosis. Which of the following is NOT a generally accepted indication for postnatal VCUG?",
+    "options": [
+      { "id": "a", "text": "Isolated SFU Grade I hydronephrosis" },
+      { "id": "b", "text": "Ureteral dilation detected on ultrasound" },
+      { "id": "c", "text": "Abnormal bladder (e.g., thick wall, keyhole sign)" },
+      { "id": "d", "text": "Bilateral hydronephrosis in a male infant" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: Isolated SFU Grade I hydronephrosis is not an indication for VCUG according to SFU and AUA guidelines, as it is usually benign and self-limiting. B: Ureteral dilation is an accepted indication for VCUG. C: Abnormal bladder findings including thick wall, keyhole sign, and diverticula are accepted indications. D: Bilateral hydronephrosis in a male infant requires VCUG to investigate for posterior urethral valves.",
+    "topic": "VCUG Indications"
+  },
+  {
+    "id": "ch04-Q35",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 35,
+    "stem": "A 7-week-old infant with prenatally detected SFU Grade IV hydronephrosis and no VUR on VCUG requires a MAG3 renogram. At what age should this ideally have been performed?",
+    "options": [
+      { "id": "a", "text": "At 6–8 weeks of age" },
+      { "id": "b", "text": "Immediately after birth" },
+      { "id": "c", "text": "At 3 months of age" },
+      { "id": "d", "text": "At 6 months of age" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: Radionuclide scans should be deferred until 6–8 weeks of age because the functional immaturity of neonatal kidneys makes results difficult to interpret earlier. B: Immediately after birth — renal function is too immature for reliable interpretation. C: At 3 months — this is later than the recommended window. D: At 6 months — unnecessarily late; earlier assessment is typically indicated for surgical planning.",
+    "topic": "Renography / MAG3"
+  },
+  {
+    "id": "ch04-Q36",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 36,
+    "stem": "A 7-week-old infant with a history of prenatally detected SFU Grade IV hydronephrosis and negative VCUG is scheduled for functional imaging to assess drainage and differential renal function. Which is the most widely used radionuclide scan for this purpose?",
+    "options": [
+      { "id": "a", "text": "DTPA scan" },
+      { "id": "b", "text": "DMSA scan" },
+      { "id": "c", "text": "Orthoiodohippurate scan" },
+      { "id": "d", "text": "MAG-3 diuretic renogram" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: The technetium-99m-MAG3 diuretic renogram is the most widely used scan as it combines information on drainage with an assessment of differential renal function. A: DTPA scans are less commonly used and provide less reliable information in neonates. B: DMSA scans assess renal parenchyma and cortical scarring, not drainage. C: Orthoiodohippurate scans are rarely used in current clinical practice.",
+    "topic": "Renography / MAG3"
+  },
+  {
+    "id": "ch04-Q37",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 37,
+    "stem": "A 2-month-old infant with prenatally detected SFU Grade IV hydronephrosis and negative VCUG is being evaluated by a pediatric urologist. Which of the following is an accepted indication for diuretic renography?",
+    "options": [
+      { "id": "a", "text": "All cases of prenatally detected hydronephrosis" },
+      { "id": "b", "text": "SFU Grade I hydronephrosis" },
+      { "id": "c", "text": "Mild hydronephrosis with confirmed VUR" },
+      { "id": "d", "text": "Moderate to severe hydronephrosis without VUR" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: Indications for diuretic renography include moderate to severe hydronephrosis (AP diameter >10 mm, SFU III–IV) without VUR, establishing baseline function before obstruction relief surgery, and confirming poor function before nephrectomy. A: Not all cases require renography — mild cases without other risk factors can be observed. B: SFU Grade I alone does not warrant renography. C: Mild hydronephrosis with confirmed VUR is typically managed based on the VUR grade, not renography.",
+    "topic": "Renography / MAG3"
+  },
+  {
+    "id": "ch04-Q38",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 38,
+    "stem": "A 28-year-old G2P1 has a prenatal ultrasound showing an empty left renal fossa with an elongated adrenal gland and a normal right kidney with compensatory hypertrophy. Unilateral renal agenesis is suspected. What is the approximate incidence of this condition?",
+    "options": [
+      { "id": "a", "text": "1 in 800 pregnancies" },
+      { "id": "b", "text": "1 in 400 pregnancies" },
+      { "id": "c", "text": "1 in 1300 pregnancies" },
+      { "id": "d", "text": "1 in 4000 pregnancies" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: Unilateral renal agenesis occurs in approximately 1 in 1300 pregnancies and is more common in twins. A: 1 in 800 is higher than the reported incidence. B: 1 in 400 significantly overestimates the frequency. D: 1 in 4000 is the incidence of bilateral renal agenesis.",
+    "topic": "Non-hydronephrotic Anomalies"
+  },
+  {
+    "id": "ch04-Q39",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 39,
+    "stem": "A prenatal ultrasound at 20 weeks gestation reveals empty renal fossae bilaterally, early anhydramnios, and no visible bladder filling. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Bilateral multicystic dysplastic kidneys" },
+      { "id": "b", "text": "Bilateral renal agenesis" },
+      { "id": "c", "text": "Autosomal recessive polycystic kidney disease" },
+      { "id": "d", "text": "Posterior urethral valves" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: Bilateral renal agenesis is characterized by absence of both kidneys (empty lumbar fossae), early anhydramnios, and lack of bladder filling, and generally results in early postnatal demise from pulmonary insufficiency and renal failure. A: Bilateral MCDK shows cystic kidneys rather than empty fossae. C: ARPKD shows markedly enlarged echogenic kidneys, not empty fossae. D: PUV shows hydronephrosis and a distended bladder, not empty renal fossae.",
+    "topic": "Non-hydronephrotic Anomalies"
+  },
+  {
+    "id": "ch04-Q40",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 40,
+    "stem": "A 31-year-old G1P0 at 20 weeks receives the devastating diagnosis of bilateral renal agenesis. The mother asks how common this condition is. What is its approximate incidence?",
+    "options": [
+      { "id": "a", "text": "1 in 4000 pregnancies" },
+      { "id": "b", "text": "1 in 1300 pregnancies" },
+      { "id": "c", "text": "1 in 2500 pregnancies" },
+      { "id": "d", "text": "1 in 20000 pregnancies" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: Bilateral renal agenesis occurs in approximately 1 in 4000 pregnancies. B: 1 in 1300 is the incidence of unilateral renal agenesis. C: 1 in 2500 is within the range of unilateral MCDK incidence. D: 1 in 20,000 is approximately the incidence of ARPKD.",
+    "topic": "Non-hydronephrotic Anomalies"
+  },
+  {
+    "id": "ch04-Q41",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 41,
+    "stem": "A male infant is found to have crossed renal ectopia on prenatal ultrasound. Which of the following statements about this condition is correct?",
+    "options": [
+      { "id": "a", "text": "Both kidneys are located on opposite sides of the midline" },
+      { "id": "b", "text": "Crossed renal ectopia is the most common form of renal ectopia" },
+      { "id": "c", "text": "The abnormally located kidney retains its vessels and ureter from the contralateral side" },
+      { "id": "d", "text": "Further postnatal investigation is unnecessary" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: In crossed renal ectopia, both kidneys lie on the same side of midline and are usually fused, but the ectopic kidney retains its vessels and ureters from the contralateral side. A: Both kidneys are on the same side of midline, not opposite sides. B: Pelvic kidney is the most common form of simple ectopia (60% of cases), not crossed ectopia. D: Further postnatal investigation is indicated due to a relatively high incidence of VUR and other associated abnormalities.",
+    "topic": "Non-hydronephrotic Anomalies"
+  },
+  {
+    "id": "ch04-Q42",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 42,
+    "stem": "A 26-year-old G1P0 is found to have a fetus with a horseshoe kidney on prenatal ultrasound. The perinatologist counsels about potential associated syndromes. Which syndrome is most commonly associated with horseshoe kidney?",
+    "options": [
+      { "id": "a", "text": "Turner syndrome" },
+      { "id": "b", "text": "Down syndrome" },
+      { "id": "c", "text": "DiGeorge syndrome" },
+      { "id": "d", "text": "Klinefelter syndrome" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: Horseshoe kidney is commonly associated with Turner syndrome as well as CNS, GI, and skeletal/cardiovascular system abnormalities. B: Down syndrome is not specifically associated with horseshoe kidney. C: DiGeorge syndrome is associated with unilateral renal agenesis, not horseshoe kidney. D: Klinefelter syndrome is not specifically associated with horseshoe kidney.",
+    "topic": "Non-hydronephrotic Anomalies"
+  },
+  {
+    "id": "ch04-Q43",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 43,
+    "stem": "A prenatal ultrasound at 33 weeks shows markedly enlarged, echogenic kidneys bilaterally with poor corticomedullary differentiation and severe oligohydramnios. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Autosomal recessive polycystic kidney disease" },
+      { "id": "b", "text": "Autosomal dominant polycystic kidney disease" },
+      { "id": "c", "text": "Bilateral multicystic dysplastic kidney disease" },
+      { "id": "d", "text": "Bilateral renal agenesis" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: ARPKD typically presents with markedly enlarged, echogenic kidneys with poor or reversed corticomedullary differentiation and severe oligohydramnios on prenatal ultrasound. B: ADPKD typically presents later in life with large cortical cysts; prenatal presentation is distinctly unusual. C: Bilateral MCDK shows multiple non-communicating cysts rather than uniformly echogenic, enlarged kidneys. D: Bilateral renal agenesis shows empty renal fossae, not enlarged kidneys.",
+    "topic": "Cystic Renal Disease"
+  },
+  {
+    "id": "ch04-Q44",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 44,
+    "stem": "A 29-year-old G2P1 is told her fetus has a unilateral multicystic dysplastic kidney on the 20-week anatomy scan. She asks how common this is. What is the approximate incidence of unilateral MCDK?",
+    "options": [
+      { "id": "a", "text": "1 in 20,000 to 1 in 25,000 pregnancies" },
+      { "id": "b", "text": "1 in 500 to 1 in 1,000 pregnancies" },
+      { "id": "c", "text": "1 in 10,000 to 1 in 15,000 pregnancies" },
+      { "id": "d", "text": "1 in 2,500 to 1 in 4,000 pregnancies" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: Unilateral MCDK occurs in between 1:2500 and 1:4000 pregnancies, making it one of the commonest prenatally detected renal malformations. A: This range corresponds to bilateral MCDK, which has an incidence of around 1:20,000 and is a lethal condition. B: 1:500 to 1:1000 is too frequent. C: 1:10,000 to 1:15,000 is lower than the reported incidence.",
+    "topic": "Cystic Renal Disease"
+  },
+  {
+    "id": "ch04-Q45",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 45,
+    "stem": "A 22-week fetus is diagnosed with myelomeningocele during a routine anatomy scan. The pediatric urologist is consulted to discuss the likely impact on urologic function. What is the almost inevitable consequence for bladder function?",
+    "options": [
+      { "id": "a", "text": "Urinary continence is always preserved" },
+      { "id": "b", "text": "Stress urinary incontinence only" },
+      { "id": "c", "text": "Neurogenic bladder dysfunction" },
+      { "id": "d", "text": "Bladder function is unaffected" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: Myelomeningocele and sacral agenesis almost invariably result in neurogenic bladder dysfunction due to disruption of the neural pathways controlling bladder function. A: Urinary continence is typically impaired, not preserved. B: The bladder dysfunction is more complex than stress incontinence alone — it affects both storage and emptying. D: Bladder function is profoundly affected by the underlying neural tube defect.",
+    "topic": "Syndromes / Genital Anomalies"
+  },
+  {
+    "id": "ch04-Q46",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 46,
+    "stem": "A 34-year-old G1P0 delivers a newborn with bladder exstrophy that was not detected on prenatal ultrasound. The parents are distressed that this was missed. You explain that bladder exstrophy is difficult to diagnose prenatally. Approximately what percentage of cases are detected before birth?",
+    "options": [
+      { "id": "a", "text": "25%" },
+      { "id": "b", "text": "50%" },
+      { "id": "c", "text": "75%" },
+      { "id": "d", "text": "10%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: Although bladder exstrophy has a number of diagnostic features on ultrasound, these are not always easy to detect, with the result that only approximately 50% of cases are diagnosed prenatally. A: 25% is lower than the reported detection rate. C: 75% overestimates the detection rate given the subtlety of the findings. D: 10% is significantly lower than the actual detection rate.",
+    "topic": "Syndromes / Genital Anomalies"
+  },
+  {
+    "id": "ch04-Q47",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 47,
+    "stem": "A 20-week ultrasound reveals concerning findings that raise the possibility of a cloacal anomaly. Which of the following is NOT a typical ultrasonographic feature of a cloacal anomaly?",
+    "options": [
+      { "id": "a", "text": "Pelvic cystic structure (hydrocolpos)" },
+      { "id": "b", "text": "Polyhydramnios" },
+      { "id": "c", "text": "Poorly visualized bladder" },
+      { "id": "d", "text": "Bilateral hydronephrosis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: Polyhydramnios is not a typical feature of cloacal anomalies — rather, oligohydramnios is associated with renal impairment from obstruction. A: Hydrocolpos (fluid-filled dilated vagina) appears as a pelvic cystic structure and is a known feature. C: Poor visualization of the bladder is typical due to the common cloacal channel. D: Bilateral hydronephrosis is common due to urinary tract obstruction.",
+    "topic": "Syndromes / Genital Anomalies"
+  },
+  {
+    "id": "ch04-Q48",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 48,
+    "stem": "A fetus is diagnosed with posterior urethral valves at 22 weeks with developing oligohydramnios. Vesicoamniotic shunting is being considered. After what gestational age is shunting unlikely to improve pulmonary function?",
+    "options": [
+      { "id": "a", "text": "26 weeks" },
+      { "id": "b", "text": "20 weeks" },
+      { "id": "c", "text": "30 weeks" },
+      { "id": "d", "text": "24 weeks" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: Vesicoamniotic shunting is usually performed before 26 weeks. When performed after 26 weeks it is unlikely to lead to any improvement in pulmonary function. B: 20 weeks is well within the therapeutic window for shunting. C: 30 weeks is well beyond the window for pulmonary benefit. D: 24 weeks is within the window for potential benefit.",
+    "topic": "Fetal Intervention"
+  },
+  {
+    "id": "ch04-Q49",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 49,
+    "stem": "A 20-week male fetus with posterior urethral valves and developing oligohydramnios is being evaluated for possible vesicoamniotic shunting. Fetal urine sampling is performed to assess renal function. Which of the following findings would predict poor renal function?",
+    "options": [
+      { "id": "a", "text": "Sodium <100 mEq/L" },
+      { "id": "b", "text": "Osmolality <210 mOsm/L" },
+      { "id": "c", "text": "Calcium <4 mEq/L" },
+      { "id": "d", "text": "Beta-2-microglobulin >10 mg/L" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: High urinary beta-2-microglobulin (>10 mg/L) predicts poor renal function. The combination of unfavorable electrolyte markers and echogenic kidneys with cortical cysts is a contraindication to shunting. A: Sodium <100 mEq/L predicts good function; it is elevated sodium that predicts poor function. B: Osmolality <210 mOsm/L predicts good function. C: Calcium <4 mEq/L predicts good function; elevated calcium predicts poor function.",
+    "topic": "Fetal Intervention"
+  },
+  {
+    "id": "ch04-Q50",
+    "chapter": "Prenatal Diagnosis",
+    "chapterSlug": "ch04_prenatal-diagnosis",
+    "chapterNumber": 4,
+    "questionNumber": 50,
+    "stem": "A neonate with prenatally detected bilateral SFU Grade IV hydronephrosis due to posterior urethral valves has undergone valve ablation. The parents ask about the future. Based on the principles of prenatal counseling for severe anomalies, what should the discussion include?",
+    "options": [
+      { "id": "a", "text": "Reassurance that the condition will resolve without further intervention" },
+      { "id": "b", "text": "Advice that no follow-up is needed after valve ablation" },
+      { "id": "c", "text": "Discussion of probable intermittent catheterization and risk of chronic kidney disease" },
+      { "id": "d", "text": "Recommendation for termination of pregnancy even after birth" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: For less favorable prognoses, counseling must include the probable requirement for intermittent catheterization for neurogenic bladder and the risk of chronic kidney disease requiring dialysis or transplant. A: PUV with severe hydronephrosis requires ongoing management and follow-up; it does not resolve spontaneously. B: Long-term urologic follow-up is essential after PUV ablation. D: Termination is a prenatal option and is not recommended after birth; the medical team should support whatever course the parents choose.",
+    "topic": "Prenatal Counseling"
+  }
+]

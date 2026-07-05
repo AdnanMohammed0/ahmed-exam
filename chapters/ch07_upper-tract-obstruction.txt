@@ -1,0 +1,947 @@
+                                                                                                   7
+Upper Tract Obstruction
+
+KIM A R HUTTON and DAVID F M THOMAS
+
+
+Topics covered
+
+Acute and chronic upper tract obstruction            Other imaging and diagnostic modalities
+Diagnosis                                            Pelviureteric junction obstruction
+Ultrasound                                           Vesicoureteric junction obstruction
+Isotope renography
+
+
+
+
+ INTRODUCTION                                        and ‘primary megaureter’ which are often used
+                                                     interchangeably. The use of other poorly defined
+                                                     terms such as ‘physiological hydronephrosis’ and
+Upper urinary tract obstruction is an extremely
+                                                     ‘transient hydronephrosis’ further add to the
+important condition in children because it endan-
+                                                     confusion.
+gers renal function, poses a risk of potentially
+                                                         It is important to recognise that ‘hydronephro-
+serious urosepsis and can cause distressing symp-
+                                                     sis’ is not a pathological entity in its own right but
+tomatology. A high proportion of cases of pos-
+                                                     simply a descriptive term denoting dilatation of
+sible upper tract obstruction are now identified
+                                                     the renal pelvis and calyces. Unfortunately, the
+prenatally following the discovery of fetal hydro-
+                                                     term hydronephrosis is often used synonymously
+nephrosis or hydroureteronephrosis on maternal
+                                                     with PUJ obstruction. When this is accompanied
+antenatal ultrasound scans. A substantial part of
+                                                     by dilatation of the ureter the term ‘hydroure-
+paediatric urological practice is now concerned
+                                                     teronephrosis’ is used.
+with distinguishing between those infants who
+                                                         There are essentially four potential causes of
+have significant obstruction demanding surgical
+                                                     upper tract dilatation:
+intervention and those who can be safely managed
+conservatively.                                      ●● Urinary tract obstruction
+   The management of upper tract obstruc-            ●● Vesicoureteric reflux (VUR)
+tion has been hindered by the indiscriminate         ●● Developmental anomalies of the upper uri-
+use of terms such as ‘idiopathic hydronephrosis’        nary tract
+and ‘pelviureteric junction (PUJ) obstruction’       ●● Pathologically high rates of urine production
+or ‘vesicoureteric junction (VUJ) obstruction’          (‘flow uropathy’)
+
+
+                                                                                                        83
+84 Upper Tract Obstruction
+
+
+
+In an attempt to achieve uniformity in the assess-     Acute Obstruction
+ment of upper tract dilatation and obstruction
+a new classification was proposed following a          The pathophysiology of acute obstruction has
+multidisciplinary consensus conference held in         been studied in experimental animal models.
+the United States in 2014.                             In the first few hours, a sharp rise in intrarenal
+   This classification (which is applicable to         pressure is accompanied by a marked reduc-
+pre- and post-natal assessment) uses the fol-          tion in blood flow in the renal cortex. Some
+lowing criteria to evaluate the severity and           equilibration occurs after 24 hours but without
+clinical significance of upper urinary tract           prompt relief of the obstruction, rapid damage to
+dilatation:                                            the nephrons supervenes, with loss of approxi-
+                                                       mately 50% of functioning nephrons after 6 days
+                                                       and irreversible loss of the entire function of the
+1. Anterior-posterior renal pelvic diameter;           obstructed kidney within 6 weeks. However,
+2. Calyceal dilatation;                                acute obstruction is relatively rare in children.
+3. Renal parenchymal thickness;                        Possible causes include: impaction of a urinary
+4. Renal parenchymal appearance;                       calculus at the PUJ, acute PUJ obstruction or
+5. Bladder abnormalities;                              VUJ obstruction or early postoperative obstruc-
+6. Ureteral abnormalities.                             tion following a pyeloplasty or ureteric reimplan-
+                                                       tation which has not been protected by stenting.
+The findings of preliminary studies appear to
+validate the predictive value of this classification
+                                                       Chronic Obstruction
+when applied to the clinical management of pre-
+natally detected hydronephrosis. However, fur-         This is encountered far more commonly in chil-
+ther studies are required to establish whether it      dren but the pathophysiology is less well under-
+offers any significant advantages over previously      stood because of the difficulty in creating reliable
+used scoring systems.                                  experimental models.
+                                                          Historically, it was far easier to justify a deci-
+                                                       sion to intervene surgically because the major-
+                                                       ity of children with upper tract obstruction
+                                                       presented clinically with symptoms such as pain
+ WHAT IS OBSTRUCTION AND
+                                                       or urinary infection. Following the widespread
+ HOW IS IT DIAGNOSED?                                  introduction of antenatal ultrasound it became
+                                                       apparent, however, that the presence of mild to
+There is no universally accepted definition of         moderate upper tract dilatation is more prevalent
+obstruction nor is there a single investigation        in healthy, asymptomatic infants than was previ-
+which is capable of providing an unequivocal           ously recognised. Indeed, some degree of dilata-
+diagnosis of obstruction in a dilated upper uri-       tion of the fetal urinary tract is present in 1-2%
+nary tract. One widely used definition states          of pregnancies. Even when obstruction has been
+that obstruction is any impairment to urine flow       demonstrated by the relevant investigations, the
+which, if left untreated will lead to progressive      natural history is often characterised by progres-
+deterioration of function. However, this is not a      sive improvement and spontaneous resolution.
+very useful definition in clinical practice because    The challenge is therefore to try to distinguish
+it implies that the clinician should wait for evi-     those infants in whom the dilatation/obstruction
+dence that the obstruction has caused renal dam-       is destined to remain stable or resolve without
+age before taking steps to prevent it. In clinical     affecting renal function from those with clinically
+practice, decision-making is therefore guided by       significant obstruction which is likely to lead to
+a combination of clinical factors and the evidence     loss of function unless intervention is undertaken
+of imaging studies.                                    to relieve it.
+                           Radiological investigation of upper tract obstruction / Isotope Renography 85
+
+
+
+ RADIOLOGICAL INVESTIGATION                            AP diameter greater than 50 mm is almost invari-
+ OF UPPER TRACT OBSTRUCTION                            ably associated with impaired function, either at
+                                                       the time of initial assessment or during the course
+                                                       of follow up.
+With the rare exception of acute obstruction               Additional parameters which may increase
+by an impacted calculus, upper tract obstruc-          the sensitivity of ultrasound for the diagnosis of
+tion always gives rise to dilatation. However, the     obstruction include calyceal dilatation (central
+presence of dilatation does not always signify         or peripheral), thickness and ultrasound appear-
+obstruction. Non-obstructive causes of dilata-         ances of the renal parenchymal thickness and
+tion include; VUR, developmental anomalies             abnormal appearances of the ureters or bladder.
+such as primary non-obstructive mega ure-              The use of Doppler ultrasound has been described
+ter and residual dilatation which may persist          for the measurement of renal resistive index and
+despite relief of obstruction in a previously          assessment of jets of urine emerging from the
+obstructed system. Pathologically high urine           ureteric orifices. However, this has not proved
+flow, for example in diabetes insipidus, is a rare     sufficiently sensitive to be of diagnostic value in a
+cause of dilatation.                                   routine clinical practice.
+                                                           The presence of ureteric dilatation is always an
+Ultrasound                                             abnormal ultrasound finding because a ureter of
+                                                       normal calibre cannot be visualised on ultrasound.
+The diagnostic pathway usually starts with the
+ultrasound finding of dilatation (Figure 7.1).
+   The most valuable measurement derived from
+an ultrasound scan is the anteroposterior (AP)         Isotope Renography
+diameter of the renal pelvis at the renal hilum.
+In the neonate, this figure should not normally        The central role played by isotope renography
+exceed 6 mm. However a diameter of 10 mm               in the diagnosis of upper tract obstruction is
+is usually taken as the upper limit of normal.         considered in detail in Chapter 3. In summary,
+Significant obstruction posing an active threat to     dimercaptoacetyltriglycine (MAG3) labelled with
+renal function is most unlikely to be present if the   metastable 99-Technetium (99mTc) is currently the
+AP diameter is less than 15 mm. Conversely, an         radiopharmaceutical agent of choice.
+                                                           In addition to quantifying differential func-
+                                                       tion, dynamic renography provides serial gamma
+                                                       camera images of the kidneys and urinary tract
+                                                       and generates a graphic display of the uptake and
+                                                       clearance of the isotope from the kidneys over
+                                                       time. The use of dimercaptosuccinic acid (99mTc
+                                                       DMSA) is largely confined to assessing low levels
+                                                       of differential function when deciding between
+                                                       pyeloplasty and nephrectomy.
+                                                           Diuresis renography provides a means of
+                                                       distinguishing between obstructed and non-
+                                                       obstructed dilatation.
+                                                           The characteristics of the uptake and drainage
+                                                       curves, often referred to as the O’Reilly curves,
+                                                       fall into five well-recognised patterns (Figure 7.2):
+Figure 7.1 Postnatal ultrasound confirming
+antenatal ultrasound appearances of grossly            ●●   Type 1. Normal uptake with prompt washout
+hydronephrotic right kidney with marked dilatation     ●●   Type 2. Rising uptake curve; no response to
+of renal pelvis and calyces with thinned cortex.            diuretic (obstruction)
+86 Upper Tract Obstruction
+
+
+
+                                                      Type 1 and type 3a curves are normal and non-
+                                                      obstructed. However, interpreting the clinical
+                                                      significance of type 2, type 3b and type 4 curves
+                                                      in children can often be more problematic.
+
+
+                                                      Magnetic Resonance Imaging
+                                                      Dynamic contrast-enhanced magnetic resonance
+                                                      imaging (MRI) can combine the anatomical
+                                                      information yielded by ultrasound with much
+                                                      of the functional information provided by renal
+                                                      scintigraphy. It has the advantage of provid-
+                                                      ing anatomical and functional information in a
+                                                      single study without exposure to ionising radia-
+                                                      tion. The main drawback is the requirement for
+                                                      general anaesthesia or sedation in infants and
+                                                      younger children – although a ‘feed and wrap’
+                                                      technique can be used in small infants.
+                                                         The anatomical detail provided by dynamic
+                                                      contrast-enhanced MRI is excellent (Figure 7.3).
+                                                      In many centres dynamic contrast-enhanced
+                                                      MRI is replacing ultrasound and isotope as a ‘one
+
+
+
+
+Figure 7.2 Patterns of isotope renogram curves,
+as classified by O’Reilly and associates.
+
+●● Type 3a. Initially rising curve, which falls
+   rapidly in response to diuretic (non-obstruc-
+   tive dilatation)
+●● Type 3b. Initially rising curve, which neither
+
+   falls promptly nor continues to rise (equivocal)
+●● Type 4. There is a secondary peak suggesting
+
+   obstruction precipitated by high urinary flow
+   rates – the so-called Homsy’s sign. Similar
+   findings can be observed in patients with high     Figure 7.3 Contrast-enhanced MR scan demon-
+   grade VUR and no obstruction                       strating bilateral obstruction.
+   Radiological investigation of upper tract obstruction / Integrated Approach to Diagnostic Imaging 87
+
+
+
+                                                         the United Kingdom but may still play a limited
+                                                         role – for example in identifying rare cases with
+                                                         obstruction at more than one level in the ureter.
+
+
+                                                         Antegrade Pyelography
+                                                         This contrast study, which is performed via
+                                                         ultrasound guided puncture of the kidney
+                                                         can be valuable for demonstrating obstruc-
+                                                         tion distal to the PUJ and in cases of suspected
+                                                         recurrent PUJ obstruction following previous
+Figure 7.4 CT scan showing a horseshoe kidney            pyeloplasty.
+with bilateral hydronephrosis due to bilateral
+PUJ obstruction. The isthmus can be seen
+crossing the abdominal aorta.                            Integrated Approach
+                                                         to Diagnostic Imaging
+stop shop’ imaging modality for the assessment
+of upper tract obstruction in children.                  The aims of imaging are as follows:
+
+                                                         ●● To determine whether the dilatation is genu-
+Computerised Tomography                                     inely due to obstruction.
+                                                         ●● To establish the precise level of obstruction
+Although not suitable for the routine assess-            ●● To measure differential renal function
+ment of upper tract obstruction in children, non-        ●● To assess the potential for recovery in poorly
+contrast and contrast-enhanced computerised                 functioning kidneys
+tomography (CT) may be indicated in children             ●● To manage complications arising from infec-
+presenting with obstruction due to calculi. CT              tion in an obstructed system
+may also be helpful delineating complex anatomy
+and aberrant renal vasculature – for example,            Isotope renography is the principal investiga-
+horseshoe kidney (Figure 7.4). However, MRI has          tion used to confirm or refute the diagnosis of
+largely superseded CT in such cases.                     obstruction but other imaging modalities may
+                                                         be needed to exclude reflux and non-obstructive
+                                                         dilatation. Renal ultrasound will usually provide
+Intravenous Urography                                    adequate information on the level of obstruction.
+Intravenous urography (IVU), once the standard           When this is unclear MRI is the investigation of
+investigation for suspected upper tract obstruc-         choice, supplemented by antegrade or retrograde
+tion, is now rarely used in children because the         pyelography in difficult cases.
+relevant functional and anatomical information              Differential renal function can usually be reli-
+can provided more accurately by other imaging            ably assessed by MAG3 renography or dynamic
+modalities.                                              contrast-enhanced MRI. However, in poorly
+                                                         functioning kidneys 99mTc DMSA isotope scin-
+                                                         tigraphy provides more accurate information and
+Retrograde Pyelography                                   serves as a more reliable predictor of potential
+                                                         recovery of function. When percutaneous neph-
+This investigation entails cystoscopic catheterisa-      rostomy (PCN) has been performed to drain an
+tion of the ipsilateral ureteric orifice and injection   infected/obstructed kidney, measurement of dif-
+of X ray contrast to outline the upper urinary           ferential function (usually with 99mTc DMSA)
+tract from below. It is not routinely performed          should ideally be delayed until after 3–4 weeks of
+prior to pyeloplasty by paediatric urologists in         drainage.
+88 Upper Tract Obstruction
+
+
+
+ PELVIURETERIC JUNCTION                              Aetiology of PUJ Obstruction
+ OBSTRUCTION
+                                                     Although the findings on diagnostic imaging,
+                                                     notably MRI, often provide a guide to the likely
+PUJ obstruction is characterised by impairment       aetiology it is not usually until the time of opera-
+of urine transport across the pelviureteric junc-    tion that this can be established with certainty.
+tion leading to elevated renal pelvic pressures,         The causes of PUJ obstruction can be classified
+dilatation of the proximal collecting system         as follows:
+and the potential for nephron loss. It is a het-
+erogeneous condition with a number of different
+causes and considerable variability in severity,     Intrinsic obstruction (Figure 7.5a)
+clinical features, presentation and natural his-     Typically, this comprises a short stenotic seg-
+tory. Estimates derived from antenatal screen-       ment at the PUJ. However, in some cases, this
+ing place the incidence of PUJ obstruction in the    may extend distally to involve a more extensive
+range 1:750–1:1000. However, PUJ obstruction         segment of proximal ureter. Although physical
+can also occur de novo as an acquired condition      obstruction appears to play the most important
+in older children.                                   role in children, functional obstruction due to an
+   The male to female ratio is approximately equal   ‘adynamic segment’ is very occasionally impli-
+and the left kidney is more commonly affected        cated as the likely cause. A number of histological
+than the right, by a ratio of approximately 2:1.     abnormalities of smooth muscle and collagen have
+   PUJ obstruction is associated with an             been reported and innervation abnormalities with
+increased incidence of other urinary tract anom-     reduced neural density and abnormalities of the
+alies such as:                                       interstitial cells of Cajal have also been described.
+
+●● Multicystic dysplastic kidney (MCDK)              Extrinsic obstruction
+●● Horseshoe kidney
+●● Ectopic kidney                                    Aberrant ‘crossing’ lower pole vessels are found
+●● Duplex collecting systems (usually the lower      in more than 30% of older children and adults
+   moiety is affected)                               undergoing pyeloplasty.
+
+
+
+
+Figure 7.5 Aetiology of PUJ obstruction. (a) Intrinsic stenosis. Obstruction due to narrowing of
+a segment of ureter which is usually localised to the region of the pelviureteric junction but may
+extend over a length of several centimetres. (b) Ureteric folds. Tortuous segment of proximal
+ureter giving rise to varying degrees of obstruction. Straightening of this segment with growth may
+explain the spontaneous resolution of obstruction observed in a proportion of prenatally detected
+cases. (c) Extrinsic obstruction by crossing lower pole vessels.
+                                       Pelviureteric junction obstruction / Variants of PUJ Obstruction 89
+
+
+
+   In some cases, the presence of these vessels
+appears to be simply incidental to an intrinsic PUJ
+obstruction. However, in many cases, particularly
+older children presenting with intermittent loin
+pain, it is clear from the operative findings that
+the aberrant vessels are directly responsible for
+external compression and obstruction at the level
+of the pelviureteric junction. In suitably selected
+cases laparoscopic transposition of the lower pole
+vessels can successfully relieve the obstruction
+without the requirement for any surgical proce-
+dure on the pelviureteric junction itself.
+   In infants with prenatally detected PUJ
+obstruction, however, lower pole vessels account
+for less than 5% of cases requiring pyeloplasty.
+   In some cases the PUJ itself is normal in
+calibre but the proximal ureter is tortuous and
+obstructed by the presence of kinks and folds
+(Figure 7.5b). Overlying bands and adhesions may
+also be present. This variant of PUJ obstruction
+may have the potential to resolve spontaneously
+as the proximal ureter straightens with growth.
+
+Intraluminal obstruction
+A urinary tract stone which originated within the       Figure 7.6 PUJ fibroepithelial polyps. Operative
+kidney may become impacted at the PUJ to cause          findings at open surgery in an 11-year-old boy
+acute or acute -on- chronic obstruction. Other          presenting with loin pain. Preoperative imaging
+causes include: fibroepithelial polyps arising from     with ultrasound and isotope renography had
+the renal pelvis (Figure 7.6), and mycelial balls       shown hydronephrosis with obstruction at the
+resulting from fungal urinary tract infection –         PUJ. The intraluminal polyps, which resembled
+typically with Candida albicans (Figure 7.7).           ‘a bunch of grapes’, were an unexpected find-
+                                                        ing on opening the ‘bulky’ upper ureter/PUJ
+                                                        region. Resection of all polyps together with
+High insertion of the pelviureteric                     an Anderson-Hynes dismembered pyeloplasty
+junction                                                successfully relieved his symptoms and the
+                                                        obstruction. (Reprinted from paediatrics and
+In cases where the PUJ is found to be high on           child health, volume 18, edition 6, Kim A R
+the anterior wall of the dilated renal pelvis this is   Hutton and Ram Shrestha, surgical management
+generally regarded as being a secondary phenom-         of renal tract problems, page 260, Copyright
+enon (upwards displacement of the PUJ due to            2008, with permission from Elsevier.)
+progressive dilatation of the pelvis) – rather than
+the primary cause of obstruction.
+                                                        The commonest complication is obstruction –
+Variants of PUJ Obstruction                             which may be caused by the deviated course of
+                                                        the proximal ureter over the renal isthmus or,
+Horseshoe kidney                                        more commonly, by extrinsic compression by
+                                                        aberrant vasculature. On rare occasions a con-
+The majority of horseshoe kidneys remain asymp-         stellation of renal pathology can be encountered
+tomatic and do not cause urological problems.           in the same patient – such as a horseshoe kidney,
+90 Upper Tract Obstruction
+
+
+
+                                                renal duplication, and lower pole PUJ obstruction
+                                                (Figure 7.8).
+
+                                                Retrocaval ureter
+                                                This rare anomaly, which more commonly
+                                                affects the right ureter, originates from abnor-
+                                                mal development of the posterior cardinal veins,
+                                                the precursors of the inferior vena cava. Further
+                                                investigation by MRI is indicated if this diagnosis
+                                                is suggested by the ultrasound findings. A laparo-
+                                                scopic or robotic-assisted approach to treatment
+                                                is preferable to open surgery.
+
+                                                Reflux in association with PUJ
+                                                obstruction
+                                                Severe tortuosity and kinking of the proximal
+                                                ureter associated with high grade VUR (e.g.
+                                                grades IV and V) can sometimes give rise to fixed
+                                                obstruction to the drainage of urine from the kid-
+                                                ney. The diagnosis is confirmed by performing
+                                                MAG3 renography with a catheter in the bladder
+                                                to ensure that isotope does not reflux back to the
+                                                kidney to interfere with interpretation of the find-
+                                                ings. Antegrade pyelography may also be diagnos-
+                                                tic. Depending on clinical factors the management
+                                                options include conservative management, pyelo-
+                                                plasty (possibly combined with ureteric reimplan-
+Figure 7.7 Renal fungal balls causing PUJ       tation), and ureteric reimplantation alone. It has
+obstruction. A neonate born prematurely         been argued that pyeloplasty and ureteric reim-
+at 27 weeks gestation suddenly became
+                                                plantation should not be performed simultane-
+completely anuric during the course of his
+intensive care treatment. A renal ultrasound
+                                                ously for fear of compromising the blood supply
+showed marked bilateral hydronephrosis and      to the ureter. However, this appears to be a largely
+echogenic material obstructing both PUJs.       theoretical risk and in practice the two procedures
+The patient required bilateral PCN inser-       can be safely combined if necessary.
+tion. In this right nephrostogram study a           Although primary ureteric reimplantation can
+fungal ball can be seen obstructing the PUJ.    be expected to correct the reflux it often fails to
+The fungal balls and candida infection were     alleviate the secondary obstruction – thus neces-
+successfully treated with the patient making    sitating a subsequent pyeloplasty.
+a full recovery. (Reprinted from Paediatric
+Surgery International, Volume 20, Edition 10,
+R. Babu and K A R Hutton, Renal fungal balls    Natural History of PUJ Obstruction
+and pelvi-ureteric junction obstruction in a
+very low birth weight infant: treatment with    This is very variable, ranging from complete reso-
+streptokinase, page 805, Copyright 2004, with   lution to rapidly increasing obstruction causing
+permission from Springer Nature.)               deterioration in renal function. In a substantial
+                                                proportion of cases the obstruction, whilst persist-
+                                                ing, nevertheless remains stable for many years,
+                                                with little or no impact on renal function. The later
+                                                                                         Presentation 91
+
+
+
+
+Figure 7.8 Bilateral renal duplication within a horseshoe kidney with left lower pole PUJ obstruction.
+This 5-year-old girl was referred with increasing left loin pain following conservative management of
+a prenatally detected uropathy. (a) Contrast CT image showing both upper poles. (b) Image show-
+ing the functioning right lower pole, ‘chunky’ isthmus and grossly hydronephrotic, non-functioning
+left lower pole. A left lower pole heminephrectomy with division of isthmus tissue overlying the
+aorta resulted in complete relief of her symptoms.
+
+
+
+onset of PUJ obstruction in a previously normal        moderate degrees of PUJ obstruction may not
+kidney may be associated with aberrant lower pole      be present or may not yet have given rise to
+vessels rather than intrinsic stenosis (Figure 7.9).   detectable dilatation at the time when routine
+                                                       fetal anomaly scans are performed in the second
+                                                       trimester. Such cases either remain undetected
+                                                       or are only detected if additional scans are per-
+ PRESENTATION                                          formed later in pregnancy. The severity of dilata-
+                                                       tion (AP diameter of the renal pelvis) is a more
+Prenatal detection: PUJ obstruction is the             accurate predictor of functional impairment
+most common clinically significant uropathy            than the gestational age at which dilatation was
+detected during pregnancy. However, mild to            first detected.
+92 Upper Tract Obstruction
+
+
+
+
+Figure 7.9 Unpredictable natural history of PUJ obstruction. (a) An ultrasound at 1 month of
+age. Appearances suggestive of PUJ obstruction, good renal cortex, AP diameter of renal pel-
+vis (not shown) 18 mm. Conservative management was adopted. (b) Follow-up MAG study at
+36 months showing type 3b O’Reilly curve (equivocal). Conservative management was maintained.
+(c) Ultrasound at 4 years of age. Complete resolution of dilatation, normal appearances of kidney. The
+child was discharged from further follow-up. (d) At 9 years of age he represented acutely with pain
+and infection. This ultrasound scan demonstrates severe dilatation due to recurrent PUJ obstruction.
+Pyeloplasty was curative.
+
+
+   Urinary tract infection used to be the                Pain is typically encountered as a present-
+commonest mode of presentation in infants             ing feature of PUJ obstruction due to aberrant
+and young children before the advent of pre-          crossing vessels in older children. Although
+natal ultrasound. In severe cases, infection          usually sited in the region of the loin, the pain
+within the obstructed system may progress to          may be more generalised within the abdomen,
+pyonephrosis – a serious condition character-         giving rise to possible diagnostic difficulties.
+ised by high fever, systemic ill health, and ultra-   Unlike non-specific abdominal pain, however,
+sound findings of debris within the collecting        pain arising in the obstructed kidney usually
+system.                                               persists for many hours or several days.
+                                           Presentation / Conservative versus Surgical Management 93
+
+
+
+   Haematuria may occur spontaneously,               was 20–29 mm the pyeloplasty rate was 40% and
+but is more commonly associated with minor           when the AP diameter was 30–39 mm the pyelo-
+trauma – to which obstructed kidneys are more        plasty rate was 90%. Pyeloplasty (for reduced
+susceptible. A grossly dilated kidney can some-      function or symptoms) was required in every
+times present as an abdominal mass mimicking         child (100%) in those in whom the AP diameter
+a Wilm’s tumour. The distinction can be readily      exceeded 40 mm. Broadly comparable results for
+made with ultrasound, CT or MR imaging.              conservative management have been reported
+   Occasionally, a dilated kidney comes to light     in other studies employing the system devised
+as an incidental finding – for example, on an        by the Society for Fetal Urology for grading the
+abdominal ultrasound performed for presumed          severity of prenatally detected hydronephrosis.
+non-specific abdominal pain, a CT scan per-             Fifteen to twenty percent of infants have
+formed for abdominal trauma or MR imaging            bilateral dilatation. In these circumstances less
+for a spinal condition such as scoliosis.            reliance can be attached to the renographic
+                                                     assessment of differential function and greater
+                                                     weight must be attached to the severity of dilata-
+Investigation
+                                                     tion. In practice it is rare to encounter bilateral
+The diagnostic pathway has already been con-         obstruction of equal severity, and if surgery is
+sidered above. Typically, the sequence comprises     indicated it is usually reasonable to operate on
+ultrasound followed by 99mTc MAG3 dynamic            the more severely dilated kidney and monitor the
+renography. However, MRI is being increasingly       contralateral kidney. Only rarely is it necessary
+used a the principal imaging modality. Other         to operate on both kidneys simultaneously or in
+imaging modalities are only required in compli-      quick succession.
+cated cases: for example, to investigate secondary
+PUJ obstruction in the presence of gross reflux.     Conservative versus Surgical
+DMSA scintigraphy is used to assess differential     Management
+function in poorly functioning obstructed kid-
+neys to guide the decision on whether to perform     The published outcome data have been derived
+pyeloplasty or nephrectomy.                          almost entirely from observational studies and
+                                                     there have been very few randomised controlled
+                                                     trials of operative versus conservative manage-
+Management                                           ment. The authors of a Cochrane review con-
+                                                     cluded (from the very limited trial data) that the
+Prenatally detected PUJ obstruction
+                                                     majority of newborns and infants under 2-years
+The majority of infants are asymptomatic and         of age who are managed conservatively do not
+would have remained undiagnosed (at least in         experience significant deterioration in differ-
+infancy) if it had not been for the information      ential function, with only 20% coming to early
+yielded by the antenatal ultrasound scan.            pyeloplasty.
+   The indications for pyeloplasty in chil-
+dren with prenatally detected PUJ obstruction        Incidentally detected PUJ
+remain controversial, although there is a broad      obstruction
+consensus in favour of conservative manage-
+ment if differential function in the affected kid-   Conservative management can be adopted ini-
+ney is normal (defined as greater than 40%). The     tially if the PUJ obstruction has been identified as
+findings of early follow up studies reported from    an asymptomatic incidental finding and differen-
+Great Ormond Street Hospital, UK indicated           tial function is 40% or higher. Ultrasound follow
+that when the initial AP diameter of the renal       up should be maintained until such time as the
+pelvis was less than 20 mm, 11% of patients even-    dilatation shows signs of resolving. Worsening
+tually required a pyeloplasty for deterioration in   hydronephrosis or the onset of symptoms are
+function or symptoms. When the AP diameter           indications to proceed to surgery.
+94 Upper Tract Obstruction
+
+
+
+Infection (pyonephrosis)                               ●● Asymptomatic obstruction and initial AP
+                                                          diameter of the renal pelvis equal to or greater
+Patients presenting with acute urosepsis are often        than 30 mm
+very unwell with a high fever, tachycardia, a ten-     ●● Failure of conservative management, i.e. dete-
+der loin mass, and possible signs of haemody-             riorating function or increasing dilatation
+namic instability. Initial management comprises
+resuscitation, urine culture, and intravenous          Surgical Procedures
+antibiotics. Investigation comprises tests of renal
+function and septic markers and urgent ultra-          Although, the Anderson-Hynes dismembered
+sound imaging of the urinary tract. The presence       pyeloplasty remains the most widely performed
+of debris in the collecting system is an indication    procedure for the correction of PUJ obstruction
+to proceed to surgical intervention to decompress      other options have also been described. These
+the obstructed kidney and drain the infected           include balloon dilatation, endopyelotomy, and
+material. Ultrasound guided percutaneous neph-         the vascular hitch procedure (in cases due to
+rostomy is the preferred way of achieving this in      aberrant lower pole vessels). Primary ureterocali-
+children because it provides more rapid and effec-     costomy can yield good results in selected cases.
+tive drainage and is technically more straightfor-
+ward than cystoscopic JJ stenting.                     Anderson-Hynes dismembered
+   Once the condition has been stabilised, imag-       pyeloplasty
+ing is performed to confirm the diagnosis of
+obstruction (e.g. by antegrade pyelography via the     Regardless of whether this is performed by an
+nephrostomy catheter) and to assess differential       open or laparoscopic approach, the fundamentals
+function (e.g. by 99mTc DMSA scintigraphy). This       of the technique are the same (Figure 7.10).
+information then permits a decision on whether
+to advise pyeloplasty or nephrectomy.
+
+
+Symptoms (pain)
+Children who present with classical episodic
+loin pain are almost invariably cured by surgi-
+cal intervention. In the majority of cases, the
+obstruction is due to aberrant crossing vessels
+and the standard approach is to perform a pyelo-
+plasty in which these vessels are transposed pos-
+teriorly to lie behind the anastomosis. However,
+an alternative approach (laparoscopic vascular
+hitch procedure) is being increasingly adopted.
+The PUJ is preserved intact and after the obstruct-
+ing lower pole vessels have been mobilised from
+the PUJ they are anchored at a higher position on
+the anterior wall of the renal pelvis. The technical
+aspects are described in Chapter 23.
+   In summary, the indications for pyeloplasty are:
+
+●● Symptomatic PUJ obstruction, e.g. pain,
+   infection, palpable renal mass
+●● Asymptomatic obstruction with reduced
+
+   function (generally interpreted less than 40%)      Figure 7.10 Anderson-Hynes dismembered
+   at the time of initial evaluation                   pyeloplasty. The procedure of choice in children.
+                                                               Presentation / Other Surgical Procedures 95
+
+
+
+    Gentle tissue handling, minimal mobilisa-            The posterior lumbotomy approach provides
+tion of the ureter, protection of the ureteric blood     more direct access to the kidney and is well toler-
+supply and creation of a widely patent, tension-         ated postoperatively. However, the more limited
+free, watertight anastomosis all contribute to a         access offered by this incision can create difficul-
+successful outcome. Following excision of the            ties if the surgeon is forced to deal with unex-
+PUJ, the proximal ureter is incised for a short          pected anatomical findings or intraoperative
+length – ‘spatulated’. Depending on surgical pref-       problems.
+erence some of the redundant renal pelvis can be            The minimally invasive open technique is a
+excised (reduction pyeloplasty) – although there         modification of the open approach which utilises
+is little evidence that this promotes more effective     a smaller skin incision. In infants under 1 year
+drainage postoperatively. Most paediatric urolo-         of age an incision of 1–1.5 cm in length may be
+gists use interrupted sutures to begin the anas-         adequate. The incision is then deepened through
+tomosis between the spatulated ureter and renal          underlying fascia and by manoeuvring the over-
+pelvis. To minimise the risk of stenosis it is advis-    lying skin incision the kidney can be exposed.
+able to perform the anastomosis over a tube even         If necessary, two narrow blade retractors can
+if it is not intended to drain the kidney with an        be used separate the edges of the skin incision.
+indwelling tube postoperatively.                         Decompression of the renal pelvis by needle aspi-
+    Although many different methods of postop-           ration allows the PUJ to be delivered out of the
+erative drainage have been described, published          incision to enable the surgeon to perform the
+studies have mostly failed to demonstrate any            anastomosis. When used selectively this tech-
+statistically significant advantage of one over          nique can offer a high success rate with a very
+another.                                                 short (<24 hours) hospital stay.
+    Currently, the most widely used forms of
+postoperative drainage are either an indwell-            Laparoscopic and robotic-assisted
+ing JJ stent (with the drawback that this needs          laparoscopic pyeloplasty
+removing cystoscopically under a further general
+anaesthetic some 4–6 weeks postpyeloplasty) or           The technical aspects of minimally invasive pro-
+an externalised pyeloureteral stent (‘nephro-            cedures and their relative advantages and draw-
+stent’). This is, in effect, a JJ stent with an exten-   backs are considered in detail in Chapter 23.
+sion which crosses the renal pelvis, exits through       In a recent survey, 50% of paediatric urologists
+the parenchyma or renal pelvis and emerges from          stated their preference for a minimally invasive
+the skin. Such stents can be easily removed with-        approach in children aged 2 years and upwards.
+out the need for a second anaesthetic, usually 1–2          Robotic-assisted laparoscopically pyeloplasty
+weeks post-pyeloplasty. Some paediatric urolo-           (RALP) offers a number of advantages over conven-
+gists prefer to avoid any form of transanasto-           tional laparoscopic pyeloplasty (LP) and has shorter
+motic stent, but rely instead on simple extrarenal       learning curve. However, costs are higher for RALP.
+drainage.
+                                                         Other Surgical Procedures
+Open pyeloplasty
+                                                         Laparoscopic transposition of
+Despite the increasing number of pyeloplasties           crossing lower pole vessels
+being performed by a laparoscopic or robotic-
+assisted laparoscopic technique there is still a         The technical aspects of the vascular hitch proce-
+very definite place for open surgery, particularly       dure are described in Chapter 23.
+in the first few months of life. Depending on the
+age of the child and the surgeon’s preference,           Endourological interventions
+open pyeloplasty can be performed via either an
+anterior, subcostal, extraperitoneal muscle split-       The use of balloon dilatation and endopyelotomy
+ting incision, or a muscle cutting loin incision.        have both been reported children but the results
+96 Upper Tract Obstruction
+
+
+
+are inferior to pyeloplasty. Nevertheless, there       joins the ureter descending from the upper pole.
+may be a very occasional role for antegrade or ret-    The anastomosis is performed using a modi-
+rograde endopyelotomy in cases of failed pyelo-        fied ‘fish mouth’ technique to minimise the risk
+plasty in older children due to a short (<10 mm)       of obstruction to drainage from the upper pole.
+stricture at the PUJ.                                  When the obstruction is caused by aberrant cross-
+                                                       ing vessels the surgical technique is determined
+Ureterocalicostomy (Figure 7.11)                       by the individual operative findings.
+
+In this procedure, the ureter is detached from the     Nephrectomy
+renal pelvis and anastomosed directly to the most
+dependent lower pole calyx. Ureterocalicostomy is      When deciding whether to advise pyeloplasty or
+only appropriate in cases with severe caliceal dila-   nephrectomy, most paediatric urologists apply an
+tation and cortical thinning. Although rarely indi-    arbitrary ‘cut off’ value for differential function in
+cated as a primary procedure, ureterocalicostomy       the range of 10–15%. 99mTc DMSA scintigraphy is
+may provide more effective drainage than pyelo-        the most reliable method for obtaining an accu-
+plasty in cases of recurrent PUJ obstruction or PUJ    rate measure of differential function in these cir-
+obstruction occurring in a horseshoe kidney.           cumstances. To assess the potential for recovery
+                                                       of function a period of temporary percutaneous
+Pyeloplasty in duplex kidney                           nephrostomy drainage or JJ stent insertion may
+                                                       be helpful in borderline cases.
+PUJ obstruction in a duplex kidney almost invari-
+ably affects the lower pole. It is usually caused by
+stenosis at the point where the lower pole pelvis      Complications of Dismembered
+                                                       Pyeloplasty
+                                                       ●● Wound infection
+                                                       ●● Urinary infection
+                                                       ●● Haematoma
+
+                                                       ●● Stent related problems
+
+                                                       ●● Urine leak
+
+                                                       ●● Urinoma formation
+
+                                                       ●● Recurrent obstruction
+
+
+
+                                                       The majority of paediatric urologists in the
+                                                       United Kingdom employ some form of intrare-
+                                                       nal postoperative drainage in the belief that it
+                                                       reduces the risk of complications. Nevertheless,
+                                                       early postoperative complications of some type
+                                                       occur in 5%‑10% of cases.
+
+
+                                                       Follow-Up and Surgical Outcomes
+                                                       Postoperative follow up relies mainly on ultra-
+                                                       sound. If this clearly demonstrates that the dila-
+                                                       tation is resolving (or reduced in severity) it can
+Figure 7.11 Ureterocalicostomy. The ureter             be reasonably assumed that the operation has
+is disconnected from the renal pelvis and the          successfully relieved the PUJ obstruction and
+pelviureteric junction closed. The ureter is then      it is not necessary to confirm this with a 99mTc
+anastomosed directly to the lower pole calyx.          MAG3 renogram. However, this investigation is
+                                          Vesicoureteric junction obstruction / Clinical Presentation 97
+
+
+
+advisable if ultrasound demonstrates persisting        but it is thought that many represent the
+dilatation with no discernable reduction in its        legacy of ‘burnt-out’ VUJ obstruction, in
+severity. Nevertheless, it may be a considerable       which the original obstruction has resolved,
+time before renogram drainage curves revert to         leaving residual dilatation.
+normal in kidneys which were grossly dilated        ●● Refluxing megaureter: Occasionally obstruc-
+
+before pyeloplasty. Dismembered pyeloplasty is         tion and reflux co-exist simultaneously
+a good operation, with a long-term success rate        within the same ureter.
+of >95%. Most failed procedures are diagnosed
+within 3 years of surgery and redo pyeloplasty,
+open or minimally invasive, has a high success
+rate (80–100%).                                     Aetiology of Primary VUJ Obstruction
+                                                    This is characterised by a marked discrepancy
+                                                    between the diameter of the terminal segment
+ VESICOURETERIC JUNCTION                            of the distal ureter and the dilated, often tor-
+ OBSTRUCTION                                        tuous, length of ureter above it. Although a
+                                                    narrowed stenotic segment can be identified in
+                                                    some cases, in others the distal ureter is rela-
+Ureteric dilatation (megaureter) is classified as
+                                                    tively normal in calibre and only appears nar-
+follows:
+                                                    row by comparison with the dilated ureter.
+                                                    In such cases the obstruction is thought to be
+●● Obstructed megaureter: The obstruction
+                                                    functional in aetiology, with failure of normal
+   is usually intrinsic with either stenosis or
+                                                    coordinated urine transport across the distal
+   an adynamic segment of distal ureter at the
+                                                    ureter and vesico ureteric junction. Histological
+   VUJ (Figure 7.12). Secondary causes include:
+                                                    studies have demonstrated a range of abnormal-
+   tumour, scarring and fibrosis, neuropathic
+                                                    ities including a reduction in interstitial cells of
+   bladder, or bladder outflow obstruction.
+                                                    Cajal (thought to be important for normal ure-
+   Most cases are due to primary obstruction
+                                                    teric peristalsis), smooth muscle hypertrophy,
+   at the VUJ, and hence the synonym ‘VUJ
+                                                    and collagen deposition.
+   obstruction’.
+●● Non-refluxing, non-obstructed megaureter:
+
+   The aetiology of such cases is often unclear     Clinical Presentation
+                                                    Most cases of primary obstructed megaureter
+                                                    are now detected prenatally. Data derived from
+                                                    routine prenatal ultrasound screening point
+                                                    to an incidence of 1:1500–1:2000. Megaureter
+                                                    occurs more frequently in males, the left side
+                                                    is more commonly affected than the right and
+                                                    25% of cases have bilateral involvement. Infants
+                                                    with prenatally detected primary megaureter are
+                                                    almost invariably asymptomatic. However, the
+                                                    condition is not always detected prenatally and
+                                                    some children still present clinically with symp-
+                                                    toms of urinary infection, loin pain, haematuria,
+Figure 7.12 Obstructed megaureter. The ureter
+                                                    failure to thrive, an abdominal mass, or associ-
+has been mobilised and divided at the level of      ated urolithiasis. VUJ obstruction can also pres-
+the bladder. Dilatation of the ureter proximal to   ent occasionally with intermittent loin pain, in a
+a short stenotic segment at the vesicoureteric      manner similar to intermittent PUJ obstruction
+junction.                                           (Figure 7.13).
+98 Upper Tract Obstruction
+
+
+
+
+                                                    Figure 7.13 (a) Intravenous urogram in a
+                                                    12-year-old girl with a long history of intermit-
+                                                    tent abdominal pain diagnosed as ‘abdominal
+                                                    migraine’. Ultrasound (not shown) and IVU
+                                                    performed between episodes of pain were con-
+                                                    sistent with non-obstructive dilatation. (b) MAG3
+                                                    renogram shows good preservation of function.
+                                                    The findings were interpreted as non-obstructive
+                                                    dilatation consistent with ‘burnt out’ obstructed
+                                                    megaureter. (c) However, an ultrasound scan
+                                                    performed acutely during an episode of pain
+                                                    demonstrated a dramatic increase in the severity
+                                                    of caliceal dilatation. Diagnosis: intermittent VUJ
+                                                    obstruction. Her symptoms resolved completely
+                                                    following surgery.
+
+
+
+
+Investigation
+                                                    may be difficult to interpret because clearance
+Ultrasound cannot distinguish between dilata-       of isotope from a capacious, grossly dilated
+tion due to obstruction and dilatation associated   upper tract is often delayed even in the absence
+with the higher grades of VUR. For this reason      of obstruction. Moreover, closer scrutiny of
+an MCUG is an essential investigation in the        the ‘hard copy’ images often demonstrates that
+assessment of children with megaureter.             although isotope has drained from the kidney
+    Once reflux has been excluded an isotope        (interpreted as non-obstruction) it has simply
+renogram is then required to quantify differen-     emptied into the capacious ureter rather than
+tial function and to assess drainage. However,      draining into the bladder. In clinical practice,
+it is important to be aware that drainage curves    the diagnosis of significant obstruction often
+                                              Vesicoureteric junction obstruction / Surgical Procedures 99
+
+
+
+has to rely on information on differential func-        reimplanting the ureter into the bladder. JJ stent-
+tion and ultrasound assessment of changes in            ing and endoscopic balloon dilatation have also
+the severity of dilatation- in addition to drain-       been reported as temporising (or even definitive)
+age curve data.                                         alternatives to reimplantation.
+                                                            Most paediatric urologists prefer to avoid
+                                                        reimplantation of megaureters in the first year of
+Management of Prenatally Detected                       life because of the disparity in size of the dilated
+Obstructed Megaureter                                   ureter and the small capacity bladder. Moreover,
+                                                        there is strong anecdotal evidence that this type
+The majority of infants with prenatally detected        of surgery in small infants carries some risk of
+VUJ obstruction are healthy and asymptomatic            later neurogenic bladder dysfunction due to dam-
+at birth. Early surgical intervention (because          age to pelvic innervation sustained during dissec-
+of reduced differential function) is required in        tion in the vicinity of the bladder. Despite these
+around 10% of cases and a further 10–20% of             reservations, however, some paediatric urologists
+children will eventually require surgery for the        have claimed good results and low complication
+indications outlined below. Conservative man-           rates following reimplantation of megaureters in
+agement has a long-term success rate of 70–80%.         the first year of life.
+   Indications for surgical intervention:
+
+●● Impaired differential function (<40%) on             Endourological interventions
+   initial assessment                                   The use of a JJ stents was initially described as
+●● Increasing dilatation and/or deterioration of
+                                                        a temporising manoeuvre but it has since been
+   differential function on follow up                   reported that a prolonged period (>6 months)
+●● Occurrence of symptoms (typically febrile
+                                                        of indwelling stent drainage may be curative in
+   urinary infection)                                   its own right. Success rates ranging from 26% to
+                                                        66% have been reported. However, stent inser-
+The severity of dilatation on initial assessment is     tion by a purely endoscopic technique may not
+a reasonable predictor of the likely success or fail-   be technically possible in a small infant and open
+ure of conservative management with a ureteric          cystotomy may be required. A complication rate
+diameter ≥14 mm indicating an increased risk of         of up to 70% has been reported, including; uri-
+surgery being required during the course of fol-        nary infection, stent migration, and deterioration
+low up.                                                 in function – leading in some cases to nephrec-
+   Urinary infection of mild to moderate sever-         tomy. Higher success rates of 70–100% have been
+ity is not an automatic indication for surgery if       claimed when JJ stenting is combined with high
+other parameters (differential function, ureteric       pressure balloon dilatation or use of uretero-
+diameter 1 cm or less) are favourable. A period         scopic endoureterotomy.
+of antibiotic prophylaxis and trial of conserva-
+tive treatment are appropriate in such cases, but
+surgery is indicated in the event of recurrent or       Temporary urinary tract diversion
+severe infection.
+                                                        Historically, severe forms of obstructed mega-
+   Stone formation associated with stasis in
+                                                        ureter in small infants were sometimes managed
+a dilated but non obstructed ureter has been
+                                                        by temporary cutaneous ureterostomy pending
+reported to occur as late complication of other-
+                                                        definitive surgery at a later age. A novel alterna-
+wise – successful conservative management.
+                                                        tive has recently been described, which consists
+                                                        of a temporary internal diversion in which the
+Surgical Procedures                                     dilated ureter is divided proximal to the obstruct-
+                                                        ing segment and an end to side anastomosis
+The definitive treatment of VUJ obstruction con-        is performed with the bladder – thus convert-
+sists of excising the distal ureteric segment and       ing the obstructed megaureter into a refluxing
+100 Upper Tract Obstruction
+
+
+
+megaureter. Definitive reconstruction is then
+performed at around 1 year of age.
+
+Excision of obstructing segment
+and ureteric reimplantation
+The standard open surgical technique consists of
+excision of the obstructing ureteric segment and
+intravesical reimplantation of the ureter into the
+bladder in a way that ensures good upper tract       Figure 7.15 Method of ureteric plication using
+drainage without introducing VUR. Where the          the Starr technique.
+dilatation is of mild to moderate severity this
+may be achievable with a conventional Cohen          and an extravesical antireflux procedure has been
+cross-trigonal tunnel technique. For more            reported to yield excellent results.
+severely dilated ureters, however, a Politano-
+Leadbetter reimplantation is usually indicated.
+This can be combined with reducing the diam-         Ureteric tailoring
+eter of the distal ureter using one of the tech-
+                                                     This may be required to achieve an antireflux
+niques described below. A psoas hitch procedure
+                                                     reimplantation in grossly dilated ureters. The
+is advisable to prevent kinking and obstruction
+                                                     available techniques include:
+at the entry point of the ureter into the bladder
+(Figure 7.14). More recently, a combination of       ●● Hendren excisional tapering
+excision of the obstructing segment, remodelling     ●● Kalicinski plication and folding
+                                                     ●● Starr ureteral imbrication (Figure 7.15)
+
+
+
+
+                                                     Laparoscopic and robotic surgery
+                                                     A number of different approaches are being
+                                                     developed for the minimally invasive manage-
+                                                     ment of obstructed megaureter – including tai-
+                                                     loring and different reimplantation techniques.
+                                                     Satisfactory early results have been reported in
+                                                     small series of patients but medium and long-
+                                                     term results are still awaited. As with other
+                                                     forms of innovative minimally invasive urologi-
+                                                     cal surgery in children, a high level of expertise
+                                                     is required.
+
+                                                     Surgical Complications
+                                                     These comprise:
+
+                                                     ●● Wound infection
+                                                     ●● Urinary infection
+                                                     ●● Haemorrhage
+Figure 7.14 The politano-leadbetter reimplanta-
+                                                     ●● Stent related problems
+tion procedure combined with psoas hitch, which
+is often better suited to megaureters than the       ●● Recurrent VUJ obstruction
+
+Cohen cross-trigonal reimplantation technique.       ●● VUR
+                            Vesicoureteric junction obstruction / Follow-Up and Surgical Outcomes 101
+
+
+
+Follow-Up and Surgical Outcomes
+                                                          reduced postoperative pain and a
+This typically consists of a postoperative ultra-         shorter hospital stay.
+sound scan 4–6 weeks after surgery (or JJ stent        ●● Primary obstructed megaureter can be
+
+removal) followed by an ultrasound and isotope            managed conservatively in the major-
+renogram at around 6–12 months. Excision of               ity of cases with surgery being limited
+the obstructing segment combined with ureteric            to specific indications. Controversy
+reimplantation usually results in reduction in            continues to surround some aspects of
+the severity of dilatation and good preservation          the surgical management in the first
+of differential function. Any postoperative VUR           year of life.
+tends to be low grade and can be managed con-
+servatively. The outcomes of surgical manage-
+ment of obstructed megaureter are generally very    FURTHER READING
+good with reported overall success rates in the
+                                                    Chacko JK, Koyle MA, Mingin GC, et al. The
+region of 90–95%.
+                                                       minimally invasive open pyeloplasty. J
+                                                       Pediatr Urol. 2006;2(4):368–372.
+   KEY POINTS                                       Dekirmendjian A, Braga LH. Primary non-
+                                                       refluxing megaureter: analysis of risk factors
+   ●● PUJ obstruction is a heterogeneous               for spontaneous resolution and surgical
+      condition with a number of different             intervention. Front Pediatr. 2019;7:126.
+      causes and a variable natural history.        Jude E, Deshpande A, Barker A, et al.
+   ●● Hydronephrosis due to PUJ obstruc-               Intravesical ureteric reimplantation for
+      tion accounts for 30–50% of clini-               primary obstructed megaureter in infants
+      cally significant prenatally detected            under 1 year of age. J Pediatr Urol.
+      uropathies. A renal pelvic AP diameter           2017;13(1):47.e1–47.e7.
+      exceeding 30 mm is associated with            Nguyen HT, Benson CB, Bromley B, et al.
+      a significant likelihood of functional           Multidisciplinary consensus on the classifica-
+      impairment. Conversely, an AP diam-              tion of prenatal and postnatal urinary tract
+      eter of less than 15 mm is most unlikely         dilation (UTD classification system). J Pediatr
+      to denote significant obstruction.               Urol. 2014;10(6):982–998.
+   ●● Magnetic resonance imaging can                Varda BK, Wang Y, Chung BI, et al. Has the
+      combine anatomical and functional                robot caught up? National trends in utiliza-
+      information in a single investigation            tion, perioperative outcomes, and cost for
+      and may in time become the investi-              open, laparoscopic, and robotic pediatric
+      gation of choice. Drawbacks are the              pyeloplasty in the United States from 2003
+      additional cost and requirement for              to 2015. J Pediatr Urol. 2018;14(4):336.
+      anaesthesia in younger children.                 e1–336.e8.
+   ●● Laparoscopic and robotic-assisted             Weitz M, Portz S, Laube GF, et al. Surgery
+      pyeloplasty are being increasingly               versus non-surgical management for
+      used for reconstruction particularly             unilateral ureteric-pelvic junction obstruc-
+      in children who are no longer infants.           tion in newborns and infants less than two
+      Advantages are improved cosmesis,                years of age. Cochrane Database Syst Rev.
+                                                       2016;7:CD010716.
+

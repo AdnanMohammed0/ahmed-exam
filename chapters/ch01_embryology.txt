@@ -1,0 +1,464 @@
+                                                                                               1
+Embryology
+
+DAVID F M THOMAS
+
+
+Topics covered
+
+Genetic basis of genitourinary malformations         Lower urinary tract
+Embryogenesis                                        Genital tracts
+Upper urinary tract
+
+
+
+
+ INTRODUCTION                                         GAMETOGENESIS, FERTILISATION
+                                                      AND THE GENETIC BASIS OF
+This chapter will concentrate predominantly           UROLOGICAL ABNORMALITIES
+on the clinical aspects of the embryological
+development of the genitourinary tract but           In males, the formation of gametes (spermato-
+will also refer to relevant advances in scientific   zoa) does not commence until puberty whereas
+methodology.                                         in females it commences during fetal life but does
+   Techniques such as polymerase chain reac-         not progress beyond prophase of the first meiotic
+tion (PCR), fluorescence in situ hybridisation       division. At this stage the primary oocytes enter
+(FISH) and studies using transgenic “knockout”       a dormant phase until the onset of puberty when
+mice have greatly advanced our understand-           a small number of primary oocytes resume the
+ing of the genes involved in regulating normal       long – arrested meiotic division. Under the influ-
+embryological development. In addition, inno-        ence of follicle-stimulating hormone and luteinis-
+vations in microscopy and three-dimensional          ing hormone, one or two secondary oocytes are
+(3D) reconstruction are shedding new light on        extruded from the ovaries at the time of ovula-
+structural development of the human embryo           tion. Penetration of the protective zona pellucida
+and fetus.                                           of the oocyte by a spermatozoon triggers a second
+                                                     meiotic division to create a “definitive oocyte”.
+
+
+
+
+                                                                                                     1
+2 Embryology
+
+
+
+                                                      termed monosomy. Absence of an entire auto-
+                                                      some (complete monosomy) invariably leads to
+                                                      spontaneous abortion of the embryo whereas
+                                                      some partial monosomic states are compatible
+                                                      with survival. By contrast to the abnormalities
+                                                      affecting autosomes, major structural abnor-
+                                                      malities of the sex chromosomes are not only
+                                                      consistent with survival but are relatively com-
+                                                      mon. Examples include Klinefelter syndrome
+                                                      (47XXY) and Turner syndrome. Approximately
+                                                      50% cases of Turner syndrome exist as complete
+                                                      monosomy (45X) whilst 30% of cases occur in
+Figure 1.1 Key stages between fertilisation and
+                                                      mosaic form 45X/46XX) and 20% result from
+implantation of the blastocyst at 5–6 days.
+                                                      a structural deletion of genetic material on one
+    As a result of the meiotic divisions dur-         of the X chromosomes. 45X/46XY mosaicism is
+ing gametogenesis, the nuclei of the definitive       known as mixed gonadal dysgenesis. Mosaicism
+oocyte and spermatozoon contain a single copy         is defined as the presence of two genetically dis-
+of each of the 22 autosomes and 1 sex chromo-         tinct cell lines derived from the same zygote.
+some. Fusion of the nuclear DNA of the two gam-       Abnormalities of the sex chromosomes often
+etes during fertilisation creates a zygote whose      occur in mosaic form.
+nucleus contains 46 chromosomes – with one                Genetic mutations occurring at the level of
+copy of each pair of autosomes and one of the two     individual genes can be studied using tech-
+sex chromosome derived from each parent. On           niques such as polymerase chain reaction (PCR)
+its journey along fallopian tube, the newly fertil-   and fluorescence in situ hybridisation (FISH).
+ised zygote undergoes a series of mitotic divisions   A number of inherited conditions affecting the
+(termed cleavage) to form a mass of cells termed      genitourinary tract can be ascribed to identifiable
+the blastocyst (Figure 1.1).                          mutations, e.g. autosomal recessive polycystic
+    Major chromosomal abnormalities can arise         kidney disease (ARPKD), autosomal dominant
+either during gametogenesis or fertilisation or       polycystic kidney disease (ADPKD), X-linked
+the early mitotic divisions of the zygote. Most       Kallmann’s syndrome and renal coloboma syn-
+chromosomal abnormalities of this severity            drome. However, attempts to identify specific
+lead to spontaneous abortion of the embryo but        mutations in common urological conditions with
+trisomy 21 (Down syndrome), trisomy 13 (Patau         a strong familial tendency such as vesico ureteric
+syndrome) and trisomy 18 (Edward syndrome)            reflux, upper tract duplication and hypospadias
+are compatible with survival. Of these, however,      have been unrewarding. The occurrence of these
+only trisomy 21 is compatible with longer term        disorders in members of the same family is more
+survival into adult life.                             likely to result from the interaction of multiple
+    Trisomies can occur as a result of non-           genes than the effect of a single gene mutation.
+disjunction (in which a pair of chromosomes           The possible role of environmental factors in
+fail to separate during gametogenesis) or trans-      modifying gene expression during embryological
+location (in which a chromosome, or piece of a        development of the genitourinary tract is poorly
+chromosome, becomes attached to another chro-         understood.
+mosome during meiotic division).
+    The corollary of non-disjunction and trans-
+location is the formation of a gamete which
+lacks one copy of that particular chromo-
+                                                       EMBRYOGENESIS
+some. This results in the formation of a zygote
+whose nucleus contains only a single (unpaired)       Human gestation spans a period of 38 weeks,
+copy of the particular chromosome. This is            from fertilisation to birth. The formation of
+                                                                                 Upper urinary tract﻿  3
+
+
+
+
+                                                     Figure 1.3 Precursors of the upper urinary tract,
+                                                     metanephros and ureteric bud.
+
+Figure 1.2 Embryonic disc at 16 days with
+inpouring of cells into the primitive streak to      serves no function in the human embryo. At
+create intraembryonic mesoderm.                      around the same time, condensations of mesen-
+                                                     chyme lying lateral to the mesonephros undergo
+organs and systems occurs mainly between the         canalisation to form the mesonephric ducts,
+third and tenth weeks with subsequent devel-         which advance in a caudal direction to merge
+opment being characterised mainly by differ-         with the cloaca. Tubular structures within the
+entiation, branching, maturation and growth.         mesonephros establish a communication with
+By the time the blastocyst implants into the         the mesonephric duct to fulfil a transient excre-
+primed endometrium (approximately 6 days             tory role until around 10 weeks. These tubules
+after fertilisation) it has undergone organisation   then regress in the female but in the male they
+to form an outer trophoblastic layer and inner       persist as precursors of the efferent tubules of
+cell mass. Over the ensuing 10 days, the amni-       the testis.
+otic cavity and the yolk sac develop within the         At around 28 days, the ureteric bud devel-
+blastocyst – with the embryonic disc forming in      ops as a protrusion from the mesonephric
+the interface between them. Ectodermal tissue        duct. The ureteric bud then advances towards
+originates from cells on the amniotic surface of     the metanephros to penetrate the metaneph-
+the embryonic disc whereas endodermal tissues        ric mesenchyme at around 32 days. The for-
+are derived from cells adjacent to the yolk sac.     mation of nephrons by interaction between
+Inpouring of cells into the embryonic disc from      the ureteric bud and metanephros occurs by a
+the amniotic surface via the primitive streak        process of reciprocal interaction between the
+creates a third layer – the intraembryonic meso-     two tissues – a phenomenon which occurs in
+derm (Figure 1.2). It is from the intraembryonic     the embryological development of a number of
+mesoderm that much of the genitourinary tract        systems. Sequential budding and branching of
+is ultimately derived.                               the ureteric bud gives rise to the renal pelvis,
+                                                     the major calices, the minor calices and the col-
+                                                     lecting ducts whilst the glomeruli, convoluted
+                                                     tubules and loop of Henle are derived from
+                                                     the metanephric mesenchyme (Figure 1.4). The
+ UPPER URINARY TRACT
+                                                     cortex and medulla are discernible by 15 weeks
+ (FIGURE 1.3)                                        and new generations of nephrons continue to
+                                                     be added to the cortex up until 36 weeks. In
+By the fourth week, two blocks of mesoderm           humans, the process of nephrogenesis ceases
+have appeared on each side of the midline.           at 36 weeks and the total number of nephrons
+Sequential differentiation within this meso-         remains fixed thereafter at approximately 1 mil-
+derm gives rise to the pronephros in the most        lion per kidney. Nephron numbers are reduced
+cephalad region, the mesonephros in the mid-         in the kidneys of preterm and low-birth-weight
+zone and the metanephros in the most caudal          infants. Almost 3000 different genes have been
+region. The pronephros regresses rapidly and         identified as being involved in ureteric bud
+4 Embryology
+
+
+
+                                                       Abnormalities of Renal Ascent
+                                                       and Fusion
+                                                       These anomalies date from the sixth to tenth
+                                                       weeks of gestation, when the embryonic kid-
+                                                       ney is ascending in its relative position on the
+                                                       posterior abdominal wall before adopting its
+                                                       definitive position. Examples include, horseshoe
+                                                       kidney (Figure 1.5), pelvic kidney (Figure 1.6)
+                                                       and crossed fused renal ectopia (Figure 1.7).
+
+                                                       Fetal Renal Function
+                                                       Although the kidneys excrete urine into the amni-
+Figure 1.4 Embryonic urinary tract at 6–8 weeks.
+                                                       otic cavity from around the ninth week onwards,
+                                                       the homeostatic role which is normally played by
+                                                       the kidneys is fulfilled by the placenta – which
+formation and nephrogenesis. The roles played          effectively “dialyses” the fetus until birth. The
+by many of these genes have been studied in            kidneys nevertheless serve an important function
+transgenic mice and in clinical genetic studies.       by producing urine – which is a major constitu-
+Of these, the gene encoding for glial cell line-       ent of the amniotic fluid surrounding the fetus. In
+derived neurotophic factor (GDNF), Wilms               addition to providing a protective environment
+tumour suppressor gene (WT1) and RET proto-            for the fetus, amniotic fluid also promotes nor-
+oncogene have been shown to play key roles.            mal lung development. Reduced amniotic fluid
+
+
+Renal Dysplasia
+Although “dysplastic” is often used loosely to
+refer to any congenitally small kidney, the term
+“dysplasia” refers more accurately to kidneys
+demonstrating certain characteristic histo-
+logical features. These include disordered renal
+architecture, immature “primitive” undifferenti-
+ated tubules, small cysts and the inappropriate
+(metaplastic) presence of cartilage and fibro-
+muscular tissue. Renal dysplasia can arise from
+faulty interaction between the ureteric bud and
+metanephric tissue or the effects of insults to the
+developing kidney – notably severe obstructive
+uropathy.
+   A hypoplastic kidney is one which is reduced
+in size but retains normal internal architecture –
+although with fewer nephrons.
+
+
+Cystic Anomalies
+The patterns of cystic renal disease and their aeti-   Figure 1.5 Abnormality of ascent and fusion-
+ology are considered in Chapter 10.                    horseshoe kidney.
+                                                      Lower urinary tract / Clinical Considerations 5
+
+
+
+                                                  volume (oligohydramnios) is associated with pul-
+                                                  monary hypoplasia as well as “moulding defor-
+                                                  mities” of the fetus such as “Potter’s facies” and
+                                                  limb deformities.
+
+
+
+                                                   LOWER URINARY TRACT
+                                                   (FIGURE 1.8)
+
+                                                  The lower urinary tract is derived from the cloaca,
+                                                  a single cavity comprising the primitive hindgut
+                                                  and allantois. Between the fourth and seventh
+                                                  weeks the cloaca subdivides to form the urogeni-
+                                                  tal sinus anteriorly and anorectal canal posteri-
+                                                  orly. Historically, this subdivision was ascribed to
+                                                  a process of active descent of the urorectal sep-
+                                                  tum (Tourneux fold) aided by lateral ingrowth
+                                                  of (Rathke) folds from the side walls of the clo-
+                                                  aca. However, this explanation has been largely
+                                                  refuted by more recent studies which have dem-
+                                                  onstrated that subdivision of the cloaca occurs as
+                                                  a predominantly “passive” process resulting from
+Figure 1.6 Abnormality of ascent-pelvic kidney.   spatial realignment, differential dorsoventral
+                                                  growth of the cloaca and unfolding of the caudal
+                                                  body axis.
+                                                     As the bladder develops, the mesonephric
+                                                  ducts migrate caudally to merge with the upper
+                                                  urethra, whereas the ureters retain a more fixed
+                                                  position in relation to the bladder (Figure 1.9).
+
+                                                  Clinical Considerations
+                                                  Persistent cloacal malformations represent the
+                                                  female equivalent of high anorectal malforma-
+                                                  tions in males and are characterised by conflu-
+                                                  ence of the urethra, vagina and rectum to form
+                                                  a common channel with a single opening on the
+                                                  perineum. Cloacal malformations originate from
+                                                  abnormalities occurring during subdivision of
+                                                  the cloaca between 4 and 7 weeks. The origins of
+                                                  bladder exstrophy and epispadias are less clear.
+                                                  Complete upper tract duplication occurs when
+                                                  two (rather than one) ureteric buds develop on
+                                                  the mesonephric duct. A bifid ureteric bud gives
+                                                  rise to incomplete ureteric duplication.
+                                                     The Meyer-Weigart law describes the para-
+Figure 1.7 Abnormality of ascent and fusion-      doxical anatomy of the ureters observed in cases
+crossed fused renal ectopia.                      of complete duplication whereby the upper pole
+6 Embryology
+
+
+
+
+Figure 1.8 Subdivision of the cloaca into the urogenital compartment and anorectum at 4–7 weeks.
+
+
+
+ureter enters the urinary tract in a more caudal      primordial germ cells from the yolk sac, across the
+position than the lower pole ureter. This phenom-     coelomic cavity and into primitive mesenchyme
+enon is explained by the pattern of early devel-      on the posterior wall of the embryo. The genital
+opment in which the mesonephric duct descends         ridge is formed by reciprocal induction between
+towards the developing posterior urethra taking       the germ cells and surrounding mesenchyme. The
+the upper pole ureter with it whilst the lower pole   paramesonephric ducts develop as condensations
+ureter remains anchored on the trigonal region of     of coelomic epithelium lying lateral to the meso-
+the bladder.                                          nephric ducts. At 6 weeks the structures which
+                                                      represent the precursors of the reproductive
+                                                      tract are identical in males and females. With the
+                                                      exception of the gonads these structures are des-
+ GENITAL TRACTS                                       tined to differentiate passively down a “default”
+                                                      female pathway unless actively switched down a
+Differentiation and development of the gonads         male pathway by the genetic information carried
+and genital tracts is initiated by the migration of   by the testis-determining gene (SRY).
+                                                                  Genital tracts / Internal Genitalia 7
+
+
+
+                                                  Internal Genitalia
+                                                  Female (Figure 1.10)
+                                                  Within the genital ridge, primordial germ cells
+                                                  and mesenchymal support cells interact to form
+                                                  ovarian follicles within the developing ovary.
+                                                  Because they are not exposed to testosterone,
+                                                  the mesonephric ducts regress spontaneously, to
+                                                  leave only vestigial remnants (epioophoron, par-
+                                                  oophoron and Gartner’s cysts). In the absence of
+                                                  exposure to anti-Müllerian hormone (AMH), the
+                                                  paramesonephric ducts in females persist to give
+                                                  rise to the fallopian tubes and lower genital tract.
+                                                     It has become apparent that differentiation
+                                                  and development of the ovary is not a purely
+                                                  passive (“default”) process determined solely by
+                                                  the absence of the SRY gene. The Dax1 ovarian
+                                                  promoting factor gene encoded on the X chromo-
+                                                  some has been shown to act in conjunction with
+                                                  other genes to actively promote ovarian develop-
+                                                  ment and inhibit expression of the SRY gene. At
+                                                  around the tenth week, the caudal extremities
+                                                  of the paramesonephric ducts fuse and attach
+                                                  to the urogenital sinus. Over the ensuing weeks
+                                                  the uterus forms from the fused paramesoneph-
+                                                  ric ducts. In the conventional account of the
+                                                  development of the vagina, the fused parameso-
+                                                  nephric ducts attach to the urogenital sinus to
+                                                  create a condensation of tissue (sinu vaginal bulb)
+                                                  which advances downwards to the perineum as
+                                                  a solid vaginal plate which then canalises to cre-
+                                                  ate the vaginal lumen. The upper two-thirds of
+Figure 1.9 Changing anatomical configuration of   the vagina have been conventionally described as
+the ureters and mesonephric duct derivatives.     being of paramesonephric origin with the lower
+
+
+
+
+Figure 1.10 The undifferentiated genital tract is genetically programmed down a pathway of
+female differentiation unless directed down a male pathway by the presence of the SRY gene.
+8 Embryology
+
+
+
+third of the vagina and introitus being derived
+from urogenital sinus and ectoderm, respectively
+(Figure 1.11). However, recent studies have cast
+doubt on this model and it has become appar-
+ent that the development of the human vagina is
+more complex than was previously thought.
+
+Male (Figure 1.12)
+Differentiation of the male genital tract is ultimately
+dependent on the presence of the testis-determining
+gene (SRY) located on the short arm of the Y chro-
+mosome. However, the role of the SRY gene is medi-
+ated by a cascade of other downstream genes. The
+testis determining factor encoded by the SRY gene is
+a transcription factor which promotes upregulation
+of SOX9 and other transcription factors.
+    Anti-Müllerian Hormone (AMH), also termed
+Müllerian Inhibitory Substance (MIS) substance, is
+secreted by the Sertoli cells of the testis from the
+seventh week onwards.
+●● AMH is responsible for causing regression of
+   the paramesonephric ducts (with the excep-
+   tion of vestigial remnants such as the testicu-
+   lar appendage and utriculus).
+●● AMH stimulates the Leydig cells of the fetal
+
+   testis to secrete testosterone from the ninth
+   week onwards.
+●● AMH promotes the first stage of testicular
+
+   descent.
+Under the influence of testosterone the meso-
+nephric ducts differentiate to form the epididy-
+mis, rete testis, vas deferens, ejaculatory ducts
+and seminal vesicles. Development of the prostate
+gland between 12 and 19 weeks commences with              Figure 1.11 Development of the female lower
+the emergence of buds from the urogenital sinus.          genital tract between 10 and 12 weeks.
+
+
+
+
+Figure 1.12 Differentiation of the male genital tract in response to anti-Müllerian hormone and
+testosterone.
+                                                                    Genital tracts / External Genitalia 9
+
+
+
+These undergo branching morphogenesis to form         Male
+the ducts and glandular acini of the prostate
+gland whilst the capsule and stroma are derived       Until 12 weeks the male external genitalia share
+from surrounding mesenchyme. Development of           the same undifferentiated morphology as the
+the prostate relies on reciprocal inductive signal-   female (Figure 1.14). Thereafter, the urethral
+ling between urothelium and mesenchyme and is         plate in the male advances further onto the
+highly dependent on androgenic stimulation.           genital tubercle, expands in width and opens
+                                                      out to create the urethral groove. Formation of
+External Genitalia (Figure 1.13)                      penile urethra has been likened to the action
+                                                      of a zip, with the “closing zipper” drawing the
+Unless they are exposed to androgens, the exter-      lateral margins of the urethral groove together
+nal genitalia of both males and females are des-      in the midline in a proximal to distal direc-
+tined to differentiate passively down a female        tion. Formation of the penile urethra is com-
+pathway.                                              plete by 15 weeks, with the terminal portion
+                                                      being formed by in-growth of ectoderm from
+Female                                                the tip of the glans. Virilisation of the male
+                                                      genitalia is highly dependent on exposure to
+The external genitalia differentiate passively to     androgens and the presence of the appropri-
+create the normal female genital phenotype. The       ate androgen receptors within the target tis-
+genital tubercle gives rise to the clitoris and the   sues. The enzyme 5-alpha reductase plays a
+urogenital sinus contributes to the vestibule of      key role in promoting virilisation by convert-
+the vagina. The urogenital folds persist as the       ing testosterone to its more potent derivative,
+labia minora and the labio scrotal folds form the     dihydrotestosterone.
+labia majora.
+
+
+
+
+Figure 1.13 Differentiation of external genitalia determined by androgenic stimulation in the male.
+10 Embryology
+
+
+
+
+Figure 1.14 Diverging pathways of differentiation from 12 weeks onwards. (Reproduced by kind
+permission of Lawrence Baskin.)
+
+
+
+Testicular Descent
+Anti-Müllerian Hormone initiates the first stage
+of testicular descent by stimulating contraction
+of the gubernaculum and anchoring the testis in
+the inguinal region. The second stage is testoster-
+one dependent and occurs around 25–30 weeks
+when the gubernaculum draws the testis down
+the inguinal canal into its final scrotal position.
+Descent of the testis is preceded by a protrusion
+of the peritoneum (processus vaginalis). This nor-
+mally closes spontaneously before birth or in the
+first few weeks of life but may persist to give rise
+                                                       Figure 1.15 Fusion defect – bicornuate uterus.
+to a communicating hydrocele or inguinal hernia.
+
+Clinical Considerations                                Male
+
+Female                                                 Persistent Müllerian duct syndrome is charac-
+                                                       terised by bilateral undescended testes and the
+Abnormalities originating from defective devel-        presence of persistent paramesonephric duct
+opment of the paramesonephric ducts include:           structures. Proximal and mid-shaft forms of
+absence of a Fallopian tube and hemiuterus,            hypospadias arise from incomplete closure of the
+absence (agenesis) of the upper vagina                 urethral groove and proximal hypospadias may
+(Rokitansky syndrome) septate vagina and bicor-        be accompanied by other features of inadequate
+nuate uterus (Figure 1.15). Virilisation of the        virilisation such as cryptorchidism and a persis-
+external genitalia occurs in females with con-         tent Müllerian utriculus. Virilisation defects can
+genital adrenal hyperplasia who are exposed to         result from a number of different mechanisms;
+high levels of circulating androgens in utero. By      defects in androgen synthesis pathways, 5-alpha
+contrast to the external genitalia, the ovaries and    reductase deficiency and insensitivity of the geni-
+internal reproductive tract develop normally.          tal tissues to androgens due to receptor and post
+                                                             Genital tracts / Clinical Considerations 11
+
+
+
+receptor defects. Intrauterine exposure to envi-     FURTHER READING
+ronmental “endocrine disruptors” has also been
+suggested as a possible factor but the evidence is   Baskin L. Basic science of the genitalia
+still largely lacking.                                  (Chapter). In: Docimo SG, Canning D, Khoury
+                                                        A, Pippi Salle JL (eds), Textbook of Clinical
+                                                        Paediatric Urology, 6th Edition. Boca Raton,
+    KEY POINTS                                          FL: Taylor & Francis, 2019: 1141–1149.
+                                                     Baskin L, Shen J, Sinclair A, Cao M, Liu X, Liu
+   ●● The genitourinary tract is commonly               G, Isaacson D, Overland M, Li Y, Cunha GR.
+      affected in children with chromosomal             Development of the human penis and clito-
+      abnormalities.                                    ris. Differentiation. 2018 Sep–Oct;103:74–85.
+   ●● The ureteric bud plays a pivotal role in       Schoenwolf GC, Bleyl SB, Brauer PR, Francis-
+      nephrogenesis and the embryological               West PH. Larsens Human Embryology.
+      development of the upper tract.                   Philadelphia: Elsevier Saunders, 2015:
+   ●● With the exception of the gonads, the             375–428.
+      genital tracts of both sexes differentiate     Thomas DFM. Embryology of cloaca and
+      passively down a female pathway unless            genitourinary sinus malformations. Asian J
+      actively switched down a male pathway             Androl. 2020 Mar–Apr;22(2);124–128.
+      by the testis-determining gene (SRY).
+   ●● Single-gene mutations have been iden-
+
+      tified in some inherited conditions of
+      the urogenital systems. However, the
+      conditions most commonly encoun-
+      tered in paediatric urology are spo-
+      radic or result from the interaction of
+      multiple genes.
+

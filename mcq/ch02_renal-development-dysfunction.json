@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch02-Q01",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 1,
+    "stem": "A 28-year-old woman attends a routine dating ultrasound at 9 weeks gestation. The sonographer notes the fetal bladder is visible and comments on early kidney development. Which best describes the status of glomerular development at this gestational age?",
+    "options": [
+      { "id": "a", "text": "Nephron formation has not yet commenced" },
+      { "id": "b", "text": "Recognisable glomerular structures are present from the ninth week" },
+      { "id": "c", "text": "Glomerular development is complete by the ninth week" },
+      { "id": "d", "text": "Only the pronephros is present at this stage" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "**Correct:** Nephron formation (nephrogenesis) commences during the fifth week of gestation, and recognisable glomerular structures are present from the ninth week, as described in the chapter. This aligns with the ultrasound finding of urine in the fetal bladder at 9 weeks, which confirms functional glomerular filtration.\n\n**Distractors:**\n- a: Nephron formation actually commences during the fifth week, so by 9 weeks it is well underway.\n- c: Glomerular development (glomerulogenesis) is complete by 32–34 weeks, not by 9 weeks.\n- d: The pronephros is a transient embryonic structure that regresses long before 9 weeks; by this stage the mesonephros and metanephros are well developed.\n\n**Clinical Pearl:** Nephrogenesis begins at 5 weeks, glomeruli appear by 9 weeks, but glomerulogenesis is not complete until 32–34 weeks. Preterm infants miss this critical window.",
+    "topic": "Renal physiology — nephrogenesis"
+  },
+  {
+    "id": "ch02-Q02",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 2,
+    "stem": "A neonatologist is counselling the parents of a woman at 30 weeks gestation who is expected to deliver preterm within the week. The parents ask when their baby's kidneys will have a full complement of nephrons. By what gestational age is glomerulogenesis complete in the human fetus?",
+    "options": [
+      { "id": "a", "text": "24–26 weeks" },
+      { "id": "b", "text": "28–30 weeks" },
+      { "id": "c", "text": "32–34 weeks" },
+      { "id": "d", "text": "36–38 weeks" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** Glomerular development (glomerulogenesis) is complete by 32–34 weeks of gestation, as stated in the chapter. Kidney growth after 34 weeks is due to maturation of existing nephrons (tubular and vascular growth) rather than new nephron formation.\n\n**Distractors:**\n- a: At 24–26 weeks, nephrogenesis is ongoing; significant glomerular formation continues into the third trimester.\n- b: 28–30 weeks is still within the active phase of nephrogenesis; over 80% of nephron formation occurs in the third trimester.\n- d: By 36–38 weeks glomerulogenesis is long complete; only tubular and vascular maturation continues.\n\n**Clinical Pearl:** An infant born before 32–34 weeks has an incomplete nephron endowment. Since damaged nephrons cannot regenerate, this increases the lifelong risk of chronic kidney disease.",
+    "topic": "Renal physiology — nephrogenesis"
+  },
+  {
+    "id": "ch02-Q03",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 3,
+    "stem": "A 32-year-old woman delivers a male infant at 30 weeks gestation. The neonatologist explains to the parents that their preterm son may have a reduced nephron endowment. What proportion of nephrogenesis typically occurs in the third trimester?",
+    "options": [
+      { "id": "a", "text": "Over 50%" },
+      { "id": "b", "text": "Over 60%" },
+      { "id": "c", "text": "Over 70%" },
+      { "id": "d", "text": "Over 80%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "**Correct:** Over 80% of nephrogenesis occurs in the third trimester, as stated in the chapter. An infant born at 30 weeks has missed the majority of this critical period, resulting in a lower total nephron count.\n\n**Distractors:**\n- a: 50% is too low; less than 20% of nephrogenesis occurs before the third trimester.\n- b: 60% underestimates the proportion; the majority of nephron formation is in the third trimester.\n- c: 70% is close but still underestimates the true figure.\n\n**Clinical Pearl:** Because over 80% of nephrons form in the third trimester, preterm infants are at risk of reduced nephron endowment, which increases the risk of chronic kidney disease and hypertension later in life.",
+    "topic": "Renal physiology — nephrogenesis"
+  },
+  {
+    "id": "ch02-Q04",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 4,
+    "stem": "A fetus is noted to have oligohydramnios on routine antenatal ultrasound. Fetal urine is the major constituent of amniotic fluid. At what gestational age does fetal urine constitute approximately 80% of liquor volume?",
+    "options": [
+      { "id": "a", "text": "12 weeks" },
+      { "id": "b", "text": "16 weeks" },
+      { "id": "c", "text": "20 weeks" },
+      { "id": "d", "text": "24 weeks" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** By 20 weeks gestation, fetal urine constitutes 80% of liquor volume (approximately 800 mL/day), as stated in the chapter. This highlights the critical role of fetal renal function in maintaining amniotic fluid volume.\n\n**Distractors:**\n- a: At 12 weeks, amniotic fluid is predominantly derived from other sources; fetal urine production is minimal.\n- b: At 16 weeks, the fetal kidneys are functional but urine does not yet constitute the majority of liquor volume.\n- d: By 24 weeks, fetal urine is already the dominant constituent; 80% is reached at 20 weeks.\n\n**Clinical Pearl:** Reduced or absent fetal urine output (due to bilateral renal agenesis, severe outflow obstruction, or cystic disease) leads to oligohydramnios, which can result in pulmonary hypoplasia (Potter sequence).",
+    "topic": "Renal physiology — fetal urine and amniotic fluid"
+  },
+  {
+    "id": "ch02-Q05",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 5,
+    "stem": "A preterm infant born at 30 weeks gestation is noted to have severe oligohydramnios on antenatal ultrasound and is anuric after birth. Which condition is the most likely underlying cause?",
+    "options": [
+      { "id": "a", "text": "Bilateral renal agenesis or severe outflow obstruction" },
+      { "id": "b", "text": "Maternal diabetes insipidus" },
+      { "id": "c", "text": "Transient tachypnoea of the newborn" },
+      { "id": "d", "text": "Premature rupture of membranes" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "**Correct:** Reduced or absent urinary output due to severe outflow obstruction, bilateral cystic disease, or bilateral renal agenesis leads to oligohydramnios, as described in the chapter. The combination of prenatal oligohydramnios and postnatal anuria points strongly to a renal or obstructive cause.\n\n**Distractors:**\n- b: Maternal diabetes insipidus causes polyuria and would not lead to oligohydramnios.\n- c: Transient tachypnoea is a respiratory condition of the newborn unrelated to amniotic fluid volume.\n- d: Premature rupture of membranes (PROM) causes oligohydramnios but would not explain postnatal anuria.\n\n**Clinical Pearl:** Fetal urine flow rate increases progressively throughout pregnancy, reaching 15–30 mL/hour from 31 weeks onwards. Severe oligohydramnios before mid-gestation carries a high risk of pulmonary hypoplasia.",
+    "topic": "Renal physiology — fetal urine and amniotic fluid"
+  },
+  {
+    "id": "ch02-Q06",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 6,
+    "stem": "A term neonate born at 40 weeks gestation undergoes routine renal function assessment on day 1 of life. What is the expected glomerular filtration rate (GFR) for this infant?",
+    "options": [
+      { "id": "a", "text": "3.5–6 mL/min/1.73 m²" },
+      { "id": "b", "text": "13 mL/min/1.73 m²" },
+      { "id": "c", "text": "26 mL/min/1.73 m²" },
+      { "id": "d", "text": "40 mL/min/1.73 m²" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "**Correct:** GFR is approximately 13 mL/min/1.73 m² in infants born at term (40 weeks), as stated in the chapter. This is significantly lower than adult values and reflects the physiological immaturity of the neonatal kidney.\n\n**Distractors:**\n- a: This GFR range (3.5–6 mL/min/1.73 m²) is more consistent with premature infants, depending on birth weight.\n- c: 26 mL/min/1.73 m² is higher than the typical term neonatal GFR; this value might be seen after several weeks of postnatal maturation.\n- d: 40 mL/min/1.73 m² is well above the neonatal range and closer to values seen in older infants.\n\n**Clinical Pearl:** GFR in neonates correlates with gestational age, total kidney volume, and mean arterial pressure. It doubles by 2 weeks and triples by 4 weeks postnatally, but takes 1–2 years to reach adult levels.",
+    "topic": "Renal physiology — GFR in neonates"
+  },
+  {
+    "id": "ch02-Q07",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 7,
+    "stem": "A paediatric nephrologist reviews the renal function trend of a term neonate born 3 weeks ago. The GFR at birth was 13 mL/min/1.73 m². Which pattern best describes the normal postnatal increase in GFR in the first weeks of life?",
+    "options": [
+      { "id": "a", "text": "Doubles by 2 weeks and triples by 4 weeks" },
+      { "id": "b", "text": "Triples by 2 weeks and quadruples by 4 weeks" },
+      { "id": "c", "text": "Doubles by 4 weeks and triples by 8 weeks" },
+      { "id": "d", "text": "Remains unchanged in the first month" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "**Correct:** The chapter states that postnatally there is a sharp increase in GFR, which doubles by 2 weeks of age and triples by 4 weeks of age. This reflects greater glomerular surface area and ongoing renal maturation.\n\n**Distractors:**\n- b: This overestimates the speed of postnatal GFR increase; the actual pattern is doubling at 2 weeks and tripling at 4 weeks.\n- c: This underestimates the speed; GFR doubles by 2 weeks, not 4 weeks, and triples by 4 weeks, not 8 weeks.\n- d: GFR increases substantially after birth due to rising renal blood flow and glomerular maturation; it does not remain static.\n\n**Clinical Pearl:** The neonatal kidney doubles its GFR within 2 weeks and triples it by 4 weeks of age, yet adult-equivalent GFR is not reached until 1–2 years of age. Drug dosing must be adjusted accordingly.",
+    "topic": "Renal physiology — postnatal GFR changes"
+  },
+  {
+    "id": "ch02-Q08",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 8,
+    "stem": "A paediatrician is calculating maintenance medication doses for a 1-year-old child with normal renal function. She recalls that GFR continues to mature after infancy. At what age do adjusted GFR values typically reach adult levels?",
+    "options": [
+      { "id": "a", "text": "3–6 months" },
+      { "id": "b", "text": "6–12 months" },
+      { "id": "c", "text": "1–2 years" },
+      { "id": "d", "text": "3–5 years" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** It takes approximately 1–2 years for adjusted GFR values to reach adult levels, as described in the chapter. This increase is a consequence of greater glomerular surface area as well as renal maturation and growth.\n\n**Distractors:**\n- a: At 3–6 months, GFR has increased significantly but has not yet reached adult levels.\n- b: By 6–12 months, GFR continues to rise but adult values are typically achieved between 1 and 2 years.\n- d: 3–5 years overestimates the time required; adult GFR is reached well before this age.\n\n**Clinical Pearl:** Although GFR rises rapidly in the first month, drug doses and fluid management must account for the fact that paediatric GFR does not approximate adult values until 1–2 years of age.",
+    "topic": "Renal physiology — GFR maturation"
+  },
+  {
+    "id": "ch02-Q09",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 9,
+    "stem": "A medical student is learning about neonatal physiology and asks about renal blood flow at birth. The supervising consultant explains that the kidneys receive only a small fraction of cardiac output immediately after delivery. What percentage of cardiac output goes to the kidneys at birth?",
+    "options": [
+      { "id": "a", "text": "2.5–4%" },
+      { "id": "b", "text": "5–8%" },
+      { "id": "c", "text": "10–12%" },
+      { "id": "d", "text": "15–18%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "**Correct:** At birth, the kidneys receive only 2.5–4% of cardiac output, as stated in the chapter. This low percentage reflects the high vascular resistance in the neonatal renal vasculature.\n\n**Distractors:**\n- b: 5–8% is higher than the true value; renal perfusion increases gradually after birth.\n- c: 10–12% is closer to values seen after several weeks of life.\n- d: 15–18% is the range reached over the first few weeks postnatally, not at birth.\n\n**Clinical Pearl:** For comparison, renal perfusion accounts for 20–25% of cardiac output in adults. The gradual increase in renal blood flow over the first weeks of life parallels the postnatal rise in GFR.",
+    "topic": "Renal physiology — renal blood flow"
+  },
+  {
+    "id": "ch02-Q10",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 10,
+    "stem": "A neonatologist is concerned about using serum creatinine to assess renal function in a 2-day-old infant. Which statement best explains why serum creatinine is an unreliable marker of renal function in neonates?",
+    "options": [
+      { "id": "a", "text": "Creatinine is not produced in neonates due to low muscle mass" },
+      { "id": "b", "text": "Maternal creatinine crosses the placental barrier and is present in the neonate's circulation, and there is variable proximal tubular reabsorption of creatinine in immature kidneys" },
+      { "id": "c", "text": "Neonatal kidneys secrete creatinine at a much higher rate than adult kidneys" },
+      { "id": "d", "text": "Creatinine is completely reabsorbed by the neonatal proximal tubule" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "**Correct:** The chapter explains that serum creatinine is unreliable in neonates because creatinine freely crosses the placental barrier (so maternal creatinine is present in the neonate's circulation) and there is variable proximal tubular reabsorption of creatinine in the immature kidneys.\n\n**Distractors:**\n- a: Creatinine is produced from muscle metabolism even in neonates, albeit at lower rates; the issue is confounders, not absent production.\n- c: Neonatal renal clearance of creatinine is reduced, not increased, due to tubular immaturity.\n- d: Creatinine undergoes variable reabsorption in neonates, not complete reabsorption; complete reabsorption would make it completely useless as a marker.\n\n**Clinical Pearl:** In neonates, alternatives such as cystatin C or serial GFR monitoring may be more reliable for assessing renal function, especially in premature infants with low muscle mass.",
+    "topic": "Renal physiology — creatinine in neonates"
+  },
+  {
+    "id": "ch02-Q11",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 11,
+    "stem": "A 5-day-old term infant is noted to be producing large volumes of dilute urine. The paediatrician explains to the parents that this is normal due to the kidney's limited concentrating ability. What is the maximal urine concentrating ability of the newborn kidney?",
+    "options": [
+      { "id": "a", "text": "Up to 400–600 mOsmol/kg" },
+      { "id": "b", "text": "Up to 600–800 mOsmol/kg" },
+      { "id": "c", "text": "Up to 800–1000 mOsmol/kg" },
+      { "id": "d", "text": "Up to 1000–1200 mOsmol/kg" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "**Correct:** Due to tubular immaturity, the maximal urine concentrating ability of the newborn kidney is up to 600–800 mOsmol/kg, as stated in the chapter. This reflects reduced responsiveness to antidiuretic hormone (vasopressin) and an inability to maintain a corticomedullary osmotic gradient.\n\n**Distractors:**\n- a: 400–600 mOsmol/kg is below the neonatal concentrating capacity; even newborns can concentrate to 600 mOsmol/kg.\n- c: 800–1000 mOsmol/kg exceeds the neonatal capacity; this range becomes achievable after the first 2 months of life.\n- d: 1000–1200 mOsmol/kg is the normal adult concentrating ability and is not reached until much later.\n\n**Clinical Pearl:** Neonates typically produce 2–3 mL/kg/hour of dilute urine. Their limited concentrating ability makes them prone to dehydration during illness, particularly when water losses are increased.",
+    "topic": "Renal physiology — concentrating ability"
+  },
+  {
+    "id": "ch02-Q12",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 12,
+    "stem": "A healthy term infant loses 10% of birth weight in the first few days of life despite adequate feeding. The parents are concerned. The paediatrician explains this is a normal physiological adaptation. In which population is this weight loss most pronounced and prolonged?",
+    "options": [
+      { "id": "a", "text": "Term infants born by vaginal delivery" },
+      { "id": "b", "text": "Term infants born by caesarean section" },
+      { "id": "c", "text": "Premature infants" },
+      { "id": "d", "text": "Infants of diabetic mothers" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** The chapter states that a 10% loss of birth weight is part of normal physiological adaptation to extrauterine life and is most pronounced and prolonged in premature infants. This is due to isotonic volume contraction following the acute diuresis triggered by ANP release.\n\n**Distractors:**\n- a: Term vaginal deliveries experience this but to a lesser degree and with shorter duration than preterm infants.\n- b: Caesarean section does not significantly affect the degree or duration of physiological weight loss.\n- d: Infants of diabetic mothers may have other metabolic issues but do not typically have exaggerated physiological weight loss.\n\n**Clinical Pearl:** Most babies regain their birth weight between 7 and 10 days of age. Early excessive fluid administration before the natural diuresis can cause hypervolaemic hyponatraemia and increase morbidity.",
+    "topic": "Renal physiology — fluid homeostasis"
+  },
+  {
+    "id": "ch02-Q13",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 13,
+    "stem": "A neonatal intensive care team is planning intravenous fluids for a preterm infant on day 1 of life. The consultant advises against early excessive administration of sodium and water. Early excessive sodium and water administration before the normal postnatal diuresis may contribute to which condition in neonates?",
+    "options": [
+      { "id": "a", "text": "Metabolic alkalosis" },
+      { "id": "b", "text": "Hypercalcaemia" },
+      { "id": "c", "text": "Hypokalaemia" },
+      { "id": "d", "text": "Hypervolaemic (dilutional) hyponatraemia" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "**Correct:** The chapter states that early and excessive administration of sodium and water before the period of diuresis/natriuresis has occurred may contribute to hypervolaemic (dilutional) hyponatraemia, which increases morbidity and mortality.\n\n**Distractors:**\n- a: Excess sodium chloride administration can contribute to hyperchloraemic metabolic acidosis, not metabolic alkalosis.\n- b: Hypercalcaemia is not a typical consequence of early fluid loading in neonates.\n- c: Hypokalaemia may occur with diuretic use but is not the primary risk of early sodium and water loading.\n\n**Clinical Pearl:** Restricting water and sodium intake in the first few days of life, allowing the natural diuresis to occur, reduces the risk of dilutional hyponatraemia and its associated morbidity.",
+    "topic": "Renal physiology — sodium homeostasis"
+  },
+  {
+    "id": "ch02-Q14",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 14,
+    "stem": "A healthy term neonate is now 10 days old and the paediatric team is calculating ongoing sodium requirements. What is the typical daily sodium requirement for a healthy term neonate after the first week of life?",
+    "options": [
+      { "id": "a", "text": "1–2 mmol/kg/day" },
+      { "id": "b", "text": "3–5 mmol/kg/day" },
+      { "id": "c", "text": "6–8 mmol/kg/day" },
+      { "id": "d", "text": "8–10 mmol/kg/day" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "**Correct:** The chapter specifies that in healthy neonates the sodium requirement is typically 2–3 mmol/kg/day in the first week, rising to 3–5 mmol/kg/day after the first week.\n\n**Distractors:**\n- a: 1–2 mmol/kg/day is the potassium requirement in the first week, not the sodium requirement.\n- c: 6–8 mmol/kg/day is higher than the standard requirement and might be appropriate for some preterm infants.\n- d: 8–10 mmol/kg/day is too high for a term neonate; such levels are only needed in select very low birth weight infants.\n\n**Clinical Pearl:** Preterm and very low birth weight infants may require two to three times the sodium requirement of term infants due to reduced tubular reabsorption of sodium and additional growth demands.",
+    "topic": "Renal physiology — sodium homeostasis"
+  },
+  {
+    "id": "ch02-Q15",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 15,
+    "stem": "A junior doctor is reviewing the serum potassium levels of several infants in the neonatal unit. She notes that preterm infants tend to have rising potassium levels over the first weeks of life, unlike term infants. Which statement best explains potassium homeostasis in neonates?",
+    "options": [
+      { "id": "a", "text": "Neonatal renal clearance of potassium is increased compared with older children" },
+      { "id": "b", "text": "Term infants show a gradual rise in serum potassium over the first 3–4 weeks of life" },
+      { "id": "c", "text": "Neonates are in a net positive potassium balance due to reduced renal clearance and increased intestinal absorption" },
+      { "id": "d", "text": "The daily potassium requirement in the first week is 4–5 mmol/kg/day" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** The chapter explains that the combination of reduced renal clearance and increased intestinal absorption of potassium puts neonates into a net positive potassium balance, which is essential for growth.\n\n**Distractors:**\n- a: Tubular excretion of potassium in neonates is reduced compared with older children, even after correcting for lower GFR.\n- b: In term infants, potassium levels usually fall rapidly in the first week; it is preterm infants who experience a gradual rise.\n- d: The daily potassium requirement in a healthy neonate is 1–2 mmol/kg/day in the first week, not 4–5 mmol/kg/day.\n\n**Clinical Pearl:** Elevated potassium in neonates may result from hypoxia, metabolic acidosis, catabolic stress, oliguric renal failure, or immature distal tubular excretion. Preterm infants are particularly vulnerable to hyperkalaemia.",
+    "topic": "Renal physiology — potassium homeostasis"
+  },
+  {
+    "id": "ch02-Q16",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 16,
+    "stem": "A 2-week-old term infant is found to have a serum bicarbonate level of 19 mmol/L. The paediatrician explains that this is within the normal physiological range for a neonate but should rise with maturation. What is the renal threshold for bicarbonate reabsorption in neonates and what value is reached by 1 year of age?",
+    "options": [
+      { "id": "a", "text": "14–16 mmol/L at birth; 20–22 mmol/L at 1 year" },
+      { "id": "b", "text": "18–20 mmol/L at birth; 24–26 mmol/L at 1 year" },
+      { "id": "c", "text": "22–24 mmol/L at birth; 28–30 mmol/L at 1 year" },
+      { "id": "d", "text": "10–12 mmol/L at birth; 18–20 mmol/L at 1 year" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "**Correct:** The chapter states that the renal threshold for bicarbonate reabsorption is lower in neonates (18–20 mmol/L) and rises to 24–26 mmol/L by 1 year of age as the renal acidification mechanism matures.\n\n**Distractors:**\n- a: 14–16 mmol/L is lower than the neonatal threshold; values this low would indicate pathology.\n- c: 22–24 mmol/L at birth is too high; this is closer to the threshold expected beyond infancy.\n- d: 10–12 mmol/L at birth would be pathologically low and inconsistent with normal neonatal physiology.\n\n**Clinical Pearl:** Bicarbonate supplementation may be required in infants with CKD to maintain serum bicarbonate above 17 mmol/L, as prolonged acidosis can impair feeding and growth.",
+    "topic": "Renal physiology — acid-base homeostasis"
+  },
+  {
+    "id": "ch02-Q17",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 17,
+    "stem": "A 3-year-old child in the paediatric intensive care unit has oliguria and a rising serum creatinine. According to the KDIGO 2012 AKI classification, which findings define stage 2 acute kidney injury?",
+    "options": [
+      { "id": "a", "text": "Serum creatinine 1.5–1.9 times baseline; urine output <0.5 mL/kg/hour for 6–12 hours" },
+      { "id": "b", "text": "Serum creatinine 2.0–2.9 times baseline; urine output <0.5 mL/kg/hour for ≥12 hours" },
+      { "id": "c", "text": "Serum creatinine ≥3 times baseline; urine output <0.3 mL/kg/hour for ≥24 hours" },
+      { "id": "d", "text": "Serum creatinine 2.0–2.9 times baseline; urine output <0.3 mL/kg/hour for ≥12 hours" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "**Correct:** KDIGO 2012 stage 2 AKI is defined by serum creatinine 2.0–2.9 times baseline OR urine output <0.5 mL/kg/hour for ≥12 hours, as shown in Table 2.1 of the chapter.\n\n**Distractors:**\n- a: This describes KDIGO stage 1 AKI, not stage 2.\n- c: This describes KDIGO stage 3 AKI.\n- d: The creatinine criterion matches stage 2 but the urine output criterion is more severe and does not match the KDIGO stage 2 definition.\n\n**Clinical Pearl:** The KDIGO and pRIFLE classification systems help standardise AKI diagnosis and management. Both serum creatinine and urine output criteria should be assessed, and the more severe stage should be assigned.",
+    "topic": "AKI — KDIGO classification"
+  },
+  {
+    "id": "ch02-Q18",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 18,
+    "stem": "A 5-year-old child is admitted with suspected acute kidney injury following a severe diarrhoeal illness. The paediatric team uses the pRIFLE classification system to assess the severity. What does the letter 'R' in pRIFLE stand for?",
+    "options": [
+      { "id": "a", "text": "Risk" },
+      { "id": "b", "text": "Recovery" },
+      { "id": "c", "text": "Reduced GFR" },
+      { "id": "d", "text": "Renal impairment" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "**Correct:** pRIFLE stands for Risk, Injury, Failure, Loss, and End-stage, as described in the chapter. 'Risk' corresponds to a 25% decrease in estimated GFR from baseline or urine output <0.5 mL/kg/hour for 8 hours.\n\n**Distractors:**\n- b: 'Recovery' is not part of the pRIFLE acronym; the later categories are Loss and End-stage.\n- c: 'Reduced GFR' is descriptive but not the specific term used; the term is 'Risk'.\n- d: 'Renal impairment' is a general description, not the specific pRIFLE term for the first category.\n\n**Clinical Pearl:** The pRIFLE system has been validated to correlate with morbidity and mortality outcomes in children. Management of AKI includes removing causative agents, avoiding nephrotoxins, and careful fluid and electrolyte management.",
+    "topic": "AKI — pRIFLE classification"
+  },
+  {
+    "id": "ch02-Q19",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 19,
+    "stem": "An 8-year-old child is found to have persistent proteinuria and mildly elevated serum creatinine over several months. The paediatrician suspects chronic kidney disease. According to KDIGO guidelines, what minimum duration of kidney damage is required for a diagnosis of CKD?",
+    "options": [
+      { "id": "a", "text": "1 month" },
+      { "id": "b", "text": "2 months" },
+      { "id": "c", "text": "3 months" },
+      { "id": "d", "text": "6 months" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** The KDIGO guidelines define CKD as the presence of kidney damage, either functional or structural, exceeding 3 months duration, as stated in the chapter.\n\n**Distractors:**\n- a: 1 month is the timeframe more consistent with acute kidney injury, which is potentially reversible.\n- b: 2 months falls short of the 3-month threshold required for the CKD definition.\n- d: 6 months exceeds the required duration; damage exceeding 3 months is sufficient for the diagnosis.\n\n**Clinical Pearl:** The distinction between AKI and CKD relies on duration (acute vs >3 months). Early stages of CKD are typically asymptomatic, so many children present only when the disease is relatively advanced.",
+    "topic": "CKD — definition"
+  },
+  {
+    "id": "ch02-Q20",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 20,
+    "stem": "A 10-year-old with known CKD has an eGFR of 38 mL/min/1.73 m². According to the CKD staging system in the chapter, which stage does this correspond to?",
+    "options": [
+      { "id": "a", "text": "Stage 2" },
+      { "id": "b", "text": "Stage 3a" },
+      { "id": "c", "text": "Stage 3b" },
+      { "id": "d", "text": "Stage 4" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** CKD stage 3b is defined by a GFR of 30–44 mL/min/1.73 m² (moderate to severe loss of renal function), as per Table 2.3 in the chapter. Stage 3a is 45–59, stage 4 is 15–29, and stage 5 is <15 mL/min/1.73 m².\n\n**Distractors:**\n- a: Stage 2 corresponds to a GFR of 60–89 mL/min/1.73 m² (mild loss).\n- b: Stage 3a corresponds to 45–59 mL/min/1.73 m² (mild to moderate loss).\n- d: Stage 4 corresponds to 15–29 mL/min/1.73 m² (severe loss).\n\n**Clinical Pearl:** CKD staging guides management decisions. Some children with CKD have stable function for years, particularly over the first 4 years of life, but typically experience a decline in GFR with puberty.",
+    "topic": "CKD — staging"
+  },
+  {
+    "id": "ch02-Q21",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 21,
+    "stem": "A paediatric epidemiologist is analysing registry data on childhood CKD and notes a higher prevalence in boys. The incidence and prevalence of chronic kidney disease are higher in males primarily because of which factor?",
+    "options": [
+      { "id": "a", "text": "Males have a higher incidence of congenital anomalies of the kidney and urinary tract (CAKUT)" },
+      { "id": "b", "text": "Males have higher rates of hypertension requiring treatment in childhood" },
+      { "id": "c", "text": "Males are more prone to acquired autoimmune glomerulonephritis" },
+      { "id": "d", "text": "Males are more likely to be born preterm than females" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "**Correct:** The chapter states that the incidence and prevalence of CKD are higher in males because they have a higher incidence of CAKUT, which is the commonest cause of CKD. CAKUT accounts for around 30% of all congenital anomalies.\n\n**Distractors:**\n- b: Hypertension in childhood is more commonly secondary to renal disease than a primary cause of it.\n- c: Autoimmune glomerulonephritis is not the main driver of sex differences in CKD prevalence.\n- d: Prematurity is a risk factor for CKD, but the sex difference in CKD prevalence is attributed to CAKUT.\n\n**Clinical Pearl:** CAKUT is responsible for 49.1% of primary causes of CKD in children. The higher CAKUT incidence in males accounts for the male predominance in childhood CKD.",
+    "topic": "CKD — epidemiology"
+  },
+  {
+    "id": "ch02-Q22",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 22,
+    "stem": "A 3-year-old is diagnosed with chronic kidney disease. The parents ask about the most common cause of CKD in children. What is the most common primary cause of chronic kidney disease in the paediatric population?",
+    "options": [
+      { "id": "a", "text": "Chronic glomerulonephritis" },
+      { "id": "b", "text": "Renal ciliopathies such as nephronophthisis" },
+      { "id": "c", "text": "Congenital anomalies of the kidney and urinary tract (CAKUT)" },
+      { "id": "d", "text": "Haemolytic uraemic syndrome" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** CAKUT accounts for 49.1% of primary causes of CKD in children, as stated in the chapter. This is followed by steroid-resistant nephrotic syndrome (10.4%), chronic glomerulonephritis (8.1%), and renal ciliopathies (5.3%).\n\n**Distractors:**\n- a: Chronic glomerulonephritis accounts for 8.1% of paediatric CKD cases.\n- b: Renal ciliopathies such as nephronophthisis account for 5.3% of cases.\n- d: HUS is listed as a rarer cause of CKD, not the most common.\n\n**Clinical Pearl:** The aetiology of CKD in children differs markedly from adults, in whom diabetes and hypertension predominate. CAKUT alone accounts for nearly half of all paediatric CKD cases.",
+    "topic": "CKD — aetiology"
+  },
+  {
+    "id": "ch02-Q23",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 23,
+    "stem": "A paediatric nephrologist is giving a lecture on emerging risk factors for chronic kidney disease in children. One factor, associated with rising obesity rates and type 2 diabetes, is well recognised. Which factor is being increasingly recognised as a risk factor for CKD?",
+    "options": [
+      { "id": "a", "text": "Neonatal jaundice requiring phototherapy" },
+      { "id": "b", "text": "Prematurity" },
+      { "id": "c", "text": "Breastfeeding beyond 6 months" },
+      { "id": "d", "text": "Delayed umbilical cord clamping" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "**Correct:** The chapter states that prematurity is being increasingly recognised as a risk factor for CKD. Additionally, rising rates of childhood obesity are associated with early type 2 diabetes and consequent diabetic nephropathy.\n\n**Distractors:**\n- a: Neonatal jaundice is not identified in the chapter as a risk factor for CKD.\n- c: Breastfeeding is generally protective, not a risk factor for CKD.\n- d: Delayed cord clamping has benefits for iron stores but is not mentioned as a CKD risk factor.\n\n**Clinical Pearl:** Prematurity is now recognised as an independent risk factor for reduced nephron endowment and future CKD. The combination of preterm birth and later obesity may compound this risk.",
+    "topic": "CKD — risk factors"
+  },
+  {
+    "id": "ch02-Q24",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 24,
+    "stem": "A paediatric nephrologist wants to obtain a precise GFR measurement in a child with suspected renal impairment. She explains that the gold standard test is impractical for routine clinical use. Which measurement is considered the gold standard for GFR determination?",
+    "options": [
+      { "id": "a", "text": "Serum creatinine concentration" },
+      { "id": "b", "text": "Modified Schwartz formula" },
+      { "id": "c", "text": "Inulin clearance" },
+      { "id": "d", "text": "Cystatin C measurement" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** The gold standard measurement of GFR is by inulin clearance, as stated in the chapter. This requires an intravenous bolus and continuous infusion with measurement of serum and urine inulin levels, making it impractical for routine clinical use.\n\n**Distractors:**\n- a: Serum creatinine is widely used but has significant limitations and is not the gold standard.\n- b: The modified Schwartz formula is a useful bedside tool but is an estimate, not a gold standard measurement.\n- d: Cystatin C is helpful in certain populations (e.g., low muscle mass) but is not the gold standard.\n\n**Clinical Pearl:** Alternatives to inulin clearance include 51Cr[EDTA] clearance (requires radioisotopes) and iohexol clearance (promising but expensive). The modified Schwartz formula remains the most commonly used estimate in clinical practice.",
+    "topic": "Renal function assessment — GFR measurement"
+  },
+  {
+    "id": "ch02-Q25",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 25,
+    "stem": "A paediatrician calculates eGFR using the modified Schwartz formula for a 6-year-old with height 110 cm and serum creatinine 0.5 mg/dL. Which constant is used in the modified Schwartz formula when creatinine is expressed in mg/dL?",
+    "options": [
+      { "id": "a", "text": "0.413" },
+      { "id": "b", "text": "0.55" },
+      { "id": "c", "text": "36.5" },
+      { "id": "d", "text": "40.0" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "**Correct:** The modified Schwartz formula is: eGFR (mL/min/1.73 m²) = 0.413 × height (cm) / serum creatinine (mg/dL), as stated in the chapter. When creatinine is expressed in µmol/L, the formula is eGFR = 36.5 × height (cm) / serum creatinine (µmol/L).\n\n**Distractors:**\n- b: 0.55 is a constant that was used in older versions of the Schwartz formula, not the current modified version.\n- c: 36.5 is the constant used when creatinine is expressed in µmol/L, not mg/dL.\n- d: 40.0 is not a recognised constant in any version of the Schwartz formula.\n\n**Clinical Pearl:** The modified Schwartz formula lacks validation in the GFR range of 15–75 mL/min/1.73 m². Cystatin C may be preferable in children with low muscle mass, in whom creatinine-based estimates are unreliable.",
+    "topic": "Renal function assessment — Schwartz formula"
+  },
+  {
+    "id": "ch02-Q26",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 26,
+    "stem": "A 7-year-old with cerebral palsy and low muscle bulk has a serum creatinine of 0.2 mg/dL, which appears disproportionately low for the degree of renal impairment suspected. Which alternative biomarker may be particularly useful for estimating GFR in this child?",
+    "options": [
+      { "id": "a", "text": "Serum urea" },
+      { "id": "b", "text": "Cystatin C" },
+      { "id": "c", "text": "Serum beta-2 microglobulin" },
+      { "id": "d", "text": "Urine protein-to-creatinine ratio" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "**Correct:** Cystatin C is a small protein produced from all nucleated cells, readily filtered via the glomeruli, and is not affected by muscle mass. The chapter specifically states it may be of use in children with low muscle bulk in whom creatinine-based calculations are unreliable.\n\n**Distractors:**\n- a: Serum urea is affected by hydration status, protein intake, and catabolism, making it a poor GFR marker.\n- c: Beta-2 microglobulin is not discussed in the chapter as a useful GFR marker in this context.\n- d: Urine protein-to-creatinine ratio assesses proteinuria, not GFR.\n\n**Clinical Pearl:** Cystatin C is useful when creatinine is unreliable, such as in children with low muscle mass, amputees, or those with chronic illness. Its levels are not influenced by diet or muscle mass.",
+    "topic": "Renal function assessment — cystatin C"
+  },
+  {
+    "id": "ch02-Q27",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 27,
+    "stem": "A 4-year-old child with CKD has a GFR of 15 mL/min/1.73 m². The paediatric nephrologist discusses prognosis with the family. The GFR in early childhood predicts the likelihood of requiring renal replacement therapy by 20 years of age. What is the likelihood if the GFR is <20 mL/min/1.73 m²?",
+    "options": [
+      { "id": "a", "text": "37%" },
+      { "id": "b", "text": "70%" },
+      { "id": "c", "text": "85%" },
+      { "id": "d", "text": "97%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "**Correct:** The chapter states that GFR <20 mL/min/1.73 m² in early childhood carries a 97% likelihood of requiring renal replacement therapy by 20 years of age.\n\n**Distractors:**\n- a: 37% corresponds to the likelihood when GFR is 51–75 mL/min/1.73 m².\n- b: 70% corresponds to the likelihood when GFR is 25–50 mL/min/1.73 m².\n- c: 85% is not a value quoted in the chapter for this purpose.\n\n**Clinical Pearl:** Pre-emptive living donor kidney transplantation is the gold standard for ESKD. The GFR trajectory in early childhood helps guide timely referral for transplantation planning before dialysis becomes necessary.",
+    "topic": "CKD — outcomes and prognosis"
+  },
+  {
+    "id": "ch02-Q28",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 28,
+    "stem": "A 12-year-old with stage 4 CKD develops bone pain and is found to have features of renal osteodystrophy. Chronic kidney disease-mineral and bone disorder (CKD-MBD) results primarily from impaired metabolism of which vitamin?",
+    "options": [
+      { "id": "a", "text": "Vitamin A" },
+      { "id": "b", "text": "Vitamin B₁₂" },
+      { "id": "c", "text": "Vitamin C" },
+      { "id": "d", "text": "Vitamin D" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "**Correct:** CKD-MBD results from impaired vitamin D metabolism and secondary hyperparathyroidism, as described in the chapter. The kidneys produce less 1-alpha hydroxylase, reducing conversion of 25-hydroxyvitamin D to active 1,25-dihydroxyvitamin D3 (calcitriol).\n\n**Distractors:**\n- a: Vitamin A toxicity is a concern with standard multivitamins in CKD but is not the cause of CKD-MBD.\n- b: Vitamin B₁₂ metabolism is not primarily affected in CKD-MBD.\n- c: Vitamin C metabolism is not the central pathway involved in renal osteodystrophy.\n\n**Clinical Pearl:** Low calcitriol levels cause reduced calcium absorption from the gut and renal calcium reabsorption. Coupled with hyperphosphataemia from reduced renal phosphate excretion, this stimulates PTH secretion, leading to bone resorption and impaired mineralisation.",
+    "topic": "CKD complications — CKD-MBD"
+  },
+  {
+    "id": "ch02-Q29",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 29,
+    "stem": "A medical student is studying the pathophysiology of renal osteodystrophy. In chronic kidney disease, reduced production of which enzyme by the kidneys leads to impaired vitamin D metabolism and secondary hyperparathyroidism?",
+    "options": [
+      { "id": "a", "text": "Renin" },
+      { "id": "b", "text": "Angiotensin-converting enzyme" },
+      { "id": "c", "text": "1-alpha hydroxylase" },
+      { "id": "d", "text": "Carbonic anhydrase" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** The chapter states that in CKD, the kidneys produce less 1-alpha hydroxylase, the enzyme required to convert 25-hydroxyvitamin D (calcidiol) to its active form 1,25-dihydroxyvitamin D3 (calcitriol).\n\n**Distractors:**\n- a: Renin is involved in blood pressure regulation via the renin-angiotensin system, not vitamin D metabolism.\n- b: ACE converts angiotensin I to angiotensin II and is not involved in vitamin D metabolism.\n- d: Carbonic anhydrase is involved in acid-base homeostasis in the renal tubule, not vitamin D activation.\n\n**Clinical Pearl:** Management of CKD-MBD includes acidosis correction, dietary phosphate restriction with phosphate binders, alfacalcidol or calcitriol supplementation, and cinacalcet for refractory secondary hyperparathyroidism.",
+    "topic": "CKD complications — CKD-MBD"
+  },
+  {
+    "id": "ch02-Q30",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 30,
+    "stem": "A 12-year-old with stage 4 CKD has refractory secondary hyperparathyroidism despite dietary phosphate restriction and alfacalcidol therapy. Which additional agent may be considered as a calcimimetic to manage this condition?",
+    "options": [
+      { "id": "a", "text": "Calcium gluconate" },
+      { "id": "b", "text": "Desmopressin" },
+      { "id": "c", "text": "Cinacalcet" },
+      { "id": "d", "text": "Sodium polystyrene sulfonate" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** Cinacalcet is a calcimimetic agent that mimics the action of calcium on tissues via activation of calcium-sensing receptors. The chapter recommends it for refractory secondary hyperparathyroidism and for those at risk of tertiary hyperparathyroidism.\n\n**Distractors:**\n- a: Calcium gluconate is used for acute hypocalcaemia, not for PTH suppression.\n- b: Desmopressin is a synthetic analogue of antidiuretic hormone used for diabetes insipidus or enuresis.\n- d: Sodium polystyrene sulfonate (calcium resonium) is used for hyperkalaemia, not hyperparathyroidism.\n\n**Clinical Pearl:** The aims of CKD-MBD management are to normalise bone metabolism, improve bone strength and growth, reduce the risk of bony deformity, and reduce vascular calcification by maintaining serum calcium within the normal range.",
+    "topic": "CKD complications — CKD-MBD management"
+  },
+  {
+    "id": "ch02-Q31",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 31,
+    "stem": "A 9-year-old with stage 4 CKD is noted to be pale and fatigued. Blood tests reveal anaemia. The chapter reports the prevalence of anaemia in children with CKD by stage. What is the reported prevalence of anaemia in stage 4 CKD?",
+    "options": [
+      { "id": "a", "text": "50%" },
+      { "id": "b", "text": "73%" },
+      { "id": "c", "text": "87%" },
+      { "id": "d", "text": "93%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** The reported prevalence of anaemia is 73% for stage 3 CKD, 87% for stage 4, and >93% for stage 5, as stated in the chapter.\n\n**Distractors:**\n- a: 50% is lower than the prevalence at any stage beyond stage 2.\n- b: 73% is the prevalence for stage 3 CKD, not stage 4.\n- d: 93% (over 93%) is the prevalence for stage 5 CKD.\n\n**Clinical Pearl:** Anaemia in CKD is caused predominantly by decreased renal erythropoietin production and impaired iron regulation. It affects neurocognitive ability, exercise tolerance, and cardiovascular status, including left ventricular hypertrophy risk.",
+    "topic": "CKD complications — anaemia"
+  },
+  {
+    "id": "ch02-Q32",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 32,
+    "stem": "A paediatric nephrologist is managing anaemia in a child with stage 4 CKD. She reviews the evidence for target haemoglobin levels. According to the chapter, evidence suggests that outcomes are not improved above which haemoglobin level in children with CKD?",
+    "options": [
+      { "id": "a", "text": "10 g/dL" },
+      { "id": "b", "text": "11 g/dL" },
+      { "id": "c", "text": "12 g/dL" },
+      { "id": "d", "text": "13 g/dL" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "**Correct:** The chapter states that while the ideal haemoglobin level is debated, evidence suggests outcomes are not improved above a haemoglobin level of 13 g/dL.\n\n**Distractors:**\n- a: 10 g/dL is below the target range for children with CKD-related anaemia.\n- b: 11 g/dL is also below the level at which outcomes plateau.\n- c: 12 g/dL is close but the chapter specifically cites 13 g/dL as the threshold.\n\n**Clinical Pearl:** Recombinant human erythropoietin (rHuEPO) is almost invariably required in later stages of CKD. It can be given subcutaneously or intravenously. Younger children typically require higher doses than adults.",
+    "topic": "CKD complications — anaemia management"
+  },
+  {
+    "id": "ch02-Q33",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 33,
+    "stem": "A 6-year-old on peritoneal dialysis for ESKD requires treatment for anaemia. Recombinant human erythropoietin (rHuEPO) is prescribed. By which routes can rHuEPO be administered in children on dialysis?",
+    "options": [
+      { "id": "a", "text": "Oral or sublingual" },
+      { "id": "b", "text": "Intramuscular only" },
+      { "id": "c", "text": "Intraperitoneal only" },
+      { "id": "d", "text": "Subcutaneous or intravenous" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "**Correct:** The chapter states that rHuEPO can be administered either subcutaneously or intravenously in children on dialysis. Iron supplementation, either oral or intravenous, is also required and iron stores should be monitored to avoid overload.\n\n**Distractors:**\n- a: rHuEPO is a protein and would be digested if given orally; sublingual administration is not effective.\n- b: Intramuscular administration is not recommended for rHuEPO in children on dialysis.\n- c: Intraperitoneal administration is not a standard route for rHuEPO even in children on PD.\n\n**Clinical Pearl:** Younger children typically require higher doses of rHuEPO than adults. Iron stores should be closely monitored to avoid iron overload while ensuring adequate availability for erythropoiesis.",
+    "topic": "CKD complications — anaemia management"
+  },
+  {
+    "id": "ch02-Q34",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 34,
+    "stem": "A paediatric renal unit reviews its growth outcomes. The consultant references a study of 5000 children with CKD cited in the chapter. In that study, what proportion of children had a height lower than the third percentile?",
+    "options": [
+      { "id": "a", "text": "15%" },
+      { "id": "b", "text": "25%" },
+      { "id": "c", "text": "35%" },
+      { "id": "d", "text": "45%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** The chapter cites a study of 5000 children with CKD in which 35% had a height lower than the third percentile (or a median height standard deviation score [HtSDS] below –1.88).\n\n**Distractors:**\n- a: 15% is lower than the reported figure and underestimates the prevalence of growth impairment.\n- b: 25% is below the actual proportion reported in the study.\n- d: 45% overestimates the prevalence of short stature in the study population.\n\n**Clinical Pearl:** Growth impairment in CKD results from disorders of mineral and bone metabolism, polyuria, metabolic acidosis, poor nutritional intake, anaemia, and electrolyte disturbances. rhGH should be considered when growth remains poor despite optimisation of nutrition, dialysis, acidosis, and steroids.",
+    "topic": "CKD complications — growth impairment"
+  },
+  {
+    "id": "ch02-Q35",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 35,
+    "stem": "A 9-year-old with stage 4 CKD has persistent poor growth velocity despite optimal nutritional support and dialysis. The team considers recombinant human growth hormone (rhGH) therapy. According to the chapter, all of the following should be optimised before considering rhGH EXCEPT:",
+    "options": [
+      { "id": "a", "text": "Nutritional and dialysis status" },
+      { "id": "b", "text": "Correction of metabolic acidosis" },
+      { "id": "c", "text": "Reduction of steroid therapy to a minimum" },
+      { "id": "d", "text": "Normalisation of serum potassium" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "**Correct:** The chapter lists the prerequisites for considering rhGH as: optimal nutritional and dialysis status, correction of metabolic acidosis, and reduction of steroid therapy to a minimum. Normalisation of serum potassium is not listed as a prerequisite.\n\n**Distractors:**\n- a: Optimising nutrition and dialysis is explicitly listed as a prerequisite before rhGH.\n- b: Correction of acidosis is explicitly listed as a prerequisite.\n- c: Minimising steroid therapy is explicitly listed as a prerequisite.\n\n**Clinical Pearl:** Growth impairment is a common and visible complication of CKD. A multidisciplinary approach addressing nutrition, acidosis, anaemia, and mineral metabolism should be exhausted before initiating rhGH therapy.",
+    "topic": "CKD complications — growth hormone therapy"
+  },
+  {
+    "id": "ch02-Q36",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 36,
+    "stem": "The mother of a child with stage 4 CKD asks whether she should give her child standard over-the-counter children's multivitamins. The paediatric nephrologist advises against this. Standard childhood vitamin supplements should not be routinely prescribed for CKD patients because of adverse effects related to increased intake of which vitamin?",
+    "options": [
+      { "id": "a", "text": "Vitamin A" },
+      { "id": "b", "text": "Vitamin B₆" },
+      { "id": "c", "text": "Vitamin D" },
+      { "id": "d", "text": "Vitamin K" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "**Correct:** The chapter states that standard childhood vitamin supplements should not be routinely prescribed for CKD patients because of adverse effects related to increased intake of vitamin A. Special multivitamin supplements are available for patients on dialysis.\n\n**Distractors:**\n- b: Vitamin B₆ toxicity is not the concern; water-soluble B vitamins are generally safe and may be depleted by dialysis.\n- c: Vitamin D is actually supplemented therapeutically in CKD (as alfacalcidol or calcitriol) to manage CKD-MBD.\n- d: Vitamin K is not specifically mentioned as a concern in CKD vitamin supplementation.\n\n**Clinical Pearl:** Standard multivitamins may contain excessive vitamin A for CKD patients. Specialised renal vitamin supplements with adjusted vitamin A content are available for children on dialysis.",
+    "topic": "CKD complications — nutrition"
+  },
+  {
+    "id": "ch02-Q37",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 37,
+    "stem": "A 14-year-old with stage 5 CKD presents with a serum potassium of 6.5 mmol/L and ECG changes. Hyperkalaemia is a known complication of advanced CKD. At what level of renal function decline does hyperkalaemia typically occur?",
+    "options": [
+      { "id": "a", "text": "Less than 10% of normal GFR" },
+      { "id": "b", "text": "Less than 15% of normal GFR" },
+      { "id": "c", "text": "Less than 20% of normal GFR" },
+      { "id": "d", "text": "Less than 25% of normal GFR" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "**Correct:** The chapter states that hyperkalaemia occurs when GFR has declined to less than 10% of normal. This is mainly related to dietary intake, with contributing factors including acidosis, ACE inhibitors, and potassium-sparing diuretics.\n\n**Distractors:**\n- b: A GFR of less than 15% may still allow sufficient potassium excretion to maintain normokalaemia.\n- c: A GFR of less than 20% is too early for obligatory hyperkalaemia in most patients.\n- d: A GFR of less than 25% is well above the threshold at which hyperkalaemia typically develops.\n\n**Clinical Pearl:** Hyperkalaemia can often be managed with dietary restriction. Treatment with calcium resonium or sodium resonium may be required. ACE inhibitors and spironolactone can contribute to hyperkalaemia and should be used with caution.",
+    "topic": "CKD complications — hyperkalaemia"
+  },
+  {
+    "id": "ch02-Q38",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 38,
+    "stem": "The parents of a 6-year-old with end-stage kidney disease ask about dialysis options. They prefer a home-based therapy so their child can attend school. Peritoneal dialysis is recommended. What is the major benefit of peritoneal dialysis over other modalities for children requiring chronic dialysis?",
+    "options": [
+      { "id": "a", "text": "It can be performed at home" },
+      { "id": "b", "text": "It is more efficient at solute clearance than haemodialysis" },
+      { "id": "c", "text": "It has a lower risk of infection than haemodialysis" },
+      { "id": "d", "text": "It does not require any fluid instillation" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "**Correct:** The chapter states that peritoneal dialysis is usually the best form of renal replacement therapy for children on chronic dialysis, and the major benefit is that it can be performed at home.\n\n**Distractors:**\n- b: Haemodialysis is more efficient for solute clearance, not PD.\n- c: PD carries its own infection risks, particularly peritonitis, and the risk is not lower than HD.\n- d: PD requires instillation of sterile dialysate into the peritoneal cavity; this is the fundamental principle of the therapy.\n\n**Clinical Pearl:** PD relies on diffusion and osmosis. Commercial dialysate solutions are available with dextrose concentrations of 1.5%, 2.5%, and 4.25%. Higher dextrose concentrations increase the osmotic gradient and improve fluid removal.",
+    "topic": "RRT — peritoneal dialysis principles"
+  },
+  {
+    "id": "ch02-Q39",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 39,
+    "stem": "A 5-year-old on automated peritoneal dialysis has been using exchanges with a 4.25% dextrose solution for several months to achieve adequate ultrafiltration. The paediatric nephrologist is concerned about long-term consequences. Long-term use of hypertonic dialysate solutions in peritoneal dialysis can lead to which complication?",
+    "options": [
+      { "id": "a", "text": "Peritoneal fibrosis due to glucose degradation products" },
+      { "id": "b", "text": "Hepatic cirrhosis from dextrose absorption" },
+      { "id": "c", "text": "Pulmonary oedema from fluid overload" },
+      { "id": "d", "text": "Systemic amyloid deposition" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "**Correct:** The chapter states that long-term use of hypertonic dialysate solutions can result in peritoneal fibrosis and impaired function due to chronic exposure of the peritoneal membrane to glucose degradation products (GDPs).\n\n**Distractors:**\n- b: Hepatic cirrhosis is not a known complication of PD; any absorbed dextrose is metabolised.\n- c: Pulmonary oedema may occur with fluid overload but is not specifically caused by hypertonic solutions.\n- d: Systemic amyloidosis is not associated with hypertonic dialysate use.\n\n**Clinical Pearl:** The efficiency of PD depends on peritoneal membrane integrity and catheter function. To minimise GDP exposure, newer biocompatible PD solutions with neutral pH and reduced GDP content are increasingly used.",
+    "topic": "RRT — peritoneal dialysis complications"
+  },
+  {
+    "id": "ch02-Q40",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 40,
+    "stem": "A 7-year-old on peritoneal dialysis develops peritonitis. The team reviews indications for PD catheter removal. According to the chapter, which of the following is an indication for PD catheter removal?",
+    "options": [
+      { "id": "a", "text": "Recurrent bacterial peritonitis with the same organism within 4 weeks of stopping therapy" },
+      { "id": "b", "text": "Single episode of bacterial peritonitis responding to antibiotics" },
+      { "id": "c", "text": "Asymptomatic colonisation of the catheter tip" },
+      { "id": "d", "text": "Exit-site erythema without exudate" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "**Correct:** The chapter lists indications for PD catheter removal, including recurrent bacterial peritonitis with the same organism within 4 weeks of stopping therapy (particularly Pseudomonas, which is difficult to eradicate).\n\n**Distractors:**\n- b: A single episode responding to antibiotics is managed medically and is not an indication for catheter removal.\n- c: Asymptomatic colonisation does not necessarily require catheter removal.\n- d: Exit-site erythema without exudate may be managed conservatively and is not an indication for removal.\n\n**Clinical Pearl:** Other indications for PD catheter removal include refractory catheter infections, fungal peritonitis, and severe peritonitis leading to septic shock. If peritonitis is suspected, PD fluid should be sent for cell count and culture promptly.",
+    "topic": "RRT — PD catheter complications"
+  },
+  {
+    "id": "ch02-Q41",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 41,
+    "stem": "A 5-year-old on automated peritoneal dialysis experiences abdominal pain during the drainage phase of each cycle. The team considers a PD variant in which only a proportion of the fill volume is drained with each cycle. Which PD variant involves draining only 50–80% of the fill volume with each cycle during the overnight regimen?",
+    "options": [
+      { "id": "a", "text": "Nocturnal intermittent PD (NIPD)" },
+      { "id": "b", "text": "Continuous cycling PD (CCPD)" },
+      { "id": "c", "text": "Tidal PD" },
+      { "id": "d", "text": "Adapted APD (AAPD)" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** In Tidal PD, only a proportion of the fill volume (usually 50–80%) is drained with each cycle during the overnight PD regimen, as described in the chapter. This may be indicated in children who experience discomfort or pain with complete drainage.\n\n**Distractors:**\n- a: NIPD involves overnight PD with the peritoneal cavity left empty during the day; complete drainage occurs with each cycle.\n- b: CCPD involves a combination of overnight PD and daytime filling; it does not involve partial drainage.\n- d: AAPD offers more flexible control of dwell times and fill volumes to promote sodium removal but does not specifically involve partial drainage.\n\n**Clinical Pearl:** The main PD regimens in children are CAPD (rare), NIPD, CCPD, AAPD, and Tidal PD. The choice depends on patient comfort, clearance targets, and lifestyle considerations.",
+    "topic": "RRT — peritoneal dialysis modalities"
+  },
+  {
+    "id": "ch02-Q42",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 42,
+    "stem": "A 4-year-old in the paediatric intensive care unit with septic shock develops acute kidney injury with fluid overload. The child is haemodynamically unstable and requires vasopressor support. Which renal replacement therapy modality is the most appropriate choice for this patient?",
+    "options": [
+      { "id": "a", "text": "Intermittent haemodialysis (HD)" },
+      { "id": "b", "text": "Continuous ambulatory peritoneal dialysis (CAPD)" },
+      { "id": "c", "text": "Continuous renal replacement therapy (CRRT)" },
+      { "id": "d", "text": "Haemodiafiltration (HDF)" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** CRRT is the modality of choice for haemodynamically unstable patients, as stated in the chapter. It avoids rapid fluid shifts that may precipitate drops in blood pressure or cardiac output, making it ideal for ICU patients on vasopressors.\n\n**Distractors:**\n- a: Intermittent HD causes rapid fluid and solute shifts, which can worsen haemodynamic instability.\n- b: CAPD is a chronic therapy and is not appropriate for acute, unstable patients; it also relies on adequate perfusion of the peritoneum.\n- d: HDF is not widely available in paediatric centres and is not the first choice for acute haemodynamic instability.\n\n**Clinical Pearl:** CRRT uses an extracorporeal circuit similar to intermittent HD. It is typically used in the intensive care setting and is preferred for patients who cannot tolerate the rapid volume shifts associated with intermittent therapies.",
+    "topic": "RRT — continuous renal replacement therapy"
+  },
+  {
+    "id": "ch02-Q43",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 43,
+    "stem": "A medical student is studying the principles of haemodialysis. She learns that solute and water removal during haemodialysis relies on two main physical principles. Haemodialysis works on which combination of principles for solute and water removal?",
+    "options": [
+      { "id": "a", "text": "Diffusion and osmosis" },
+      { "id": "b", "text": "Diffusion and convection" },
+      { "id": "c", "text": "Ultrafiltration and active transport" },
+      { "id": "d", "text": "Secretion and reabsorption" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "**Correct:** The chapter states that haemodialysis works on the principles of both diffusion and convection. Water removal is mainly via hydrostatic pressure across the dialyser membrane (ultrafiltration), while waste products are removed via diffusion. Convection relies on solvent drag.\n\n**Distractors:**\n- a: Osmosis is the principle underlying peritoneal dialysis, not haemodialysis; HD uses hydrostatic pressure for water removal.\n- c: Ultrafiltration is correct for water removal but active transport is not a mechanism used in dialysis.\n- d: Secretion and reabsorption are physiological processes in the renal tubule, not mechanisms of the dialysis circuit.\n\n**Clinical Pearl:** Convection is independent of the concentration gradient across the dialysis membrane but depends on the dialyser and the rate of ultrafiltration. HDF combines haemodialysis and haemofiltration for better middle-molecule clearance.",
+    "topic": "RRT — haemodialysis principles"
+  },
+  {
+    "id": "ch02-Q44",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 44,
+    "stem": "A 12-year-old with ESKD is being prepared for chronic haemodialysis. The vascular access team discusses long-term options with the family. For chronic haemodialysis in children, which vascular access method is preferable because of the lower risk of catheter-related infection?",
+    "options": [
+      { "id": "a", "text": "Temporary double lumen catheter (Vascath)" },
+      { "id": "b", "text": "Tunnelled double lumen catheter (Permcath)" },
+      { "id": "c", "text": "Arteriovenous fistula" },
+      { "id": "d", "text": "Central venous line in the subclavian vein" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "**Correct:** The chapter states that for chronic HD, fistulas are often preferable because of the lower risk of catheter-related infection. However, disadvantages include the delay of around 6 weeks before they can be used and the need for the child to co-operate with repeated needle punctures.\n\n**Distractors:**\n- a: Temporary catheters (Vascath) are used for acute HD and carry a higher infection risk.\n- b: Tunnelled catheters (Permcath) are an alternative for chronic HD but have a higher infection risk than fistulas.\n- d: Subclavian central venous lines are not standard for chronic HD access.\n\n**Clinical Pearl:** New HD machines have been designed for small infants, with some suitable for infants weighing as little as 800 g. Home HD is increasingly used with benefits including improved school attendance and cardiovascular outcomes.",
+    "topic": "RRT — haemodialysis vascular access"
+  },
+  {
+    "id": "ch02-Q45",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 45,
+    "stem": "A 15-year-old on chronic haemodialysis has persistent cardiovascular morbidity. The team considers switching to an alternative modality. Compared with intermittent haemodialysis, haemodiafiltration (HDF) provides which advantage?",
+    "options": [
+      { "id": "a", "text": "Lower cost and wider availability" },
+      { "id": "b", "text": "Can be performed at home without training" },
+      { "id": "c", "text": "No need for vascular access" },
+      { "id": "d", "text": "More effective middle-molecule clearance and improved cardiovascular outcomes" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "**Correct:** The chapter states that HDF provides more effective removal of middle-sized molecular weight molecules and has been proven to improve long-term cardiovascular outcomes. However, limitations include restricted availability, as HDF is only provided by a few paediatric nephrology centres.\n\n**Distractors:**\n- a: HDF is more expensive and less widely available than standard HD.\n- b: HDF still requires in-centre treatment and trained staff; it is not a home therapy without training.\n- c: HDF requires the same type of vascular access as haemodialysis.\n\n**Clinical Pearl:** HDF combines diffusive and convective clearance. While it offers superior middle-molecule clearance, its use in children is limited by cost, availability, and technical expertise requirements.",
+    "topic": "RRT — haemodiafiltration"
+  },
+  {
+    "id": "ch02-Q46",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 46,
+    "stem": "A 5-year-old with end-stage kidney disease is being evaluated for renal transplantation. The transplant team discusses living donor versus deceased donor options. Compared with deceased donor kidneys, living donor kidney grafts have which outcome?",
+    "options": [
+      { "id": "a", "text": "Equivalent graft survival rates" },
+      { "id": "b", "text": "Inferior graft survival rates" },
+      { "id": "c", "text": "Superior graft survival rates only in adolescents" },
+      { "id": "d", "text": "Superior graft survival rates" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "**Correct:** The chapter states that a living donor (LD) kidney is preferable because graft survival rates are superior to those obtained with deceased donor (DD) kidneys. Pre-emptive LD transplantation is considered the gold standard for ESKD.\n\n**Distractors:**\n- a: LD and DD grafts do not have equivalent outcomes; LD grafts have superior survival.\n- b: LD grafts have superior, not inferior, survival compared with DD grafts.\n- c: The survival advantage of LD grafts applies across all age groups, not just adolescents.\n\n**Clinical Pearl:** Young children receiving a renal transplant have the best long-term outcomes of any age group. Living kidney sharing schemes have been introduced in several countries to promote paired donation and increase LD transplantation rates.",
+    "topic": "RRT — kidney transplantation"
+  },
+  {
+    "id": "ch02-Q47",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 47,
+    "stem": "An 8-year-old with ESKD is undergoing a living donor renal transplant. The anaesthetist asks about the induction immunosuppression regimen. According to the chapter, which agents are used for induction immunosuppression at the time of transplantation?",
+    "options": [
+      { "id": "a", "text": "Azathioprine and ciclosporin" },
+      { "id": "b", "text": "Cyclophosphamide and methotrexate" },
+      { "id": "c", "text": "Rituximab and bortezomib" },
+      { "id": "d", "text": "Steroids with basiliximab or antithymocyte globulin" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "**Correct:** The chapter states that the induction regimen comprises steroids and either basiliximab (an anti-CD25 monoclonal antibody) or antithymocyte globulin. Maintenance therapy after transplantation includes a calcineurin inhibitor (e.g., tacrolimus) and an antiproliferative agent (e.g., mycophenolate mofetil) with or without corticosteroids.\n\n**Distractors:**\n- a: Azathioprine and ciclosporin are older agents used historically but are not the current induction regimen.\n- b: Cyclophosphamide and methotrexate are used in oncology and autoimmune conditions, not transplant induction.\n- c: Rituximab and bortezomib are used for antibody-mediated rejection or desensitisation, not routine induction.\n\n**Clinical Pearl:** EBV screening is performed prior to transplantation as immunosuppression may allow EBV proliferation, increasing the risk of post-transplant lymphoproliferative disorder (PTLD).",
+    "topic": "RRT — transplant immunosuppression"
+  },
+  {
+    "id": "ch02-Q48",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 48,
+    "stem": "A 6-year-old renal transplant recipient presents 4 months post-transplant with fever, cough, and hypoxaemia. The chest X-ray shows bilateral interstitial infiltrates. Which opportunistic infection is the patient particularly at risk of in the first 6 months following transplantation?",
+    "options": [
+      { "id": "a", "text": "Pneumocystis jirovecii pneumonia" },
+      { "id": "b", "text": "Pulmonary tuberculosis" },
+      { "id": "c", "text": "Invasive aspergillosis" },
+      { "id": "d", "text": "Disseminated candidiasis" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "**Correct:** The chapter states that patients are particularly at risk of Pneumocystis jirovecii pneumonia in the first 6 months post-transplant, and co-trimoxazole prophylaxis is often prescribed during this period.\n\n**Distractors:**\n- b: Tuberculosis is a risk in endemic areas but is not the specific infection highlighted in the chapter for post-transplant care.\n- c: Aspergillosis can occur in immunocompromised patients but is not specifically highlighted as the main risk in the first 6 months.\n- d: Candidiasis is more typical of the early post-operative period and is not the key infectious risk highlighted.\n\n**Clinical Pearl:** Other post-transplant infection risks include EBV (increasing PTLD risk), CMV, and BK virus. Screening for EBV should be performed before transplantation. Immunosuppression also increases the long-term risk of skin cancer (especially squamous cell carcinoma) and Kaposi sarcoma.",
+    "topic": "RRT — transplant complications"
+  },
+  {
+    "id": "ch02-Q49",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 49,
+    "stem": "A 14-year-old renal transplant recipient develops hyperglycaemia 6 months post-transplant. A glucose tolerance test confirms impaired glucose tolerance. Which term best describes this complication of transplantation?",
+    "options": [
+      { "id": "a", "text": "Corticosteroid-induced hyperglycaemia" },
+      { "id": "b", "text": "Calcineurin inhibitor-induced diabetes" },
+      { "id": "c", "text": "Post-transplant diabetes mellitus" },
+      { "id": "d", "text": "New onset diabetes after transplantation (NODAT)" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "**Correct:** The chapter describes new onset diabetes after transplantation (NODAT) as impaired glucose tolerance exacerbated by corticosteroids and calcineurin inhibitors, leading to a diabetic state that may require treatment with oral agents or insulin. NODAT is associated with poorer graft survival.\n\n**Distractors:**\n- a: This describes one contributing factor but is not the complete term used for this complication.\n- b: This also describes one contributing factor but does not encompass the full entity.\n- c: 'Post-transplant diabetes mellitus' is used in some literature, but the chapter specifically uses the term NODAT.\n\n**Clinical Pearl:** Acute rejection may be T-cell mediated or antibody-mediated. Diagnosis is by renal biopsy and detection of donor-specific antibodies (DSA) in the recipient's blood. Transition from paediatric to adult care is a high-risk period for graft loss.",
+    "topic": "RRT — transplant complications"
+  },
+  {
+    "id": "ch02-Q50",
+    "chapter": "Renal Development and Dysfunction",
+    "chapterSlug": "ch02_renal-development-dysfunction",
+    "chapterNumber": 2,
+    "questionNumber": 50,
+    "stem": "A 17-year-old renal transplant recipient is being transferred from a paediatric to an adult transplant clinic. The transition period is recognised as a high-risk period for graft loss. According to the chapter, what is the primary reason for this increased risk?",
+    "options": [
+      { "id": "a", "text": "Increased frequency of acute rejection episodes due to hormonal changes at puberty" },
+      { "id": "b", "text": "Poor medication adherence and risk-taking behaviours" },
+      { "id": "c", "text": "Incompatibility of adult immunosuppressive regimens" },
+      { "id": "d", "text": "Loss of health insurance during transition" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "**Correct:** The chapter states that the transition period is a high-risk period for graft loss primarily due to poor medication adherence and risk-taking behaviours. Many centres now offer counselling, education, and specialised transition services and clinics.\n\n**Distractors:**\n- a: Hormonal changes at puberty are not identified in the chapter as the primary cause of graft loss during transition.\n- b: Immunosuppressive regimens are adapted for age but are not incompatible between paediatric and adult practice.\n- d: Loss of health insurance is not specifically cited in the chapter; the focus is on adherence and behaviour.\n\n**Clinical Pearl:** The transition from paediatric to adult health care services requires a structured, multidisciplinary approach to maintain medication adherence and prevent graft loss. Education, counselling, and specialised transition clinics are key components.",
+    "topic": "RRT — transition care"
+  }
+]

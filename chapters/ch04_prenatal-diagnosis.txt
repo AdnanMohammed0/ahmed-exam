@@ -1,0 +1,524 @@
+                                                                                                    4
+Prenatal Diagnosis
+
+SARAH L HECHT and VIJAYA M VEMULAKONDA
+
+
+Topics covered
+
+Prenatal imaging                                      Initial management
+Hydronephrotic anomalies                              Non-hydronephrotic anomalies
+Classification                                        Fetal intervention
+Diagnoses                                             Counseling
+
+
+
+
+ INTRODUCTION                                         to distinguish between those ultrasound find-
+                                                      ings which denote clinically significant urologic
+                                                      disease and ultrasound appearances which are
+Since its inception in the 1970s, prenatal screen-
+                                                      essentially innocent findings of little or no clinical
+ing with fetal ultrasonography has become nearly
+                                                      significance. Many studies have been undertaken
+ubiquitous. Abnormalities of the urogenital sys-
+                                                      with the aim of defining reliable criteria to guide
+tem are among the most commonly prenatally
+                                                      the postnatal investigation and management of
+detected congenital anomalies because of their
+                                                      infants with prenatally detected hydronephrosis.
+relatively high incidence and the fact that dilata-
+                                                      However, this remains a source of controversy.
+tion of the fetal urinary tract (hydronephrosis) is
+readily detected on ultrasound. The overwhelm-
+ing majority of prenatally detected urologic
+abnormalities are associated with some degree of       PRENATAL IMAGING
+hydronephrosis. In most cases, prenatally detected
+hydronephrosis is a mild and/or transient ultra-      Ultrasonography
+sound finding. While most infants with prenatally
+detected hydronephrosis have a very favorable out-    Ultrasonography is the primary imaging modal-
+come, a small but significant minority will prove     ity during pregnancy. First trimester ultrasound
+to have significant renal disease. Depending on       is frequently obtained to confirm a viable intra-
+prevailing attitudes to termination of pregnancy      uterine pregnancy, estimate conception date, and
+a small proportion may survive to term but then       assess nuchal pad translucency to screen for aneu-
+die shortly after birth. Researchers and consensus    ploidy. However, this is of limited value in screening
+panels have invested substantial effort into trying   for most congenital anomalies. The World Health
+
+                                                                                                         43
+44 Prenatal Diagnosis
+
+
+
+Organization recommends a single ultrasound                The reported incidence of fetal hydronephrosis
+prior to 24 weeks gestation. In the United States,         ranges from 0.5% to 5% but this figure varies
+the primary anatomic survey is obtained at 18–22           according to the gestational age at which scans
+weeks gestational age, with additional scans being         are performed. Mild prenatally detected hydro-
+performed in high risk pregnancies or if a congeni-        nephrosis is usually an innocent ultrasound find-
+tal anomaly is suspected. The second trimester scan        ing which represents a transient physiologic state
+usually provides sufficient anatomical detail to screen    of no clinical significance. The overall incidence
+for major congenital anomalies. Additional infor-          of antenatally detected hydronephrosis associ-
+mation includes the position, size and movement of         ated with a clinically significant uropathy is
+the fetus, heart rate, placental position, and the vol-    approximately 0.2%. It is important to minimize
+ume of amniotic fluid. The sensitivity and specificity     unnecessary investigation and repeated scans so
+of prenatal ultrasonography for the detection of con-      as not to exacerbate parental anxiety. There is a
+genital anomalies depends on many factors includ-          broad correlation between the degree of hydro-
+ing maternal obesity, fetal position, sonographic          nephrosis and the probable severity of the abnor-
+equipment, and experience of the person perform-           mality affecting the kidneys and/or urinary tract.
+ing the scan. Most of the serious, potentially lethal      Several classification systems have been devel-
+genitourinary anomalies, such as posterior urethral        oped to grade the severity of fetal hydronephrosis
+valves and bilateral renal agenesis are detected in the    and guide further investigation but there is no
+second trimester. However more common anoma-               consensus on which is the best for this purpose.
+lies such as vesicoureteral reflux, ectopic ureters, and
+ureteroceles are not reliably detected at this stage in    Classification Systems
+gestation and may not be detected prenatally unless
+further scans are performed later in pregnancy.            Anterior-posterior renal
+                                                           pelvic diameter
+Magnetic Resonance Imaging
+                                                           This system classifies the severity of hydrone-
+During the last two decades, prenatal magnetic             phrosis based solely on the degree of dilatation of
+resonance imaging (MRI) has been gaining pop-              the renal pelvis. It is based on measurements of
+ularity as a means of providing more detailed              the anterior-posterior (AP) diameter of the renal
+information on fetal abnormalities detected by             pelvis in the transverse plane at the level of the
+prenatal ultrasound. MRI has higher soft tissue            renal hilum (within the confines of the paren-
+contrast resolution and is not limited by maternal         chyma). The AP renal pelvic diameter varies
+habitus, fetal position, ossified structures or oligo-     according to gestational age. Therefore, the value
+hydramnios. MRI does not use ionizing radiation            chosen as the upper limit of normality strongly
+and poses no known risk to the fetus. Common               influences the specificity and sensitivity of AP
+applications in urological diagnosis include dis-          diameter as a predictor of genitourinary pathol-
+tinguishing hydronephrosis from cystic abnor-              ogy at different stages in pregnancy. Although
+malities, delineating ureteral anatomy including           there is no universal consensus, a renal pelvic
+duplication, ectopia, and ureteroceles, and clarify-       diameter of greater than 10 mm in the second
+ing the anatomy of complex anomalies such as clo-          trimester is generally regarded as a significant
+acal anomalies and exstrophy-epispadias complex.           finding, with an AP diameter of greater than
+                                                           15 mm being regarded as the upper threshold in
+                                                           the third trimester.
+
+ HYDRONEPHROSIS                                            Society for Fetal Urology (SFU)
+                                                           classification
+Dilatation of the fetal urinary tract (fetal hydro-
+nephrosis) is the most common genitourinary                The SFU developed a grading system for neonatal
+abnormality identified on antenatal screening.             and infant hydronephrosis based on a combination
+                                                                Hydronephrosis / Classification Systems 45
+
+
+
+of dilatation of the renal pelvis, calyceal dilatation   3. Renal parenchymal thickness
+and a subjective assessment of parenchymal thick-        4. Renal parenchymal appearance (echo-
+ness. Though originally devised for grading hydro-          genicity, corticomedullary differentiation,
+nephrosis postnatally, the SFU classification is also       cortical cysts)
+commonly applied to antenatal hydronephrosis.            5. Ureteral dilation
+The SFU grading is based on the following criteria:      6. Bladder pathology (ureterocele, wall thicken-
+                                                            ing, dilated posterior urethra)
+Grade 0: Normal ultrasound findings with no              7. Oligohydramnios (antenatal classification
+  dilatation                                                only)
+Grade I: Dilatation confined to the renal pelvis
+Grade II: Dilatation of the renal pelvis accompa-
+                                                         This is the only classification to take account
+  nied by dilatation of the major calyces
+                                                         of ureteral and lower urinary tract abnormali-
+Grade III: Dilatation of the renal pelvis accom-
+  panied by dilatation of the major and minor            ties and the only one to offer clinical guidance
+                                                         according to risk. Patients are allocated to dif-
+  calyces
+Grade IV: As for Grade III plus thinning of the          ferent risk categories by a combination of ultra-
+  renal cortex (Figure 4.1)                              sound findings (with the most severe findings
+                                                         taking precedence) and gestational or postnatal
+Urinary Tract Dilation (UTD)                             age. Antenatal and postnatal risk categories are
+                                                         denoted by A or P, respectively. There are two
+classification                                           antenatal risk categories: A1 (low risk) and A2-3
+The UTD classification was devised by a multi-           (intermediate/high risk) and three postnatal risk
+disciplinary consensus panel with the aims of            categories: P1 (low risk), P2 (intermediate risk),
+unifying different grading systems, introduc-            and P3 (high risk). (Figure 4.2)
+ing consistency into the terminology applied to              Each risk category has associated clini-
+antenatal and postnatal classification of hydro-         cal recommendations to guide the clinician
+nephrosis and correlating the antenatal grading          (Figure 4.3). The physiological reduction in urine
+with the clinical significance of the underlying         output which normally occurs during the first
+genitourinary abnormality. The classification            48 hours after birth may reduce the sensitivity
+encompasses the following ultrasound findings:           of ultrasound for the detection of hydronephro-
+                                                         sis during this period. Decision-making should
+ 1. Anterior-posterior renal pelvic diameter             therefore be based on ultrasound findings after
+ 2. Calyceal dilation                                    48 hours.
+
+
+
+
+Figure 4.1 (a) Unilateral SFU grade 4 hydronephrosis with blunted calyces and thinned, echogenic
+renal cortex at 22/40 weeks. (b) Bilateral SFU grade 4 hydronephrosis at 22/40 weeks.
+46 Prenatal Diagnosis
+
+
+
+
+Figure 4.2 UTD risk-based sonographic classification of hydronephrosis. (A) Prenatal classification.
+Central and peripheral calyceal dilation may be difficult to evaluate early in gestation. Oligohydramnios
+must be suspected to result from a genitourinary cause. (B) Postnatal sonographic classification of
+hydronephrosis.
+
+
+Postnatal investigation                               hydronephrosis on routine antenatal ultraso-
+                                                      nography can cause considerable parental anx-
+Prenatally detected hydronephrosis is a non-          iety and it is important that parents are given
+specific finding and, where appropriate, further      appropriate reassurance. It is also important
+imaging investigations are required to establish      that newborn infants with mild hydronephro-
+the urological diagnosis. Postnatal diagnostic        sis are not submitted to unnecessary, invasive
+imaging always begins with a renal and bladder        investigations. Mild hydronephrosis may be a
+ultrasound. Depending on the initial ultrasound       marker of underlying VUR but when this is the
+findings and other factors, further investigations    case it usually low grade and of doubtful clini-
+typically comprise a voiding cystourethrogram         cal significance. SFU and AUA guidelines do not
+(VCUG) and functional isotope renography.             advocate routine VCUG in infants with mild
+                                                      (SFU Grade I) prenatally detected hydronephro-
+Mild hydronephrosis                                   sis but recommend that VCUG is used more
+                                                      selectively on the basis of additional ultrasono-
+Dilatation of the renal pelvis corresponding to       graphic criteria.
+Grade I on the SFU scale is a common finding
+which is present in 1:100 pregnancies. It is often    Ureteropelvic junction (UPJ)
+a self-limiting physiological phenomenon –            obstruction
+which resolves spontaneously by the third tri-
+mester in more than 50% of cases. There is now        The most common underlying cause of clini-
+general agreement that this finding can usually       cally significant hydronephrosis is UPJ obstruc-
+be disregarded if the dilatation is confined to       tion, which occurs in approximately 1 in 500 live
+the renal pelvis and the AP diameter is less than     births. UPJ obstruction is characterized by partial
+10mm. Follow up studies of children born with         or intermittent occlusion of the lumen of the UPJ.
+mild hydronephrosis have found that their inci-       Dilatation is confined to the renal collecting sys-
+dence of UTIs and bladder symptoms in child-          tems unless the UPJ obstruction is associated with
+hood is no higher than in age matched normal          other urinary tract abnormalities – in which case
+controls. Nevertheless, the discovery of mild         ureteral dilatation and/or bladder abnormalities
+                                                          Hydronephrosis / Classification Systems 47
+
+
+
+
+Figure 4.3 UTD risk-based guidelines for management of hydronephrosis. (A) Follow-up
+recommendations for prenatally diagnosed hydronephrosis. (B) Management recommendations
+based on postnatal ultrasound.
+
+
+may also be present. Boys are affected more com-   management of prenatally detected UPJ obstruc-
+monly than girls, and approximately 10% of cases   tion are reviewed in greater detail in Chapter 7.
+are bilateral. There is usually a good correla-    In brief, it is generally agreed that early pyelo-
+tion between the degree of hydronephrosis and      plasty is indicated for infants with severe hydro-
+the severity of obstruction and impact on renal    nephrosis and/or reduced differential function.
+function (as demonstrated by isotope renogra-      Pyeloplasty remains the surgical “gold standard”
+phy). The indications for pyeloplasty and the      and has a very high success rate for the correction
+arguments surrounding conservative or surgical     of UPJ obstruction.
+48 Prenatal Diagnosis
+
+
+
+Vesicoureteral reflux
+As noted already, VUR is one of the conditions
+which may give rise to prenatal hydronephrosis.
+However, there are no pathognomonic ultraso-
+nographic features and the diagnosis of VUR can
+only be reliably established on a postnatal VCUG.
+At one time this was performed routinely in all
+infants with prenatally detected hydronephrosis,
+regardless of severity. However, current SFU and
+AUA guidelines recommend that VCUG should
+be limited to infants with higher grades of hydro-
+nephrosis (III–IV on the SFU scale) and/or those
+with ureteral dilatation (hydroureter) or bladder
+abnormalities. This is considered in more detail
+                                                       Figure 4.4 Prenatal ultrasound showing a
+in Chapter 6.
+                                                       distended bladder and dilated posterior
+                                                       urethra (arrow) in a fetus with posterior
+Other urological conditions                            urethral valves.
+
+Primary megaureter accounts for around 5–10%
+of cases of fetal hydronephrosis. On ultrasound,       ultrasound findings such as a distended, thick
+the degree of ureteral dilatation may be dispro-       walled bladder and dilated posterior urethra
+portionally greater than the degree of renal dilata-   (keyhole sign) (Figure 4.4). Other ultrasound
+tion. After 30 weeks gestation a ureteral diameter     findings may include changes in the renal paren-
+of greater than 7 mm is regarded as an abnormal        chyma denoting dysplasia, bladder diverticula,
+finding constituting a diagnosis of megaureter.        patent urachus, or rupture of a renal fornix or
+The postnatal investigation, classification, and       calyx with a perinephric urinoma or urinary
+management of megaureters are considered in            ascites. Oligohydramnios and pulmonary hypo-
+Chapter 7. Ureteroceles may be detected pre-           plasia are indicative of severe renal dysplasia and
+natally and are characterized by appearances           predictors of a poor prognosis. The role of fetal
+of a thin septum or thin walled cystic structure       intervention is described later in this chapter and
+within the bladder. This finding may be accom-         the postnatal investigation and management of
+panied by upper tract dilatation and bilateral         PUV is reviewed in Chapter 9.
+hydronephrosis if the ureterocele has prolapsed
+into bladder outlet or urethra to cause outflow        Postnatal Management: General
+obstruction. Similarly, ureteroceles which are         Considerations
+associated with an ectopic ureter associated
+with the upper pole of a duplex kidney may be          The UTD guidelines leave much to the discretion
+accompanied by ureteral dilatation and abnormal        of the clinician. There is significant variation in
+ultrasound appearances of the kidney itself. The       the empirical use of prophylactic antibiotics and
+postnatal assessment and management of ure-            indications for VCUG and isotope renography.
+teroceles and upper tract duplication is addressed
+in Chapter 8.                                          Prophylactic antibiotics
+
+Posterior urethral valves (PUV)                        The published evidence provides limited support
+                                                       for the use of antibiotic prophylaxis in infants
+Bilateral hydronephrosis in a male fetus is highly     born with prenatally detected hydronephrosis.
+suggestive of posterior urethral valves and the        A randomized controlled trial comparing trim-
+diagnosis is strongly supported by additional          ethoprim to placebo in infants with prenatally
+                                                                        Non-hydronephrotic anomalies 49
+
+
+
+detected SFU Grade III–IV hydronephrosis is             difficult to interpret in neonates because of the
+ongoing. The antibiotics used most commonly for         functional immaturity of their kidneys. For this
+urinary prophylaxis in neonates include amoxicil-       reason radionuclide scans should be deferred until
+lin (10–20 mg/kg/day), cephalexin (10 mg/kg/day),       6–8 weeks. of age. The indications for diuretic
+and trimethoprim (2 mg/kg/day). Trimethoprim-           renography include:
+sulfamethoxazole and nitrofurantoin are contra-
+indicated because of the risks of kernicterus and       ●● Moderate to severe hydronephrosis (anterior-
+hemolytic anemia, respectively. The following pre-         posterior renal pelvic diameter >10mm, SFU
+natally detected urological conditions are gener-          Grade III–IV) with absence of vesicoureteral
+ally regarded as indications for postnatal antibiotic      reflux
+prophylaxis:                                            ●● Establishing baseline function prior to sur-
+
+                                                           gery to relieve obstruction (e.g. UPJ obstruc-
+●● Lower urinary tract obstruction (e.g. poste-            tion, UVJ obstruction)
+                                                        ●● Confirming poor function in a kidney prior
+   rior urethral valves, urethral atresia)
+●● Ureterovesical junction obstruction (e.g.               to nephrectomy
+   obstructing megaureter, ectopic ureter, or
+   ureterocele)
+●● Moderate to high grades of vesicoureteral
+                                                         NON-HYDRONEPHROTIC
+   reflux in girls
+                                                         ANOMALIES
+
+Voiding cystourethrogram (VCUG)                         Urological abnormalities which are associated
+                                                        with hydronephrosis are more readily detected
+The generally accepted indications for postnatal
+                                                        on prenatal ultrasonography than those which
+VCUG include:
+                                                        are not. Nevertheless, other urologic abnor-
+                                                        malities can be identified by prenatal ultra-
+●● Abnormal bladder (e.g. thick wall, keyhole           sound – and genital anomalies are occasionally
+   sign, diverticula)                                   diagnosed prenatally. The finding of a urologi-
+●● Bilateral hydronephrosis in boys (a VCUG
+                                                        cal anomaly may also lead to the diagnosis of a
+   should always be performed prior to dis-             more severe, complex congenital abnormality,
+   charge from the hospital to investigate for          or syndrome.
+   posterior urethral valves)                              The anatomical features and clinical aspects
+●● Multicystic dysplastic kidney with an abnor-
+                                                        of abnormalities of ascent and fusion are
+   mal contralateral kidney                             described in Chapter 14. Renal ectopia is fre-
+●● Ureteral dilation
+                                                        quently associated with other congenital anom-
+●● Duplex kidney with hydronephrosis in either
+                                                        alies and may be a component of more complex
+   moiety                                               syndromes such as VACTERL and agenesis of
+●● Large ureterocele (to investigate possible
+                                                        the corpus callosum.
+   prolapse)                                               A simple ectopic kidney may be located any-
+                                                        where along the embryological path of ascent
+Renography                                              to the lumbar renal fossa. Pelvic kidneys are
+                                                        the most common form of simple ectopia-
+The most widely used radionuclide scan is the           accounting for 60% of all cases. In addition to its
+technetium-99 m-mercaptoacetyltriglycine (MAG-3)        abnormal location, a pelvic kidney is frequently
+diuretic renogram. This has the advantage of com-       malrotated, hypoplastic, and irregular in shape.
+bining information on drainage with an assess-          A horseshoe kidney is formed by fusion of
+ment of differential renal function. The technical      the left and right kidneys which, in the major-
+aspects are detailed in Chapter 3. Radionuclide         ity of cases are joined at their lower poles by an
+scans are less reliable and the results are more        isthmus of renal parenchyma or dysplastic or
+50 Prenatal Diagnosis
+
+
+
+fibrous tissue. Horseshoe kidneys are commonly       VACTERL complex. It may also occur in con-
+found in association with other abnormalities        junction with genital anomalies, notably absence
+or syndromes, notably Turner’s syndrome and          of the vas deferens in males and Müllerian anom-
+abnormalities of the central nervous system, the     alies in girls. Bilateral renal agenesis occurs in
+gastrointestinal tract, and the skeletal and car-    around 1 in 4000 pregnancies. Ultrasound fea-
+diovascular systems. Crossed renal ectopia is a      tures comprise absence of both kidneys (empty
+rare form of renal ectopia in which both kidneys     lumbar fossae) early anhydramnios, and lack of
+are located on the same side of midline. In most     bladder filling. If the pregnancy proceeds to term,
+cases the kidneys are fused but the kidney which     bilateral renal agenesis generally results in the
+is abnormally located retains its vessels and ure-   early demise of the infant from pulmonary insuf-
+ters from the contralateral side. The abnormal-      ficiency and renal failure.
+ity may either be visualized directly by prenatal        Cystic renal disease is reviewed in detail in
+ultrasonography or may be identified indirectly      Chapter 10. The form most commonly detected by
+when a kidney cannot be visualized in the con-       prenatal ultrasonography is autosomal recessive
+tralateral renal fossa. Further investigation is     polycystic kidney disease (ARPKD) which occurs
+usually indicated after birth because of the rela-   in 1 in 20,000 live births. On ultrasound, the
+tively high incidence of VUR and other abnor-        kidneys typically appear markedly enlarged and
+malities. Unilateral renal agenesis occurs in 1 in   echogenic with poor or even reversed corticome-
+around 1300 pregnancies and is more common           dullary differentiation (Figure 4.5). However, the
+in twins. On ultrasound, the lumbar fossa is         kidneys may appear normal up to the 20th week
+empty and the adrenal gland appears elongated.       of gestation.
+The contralateral kidney may demonstrate com-            Unilateral multicystic dysplastic kidney
+pensatory hypertrophy. Unilateral renal agenesis     (MCDK) is one of the commonest prenatally
+is typically a sporadic anomaly but can occur in     detected renal malformations (Figure 4.6). This
+association with chromosomal or developmen-          partly because of its relative frequency (between
+tal defects such as DiGeorge syndrome or the         1:2500 and 1:4000 pregnancies) and partly
+
+
+
+
+Figure 4.5 Prenatal imaging at 33/40 weeks showed markedly enlarged, bright kidneys consistent
+with infantile ARPKD. (A) Ultrasound shows echogenic kidneys. (B) MRI shows T2 hyperintense
+kidneys. The fetal bladder is empty, and there is severe oligohydramnios.
+                                     Non-hydronephrotic anomalies / Syndromes, Genital Anomalies 51
+
+
+
+                                                      Fetal intervention
+                                                      Fetal diagnosis prompts the question of fetal inter-
+                                                      vention. Of the currently available fetal interven-
+                                                      tions, decompression of an obstructed fetal urinary
+                                                      tract and intrauterine closure of myelomeningocele
+                                                      are those of greatest relevance to pediatric urology.
+                                                      To date, the outcomes of both forms of interven-
+                                                      tion have been disappointing, with a significant
+                                                      incidence of perinatal complications and little evi-
+                                                      dence of benefit for bladder and renal function.
+
+                                                      Vesicoamniotic shunting
+
+Figure 4.6 Multicystic dysplastic kidney at           The aims of this form of prenatal intervention for
+22/40 weeks.                                          bladder outlet obstruction are:
+
+                                                      1. To prevent pulmonary hypoplasia (the main
+because of the ease with which the fluid-filled          cause of neonatal death)
+cysts can be visualized on ultrasound. Bilateral      2. To improve the outcome for renal function
+MCDK has an incidence of around 1:20,000 and          3. To improve the outlook for bladder function
+is a lethal condition. The further investigation of
+MCDKs and the controversies surrounding their         The commonest indication is to alleviate the effects
+management are considered in Chapter 10.              of outflow obstruction due to posterior urethral
+                                                      valves. Although, fetal cystoscopic valve ablation
+Syndromes, Genital Anomalies                          and open vesicostomy have been reported the
+                                                      most commonly performed procedure consists
+Many conditions involving the genitourinary           of decompressing the obstructed urinary tract by
+system are routinely diagnosed prenatally.            use of a vesicoamniotic shunt. Under ultrasound
+Among the commonest are myelomeningocele              guidance a trocar is inserted through the mater-
+and sacral agenesis – which almost invariably         nal abdominal wall and uterus into the bladder. A
+give rise to neurogenic bladder dysfunction.          double-pigtail shunt is then introduced, with one
+Cloacal anomalies may be suspected in fetuses         end in the fetal bladder and the other in the amni-
+with a pelvic cystic structure (hydrocolpos),         otic cavity. If there is oligohydramnios it may be
+poorly visualized bladder, and bilateral hydro-       necessary to infuse fluid into the amniotic cavity
+nephrosis. Although bladder exstrophy is associ-      to facilitate this maneuver (Figure 4.7).
+ated with a number of diagnostic features these           Vesicoamniotic shunting is usually performed
+are not always easy to detect with the result that    before 26 weeks. When performed after 26 weeks
+only 50% of cases are diagnosed prenatally. Bowel     it is unlikely to lead to any improvement in
+distension may suggest an anorectal malforma-         pulmonary function. The selection criteria are
+tion, particularly if this is accompanied by other    quite complex and include; recent onset of oli-
+features of VACTERL (vertebral, anorectal, car-       gohydramnios, functioning kidneys capable of
+diac, esophageal fistula, renal, limb) anomalies.     urine output, normal karyotype and absence of
+Isolated genital anomalies can also be detected       co-existing congenital abnormalities. Serial fetal
+prenatally – the most common being virilized          urine sampling is recommended to aid selection
+genitalia in a female with 46 XX DSD due to con-      for intervention. High urinary levels of sodium,
+genital adrenal hyperplasia. Other forms of DSD       calcium, and β 2-microglobulin are predictors of
+may be identified because of discordance between      poor renal function (Table 4.1). The combination
+genotype and prenatal ultrasonography.                of unfavorable fetal urine electrolyte markers
+52 Prenatal Diagnosis
+
+
+
+
+Figure 4.7 Vesicoamniotic shunt. (a) A double pigtail shunt diverts urine from the fetal bladder into
+the amniotic cavity. (b) Postnatal image showing the extra-abdominal portion of the shunt with
+associated prolapsed, hypertrophic bladder tissue.
+
+Table 4.1 Threshold values of fetal urine             trial was terminated prematurely because of dif-
+parameters that predict good renal function           ficulties in recruiting sufficient patient numbers.
+
+                           Good prognosis
+                                                      Myelomeningocele closure
+Sodium                     <100 mEq/L
+Chloride                   <90 mEq/L                  The traditional surgical management of myelo-
+Calcium                    <4 mEq/L                   meningocele consists of surgical closure in the
+Osmolality                 <210 mOsm/L                early neonatal period. In utero surgical closure
+β2-microglobulin           <10 mg/L                   was proposed in the hope of improving neurologic
+                                                      outcomes. The first case was reported in 1997 and
+Total protein              <20 mg/dl
+                                                      the results of an initial comparative outcome trial
+                                                      (management of myelomeningocele study [MOMS]
+and/or echogenic kidneys with cortical cysts is a     were published in 2003. These demonstrated that in
+contraindication to shunting.                         utero closure of the myelomeningocele was associ-
+    Although vesicoamniotic shunting appears          ated with a reduced requirement for ventriculo-
+to have the potential to improve pulmonary out-       peritoneal shunting and improved early outcomes
+comes, the benefits (if any) for renal and bladder    for cognitive and motor function. However, it did
+function remain unproven. The incidence of com-       not lead to any improvement in bladder function.
+plications is high (45%) – including premature        Complications of intrauterine closure of myelo-
+labor, shunt migration, shunt blockage, and cho-      meningocele include increased rates of premature
+rioamnionitis. Further shunting procedures are        birth and uterine dehiscence. Fetoscopic tech-
+often required, with an average of 2.5 shunt place-   niques have been developed as an alternative to
+ments per pregnancy. The percutaneous shunting        open fetal surgery, with initial data suggesting they
+in lower urinary tract obstruction (PLUTO ) trial     carry a lower risk of maternal complications.
+was a randomized-controlled study to evaluate
+the efficacy and safety of vesicoamniotic shunt-      Amnioinfusion
+ing. Analysis of the initial results indicated that
+survival rates were improved by shunting but the      Amnioinfusion is a technique in which saline
+prognosis for renal function remained poor. The       is infused into the amniotic cavity with the
+                                                                                  Prenatal counseling 53
+
+
+
+intention of alleviating the effects of oligohy-      and significant coexisting nonurologic condition)
+dramnios on pulmonary development. There              counseling will involve input from specialists in
+have been recent case reports that the use of         the relevant disciplines to ensure parents are fully
+amnioinfusion in cases of bilateral renal agenesis    informed on the implications for their child and
+permitted sufficient pulmonary development for        the family. These discussions may include, for
+postnatal survival followed by postnatal dialysis     example the probable requirement for intermit-
+as a bridge to renal transplant. This is still con-   tent catheterization for children with neurogenic
+sidered an experimental intervention and should       bladder and dialysis and future kidney trans-
+not be routinely offered.                             plant in urologic conditions posing a risk of renal
+                                                      insufficiency and chronic kidney disease. Broader
+Termination of pregnancy                              issues relating to changes in lifestyle and financial
+                                                      implications of caring for a child with a long-term
+(therapeutic abortion)
+                                                      chronic condition will also need to be raised with
+Although this remains a controversial issue,          the parents.
+termination of pregnancy for severe or lethal            These are uncomfortable issues to discuss,
+congenital abnormalities has long been legally        but a full discussion is necessary to ensure that
+permissible (subject to certain criteria) in many     parents have all the information they need when
+countries. The combination of prenatal diagnosis      making life-changing decisions.
+and termination of pregnancy may explain why             Following the prenatal diagnosis of severe
+the last two to three decades have seen declin-       anomalies, parents must be reassured that what-
+ing numbers of referrals for severe but nonlethal     ever course of action they choose (aggressive
+urologic malformations such as prune-belly syn-       medical intervention, limited medical interven-
+drome and cloacal and classic bladder exstrophy.      tion, comfort care, and termination of preg-
+                                                      nancy) is valid, and that their medical team will
+                                                      support them in their decision.
+
+ PRENATAL COUNSELING
+
+When counseling expecting parents, clinicians             KEY POINTS
+should explain the differential diagnosis, the
+likely perinatal course (including required inves-       ●● Most infants with prenatally detected
+tigations,) and provide an overview of the longer           hydronephrosis will require no
+term prognosis.                                             intervention.
+    Counseling for the majority of cases of pre-         ●● Abnormalities of the renal parenchyma,
+natally detected hydronephrosis should focus on             ureter, and/or bladder suggest a
+reassuring parents. Mild hydronephrosis (SFU                clinically significant pathology.
+Grade I) is often a transient physiological phe-         ●● The urinary tract dilation (UTD) clas-
+nomenon and even when it persists postnatally               sification is the first system to unify
+is unlikely to be clinically significant or require         descriptions of prenatal and postnatal
+invasive investigation. More significant prena-             hydronephrosis, and to provide
+tally detected conditions such as ureteropelvic             guidance regarding initial management.
+junction, vesico ureteral reflux, and unilateral         ●● Routine antibiotic prophylaxis, voiding
+multicystic dysplastic kidney may resolve with-             cystourethrogram, and renography are
+out requiring operative intervention. Parents               unnecessary for the majority of patients
+can also be reassured that even when operative              diagnosed with prenatal hydronephrosis.
+intervention is required, the majority of children       ●● The benefits of fetal intervention are
+experience favorable outcomes.                              uncertain, and fetal surgery should not be
+    When the prognosis is far less favorable (e.g.          pursued outside of high volume centers.
+oligohydramnios, bilateral renal abnormalities,
+54 Prenatal Diagnosis
+
+
+
+FURTHER READING                                       conservative management for fetal lower uri-
+                                                      nary tract obstruction (PLUTO): a randomised
+Braga Luis H, Farrokhyar Forough, D’Cruz              trial. Lancet. 2013;382(9903):1496–1506.
+   Jennifer, Pemberton Julia, Lorenzo             Nguyen HT, Benson CB, Bryann B, et al.
+   Armando J. Risk Factors for Febrile Urinary        Multidisciplinary consensus on the classifica-
+   Tract Infection in Children with Prenatal          tion of prenatal and postnatal urinary tract
+   Hydronephrosis: A Prospective Study. J Urol.       dilation (UTD classification system). J Pediatr
+   2015;193(5S):1766–1771.                            Urol. 2014;10:982–999.
+Capolicchio J-P, Braga LH, Szymanski KM.          Sairam S, Al-Habib A, Sasson S, Thilaganathan
+   Canadian Urological Association/Pediatric          B. Natural history of fetal hydronephro-
+   Urologists of Canada guidelines on the             sis diagnosed on mid-trimester ultra-
+   investigation and management of ante-              sound. Ultrasound Obstet Gynecol.
+   natally detected hydronephrosis. CUAJ.             2001;17(3):191–196.
+   2017;12(4):85–92.
+Morris RK, Malin GL, Quinlan-Jones E,
+   Middleton LJ, Hemming K, Burke D, et al.
+   Percutaneous vesicoamniotic shunting versus

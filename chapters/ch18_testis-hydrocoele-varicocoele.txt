@@ -1,0 +1,756 @@
+                                                                                           18
+Testis, Hydrocoele and Varicocoele
+
+PRASAD P GODBOLE and NICHOLAS P MADDEN
+
+
+Topics covered
+
+Undescended testis                                  Hydrocoele
+  Epidemiology                                         Pathophysiology
+  Pathophysiology                                      Examination, treatment
+  Impalpable testis, retractile testis, ascending   Varicocoele
+  testis                                               Pathophysiology
+  Examination, treatment and long-term                 Examination
+  outcomes                                             Treatment and long-term outcomes
+
+
+
+
+ INTRODUCTION                                        UNDESCENDED TESTIS
+                                                     (CRYPTORCHIDISM)
+Hernias, hydroceles and undescended testes                         More in premature ( 30% incidence )
+are some of the commonest congenital anoma-         Incidence
+lies treated by paediatric urologists and pae-
+diatric surgeons. Historically, many children       Undescended testis (UDT) is the commonest con-
+with these conditions were treated by adult         genital anomaly in males, with a reported incidence
+surgeons but with changes in training and           of 1.5–3% in term infants and up to 30% in prema-
+greater specialisation they are now being man-      ture infants. Some congenitally undescended testes
+aged increasingly by paediatric specialists.        descend spontaneously in the first few months of
+This chapter will provide an overview of unde-      life in response to high levels of circulating testos-
+scended testis (UDT) (including impalpable          terone. This phenomenon, termed ‘mini-puberty’
+testis, retractile testis and ascending testis),    results from stimulation by pituitary gonadotro-
+hydrocele and varicocele.                           phins in the early postnatal period. Because some
+                                                    undescended testes descend spontaneously during
+                                                    this period the incidence of UDT falls to 1–2% by
+                                                    6–12 months of age. Spontaneous descent does not
+                                                    occur after 6 months and hence a ‘wait and watch’
+                                                    strategy after this age is not justified.
+
+                                                                                                      239
+240 Testis, Hydrocoele and Varicocoele
+
+
+
+Pathophysiology                                            The histological appearances of testes which
+                                                       have undergone secondary ascent (ʻacquired
+Maintenance of a testicular temperature                UDTʼ) have been reported to resemble those
+2–3 degrees below the core body temperature is         of congenitally undescended testes which have
+essential for normal spermatogenesis. When the         remained outside the scrotum until orchidopexy
+testis is located in the inguinal canal or abdomen     in later childhood. There is therefore a substantial
+it is exposed to a higher ambient temperature          body of evidence to indicate that elevated temper-
+than in the scrotum and spermatogenesis is con-        ature is a major factor in the degenerative changes
+sequently impaired.                                    occurring in undescended testes. Undescended
+    The onset of spermatogenesis does not com-         testes are also associated with an appreciable inci-
+mence until puberty but differentiation and mat-       dence of coexisting congenital abnormalities of
+uration of the germ cells which will eventually        the epididymis and vas deferens, which may also
+be responsible for the production of spermato-         contribute to impaired fertility in adult life.
+zoa begins in fetal life and continues postnatally.
+At the time of birth, the seminiferous tubules         Classification
+are populated by fetal stem cells (gonocytes). In
+response to the surge of gonadotropins and tes-        The most practical distinction lies between palpable
+tosterone (mini-puberty) these cells undergo           and the impalpable testes. Approximately, 10–15%
+transformation to become adult dark (Ad) sper-         of UDT are impalpable. An impalpable testis may
+matogonia between 3 and 9 months of age. After         be intra-abdominal – in which case it may be visu-
+a period of inactivity, Ad spermatogonia prolif-       alised on laparoscopy or, alternatively, it may have
+erate and mature into primary spermatocytes at         atrophied following torsion or some other vascular
+around 5–6 years of age. The primary spermato-         event in intrauterine life. In addition, a testis lying
+cytes remain quiescent until puberty when they         within the inguinal canal may sometimes be dif-
+are stimulated by gonadotrophins and testoster-        ficult or impossible to palpate if it moves in and out
+one to undergo meiotic division to create second-      of the internal ring – or is obscured by subcutane-
+ary spermatocytes. These then undergo a further        ous fat in boys who are overweight.
+meiotic division to form spermatids and sper-              The anatomical classification of UDT can be
+matozoa. As a consequence of the two sequential        further subdivided into maldescended testes,
+meiotic divisions a single primary spermatocyte        which are located somewhere along the normal
+eventually gives rise to four spermatozoa. Of the      line of descent, and ectopic testes lying outside
+neonatal gonocytes which are present in the testis     the normal line of descent. Ectopic gonads are
+at the time of birth only a minority transforms        most commonly located in the perineum, lat-
+into Ad spermatogonia and the remaining gono-          eral to the scrotum (Figure 18.1), occasionally in
+cytes undergo involution by apoptosis. By 2 years      the thigh, and exceptionally, as crossed ectopia,
+of age there should normally be no undifferenti-       in which the testis is located in the contralateral
+ated gonocytes remaining within the testis.            hemiscrotum. Although undescended testes are
+    Gonocyte transformation into Ad spermato-          often found within a region commonly termed
+gonia is impaired or absent in undescended tes-        the ‘superficial inguinal pouch’, this location is
+tes. Moreover, the redundant neonatal gonocytes        no longer considered to be genuinely ‘ectopic’.
+which would normally be eliminated by apoptosis
+persist – thus contributing to the increased risk of   Presentation
+the later development of malignancy. The impair-
+ment of normal germ cell transformation in unde-       Undescended testes are most frequently diag-
+scended testes results in a diminished pool of adult   nosed during routine neonatal examination. If
+stem cells available for spermatogenesis at puberty,   the testis cannot be identified in the scrotum at
+with a resulting reduction in sperm density, impair-   that stage the infant should be re-examined at
+ment of semen quality and possible infertility.        3 months of age (or 52 weeks postconceptual age
+                                       Undescended testis (Cryptorchidism) / History and Examination 241
+
+
+
+                                                          case the diagnosis is evidently one of retractile
+                                                          testis. Sometimes there is obvious asymmetry of
+                                                          the scrotum or the scrotum may appear small or
+                                                          ʻshallowʼ. The examiner’s hands should not be
+                                                          cold and the examination should be conducted in
+                                                          a relaxed, warm environment. Starting laterally
+                                                          to the internal ring, one hand moves down the
+                                                          inguinal canal, ‘milking’ the testis towards the
+                                                          scrotum. Once this hand reaches the pubic tuber-
+                                                          cle, the other hand is used to locate the testis and
+                                                          draw it gently downwards towards the scrotum.
+                                                             A testis which can be readily manipulated
+Figure 18.1 Right ectopic testis. Empty right             to the floor of the scrotum, and remains there,
+hemi-scrotum, and a visible swelling (ectopic             is evidently ʻretractileʼ and essentially normal
+testis) in the perineum lateral to the scrotum.           (Figure 18.2). In other instances, although the
+                                                          testis can be brought to the base of the scrotum,
+in premature infants). During the first 3 months          this can only be achieved with some difficulty
+of life, the cremasteric reflex is absent, so it should   and is followed by immediate reascent once trac-
+be possible to assess the true location of the testis     tion is released. This is commonly termed a ‘high
+more reliably at this age than in later infancy and       retractile testis’.
+childhood. Testicular maldescent may also be                 In infants, thickening of the spermatic
+identified for the first time during routine devel-       cord may denote the presence of a patent
+opmental assessments at 6–8 months of age, or
+subsequent school medical examinations.
+    The right testis is more commonly unde-
+scended than the left, and in approximately 20%
+of cases the condition is bilateral.
+    Older boys who are referred for an opinion on
+an ‘UDT’ more often prove to have a retractile or
+ascending testis. The term ‘retractile testis’ should
+be confined to a testis which, regardless of its ini-
+tial position can be brought fully to the floor of the
+scrotum without tension on the spermatic cord.
+However, the distinction between undescended
+and retractile testes is not as clear cut as was once
+thought because incompletely descended testes
+may also demonstrate ʻretractilityʼ due to over-
+activity of cremasteric muscle surrounding the
+spermatic cord.
+
+History and Examination
+Relevant aspects of the history include ; the ante-
+natal history, duration of pregnancy, information
+on any medication taken during pregnancy and
+whether the parents were notified of any abnor-
+mal findings following the routine neonatal               Figure 18.2 True retractile testis, brought
+examination. On inspection, both testes may be            easily to the floor of the scrotum without undue
+visible in the bottom of the scrotum – in which           traction.
+242 Testis, Hydrocoele and Varicocoele
+
+
+
+processus – raising the possibility of an associ-        testis is absent (anorchia), whether it is located
+ated inguinal hernia. It is also important to look       within the abdomen or is represented by an
+for possible ectopic testes – which are most often       atrophic nubbin of tissue within the inguinal
+located in the perineum immediately lateral to           canal. In approximately 40% of cases, the tes-
+the scrotum.                                             tis lies intra-abdominally. In 30% the testis has
+                                                         ‘vanished’, with vas and vessels ending blindly
+Management                                               deep to the internal inguinal ring, in 20% the
+                                                         vas and vessels end blindly within the inguinal
+Hormonal treatment                                       canal and in 10% of cases, the impalpable tes-
+                                                         tis is present but concealed within the inguinal
+There is a very limited role for hormonal treat-         canal.
+ment in the management of high retractile testes.            Ultrasound is an unreliable diagnostic modal-
+However, the findings of a large double-blind pla-       ity for determining whether a testis is intra-
+cebo cross-over trial conclusively demonstrated          abdominal or absent – yielding both false-positive
+that it is ineffective in treating congenitally unde-    and false-negative results. Magnetic resonance
+scended testes. Hormonal treatment typically             imaging (MRI) is also unreliable (unless combined
+consists of intramuscular injections of human            with angiography) and usually requires the a gen-
+chorionic gonadotrophin (HCG) once or twice              eral anaesthetic. Ultrasound can occasionally play
+weekly for three weeks. Alternatively, luteinis-         a useful role, however, by visualizing a testis in the
+ing hormone-releasing hormone (LHRH) can                 inguinal canal of an overweight boy in whom the
+be administered via an intranasal route four to          testis cannot be identified on clinical examination.
+six times daily for the same period. Pre-operative           Laparoscopy remains the investigation of
+hormonal treatment has also been advocated to            first choice in cases of impalpable testis, being
+facilitate a potentially difficult orchidopexy.          both highly reliable and providing positive
+                                                         guidance for further management. The possible
+Surgery                                                  findings should be explained to the parents pre-
+                                                         operatively and consent obtained for possible
+PALPABLE UNDESCENDED TESTIS                              orchidectomy in certain situations. There are five
+The standard single-stage orchidopexy is usually         possible laparoscopic findings:
+undertaken as a day-case procedure. Historically,
+orchidopexy was performed at a much later age –          ●● Testis lying adjacent to the internal inguinal
+typically at 10–15 years of age in the 1950s. However,      ring. Such testes are usually amenable to a
+the recommended age for orchidopexy was then                single-stage orchidopexy using a conventional
+gradually lowered to 2 years of age by the 1980s            or a preperitoneal approach. An experienced
+and is currently between 6 and 12 months of age.            laparoscopist may be able to manipulate the
+The rationale is based on evidence that relocating          testis towards the inguinal canal to assess the
+the testis to the lower temperature of the scrotum          feasibility of a single-stage procedure.
+at this age may help to minimise the impairment          ●● Testis located on the posterior abdomi-
+
+of gonocyte transformation and thus contribute to           nal wall or ectopically within the pelvis.
+an improved outlook for fertility. There is some evi-       (Figure 18.3). This finding calls for a deci-
+dence that early orchidopexy is associated with bet-        sion on whether to remove the testis (either
+ter testicular growth. Orchidopexy at 6–12 months           laparoscopically or as an open procedure) or
+of age may also help to reduce the risk of germ cell        whether to embark upon orchidopexy. For
+malignancy in later life.                                   this, the options lie between open or laparo-
+                                                            scopically assisted orchidopexy - as either a
+IMPALPABLE TESTIS                                           single or a staged procedure.
+Between 10% and 15% of undescended testes are            ●● Failure to visualise blind-ending vessels or
+
+impalpable. Before embarking upon definitive                testis. In this rare situation, a limited lapa-
+surgery, it is necessary to establish whether the           rotomy is indicated in view of the high risk
+                                                Undescended testis (Cryptorchidism) / Management 243
+
+
+
+
+Figure 18.3 (a, b) Intra-abdominal testis and vas viewed laparoscopically. (c) Intra-abdominal testis
+lying above the entry to the inguinal canal.
+
+
+   of subsequent malignancy associated with             Alternatively, it has been suggested that
+   leaving an undetected intra-abdominal testes         inguinal exploration is unnecessary if a nub-
+   left in situ.                                        bin is palpable and the contralateral testis is
+●● Vas and vessels ending blindly together              hypertrophied (>1.8 cm polar length or 2 ml
+   at or above the internal ring. This finding          in volume).
+   (ʻvanished testis’) is usually thought to result
+   from intrauterine torsion and no further           BILATERAL IMPALPABLE TESTES
+   exploration is required.                           Further investigation is indicated, includ-
+●● Vas and vessels seen entering the inguinal         ing a karyotype (to look for sex chromosome
+   canal. It impossible to be certain whether         mosaicism or chromosomal abnormalities
+   the inguinal canal contains a normal testis        such as the Prader–Willi syndrome) and an
+   or an atrophic nubbin of testicular tissue.        HCG stimulation test to determine whether
+   Opinion varies on whether inguinal explo-          any functioning testicular tissue is present.
+   ration is still mandatory in this situation.       However, whilst a positive result from an HCG
+244 Testis, Hydrocoele and Varicocoele
+
+
+
+test is reassuring for the parents, a negative       Even an experienced surgeon may occasion-
+result does not obviate the need for laparos-        ally operate for what is thought to be a palpa-
+copy. The combination of bilateral impalpable        ble testis, only to be confronted by an empty
+testes and hypospadias should always raise the       inguinal canal. If a patent processus vaginalis
+possibility of an underlying DSD – notably           is present, this should be opened. Frequently
+46XX DSD due to congenital adrenal hyper-            an ʻemergentʼ testis will enter the mouth of the
+plasia (see Chapter 20).                             processus through the internal ring. Careful
+                                                     dissection is then required to mobilise the ves-
+ORCHIDOPEXY – SURGICAL                               sels and vas, which are usually covered by the
+CONSIDERATIONS                                       friable peritoneal wall of the sac. Nevertheless,
+For a palpable congenitally undescended testis       a standard single-stage orchidopexy is usually
+the crucial step consists of isolating the pro-      achievable in such cases.
+cessus vaginalis from the cord structures to
+enable them to be completely mobilised back          PREPERITONEAL APPROACH (JONES)
+to the internal inguinal ring. This manoeuvre        This is a useful technique for high inguinal tes-
+can be extended retroperitoneally above the          tes. The skin incision is slightly higher than for
+internal ring if necessary (Figure 18.4). If there   a standard inguinal approach and the oblique
+is no patent processus vaginalis, orchidopexy        abdominal muscles are split to gain access to the
+is usually more straightforward and the testis       peritoneum above the inguinal canal. Thereafter,
+can be brought down to the scrotum without           the testis is mobilised extraperitoneally (or trans-
+undue difficulty following separation of the         peritoneally) and is brought down to the scrotum
+cremasteric coverings from the cord structures.      either via the inguinal canal or more directly
+
+
+
+
+Figure 18.4 Conventional inguinal orchidopexy. (a) Intraoperative photograph. (b) Diagrammatic
+representation illustrating mobilisation of cord structures from the processus vaginalis.
+                                                  Undescended testis (Cryptorchidism) / Management 245
+
+
+
+through the posterior wall of the canal medial to      during the Fowler Stephens procedure the blood
+the inferior epigastric vessels.                       supply to the testis is provided by the collateral
+   The following specialised techniques are            vessels surrounding the vas. Better results are
+required for testes lying high within the inguinal     achieved with a two stage procedure. During the
+canal or within the abdomen.                           first stage (which can be performed by either an
+                                                       open or laparoscopic approach), the testicular
+FOWLER–STEPHENS PROCEDURE                              vessels are divided or clipped, taking care not to
+(FIGURE 18.5)                                          disturb the vas and its important collateral ves-
+The difficulty in bringing an intra-abdominal          sels. The second stage is undertaken 6 months
+testis to the scrotum usually arises from the          later – by which time a more substantial collat-
+inadequate length of the testicular blood vessels      eral supply has developed in response to occlu-
+rather than the vas deferens. Following ligation       sion of the testicular vessels. The testis and vas
+or clipping of the testicular vessels performed        are mobilised, together with a broad strip of over-
+                                                       lying peritoneum, and are then brought to the
+                                                       scrotum through the posterior wall of the canal
+                                                       medial to the inferior epigastric vessels. The sec-
+                                                       ond stage may be undertaken as an entirely open
+                                                       procedure or with laparoscopic assistance.
+
+                                                       MICROVASCULAR ORCHIDOPEXY
+                                                       This procedure can be used for intra-abdominal
+                                                       testes, especially if the vas is too short to permit
+                                                       a Fowler–Stephens procedure. The testicular ves-
+                                                       sels are mobilised and divided as high as possible.
+                                                       The testis and vas are then brought to the scrotum
+                                                       and the testicular vessels are anastomosed to the
+                                                       inferior epigastric vessels in the inguinal canal
+                                                       (Figure 18.6).
+
+                                                       LAPAROSCOPICALLY ASSISTED
+                                                       ORCHIDOPEXY (FIGURE 18.7)
+                                                       The intraperitoneal pedicle of testicular vessels is
+                                                       extensively mobilised laparoscopically. Once suffi-
+                                                       cient length of vessels has been obtained, the testis
+                                                       is placed in the scrotum by either an open inguinal
+                                                       approach or an entirely laparoscopic procedure.
+
+                                                       Management of retractile testis
+                                                       If the testis meets the criteria of being genuinely
+                                                       retractile the parents can be reassured that this
+                                                       is a relatively common phenomenon, particu-
+                                                       larly between the ages of 3 and 7 years. Although
+Figure 18.5 Fowler–Stephens orchidopexy.               surgical intervention is not usually required it
+(a) Stage I, testicular vessels ligated or clipped     has become apparent that some retractile testes
+in continuity. (b) Stage II, collateral vascularisa-
+                                                       progress to become ascending testes by adopting
+tion of the testis via the artery to the vas. After
+6 months the testis is mobilised on the vas and        a fixed position in the groin or upper scrotum. For
+a strip of surrounding peritoneum and brought          this reason it is now recommended that all boys
+to the scrotum by the most direct route.               with retractile testes should be seen for annual
+246 Testis, Hydrocoele and Varicocoele
+
+
+
+
+Figure 18.6 Microvascular orchidopexy.                Figure 18.7 Laparoscopic or laparoscopically
+Testicular artery and single vein anastomosed to      assisted orchidopexy. Extensive intraperitoneal
+inferior epigastric vessels (or branches).            mobilisation of testicular vessels enables the
+                                                      testis to be brought down to the scrotum with
+                                                      its vascular pedicle intact.
+
+review until such time as it can confirmed that       Ascending testis
+the testis is no longer retractile and has reverted
+permanently to a normal position at the floor of      This phenomenon, also termed acquired UDT, is
+the scrotum.                                          now well documented and is thought to account
+   Although hormonal treatment may be con-            for a relatively high percentage of boys undergo-
+sidered, orchidopexy is generally regarded as         ing orchidopexy in later childhood.
+the treatment of choice for a ʻhigh retractileʼ          The distance between the internal inguinal
+testis which cannot be brought to the bottom          ring and the scrotum increases from 4 to 5 cm in
+without tension on the spermatic cord or which        infancy to around 8–10 cm at puberty – with the
+appears to be becoming an ascending testis. In        corresponding requirement for the spermatic cord
+such cases it is usually possible to perform a sat-   to double in length. Failure of this elongation of
+isfactory orchidopexy using a scrotal approach.       the spermatic cord is one possible explanation for
+However, it is not sufficient to simply anchor        secondary testicular ascent, another being tether-
+the testis in the scrotum. The cord structures        ing of the testis by the remnant of a processus vag-
+should be adequately mobilised and the over-          inalis. In 10–30% of cases, the ascending testis has
+lying cremasteric coverings completely divided        passed through a retractile phase. Conservative
+to enable the testis to be positioned in the scro-    management has been advocated by a group in the
+tum without any residual tension on the cord          Netherlands who reported that >80% of ascend-
+structures.                                           ing testes reverted spontaneously to the scrotum
+                       Undescended testis (Cryptorchidism) / Long-term Outcomes of Orchidopexy 247
+
+
+
+at the time of puberty. However, this approach has      the vas or its blood supply may go unrecognised
+not gained wider acceptance because of concerns         or unreported.
+that even if the testis does revert to the scrotum at
+puberty it will nevertheless have sustained ther-       Long-term Outcomes of
+mal damage during the time spent outside the            Orchidopexy
+scrotum. Indeed, histological studies have shown
+that ascending testes demonstrate similar degen-        Fertility
+erative changes to those found in congenitally
+undescended testes. For this reason it is current       Virtually all the published long-term outcome
+practice to advise orchidopexy for any ascending        data have been derived from retrospective stud-
+testis which is lying in a fixed elevated position      ies - with the inherent limitations of such meth-
+in the groin or upper scrotum – regardless of the       odology. In addition, assessment of fertility by
+boy’s age and previous history.                         paternity (the actual ability to father children)
+                                                        does not correlate closely with the assessment
+Surgical results and complications                      of fertility by semen analysis. Outcomes for
+                                                        fertility are consistently better when assessed
+Success is usually defined in terms of the post-        by paternity. The published data consistently
+operative position and viability of the testis. The     demonstrate that men with a history of unilat-
+published outcome data indicate that single stage       eral UDT have a significantly better outcome
+open inguinal orchidopexy has a success rate in         for fertility (judged by both semen analysis and
+excess of 95% whereas the success rates of orchi-       paternity) than those with a history of bilat-
+dopexy for intra-abdominal testes (by single stage      eral undescended testes (Table 18.1). Studies
+or staged approach – open or laparoscopic) are in       have generally shown that paternity rates of
+the range of 85–90%.                                    men with a history of unilateral UDT are only
+   The principal complications are postopera-           marginally lower than those of the normal
+tive atrophy, injury to the vas and re ascent of        population. However, the time taken to achieve
+the testis. The incidence of complications is           conception is longer than controls. The pub-
+strongly influenced by the preoperative posi-           lished data have been mainly derived from men
+tion of the testis, with one large review identify-     who underwent orchidopexy at a later stage in
+ing a complication rate of 8% for testes located        childhood than is current practice. Although
+beyond the external inguinal ring, 13% for tes-         there is evidence to indicate the recent trend
+tes within the inguinal canal, and in the case          towards earlier orchidopexy (currently 6–12
+of intra-abdominal testes 16% for microvascu-           months) will probably lead to improved long-
+lar procedures and 27% for two-stage Fowler–            term results for fertility it will be some time
+Stephens procedures.                                    before this can be reliably confirmed by long-
+   Concerns that the presumed benefits for              term studies.
+fertility of orchidopexy at 6–12 month may be              The published data do not distinguish ade-
+offset by a higher incidence of testicular atro-        quately (if at all) between men with congeni-
+phy appear to be unfounded. One compara-                tally undescended testes and men whose testes
+tive study found that the atrophy rate was the          underwent secondary ascent. Ascending testes
+same (5%) in boys who had undergone orchido-            could be expected to have a better potential
+pexy under 2 years of age and those in whom             for spermatogenesis because normal gonocyte
+orchidopexy had been performed from 2 years             transformation should have occurred while the
+upwards. Another study reported an atrophy              testis was still in the scrotum in the first 2 years
+rate of 1.4% in a series of boys who had under-         of life. However, once they are no longer in the
+gone orchidopexy at a mean age of 9 months. A           scrotum, ascending testes are likely to be at a
+figure of 1–2% is sometimes cited for the inci-         similar risk of acquired temperature-related
+dence of vasal injury but the true incidence is         degenerative changes as congenitally unde-
+probably higher since intraoperative damage to          scended testes.
+248 Testis, Hydrocoele and Varicocoele
+
+
+
+Table 18.1 Fertility (paternity) of men with a previous history of undescended testis (UDT)
+
+                                                         Paternity rate of          Paternity rate of
+Authors                     Number of patients          unilateral UDT (%)          bilateral UDT (%)
+Gilhooly et al                       145                         80                          48
+Kumar et al                           56                         84                          60
+Lee                                  467                         88                          59
+Lee and Coughlin                     408                         90                          65
+Source: Hutson JM. Undescended testes. In: Stringer MD, Oldham KT, Mouriquand PDE (eds), Paediatric Surgery
+        and Urology: Long-term Outcomes, 2nd Edition. Cambridge: Cambridge University Press, 2006:
+        652–663.
+
+
+
+   The published evidence can be summarised            malignancy. However, the magnitude of this risk
+briefly as follows:                                    was overstated in the past. A large case–con-
+                                                       trol study in the UK found that the relative risk
+●● The long-term prognosis for fertility is bet-       was 3.8 times greater than the normal popula-
+   ter when judged by paternity than semen             tion when orchidopexy had been performed after
+   analysis.                                           9 years of age but was not significantly higher in
+●● Published series report paternity rates in the      men who had undergone orchidopexy before the
+   range 80–90% for men with a history of uni-         age of 9. In a study reported from Sweden, men
+   lateral UDT (percentage of men with normal          who had undergone orchidopexy after 13 years of
+   semen analysis 55–95%).                             age had a risk of testicular cancer which was 5.4
+●● Published series report paternity rates in          times higher than the normal male population
+   the range 45–65% for men with a history             whereas the risk was 2.3 times higher in those who
+   of bilateral undescended testes (percent-           had undergone orchidopexy under this age. It is
+   age of men with normal semen analysis               difficult to translate relative risk into a figure for
+   25–30%).                                            the life time risk of developing testicular cancer
+●● The evidence of biopsy studies sup-                 in an individual with a history of UDT but cur-
+   ported by limited clinical data indicate            rent data suggest that this is probably of the order
+   that the prospects of fertility are likely          of 1 in 100. The available evidence suggests that
+   to be improved by early orchidopexy                 the current policy of performing orchidopexy in
+   (6–12 months of age).                               the first year of life may reduce this risk further by
+●● Testes arrested in a higher position of             facilitating the elimination of residual gonocytes
+   maldescent have a poorer prognosis for              which have not undergone transformation into
+   fertility.                                          Ad spermatogonia.
+●● Fertility may be potentially better in                 Regardless of the age when it was per-
+   ascending testes because normal gonocyte            formed men who have undergone orchido-
+   transformation should have occurred while           pexy should be advised to practise testicular
+   the testis was still in the scrotum. However,       self-examination.
+   ascending testes have similar histologi-
+   cal features to congenitally undescended            Testicular microcalcification (TM)
+   testes and the impact on fertility may be
+   comparable.                                         This disorder is characterised by the presence
+                                                       of multiple small echogenic foci of calcification
+Malignancy                                             throughout the testis (Figure 18.8).
+                                                          The prevalence of testicular microcalcifica-
+Men with a history of UDT are at a greater             tion in adults has been variously reported to be
+increased risk of developing testicular                between 0.6% and 9.0% in men with symptoms
+                                                     Hydrocoele / Testicular microcalcification (TM) 249
+
+
+
+
+Figure 18.8 Testicular microcalcification.
+Ultrasound image demonstrating characteristic
+appearances.
+
+                                                     Figure 18.9 Anatomical classification of
+and 2.4–5.6% in asymptomatic men. The fre-
+                                                     hydrocoele. (a) Communicating hydrocoele.
+quency of TM is significantly higher in men with     (b) Hydrocoele of the cord (‘encysted hydro-
+Klinefelter syndrome and Down syndrome               coele’). (c) Non-communicating hydrocoele.
+(17.5% and 36%, respectively).
+   Although testicular ultrasound is performed       (Figure 18.10). Non-communicating hydrocoeles
+far less frequently in children and adolescents      are rare in boys and occur mainly around or after
+than in adults, the presence of testicular micro-    puberty (Figure 18.11). Communicating hydro-
+calcification is being identified by ultrasound in   coeles are common in newborn males, with an
+this age group. It has been suggested that TM is     incidence of 2–5%. More than 90% of commu-
+a potential marker of premalignancy but this is      nicating hydroceles in infants resolve without
+probably only of relevance when it is associated     intervention following spontaneous closure of the
+with other recognised risk factors such as crypt-    processus vaginalis. However, for reasons which
+orchidism, infertility, testicular asymmetry or
+atrophy. The weight of evidence indicates that
+asymptomatic microcalcification is an inciden-
+tal finding in the majority of individuals and
+that prolonged ultrasound surveillance is not
+required unless other risk factors are present. In
+adolescents and young adults there is certainly no
+evidence to support testicular biopsy.
+
+
+
+ HYDROCOELE
+
+With few exceptions, hydrocoeles in infants and
+children share a common underlying aetiol-
+ogy with indirect inguinal hernias: namely, fail-
+ure of closure of the patent processus vaginalis
+following descent of the testis – see Chapter 1
+(Figure 18.9). The two conditions differ mainly
+in the diameter of the processus, which in com-
+municating hydrocoeles is narrow and will            Figure 18.10 Congenital (communicating)
+only permit the passage of intraperitoneal fluid     hydrocoele.
+250 Testis, Hydrocoele and Varicocoele
+
+
+
+                                                         bright light. The diagnosis can usually be made
+                                                         reliably on purely clinical grounds but an ultra-
+                                                         sound scan should be performed if there is any
+                                                         suspicion of an underlying testicular tumour or
+                                                         incarcerated hernia. It may also be helpful in elu-
+                                                         cidating an encysted hydrocele.
+
+                                                         Management
+                                                         Congenital hydrocoeles should be managed con-
+                                                         servatively, as the majority resolve spontaneously
+                                                         during the first 2 years of life.
+                                                             Surgical intervention is indicated for congeni-
+                                                         tal hydrocoeles which persists beyond 2 years of
+Figure 18.11 A 14-year-old boy presenting with           age, and for hydroceles presenting for the first
+1-year history of increasing scrotal swelling.           time in later childhood. Surgery is also justified
+Non-communicating ‘adult type’ hydrocoele                for occasional cases in which a communicating
+managed by scrotal approach and plication of
+                                                         hydrocele changes to resemble an enlarging, tense
+the hydrocoele sac.
+                                                         non-communicating hydrocele (possibly because
+                                                         of a valve-like effect in the involuting patent pro-
+are often unclear, communicating hydroceles              cessus). Hydrocoeles of the cord are rarely pres-
+sometimes present for the first time in later child-     ent at birth but can acutely in a way that mimics
+hood – although this is rare after the age of 5 years.   an irreducible hernia. If the diagnosis is uncer-
+                                                         tain the combination of clinical examination and
+Presentation                                             ultrasound should avoid an unnecessary emer-
+                                                         gency operation.
+Hydrocoeles usually present as a painless scrotal
+swelling. The size may vary over the course of           Operative Technique
+the day, being comparatively small in the morn-
+ing and enlarging later in the day. Hydroceles           The operation for communicating hydrocoeles
+sometimes develop following the insertion of a           is similar to that for an indirect inguinal hernia
+ventriculoperitoneal shunt for hydrocephalus             and is performed via a small skin-crease inci-
+and may also present acutely in association with         sion in the groin. It is not usually necessary to
+a viral illness. Although rare, a hydrocele may          open the entire inguinal canal because the cord
+sometimes develop in response to the presence            can be delivered through a ʻwindowʼ incision
+of omentum incarcerated in a hernial sac or an           in the external oblique aponeurosis forming the
+underlying testicular tumour. Encysted hydro-            anterior wall of the canal. Once the patent pro-
+coeles of the cord sometimes present as a painless       cessus has been identified it is isolated from the
+ʻirreducibleʼ swelling in the groin, which can be        other cord structures, traced back to its junction
+confused with an incarcerated inguinal hernia.           with the peritoneal cavity at the internal ring and
+                                                         transfixed, ligated and divided at this point. The
+Examination                                              hydrocoele sac is then drained by incising the dis-
+                                                         tal portion of the processus, or by percutaneous
+The principal differential diagnosis lies between        needle aspiration of the sac.
+hydrocoele and inguinoscrotal hernia, but                    If the processus is very narrow or of doubtful
+whereas hernias are reducible, hydrocoeles are           patency (suggesting a non-communicating hydro-
+not. Transillumination does not reliably distin-         cele) the groin procedure should be combined
+guish between a hernia and hydrocele in infants          with a scrotal procedure to open, drain and evert
+because a hernia will also transilluminate in            the hydrocoele sac rather than risk recurrence.
+                                                            Varicocoele / Diagnosis and Investigation 251
+
+
+
+ VARICOCOELE                                           Pathology
+                                                       Studies involving the use of heat-sensitive strips
+The significance of varicocoeles lies principally in   have confirmed that the presence of a varico-
+their association with subfertility. However, there    coele causes an increase in the temperature of
+is considerable individual variation in both the       the scrotal contents, leading to reduction in the
+clinical characteristics of varicocoeles and their     normal temperature differential which is nec-
+impact, if any, upon fertility. Opinion remains        essary for spermatogenesis. The role, if any, of
+divided on the indications for surgical interven-      venous pressure-related damage to the testis is
+tion in childhood or adolescence. There is also        more difficult to assess. Histological features
+debate regarding the optimal surgical technique.       observed in testicular biopsies include; reduced
+                                                       spermatogonia, seminiferous tubal atrophy,
+Incidence                                              endothelial cell proliferation and Leydig cell
+                                                       abnormalities. When these histological changes
+One large, population-based study identified a         are present in patients under the age of 18 years
+prevalence of 0.8% in boys aged 2–6 years, 1.0% at     they are potentially reversible, but the more
+7–10 years, 7.8% at 11–14 years and 14.1% at 15–19     extensive histological changes found in older
+years. Numerous studies have shown that varico-        adults are not. This observation has been cited
+celes occur more commonly in taller individuals        as argument for treating varicocoeles during
+and those with a lower body mass indices (BMIs).       adolescence rather than later.
+Among the male partners of infertile couples, the
+incidence of varicocoele is 30%.                       Classification
+                                                       The classification devised by Dubin and Amelar
+Aetiology
+                                                       is widely employed:
+The tortuosity and dilatation of the veins of the
+pampiniform plexus is the result of incompetence       ●● Subclinical: neither palpable nor visible, but
+of the valvular mechanism which normally pro-             demonstrable by Doppler ultrasound.
+                                                       ●● Grade I: palpable only on Valsalva
+tects the spermatic veins from the hydrostatic
+pressure of the column of venous blood transmit-          manoeuvre.
+                                                       ●● Grade II: palpable at rest but not visible.
+ted from the great veins. The fact that more than
+90% of varicocoeles are left-sided is due to differ-      Visible only with Valsalva
+                                                       ●● Grade III: visible and palpable at rest.
+ences in venous anatomy, with the left testicular
+vein draining into the renal vein, whereas the right
+testicular vein drains into the vena cava. Several     Presentation
+patterns of abnormal venous anatomy predispos-
+ing to varicocoele formation have been described:      Varicocoeles may be detected during the
+                                                       course of routine medical examination or
+●● Absence of valves within an otherwise nor-          may present symptomatically, either as a
+   mal single testicular vein                          scrotal swelling, classically likened to a ‘bag
+●● Anomalous venous drainage, for example              of worms’, or by a dragging sensation within
+   between testicular and retroperitoneal veins        the scrotum, which is often worse during hot
+●● Bifurcation of the left renal vein, with an         weather (Figure 18.12).
+   abnormal point of entry of the spermatic veins.
+                                                       Diagnosis and Investigation
+Although venous obstruction by a renal tumour
+accounts for less than 1% of varicocoeles dur-         The patient should be examined both lying and,
+ing childhood, this possibility should never be        more importantly, standing. During the exami-
+overlooked.                                            nation the patient should be asked to perform
+252 Testis, Hydrocoele and Varicocoele
+
+
+
+                                                   ●●   ʻ20/38 harbingerʼ – combination of difference
+                                                        in testicular volume of > 20% and peak retro-
+                                                        grade flow on Doppler ultrasound.
+                                                   Of these, impaired testicular growth and signifi-
+                                                   cant differential in testicular volumes are indi-
+                                                   cations for possible intervention which are also
+                                                   applicable to boys and adolescents. However,
+                                                   semen quality and infertility are far less rel-
+                                                   evant – particularly in younger adolescents with
+                                                   asymptomatic varicoceles. In these patients the
+                                                   issues surrounding ‘prophylactic’ treatment
+                                                   remain controversial. The arguments in favour
+                                                   of surgical intervention in adolescents can be
+                                                   summarised as follows:
+                                                   ●● Persistence of an untreated varicocoele into
+                                                      adult life leads to a demonstrable reduction in
+                                                      testicular volume and there is evidence that
+                                                      surgical correction may partly reverse this
+                                                      process, leading to some degree of subsequent
+                                                      ‘catch-up growth’.
+                                                   ●● The incidence of varicocoele among men
+
+                                                      investigated for infertility is higher than in
+                                                      the male population at large.
+                                                   ●● Some studies have found an improvement in
+
+                                                      semen quality and pregnancy rates follow-
+Figure 18.12 Grade III varicocoele. Visibly dis-      ing treatment of varicocoele in subfertile
+tended cremasteric veins (‘bag of worms’).            men.
+
+                                                   Arguments against prophylactic surgical inter-
+a Valsalva manoeuvre. In addition to clinical      vention in adolescents are:
+examination a scrotal ultrasound scan should be
+                                                   ●● Varicocoeles exist in some 15% of adult males,
+performed assess the varicocoele and measure
+                                                      most of whom, as judged by paternity, have
+testicular volume. This should be combined with
+                                                      normal fertility.
+an abdominal scan to exclude a renal tumour.
+                                                   ●● Although a link exists between varicocoele
+
+                                                      and infertility or subfertility there is no
+Indications for Treatment                             consistent correlation between the presence
+                                                      or size of the lesion and semen quality or
+The criteria which warrant consideration of sur-
+                                                      fertility.
+gical intervention in adults include.
+●● Persistently abnormal semen quality             Opinion remains divided but the present ten-
+●● Altered sperm function tests                    dency is to advise ‘prophylactic’ intervention for
+●● Infertility                                     larger, grade III lesions, particularly if there is tes-
+●● Pain or significant discomfort                  ticular asymmetry with a discrepancy in testicu-
+●● Differences in testicular volume between the    lar volume of >20%. From the mid teens onwards
+   two testes exceeding 15–20%                     the decision on whether to proceed to surgical
+●● Peak retrograde flow on Doppler ultrasound      correction of grade III varicoceles can also be
+   >38 cm/s                                        guided by semen analysis.
+                                                                   Varicocoele / Treatment Options 253
+
+
+
+Treatment Options (Figure 18.13)                     coils inserted into the testicular vein or, less often,
+                                                     by the injection of a sclerosant.
+Embolisation
+                                                     Surgical ligation
+Embolisation may be carried out under sedation,
+although a general anaesthetic is usually used in    Using the inguinal approach (Ivanissevich), the
+prepubertal boys. A catheter introduced via the      internal inguinal ring is exposed via the inguinal
+right femoral or internal jugular vein is screened   canal; the spermatic veins are exposed deep to the
+into the left renal vein and thence into the sper-   transversalis fascia and divided at this level.
+matic vein. Venography is performed to identify         In the high approach (Palomo), a short trans-
+collaterals. Embolisation is undertaken using        verse incision is performed lateral to the internal
+                                                     inguinal ring. The testicular vessels are identified
+                                                     extraperitoneally above the point they diverge
+                                                     from the vas deferens. In Palomo’s original
+                                                     description, the testicular artery, vein and lym-
+                                                     phatics are all ligated and divided together but
+                                                     many surgeons ligate only the veins.
+                                                        Microvascular ligation of the veins can be
+                                                     performed beyond the external inguinal ring or
+                                                     within it. Magnification is employed and intraop-
+                                                     erative ultrasound may be helpful in identifying
+                                                     and preserving the arteries. Care is taken to pre-
+                                                     serve the testicular and cremasteric arteries, the
+                                                     vas deferens and its artery. The lymphatics should
+                                                     also be preserved as this is believed to minimise
+                                                     the incidence of postoperative hydrocoele.
+                                                        With laparoscopic ligation, three ports are
+                                                     placed and the testicular vessels identified. The
+                                                     veins can either be dissected and divided alone or
+                                                     clipped and ligated en bloc, along with the artery -
+                                                     as in the Palomo technique. This approach also
+                                                     allows easy identification and division of any
+                                                     abnormal veins and is also especially applicable
+                                                     to the rare case of bilateral varicocoele. As with
+                                                     open techniques, lymphatic vessels should be pre-
+                                                     served as far as possible in order to reduce the risk
+                                                     of postoperative hydrocele. This can be facilitated
+                                                     by injecting methylene blue into the scrotum pre-
+                                                     operatively to demonstrate the lymphatics more
+                                                     clearly at operation.
+
+                                                     Complications and Outcome
+                                                     The fact that several surgical techniques continue
+Figure 18.13 Varicocoele treatment options.
+                                                     to be employed for treating varicocoeles indicates
+(1) Surgical ligation of individual veins, ingui-
+nal approach. (2) Surgical ligation of veins and
+                                                     that no single technique gives consistently satisfac-
+artery, high approach. (3) Laparoscopic clip-        tory results. High success rates have been claimed
+ping, all vessels or selective ‘artery sparing’.     for laparoscopic ligation and the Paloma tech-
+(4) Embolisation.                                    nique (100% and 93%, respectively). Recent data
+254 Testis, Hydrocoele and Varicocoele
+
+
+
+in adults suggest that the best surgical results are
+typically obtained with the inguinal or subingui-          ●●   The available evidence suggests that
+nal microscopic techniques – with low recurrence                treatment of varicocoeles in adolescence
+rates (2%) and low incidence of hydrocele forma-                should be limited to boys with grade III
+tion (0.75%). However, these results in adults have             varicocoeles, symptoms and/or evi-
+not yet been replicated in the paediatric age group.            dence of impaired testicular growth.
+    Improvement in fertility has been reported
+in subfertile men following varicocoele ligation,
+although subfertile men represent only a minor-         FURTHER READING
+ity of all men with varicocoeles. Whether prophy-
+lactic treatment of asymptomatic varicocoeles in        Balawender K, Orkisz S, Wisz P. Testicular
+adolescents is beneficial for fertility has yet to be      microlithiasis: what urologists should know.
+ascertained.                                               A review of the current literature. Cent
+                                                           European J Urol. 2018;71(3):310–314.
+                                                        Esposito C, Escolino M, Turrà F, et al. Current
+    KEY POINTS                                             concepts in the management of inguinal
+                                                           hernia and hydrocele in paediatric patients
+   ●● The optimal age for orchidopexy                      in laparoscopic era. Semin Pediatr Surg.
+      remains uncertain. Paediatric urolo-                 2016;25(4):232–240.
+      gists and paediatric surgeons favour the          Macey MR, Owen RC, Ross SS, Coward RM.
+      first year of life any time after 6 months           Best practice in the diagnosis and treatment
+      of age.                                              of varicocele in children and adolescents.
+   ●● The risk of testicular atrophy should
+                                                           Ther Adv Urol. 2018;10(9):273–282.
+      be specifically discussed with par-               Niedzielski JK, Oszukowska E, Słowikowska-
+      ents when obtaining consent for                      Hilczer J. Undescended testis – current
+      orchidopexy.                                         trends and guidelines: a review of the litera-
+   ●● Laparoscopy is the investigation of
+                                                           ture. Arch Med Sci. 2016;12(3):667–677.
+      choice for impalpable testes.                     Hutson JM. Journal of paediatric surgery-
+   ●● In infants a clear diagnostic distinc-
+                                                           sponsored Fred McLoed lecture.
+      tion must be made between an inguinal                Undescended testis: the underlying mecha-
+      hernia (which requires prompt surgi-                 nisms and the effects on germ cells that
+      cal intervention in this age group) and              cause infertility and cancer. J Pediatr Surg.
+      a communicating hydrocoele (which                    2013;48(5):903–908.
+      generally resolves as a result of sponta-
+      neous closure of the patent processus
+      vaginalis within the first 2 years of life).

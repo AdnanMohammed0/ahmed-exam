@@ -1,0 +1,1452 @@
+[
+    {
+        "id":  "ch03-Q01",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  1,
+        "stem":  "A 4-year-old boy presents with a palpable right flank mass and a first febrile urinary tract infection. According to standard paediatric imaging guidelines, which investigation should be performed first?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "DMSA scintigraphy"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "CT urography with intravenous contrast"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Ultrasound of the urinary tract"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Micturating cystourethrography"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "**Correct:** Ultrasound is the investigation of first choice for suspected urinary tract pathology in children. As stated in the chapter\u0027s introduction, US is painless, low cost, and does not expose the child to ionising radiation. It provides excellent anatomical resolution in children because they have less body fat and a smaller body habitus.\n\n**Distractors:**\n- a: DMSA scintigraphy is used to quantify differential renal function and detect scarring, but it is not the first-line investigation; it is typically performed after US when there is concern about renal parenchymal damage.\n- b: CT is not regarded as a first-line investigation in paediatric urology because many of its diagnostic roles in adults can be fulfilled by US in children. It also carries a significant ionising radiation burden.\n- d: MCUG is indicated specifically for detecting and grading vesicoureteric reflux and evaluating urethral anatomy, not as a general first-line screening tool for all urinary tract pathology.\n\n**Clinical Pearl:** Ultrasound should always be the initial imaging modality in children with suspected urinary tract pathology because it is safe, painless, and provides excellent anatomical detail without ionising radiation.",
+        "topic":  "Ultrasound — general principles"
+    },
+    {
+        "id":  "ch03-Q02",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  2,
+        "stem":  "A 2-year-old child is undergoing a renal ultrasound for antenatally detected hydronephrosis. The bladder is noted to be very full and the left renal pelvis measures 9 mm in AP diameter. What is the most appropriate next step?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Rescan the kidneys after the child has voided"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Proceed immediately to a micturating cystourethrogram"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Report the AP diameter as abnormally dilated and refer to urology"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Schedule a DMSA scan on the same day to assess differential function"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "**Correct:** A very full bladder may cause transient \u0027physiological\u0027 upper tract dilatation (hydronephrosis). The chapter states that when a full bladder and dilatation are present, the bladder should be rescanned after voiding before concluding that hydronephrosis is truly present. An AP diameter of 9 mm falls in the borderline range (between 7 mm and 10 mm), making a repeat measurement after voiding particularly important.\n\n**Distractors:**\n- b: MCUG is not indicated based on a single borderline measurement with a full bladder. Deferring to after voiding is standard practice.\n- c: While an AP diameter greater than 10 mm is considered abnormal, a 9 mm measurement is borderline and must first be reassessed after the child has voided to exclude transient physiological dilatation.\n- d: DMSA is a static renography study used to quantify differential function and detect scarring; it is not the immediate next step for a borderline pelvic measurement.\n\n**Clinical Pearl:** Always reassess the renal pelvis after voiding when the bladder is very full, because a distended bladder can produce transient upper tract dilatation that resolves with emptying.",
+        "topic":  "Ultrasound — technical aspects"
+    },
+    {
+        "id":  "ch03-Q03",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  3,
+        "stem":  "A 5-year-old girl undergoing renal ultrasound for recurrent urinary tract infections has normal-sized kidneys. The renal pyramids appear slightly less echogenic than the overlying cortex. Which of the following best describes this finding?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Acute pyelonephritis localised to the medullary pyramids"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Normal corticomedullary differentiation"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "End-stage chronic renal disease with parenchymal loss"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Early hydronephrosis compressing the medullary tissue"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter defines \u0027corticomedullary differentiation\u0027 as the normal finding of slightly lower echogenicity of the pyramids (medulla) compared with the cortex. This is a standard normal variant seen on paediatric renal ultrasound.\n\n**Distractors:**\n- a: Acute pyelonephritis typically appears as areas of increased or decreased echogenicity, often focal or patchy, not as uniform lower echogenicity of all pyramids.\n- c: In end-stage chronic renal failure, the chapter states that kidneys are \u0027echo-bright but lose their normal corticomedullary differentiation,\u0027 which is the opposite finding.\n- d: Hydronephrosis presents as a dilated, fluid-filled collecting system (the renal pelvis and calyces), not as altered echogenicity of the pyramids relative to the cortex.\n\n**Clinical Pearl:** Corticomedullary differentiation â€” the slightly lower echogenicity of the pyramids compared with the cortex â€” is a normal finding in children and should not be mistaken for pathology.",
+        "topic":  "Ultrasound — normal anatomy"
+    },
+    {
+        "id":  "ch03-Q04",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  4,
+        "stem":  "A 6-year-old girl with recurrent febrile urinary tract infections undergoes renal ultrasound. The bladder wall thickness is measured at 4 mm. How should this finding be interpreted?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Abnormal â€” normal bladder wall thickness is up to 3 mm"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Normal for a child of this age and clinical presentation"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Normal if the bladder was fully distended at the time of measurement"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Abnormal only if there is also a high post-void residual volume"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "**Correct:** The chapter states that \u0027a bladder wall thickness of up to 3 mm is normal.\u0027 A measurement of 4 mm is therefore abnormal and may indicate underlying pathology such as bladder outflow obstruction or a neuropathic bladder.\n\n**Distractors:**\n- b: The published normal threshold is up to 3 mm regardless of age in children, so 4 mm exceeds this upper limit and is not normal.\n- c: Bladder distension may affect volume measurements but the wall thickness threshold of 3 mm is applied independently of filling status.\n- d: The abnormal wall thickness is significant in its own right and does not require an elevated post-void residual to be considered abnormal.\n\n**Clinical Pearl:** A bladder wall thickness greater than 3 mm on ultrasound is abnormal in children and should prompt further investigation for possible outflow obstruction or neuropathic bladder.",
+        "topic":  "Ultrasound — lower urinary tract measurements"
+    },
+    {
+        "id":  "ch03-Q05",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  5,
+        "stem":  "A 7-year-old boy with voiding dysfunction undergoes renal ultrasound. Pre-void bladder volume is 200 mL and post-void residual volume is 30 mL. According to the chapter, how is a significant post-void residual defined in children?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "More than 20% of the age-adjusted bladder capacity"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "More than 10% of the age-adjusted bladder capacity"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "More than 50 mL irrespective of age or bladder capacity"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "More than 5% of the age-adjusted bladder capacity"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter defines a significant post-void residual volume as \u0027one exceeding 10% of normal age-adjusted bladder capacity.\u0027 This threshold is used to identify children who may have incomplete bladder emptying requiring further evaluation.\n\n**Distractors:**\n- a: 20% is not the defined threshold; it would be a higher and less sensitive cutoff for identifying abnormal residuals.\n- c: The chapter does not use an absolute volume cutoff such as 50 mL; the definition is based on a percentage of age-adjusted bladder capacity.\n- d: 5% would be too low a threshold, potentially classifying many normal children as having a significant residual.\n\n**Clinical Pearl:** A post-void residual exceeding 10% of age-adjusted bladder capacity is considered significant and warrants further investigation for voiding dysfunction.",
+        "topic":  "Ultrasound — post-void residual"
+    },
+    {
+        "id":  "ch03-Q06",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  6,
+        "stem":  "A 3-month-old infant referred for antenatally detected hydronephrosis has a renal ultrasound that reveals an AP diameter of the renal pelvis of 11 mm. According to the chapter\u0027s published thresholds, how should this measurement be classified?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Normal â€” falls below the threshold requiring further action"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Borderline â€” warrants a repeat scan after the bladder has been emptied"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Abnormal â€” warrants further investigation for possible obstruction"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Equivocal â€” requires correlation with the child\u0027s hydration status"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "**Correct:** The chapter states that an AP diameter of the renal pelvis of less than 7 mm is regarded as normal, whereas a diameter greater than 10 mm is considered abnormal. At 11 mm, this measurement exceeds the 10 mm threshold and is therefore abnormal, warranting further investigation for possible pelviureteric junction obstruction or other causes of hydronephrosis.\n\n**Distractors:**\n- a: 11 mm exceeds the normal threshold of 7 mm and the abnormal threshold of 10 mm, so it is not normal.\n- b: While technically between 7 and 10 mm is considered a borderline range, an AP diameter above 10 mm is explicitly classified as abnormal by the chapter\u0027s criteria.\n- d: Hydration status may affect renal pelvic diameter but the chapter uses specific numerical thresholds (7 mm and 10 mm) that are independent of hydration for classification.\n\n**Clinical Pearl:** An AP diameter of the renal pelvis greater than 10 mm is abnormal regardless of the child\u0027s age or hydration status and requires further urological investigation.",
+        "topic":  "Ultrasound — renal pelvis measurements"
+    },
+    {
+        "id":  "ch03-Q07",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  7,
+        "stem":  "A 3-year-old girl with recurrent febrile urinary tract infections has a normal renal ultrasound. The referring clinician wants to know if vesicoureteric reflux is present. Which limitation of ultrasound is most directly relevant to this clinical question?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "It cannot reliably detect the presence of vesicoureteric reflux"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "It cannot visualise the urethra during voiding in girls"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "It has poor sensitivity for identifying mid-ureteric calculi"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "It provides no information on differential renal function"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "**Correct:** The chapter explicitly states that \u0027US is not a reliable means of detecting vesicoureteric reflux â€” which requires either a micturating cystourethrogram (MCUG), indirect radionuclide cystogram (IRC) or, where available, CEUS.\u0027 This is the key limitation when VUR is the clinical question.\n\n**Distractors:**\n- b: While US does not routinely visualise the urethra during voiding in girls, this is not the primary limitation when the question is specifically about detecting VUR.\n- c: US is actually \u0027highly sensitive in the detection of renal stones,\u0027 though mid-ureteric stones can be difficult to visualise; this limitation is not directly relevant to the question of VUR.\n- d: US indeed provides no functional information, but the specific limitation in this context is its inability to reliably detect or exclude VUR.\n\n**Clinical Pearl:** Ultrasound cannot reliably detect vesicoureteric reflux; when VUR is suspected, an MCUG, IRC, or CEUS study is required.",
+        "topic":  "Ultrasound — limitations"
+    },
+    {
+        "id":  "ch03-Q08",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  8,
+        "stem":  "A 10-year-old boy with hypertension is being evaluated for possible renovascular disease. The paediatric nephrologist recommends Doppler ultrasonography. Which of the following is the principal application of Doppler US in this clinical context?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Quantifying differential renal function between the two kidneys"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Detecting renal artery stenosis or reduced arterial flow"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Screening for vesicoureteric reflux during the voiding phase"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Diagnosing structural anomalies such as horseshoe kidney"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter states that \u0027Doppler US is used to assess renal blood flow in transplant kidneys and in cases of renal artery stenosis or arteriovenous malformations. It is also used in the investigation of hypertension.\u0027 Evaluating for renal artery stenosis is the most directly relevant application in a child with hypertension and suspected renovascular disease.\n\n**Distractors:**\n- a: Differential renal function is quantified by DMSA scintigraphy or MAG3 renography, not by Doppler ultrasonography.\n- c: VUR cannot be reliably diagnosed by any form of ultrasound including Doppler; an MCUG, IRC, or CEUS is required.\n- d: Horseshoe kidney is typically diagnosed by grey-scale US showing an isthmus of tissue crossing the midline, or by DMSA demonstrating functioning tissue in that location.\n\n**Clinical Pearl:** Doppler ultrasonography is the initial imaging tool of choice for evaluating suspected renal artery stenosis in a hypertensive child.",
+        "topic":  "Doppler ultrasonography"
+    },
+    {
+        "id":  "ch03-Q09",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  9,
+        "stem":  "A male infant with bilateral hydronephrosis detected on antenatal ultrasound undergoes a micturating cystourethrogram. What specific anatomical information does MCUG provide that other imaging modalities cannot reliably offer?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Differential renal function as a percentage"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Detailed anatomical assessment of the urethra"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Glomerular filtration rate of each kidney"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Renal parenchymal thickness and corticomedullary differentiation"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter emphasises that \u0027MCUG is the only form of imaging which can provide detailed anatomical information on the urethra,\u0027 making it the key investigation for excluding or confirming urethral abnormalities such as posterior urethral valves in boys with bilateral hydronephrosis.\n\n**Distractors:**\n- a: Differential renal function is assessed by DMSA scintigraphy or MAG3 renography, not by MCUG.\n- c: Glomerular filtration rate is a functional parameter that cannot be directly measured by any single imaging modality; it requires nuclear medicine techniques or serum/urine studies.\n- d: Parenchymal thickness and corticomedullary differentiation are best assessed by ultrasound, which also provides excellent anatomical resolution of the renal parenchyma.\n\n**Clinical Pearl:** MCUG is unique among imaging modalities in providing detailed assessment of urethral anatomy, which is essential for diagnosing posterior urethral valves and other urethral abnormalities.",
+        "topic":  "MCUG — indications"
+    },
+    {
+        "id":  "ch03-Q10",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  10,
+        "stem":  "A 3-month-old boy with antenatally detected hydronephrosis is scheduled for a micturating cystourethrogram. Which of the following statements accurately describes a standard component of the MCUG protocol?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "The bladder is filled with air as the negative contrast agent"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Imaging is performed only during the passive filling phase"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Antibiotic cover is routinely administered before the procedure"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "A 12F urethral catheter is used for catheterisation"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "**Correct:** The chapter states that an MCUG is \u0027routinely performed under antibiotic cover\u0027 to reduce the risk of introducing infection into the urinary tract during catheterisation.\n\n**Distractors:**\n- a: The bladder is filled with water-soluble contrast medium, not air. The chapter specifies \u0027the bladder is filled with water soluble contrast.\u0027\n- b: Imaging during the voiding phase is important because \u0027in some children (including those with an ectopic ureter) reflux may only occur when they void.\u0027\n- d: A 6F feeding tube is typically used for urethral catheterisation, not a 12F catheter, which would be too large for an infant.\n\n**Clinical Pearl:** Routine antibiotic cover is an essential component of MCUG to minimise the risk of urinary tract infection from catheterisation.",
+        "topic":  "MCUG — technical aspects"
+    },
+    {
+        "id":  "ch03-Q11",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  11,
+        "stem":  "A 5-year-old boy presents with a poor urinary stream and incomplete bladder emptying. An MCUG is performed to evaluate for possible posterior urethral valves. Which imaging views are essential for adequately demonstrating the valves?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Steep oblique or true lateral views of the urethra"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Standard anteroposterior view of the bladder only"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Prone view obtained during the bladder filling phase"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Post-void supine view of the bladder and urethra"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "**Correct:** The chapter states that \u0027steep oblique or true lateral views are needed to demonstrate posterior urethral valves (PUV)\u0027 and emphasises that the entire urethra must be visualised to avoid missing anterior urethral lesions or meatal stenosis.\n\n**Distractors:**\n- b: An AP view alone is insufficient because the valve leaflets are best visualised in profile on an oblique or lateral projection.\n- c: Prone views during filling are not standard for demonstrating PUV; the key imaging is obtained during voiding with oblique or lateral projections of the urethra.\n- d: Post-void views are helpful for assessing residual urine but do not provide the necessary profile of the posterior urethra to identify valve leaflets.\n\n**Clinical Pearl:** Steep oblique or true lateral views during voiding are essential for visualising posterior urethral valves on MCUG.",
+        "topic":  "MCUG — technique for PUV"
+    },
+    {
+        "id":  "ch03-Q12",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  12,
+        "stem":  "A 2-year-old girl presents with a febrile urinary tract infection. Her paediatrician suspects vesicoureteric reflux and refers her for an MCUG. The child is currently febrile and unwell with an active UTI. When should the MCUG be performed?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Immediately as part of the acute-phase work-up"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "After a 3-month interval to allow complete renal recovery"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Deferred until 4â€“6 weeks after the infection has been eradicated"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Only after a DMSA scan has first demonstrated renal scarring"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "**Correct:** The chapter states that \u0027if the child is suffering from an active (or suspected) UTI or is generally unwell the MCUG should be deferred until 4â€“6 weeks after the infection has been eradicated.\u0027 This timing minimises the risk of exacerbating the infection and avoids artefactual findings from acute inflammation.\n\n**Distractors:**\n- a: Performing MCUG during an active UTI is contraindicated because of the risk of introducing infection into a potentially obstructed system and causing septicaemia.\n- b: A 3-month delay is longer than necessary; the recommended interval is 4â€“6 weeks after eradication of the infection.\n- d: A DMSA scan is not a prerequisite for MCUG in this scenario; the timing of MCUG is determined by the resolution of the active infection.\n\n**Clinical Pearl:** MCUG should be deferred until 4â€“6 weeks after an active UTI has been treated to avoid complications and ensure accurate results.",
+        "topic":  "MCUG — contraindications/timing"
+    },
+    {
+        "id":  "ch03-Q13",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  13,
+        "stem":  "A 6-month-old boy with bilateral hydronephrosis is being evaluated. MCUG is being considered for detecting vesicoureteric reflux. The parents are concerned about potential risks of the procedure. Which of the following is a recognised principal limitation of MCUG?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "It has limited sensitivity for detecting intermittent vesicoureteric reflux"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "It requires urethral catheterisation in all paediatric patients"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "It cannot adequately visualise the posterior urethra in male infants"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "It exposes the child to a significant burden of ionising radiation"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "**Correct:** The chapter identifies \u0027a principal limitation of MCUG is the burden of ionising radiation.\u0027 The text describes that the radiation dose can be significantly reduced by using \u0027grabbed\u0027 digital images and removing the grid on the image intensifier, but the radiation exposure remains a key consideration.\n\n**Distractors:**\n- a: Although VUR can be intermittent and may be missed, the chapter explicitly identifies ionising radiation as the principal limitation, not the intermittent nature of reflux.\n- b: Catheterisation is required but is not highlighted as the principal limitation; it is an accepted part of the procedure.\n- c: MCUG actually provides the best anatomical detail of the urethra â€” it is \u0027the only form of imaging which can provide detailed anatomical information on the urethra.\u0027\n\n**Clinical Pearl:** The principal limitation of MCUG is the ionising radiation burden; techniques such as \u0027grabbed\u0027 digital images should be used to minimise the dose.",
+        "topic":  "MCUG — radiation protection"
+    },
+    {
+        "id":  "ch03-Q14",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  14,
+        "stem":  "A 7-year-old girl with recurrent febrile urinary tract infections requires follow-up imaging for known grade II vesicoureteric reflux. Minimising cumulative radiation exposure is a priority. Which investigation is most appropriate in this setting?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Indirect radionuclide cystography (IRC)"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Repeat MCUG with full standard protocol"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Intravenous urography (IVU)"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "CT cystography with intravenous contrast"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "**Correct:** The chapter states that \u0027the radiation burden of IRC is lower than MCUG.\u0027 IRC also provides information on differential renal function when combined with conventional renography, making it a suitable lower-radiation alternative for follow-up of known VUR in older children.\n\n**Distractors:**\n- b: A repeat MCUG would expose the child to further ionising radiation, which is what the clinical scenario seeks to minimise.\n- c: IVU is an older technique that delivers a higher radiation dose and provides less functional information than modern alternatives; it has been largely superseded.\n- d: CT cystography delivers a substantially higher radiation dose than MCUG and is not indicated for routine VUR follow-up.\n\n**Clinical Pearl:** IRC is the preferred investigation for follow-up of known VUR in older children because it has a lower radiation burden than MCUG and also provides differential renal function information.",
+        "topic":  "Isotope cystography — IRC"
+    },
+    {
+        "id":  "ch03-Q15",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  15,
+        "stem":  "A 9-year-old girl with recurrent UTIs and known grade II vesicoureteric reflux is scheduled for indirect radionuclide cystography (IRC). The referring clinician should be aware of which important limitation of this technique?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "It requires urethral catheterisation for isotope instillation into the bladder"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "It cannot detect reflux that occurs during the filling phase of the bladder"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "It delivers a higher effective radiation dose than a conventional MCUG"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "It cannot provide information on relative differential renal function"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter states that \u0027IRC can only be used to detect reflux during the voiding or resting phases of bladder function and not during bladder filling.\u0027 This is a key limitation because some children may reflux only during the filling phase.\n\n**Distractors:**\n- a: IRC does not require urethral catheterisation; the isotope (Tc-99m MAG3) is injected intravenously and excreted into the urine. Direct isotope cystography (DIC) requires catheterisation, but IRC does not.\n- c: IRC has a lower radiation burden than MCUG, as stated in the chapter.\n- d: IRC does provide information on differential renal function when combined with conventional renography, which is one of its advantages.\n\n**Clinical Pearl:** The main limitation of IRC is that it can only detect reflux during voiding and resting phases, not during bladder filling, which may miss filling-phase-only reflux.",
+        "topic":  "Isotope cystography — limitations"
+    },
+    {
+        "id":  "ch03-Q16",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  16,
+        "stem":  "A 5-year-old girl with recurrent febrile urinary tract infections is being evaluated for possible vesicoureteric reflux. Contrast-enhanced ultrasound (CEUS) is available at the referral centre. What advantage does CEUS offer over conventional MCUG for detecting VUR?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Several filling cycles can be performed, increasing sensitivity for intermittent reflux"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "It does not require any form of bladder catheterisation in girls"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "It provides higher-resolution images of the urethra than MCUG"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "It can be performed on any standard ultrasound machine without special equipment"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "**Correct:** The chapter states that when CEUS contrast is introduced into the bladder, it \u0027can be used for the dynamic assessment of vesicoureteric reflux and has the advantage that several filling cycles can be performed.\u0027 This is valuable because VUR is an intermittent phenomenon.\n\n**Distractors:**\n- b: CEUS still requires catheterisation to introduce the microbubble contrast into the bladder for VUR assessment.\n- c: MCUG provides better anatomical detail of the urethra; CEUS can visualise the urethra during voiding but is not superior to MCUG for urethral detail.\n- d: CEUS \u0027requires availability of a high quality modern US scanner and a suitably trained sonographer or radiologist\u0027 â€” it cannot be performed on any standard machine.\n\n**Clinical Pearl:** The ability to perform multiple filling cycles is a key advantage of CEUS over MCUG, potentially improving detection of intermittent VUR.",
+        "topic":  "CEUS — advantages"
+    },
+    {
+        "id":  "ch03-Q17",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  17,
+        "stem":  "A 4-year-old boy is scheduled for contrast-enhanced ultrasound (CEUS) to evaluate for vesicoureteric reflux. The contrast medium is prepared for intravesical administration. What is the composition of this contrast agent?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Iodinated water-soluble radiographic contrast"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Technetium-99m labelled radiopharmaceutical"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Gadolinium-based chelate solution"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Solution of gas-filled microbubbles"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "**Correct:** The chapter states that \u0027the contrast medium used for CEUS consists of a solution of gas-filled microbubbles which can either be injected intravenously or introduced into the bladder via a catheter.\u0027 The microbubbles reflect ultrasound waves and appear echogenic on scanning.\n\n**Distractors:**\n- a: Iodinated contrast is used for radiographic studies such as CT, MCUG, and intravenous urography, not for ultrasound-based CEUS.\n- b: Technetium-99m labelled compounds (e.g., MAG3, DMSA) are used for nuclear medicine studies such as renography and scintigraphy.\n- c: Gadolinium chelates are used as contrast agents for magnetic resonance imaging (MRI), not for ultrasound.\n\n**Clinical Pearl:** CEUS uses gas-filled microbubbles as its contrast medium, which appear echogenic on ultrasound and can be administered intravenously or intravesically.",
+        "topic":  "CEUS — contrast medium"
+    },
+    {
+        "id":  "ch03-Q18",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  18,
+        "stem":  "A newborn with ambiguous genitalia is being evaluated for a possible cloacal malformation. The paediatric urologist wants to identify unexpected connections between pelvic cavities. Which imaging technique is particularly useful in this clinical scenario?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Contrast-enhanced ultrasound (CEUS)"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "CT with multiplanar reconstruction"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Abdominal X-ray with oral contrast"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "MAG3 renography with diuretic"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "**Correct:** The chapter states that CEUS \u0027is also a useful technique for the evaluation of ambiguous genitalia and cloacal malformations because the solution of microbubbles may demonstrate unexpected connections between cavities which may be less apparent on conventional contrast examinations.\u0027\n\n**Distractors:**\n- b: CT with multiplanar reconstruction can provide anatomical detail but involves ionising radiation and may not demonstrate subtle fistulous connections as effectively as CEUS.\n- c: Abdominal X-ray has limited soft tissue resolution and is not the modality of choice for detecting complex internal anatomical connections.\n- d: MAG3 renography provides functional information about renal drainage and is not designed to evaluate anatomical connections between pelvic cavities.\n\n**Clinical Pearl:** CEUS with microbubble contrast is particularly useful in ambiguous genitalia and cloacal malformations because it can demonstrate unexpected inter-cavity connections.",
+        "topic":  "CEUS — ambiguous genitalia"
+    },
+    {
+        "id":  "ch03-Q19",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  19,
+        "stem":  "An 8-year-old girl with recurrent febrile UTIs has a scarred upper pole on ultrasound. A DMSA scan is ordered to quantify differential renal function. The radiologist explains that the tracer binds to a specific site within the renal parenchyma. Which structure is the binding site for Tc-99m DMSA?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Loop of Henle in the medulla"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Proximal convoluted tubules"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Glomerular basement membrane"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Collecting ducts of Bellini"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter states that \u0027technetium-99m DMSA binds to the proximal convoluted tubules with only 10% of the injected dose being excreted in the urine.\u0027 This binding allows static imaging of functioning renal parenchyma.\n\n**Distractors:**\n- a: The loop of Henle is not a binding site for DMSA; the tracer localises specifically to the proximal tubules in the renal cortex.\n- c: The glomerular basement membrane is the filtration barrier, not the binding site for DMSA; DMSA is not filtered but taken up by tubular cells.\n- d: The collecting ducts are distal structures where DMSA does not significantly bind; less than 10% of the dose appears in the urine.\n\n**Clinical Pearl:** Tc-99m DMSA binds to the proximal convoluted tubules, making it an excellent agent for static imaging of functional renal cortical tissue.",
+        "topic":  "DMSA — mechanism"
+    },
+    {
+        "id":  "ch03-Q20",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  20,
+        "stem":  "A 6-year-old boy with a history of febrile UTIs undergoes DMSA scintigraphy. After intravenous injection of Tc-99m DMSA, static images are acquired to assess functioning renal parenchyma. What is the optimal imaging time after injection?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Approximately 2â€“3 hours after injection"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Immediately after the injection is completed"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "24 hours after the initial isotope injection"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "At both 1 minute and 30 minutes after injection"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "**Correct:** The chapter states that \u0027static images are acquired approximately 2â€“3 hours after the injection of isotope tracer.\u0027 This delay allows sufficient time for Tc-99m DMSA to bind to the proximal convoluted tubules and for background activity to clear.\n\n**Distractors:**\n- b: Immediate imaging would show predominantly vascular and background activity before the tracer has adequately bound to renal tubular cells.\n- c: 24 hours is unnecessarily long; the isotope\u0027s half-life (approximately 6 hours) would result in significant decay, and adequate images are obtained at 2â€“3 hours.\n- d: These short intervals are more appropriate for dynamic renography (e.g., MAG3), where the first-pass and early uptake phases are important, not for static DMSA imaging.\n\n**Clinical Pearl:** Static DMSA images should be acquired 2â€“3 hours after injection to allow optimal tracer binding to proximal tubular cells and clearance of background activity.",
+        "topic":  "DMSA — timing"
+    },
+    {
+        "id":  "ch03-Q21",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  21,
+        "stem":  "A DMSA scan performed in a child with recurrent UTIs reports differential renal function of 48% on the left and 52% on the right. The parents ask whether these values are normal. How should this result be interpreted?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Normal only if the serum creatinine and eGFR are also within normal limits"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Borderline abnormal, indicating early loss of function on the left side"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Unequivocally abnormal, requiring immediate surgical intervention"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Within the normal range of 45%â€“55% for differential renal function"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "**Correct:** The chapter states that \u0027normal values for differential renal function are in the range 45%â€“55%.\u0027 The values of 48% and 52% fall comfortably within this range and are considered normal.\n\n**Distractors:**\n- a: Differential function values on DMSA are independent of serum creatinine or eGFR; they compare relative function between kidneys, not absolute function.\n- b: Values of 48% and 52% are well within the normal range and do not indicate any loss of function on either side.\n- c: The normal threshold for abnormality would be a value below 45% or above 55%; these values are clearly within normal limits.\n\n**Clinical Pearl:** Normal differential renal function on DMSA is 45%â€“55%; values within this range do not indicate significant asymmetry.",
+        "topic":  "DMSA — differential function"
+    },
+    {
+        "id":  "ch03-Q22",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  22,
+        "stem":  "A 5-year-old girl with acute pyelonephritis undergoes a DMSA scan that shows photopenic areas in the upper pole of the right kidney. The clinicians want to determine whether these changes represent permanent scarring. When should a follow-up DMSA scan be performed?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Within 1 week of completing the course of antibiotics"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "At least 8 weeks (preferably longer) after the infection is eradicated"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "At 1 year of age to allow for complete renal maturation"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "At 6 months for all cases of pyelonephritis regardless of severity"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter states that \u0027the changes seen during or shortly after acute pyelonephritis may be transient and in order to demonstrate areas of permanent renal scarring the scan should be delayed until at least 8 weeks (preferably longer) after the infection has been eradicated.\u0027\n\n**Distractors:**\n- a: One week is too early; the acute inflammatory changes may not have resolved, making it impossible to distinguish transient photopenia from permanent scarring.\n- c: While waiting a full year would certainly show permanent changes, it is unnecessarily long; 8 weeks is the minimum recommended interval.\n- d: The timing of follow-up DMSA depends on the need to distinguish acute from chronic changes, not on a fixed 6-month interval for all cases.\n\n**Clinical Pearl:** Follow-up DMSA to differentiate acute pyelonephritic changes from permanent scarring should be delayed until at least 8 weeks after the infection has resolved.",
+        "topic":  "DMSA — scarring timing"
+    },
+    {
+        "id":  "ch03-Q23",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  23,
+        "stem":  "A 4-year-old child with recurrent UTIs has an ultrasound that shows a suspected horseshoe kidney. The clinician orders a DMSA scan to confirm the diagnosis. Which finding on DMSA would confirm a horseshoe kidney?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Complete absence of tracer uptake in one renal moiety"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "An isthmus of functioning tissue crossing the midline"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Photopenic areas in the upper and lower poles bilaterally"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Delayed tracer clearance with persistent cortical retention"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter states that \u0027by demonstrating an \u0027isthmus\u0027 of functioning tissue crossing the midline, DMSA can play a useful role in the diagnosis of horseshoe kidneys.\u0027 This is a characteristic scintigraphic appearance of horseshoe kidney.\n\n**Distractors:**\n- a: Complete absence of tracer uptake in one kidney would suggest a non-functioning kidney such as multicystic dysplastic kidney, not a horseshoe kidney.\n- c: Bilateral photopenic areas in the poles could suggest scarring from pyelonephritis or other parenchymal abnormalities, not horseshoe kidney.\n- d: Delayed tracer clearance with retention is a finding suggestive of obstruction or impaired drainage, typically assessed with dynamic renography (MAG3), not diagnostic of horseshoe kidney.\n\n**Clinical Pearl:** The hallmark of horseshoe kidney on DMSA scintigraphy is an isthmus of functioning renal tissue crossing the midline.",
+        "topic":  "DMSA — horseshoe kidney"
+    },
+    {
+        "id":  "ch03-Q24",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  24,
+        "stem":  "A newborn is found to have a multicystic abdominal mass on antenatal ultrasound. Postnatal imaging confirms a multicystic dysplastic kidney (MCDK) on the left side. Which finding on a DMSA scan would confirm this diagnosis?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Differential function of 50% on each side, suggesting equal function"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Patchy photopenic areas with some preserved cortical uptake"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Complete absence of tracer uptake in the affected kidney"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Increased tracer uptake in the affected kidney compared with the normal side"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "**Correct:** The chapter states that DMSA \u0027can also be used to confirm the diagnosis of multicystic dysplastic kidney (MCDK) by demonstrating that it is entirely non-functioning.\u0027 A complete absence of tracer uptake in the affected kidney confirms that there is no functioning renal tissue.\n\n**Distractors:**\n- a: 50% function on each side would suggest two functioning kidneys, which would exclude the diagnosis of a non-functioning MCDK.\n- b: Patchy photopenic areas with some preserved function would suggest pyelonephritic scarring rather than the complete absence of function seen in MCDK.\n- d: Increased uptake would suggest hyperfunction or compensatory hypertrophy, not the non-functioning tissue characteristic of MCDK.\n\n**Clinical Pearl:** DMSA confirms MCDK by demonstrating that the affected kidney is entirely non-functioning, with no tracer uptake.",
+        "topic":  "DMSA — MCDK"
+    },
+    {
+        "id":  "ch03-Q25",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  25,
+        "stem":  "A child with chronic kidney disease and bilateral renal scarring undergoes a DMSA scan. The differential function is reported as 50% on each side. The parents are reassured by this result, but the clinician is cautious. Why might these apparently normal values be misleading?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "The isotope dose may have been miscalculated for the child\u0027s body surface area"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "DMSA scintigraphy is not validated for assessment of bilateral renal disease"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Differential function is a comparative rather than an absolute measure of function"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Static images were acquired too early after injection, before adequate uptake occurred"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "**Correct:** The chapter warns that \u0027values for differential function are comparative rather than absolute measures of renal function. Despite significant impairment of overall renal function DMSA can therefore yield misleadingly \u0027normal\u0027 values for differential function if both kidneys are equally affected by renal damage.\u0027\n\n**Distractors:**\n- a: While dose calculation is important, the specific pitfall described in the chapter is the comparative nature of differential function, not a technical dosing error.\n- b: DMSA is validated for assessing bilateral disease, but the interpretation of differential function must account for its comparative nature.\n- d: The timing of image acquisition (2â€“3 hours) is standard and is not the reason for misleadingly normal values in symmetrically impaired kidneys.\n\n**Clinical Pearl:** Differential function on DMSA is a relative measure; equally reduced function in both kidneys can produce misleadingly normal 50:50 split values.",
+        "topic":  "DMSA — limitations"
+    },
+    {
+        "id":  "ch03-Q26",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  26,
+        "stem":  "A 3-year-old child with a history of antenatal hydronephrosis undergoes a MAG3 renogram. The renogram curve from the affected kidney shows a pattern that continues to rise after the initial uptake phase, without a descending limb. What does this curve pattern suggest?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "A delay in excretion, possibly due to pelviureteric junction obstruction"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Renal artery stenosis causing reduced blood flow to the kidney"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Normal drainage with rapid transit of isotope to the bladder"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Acute pyelonephritis affecting the cortical parenchyma"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "**Correct:** The chapter describes the normal renogram pattern as \u0027an early peak followed by a rapidly descending phase.\u0027 It states that \u0027a continually ascending curve suggests a delay in excretion.\u0027 In this context, a diuretic (furosemide) may help distinguish between simple stasis and true mechanical obstruction.\n\n**Distractors:**\n- b: Renal artery stenosis would typically show reduced initial uptake (diminished blood flow phase) rather than a continually ascending curve.\n- c: Normal drainage produces an early peak followed by a descending phase, not a continually rising curve.\n- d: Acute pyelonephritis may show cortical defects on DMSA but does not produce a specific ascending renogram curve pattern.\n\n**Clinical Pearl:** A continually ascending renogram curve indicates delayed excretion; furosemide administration can help differentiate simple stasis from true obstruction.",
+        "topic":  "MAG3 — renogram curve interpretation"
+    },
+    {
+        "id":  "ch03-Q27",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  27,
+        "stem":  "A 2-year-old girl with antenatally detected hydronephrosis undergoes a MAG3 renogram to assess differential renal function. At which time point after intravenous isotope injection is differential function typically calculated?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "At 1â€“2 minutes after injection, before significant excretion has occurred"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "At 2â€“3 hours after injection, once the isotope has fully bound to tubules"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "At 30 minutes after furosemide administration during the washout phase"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "At the end of the 20-minute dynamic acquisition after bladder emptying"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "**Correct:** The chapter states that \u0027differential renal function is usually acquired at about 1 to 2 minutes after the injection of the isotope.\u0027 This timing captures the uptake phase before significant excretion has occurred, providing an accurate measure of relative renal function.\n\n**Distractors:**\n- b: 2â€“3 hours after injection is the timing for static DMSA imaging, not for MAG3 differential function calculation.\n- c: The response to furosemide is used to assess drainage and distinguish stasis from obstruction, not to calculate differential function.\n- d: By the end of the dynamic acquisition, significant excretion may have occurred, making this timing less reliable for calculating differential function.\n\n**Clinical Pearl:** Differential renal function on MAG3 renography is calculated from the uptake phase at 1â€“2 minutes after injection, before significant excretion occurs.",
+        "topic":  "MAG3 — differential function timing"
+    },
+    {
+        "id":  "ch03-Q28",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  28,
+        "stem":  "A 4-month-old infant with antenatally detected hydronephrosis is being considered for a MAG3 renogram. The paediatric urologist notes that dynamic renography is of limited value in certain patient groups. In which of the following groups is MAG3 renography of most limited value?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Children with pelviureteric junction obstruction"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Infants under 6 months of age"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Children with duplex collecting systems"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Children with congenital megaureters"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter states that dynamic renography \u0027is of more limited value in children with reduced renal function and in those under 2 years of age â€“ especially infants under 6 months.\u0027 Immature renal tubular function in young infants limits the reliability of MAG3 renography.\n\n**Distractors:**\n- a: Dynamic renography is \u0027of particular value in the investigation of pelviureteric obstruction\u0027 â€” this is one of its primary indications.\n- c: Dynamic renography is useful \u0027in duplex systems\u0027 for assessing the function of each moiety.\n- d: Dynamic renography is useful for evaluating \u0027congenital drainage abnormalities (megaureters and other structural or functional abnormalities).\u0027\n\n**Clinical Pearl:** MAG3 renography has limited value in infants under 6 months of age because of immature renal tubular function.",
+        "topic":  "MAG3 — limitations in infants"
+    },
+    {
+        "id":  "ch03-Q29",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  29,
+        "stem":  "A 3-year-old boy with suspected pelviureteric junction obstruction is referred for dynamic renography to assess drainage. The nuclear medicine physician selects the isotope that relies on tubular extraction and is most commonly used for this purpose. Which isotope is this?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Tc-99m mercaptoacetyltriglycine (MAG3)"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Tc-99m dimercaptosuccinic acid (DMSA)"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Tc-99m diethylenetriaminepentaacetic acid (DTPA)"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Iodinated intravenous contrast medium"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "**Correct:** The chapter states that \u0027the most commonly used isotope is Tc-99m dimercaptoacetyltriglycine (MAG3) (which relies on tubular extraction)\u0027 for dynamic renography. It notes that DTPA (which relies on filtration) is declining in use.\n\n**Distractors:**\n- b: Tc-99m DMSA is used for static scintigraphy (cortical imaging) and binds to proximal tubules, but it is not used for dynamic renography assessing drainage.\n- c: Tc-99m DTPA is a filtration-based agent that is used for dynamic renography but is declining in use compared with MAG3.\n- d: Iodinated contrast is used for radiographic studies (CT, MCUG, IVU), not for nuclear medicine renography.\n\n**Clinical Pearl:** Tc-99m MAG3 is the most commonly used isotope for dynamic renography; it relies on tubular extraction and has largely replaced DTPA.",
+        "topic":  "MAG3 vs DTPA"
+    },
+    {
+        "id":  "ch03-Q30",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  30,
+        "stem":  "A 2-year-old with suspected pelviureteric junction obstruction undergoes MAG3 renography. The renogram curve shows slow drainage from the right kidney. The radiologist administers furosemide intravenously. What is the purpose of administering a diuretic during this study?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "To enhance the quality of the renogram curve by increasing renal blood flow"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "To reduce the effective radiation dose to the child by accelerating excretion"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "To prevent contrast-induced nephropathy from the isotope injection"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "To help distinguish between simple urinary stasis and true mechanical obstruction"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "**Correct:** The chapter states that in cases of delayed excretion, \u0027the administration of a diuretic may help to distinguish between stasis and obstruction.\u0027 In a dilated but non-obstructed system, furosemide-induced diuresis will wash out the tracer; in true obstruction, the tracer will continue to accumulate.\n\n**Distractors:**\n- a: The primary purpose of furosemide is not to enhance image quality but to provide a physiological challenge that differentiates stasis from obstruction.\n- b: While accelerated excretion may theoretically reduce bladder radiation dose, this is not the stated purpose of furosemide in renography.\n- c: MAG3 and DTPA are radiopharmaceuticals, not nephrotoxic contrast agents; there is no risk of contrast-induced nephropathy.\n\n**Clinical Pearl:** Furosemide is administered during MAG3 renography to differentiate between simple stasis (which washes out with diuresis) and true mechanical obstruction (which does not).",
+        "topic":  "Diuretic renography"
+    },
+    {
+        "id":  "ch03-Q31",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  31,
+        "stem":  "A 5-year-old child is scheduled for an MCUG to evaluate for vesicoureteric reflux. The radiologist discusses measures to minimise the radiation dose. According to the chapter, which technique can be used to significantly reduce the radiation exposure during MCUG?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Using \u0027grabbed\u0027 digital images and removing the grid on the image intensifier"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Replacing MCUG with a DMSA scan in all cases of suspected reflux"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Performing the study without any antibiotic prophylaxis"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Using a higher kVp setting to reduce the required milliamperage"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "**Correct:** The chapter states that \u0027the radiation dose can be significantly reduced by using \u0027grabbed\u0027 digital images and removing the grid on the image intensifier.\u0027 This reduces the number of exposures and improves the efficiency of the imaging chain.\n\n**Distractors:**\n- b: DMSA is not an alternative for detecting VUR; it assesses renal parenchyma and differential function. When VUR needs to be diagnosed, MCUG, IRC, or CEUS are required.\n- c: Antibiotic prophylaxis does not affect radiation dose; it is used to reduce the risk of infection from catheterisation.\n- d: While technique factors affect dose, the chapter specifically cites \u0027grabbed\u0027 images and grid removal as the key dose-reduction strategies for MCUG.\n\n**Clinical Pearl:** The MCUG radiation dose can be significantly reduced by using \u0027grabbed\u0027 digital images and removing the grid from the image intensifier.",
+        "topic":  "Radiation protection"
+    },
+    {
+        "id":  "ch03-Q32",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  32,
+        "stem":  "A 10-year-old child is brought to the emergency department after a high-speed motor vehicle collision. The child is haemodynamically stable but has macroscopic haematuria and flank tenderness. Which imaging modality is most appropriate for initial evaluation of suspected renal trauma?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "MRI urography with gadolinium contrast"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "MAG3 renography with diuretic"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "DMSA scintigraphy"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "CT with intravenous contrast"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "**Correct:** The chapter states that CT \u0027remains an important investigation for the evaluation of major trauma because of its high sensitivity for the detection of contusions, lacerations, perinephric fluid collections, areas of avascularity, bladder rupture, extra or intra peritoneal leakage of urine, and injury to other organs.\u0027\n\n**Distractors:**\n- a: MRI provides excellent soft tissue detail but takes much longer to perform and is not the first-line modality in the acute trauma setting.\n- b: MAG3 renography provides functional information about drainage but lacks the anatomical detail needed to assess traumatic injuries.\n- c: DMSA assesses renal parenchymal integrity and scarring but is a static study that cannot evaluate acute trauma findings such as lacerations or collections.\n\n**Clinical Pearl:** CT with intravenous contrast is the imaging modality of choice for evaluating suspected renal trauma in haemodynamically stable children.",
+        "topic":  "CT — trauma"
+    },
+    {
+        "id":  "ch03-Q33",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  33,
+        "stem":  "A 6-year-old child presents with flank pain and haematuria. The paediatric urologist recommends starting with an ultrasound rather than a CT scan. According to the chapter, why is CT not regarded as a first-line investigation in paediatric urology?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "CT exposes the child to an unacceptably high dose of ionising radiation for routine use"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Most diagnostic roles fulfilled by CT in adults can be adequately performed by ultrasound in children"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "CT requires that all children under 10 years receive general anaesthesia for the study"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "CT cannot reliably differentiate between solid renal tumours and complex cysts"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter states that \u0027CT is not regarded as a \u0027front line\u0027 investigation in paediatric urology because many of the roles fulfilled by CT in adults can be fulfilled by US in children.\u0027 This is primarily because children have less body fat and a smaller body habitus, allowing excellent anatomical detail with ultrasound.\n\n**Distractors:**\n- a: While radiation dose is a concern with CT, the reason explicitly given for CT not being first-line is that US can fulfil most of its diagnostic roles in children.\n- c: CT scans are very fast with modern multidetector scanners (typically 5â€“10 seconds), so most children can be successfully scanned without sedation or anaesthesia.\n- d: CT can differentiate between tumours and cysts; the issue is not about CT\u0027s capabilities but about the availability of a safer alternative (US).\n\n**Clinical Pearl:** Ultrasound is preferred over CT in paediatric urology because children\u0027s less body fat and smaller habitus allow US to provide the same diagnostic information without radiation.",
+        "topic":  "CT — limitations in paediatrics"
+    },
+    {
+        "id":  "ch03-Q34",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  34,
+        "stem":  "An 8-year-old child with suspected renal trauma undergoes a CT scan. The radiologist uses a split-bolus contrast administration technique. What is the purpose of administering the contrast as two separate boluses 30â€“40 seconds apart?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "To reduce the total volume of intravenous contrast medium required"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "To obtain both portal venous and arterial enhancement in a single scan"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "To completely eliminate the need for any delayed-phase imaging"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "To allow the CT scan to be performed without sedation or anaesthesia"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter explains that \u0027contrast is usually administered as a \u0027split bolus\u0027, typically with two boluses given 30â€“40 seconds apart. In this way both portal venous and arterial enhancement are obtained in a single scan.\u0027 This minimises the number of acquisitions and thus the radiation dose.\n\n**Distractors:**\n- a: The total contrast volume is not necessarily reduced; the split-bolus technique redistributes the same or similar volume across two injections.\n- c: For trauma or suspected bladder rupture, delayed scans are still obtained with two boluses given 3â€“5 minutes apart; the split-bolus does not eliminate the need for delayed imaging.\n- d: The split-bolus technique is about optimising contrast enhancement, not about avoiding sedation; CT scans are fast enough that most children do not require sedation regardless.\n\n**Clinical Pearl:** The split-bolus CT technique delivers two contrast boluses 30â€“40 seconds apart to achieve both arterial and portal venous enhancement in a single acquisition.",
+        "topic":  "CT — split-bolus technique"
+    },
+    {
+        "id":  "ch03-Q35",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  35,
+        "stem":  "A 4-year-old child presents with a painless, palpable abdominal mass. Ultrasound reveals a solid intra-renal tumour. For further characterisation and surgical planning, which imaging modality is now regarded as the examination of choice for assessing renal tumours in children?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "CT with intravenous contrast and multiplanar reconstruction"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Abdominal X-ray with intravenous urography"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "DMSA scintigraphy with SPECT acquisition"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Magnetic resonance imaging (MRI)"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "**Correct:** The chapter states that \u0027MR is now the examination of choice for the assessment of malignant and benign renal tumours.\u0027 MRI provides superior delineation of different tissue types both before and after contrast, and MR angiography provides valuable information on tumour vasculature prior to surgery.\n\n**Distractors:**\n- a: CT was historically used for tumour assessment but has been superseded by MRI, which offers better soft tissue differentiation and no ionising radiation.\n- b: Abdominal X-ray with IVU is an outdated technique that provides very limited information about tumour characteristics and has been replaced by cross-sectional imaging.\n- c: DMSA shows functioning renal tissue and can demonstrate photopenic areas corresponding to tumours, but it does not provide the detailed anatomical characterisation needed for surgical planning.\n\n**Clinical Pearl:** MRI is the imaging modality of choice for assessing both benign and malignant renal tumours in children, offering superior tissue characterisation without ionising radiation.",
+        "topic":  "MRI — tumours"
+    },
+    {
+        "id":  "ch03-Q36",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  36,
+        "stem":  "A 6-year-old child undergoes MRI of the urinary tract to evaluate a suspected PUJ obstruction. The radiologist selects a particular sequence that makes the urine in the renal pelvis and ureters appear bright. Which property of this sequence makes it ideal for imaging urine-filled structures?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "T1-weighted images provide superior anatomical detail before contrast administration"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "On T2-weighted images water returns a high signal, making urine appear white"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Diffusion-weighted sequences are highly sensitive for detecting free fluid"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Gradient-echo sequences produce the brightest signal from stationary fluid"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter states that \u0027on T2 images, water returns a high signal (white) and therefore T2 weighted sequences are very useful for imaging structures such as the renal pelvis, ureters and bladder.\u0027 This allows clear delineation of urine-containing structures.\n\n**Distractors:**\n- a: T1-weighted images provide anatomical detail but do not make water appear as a bright (high) signal; on T1, fluids typically appear dark unless contrast is given.\n- c: Diffusion-weighted sequences are useful for detecting restricted diffusion in tissues (e.g., tumours, abscesses) but are not the standard for anatomical delineation of the collecting system.\n- d: While gradient-echo sequences have various applications, heavily T2-weighted sequences are specifically mentioned in the chapter for delineating urine-filled structures.\n\n**Clinical Pearl:** T2-weighted MRI sequences make urine (water) appear bright white, making them ideal for imaging the renal collecting system, ureters, and bladder.",
+        "topic":  "MRI — sequences"
+    },
+    {
+        "id":  "ch03-Q37",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  37,
+        "stem":  "A 3-year-old child with a suspected renal tumour requires cross-sectional imaging. Both MRI and CT are available. The team decides to proceed with CT instead of MRI. According to the chapter, what is the principal disadvantage of MRI that may limit its use in younger children?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "MRI provides inferior soft tissue resolution compared with CT"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "MRI exposes the child to a higher cumulative radiation dose than CT"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "MRI cannot adequately visualise the renal collecting system and ureters"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "MRI often requires sedation or general anaesthesia to keep the child still"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "**Correct:** The chapter states that \u0027MRI does not involve any exposure to radiation but has the disadvantage that sedation or general anaesthesia are often required to ensure the child remains absolutely still during the scan.\u0027 Scan times can be up to 30 minutes or longer.\n\n**Distractors:**\n- a: MRI actually \u0027offers superior delineation of different types of tissue\u0027 compared with CT â€” this is an advantage, not a disadvantage.\n- b: MRI does not involve any exposure to ionising radiation, which is a key advantage over CT.\n- c: MRI provides \u0027excellent delineation of urine-containing structures\u0027 and is excellent for imaging the collecting system, especially with T2-weighted sequences.\n\n**Clinical Pearl:** The principal disadvantage of MRI in young children is the need for sedation or general anaesthesia to prevent motion during the long acquisition time.",
+        "topic":  "MRI — limitations"
+    },
+    {
+        "id":  "ch03-Q38",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  38,
+        "stem":  "An 8-year-old child with suspected pelviureteric junction obstruction is referred for MR urography (MRU). The radiologist selects a sequence that will clearly depict the dilated renal pelvis and ureter. Which type of MRI sequence is most suitable for this purpose?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Heavily T2-weighted sequences"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Diffusion-weighted imaging sequences"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "T1-weighted sequences without contrast"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Proton density-weighted sequences"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "**Correct:** The chapter states that \u0027heavily weighted T2 sequences are generally used for this purpose because of their ability to clearly delineate urine-containing structures.\u0027 This makes MRU ideal for evaluating the dilated collecting system.\n\n**Distractors:**\n- b: Diffusion-weighted sequences provide information about cellular density and are useful for tumour characterisation but are not the primary sequence for anatomical delineation of the collecting system.\n- c: T1-weighted sequences without contrast show urine as dark (low signal) and do not provide the bright contrast needed for clear delineation of fluid-filled structures.\n- d: Proton density-weighted sequences provide intermediate contrast and are not specifically used for MRU; heavily T2-weighted sequences are the established standard.\n\n**Clinical Pearl:** Heavily T2-weighted sequences are the cornerstone of MR urography because they make urine-containing structures appear bright and well-delineated.",
+        "topic":  "MR urography"
+    },
+    {
+        "id":  "ch03-Q39",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  39,
+        "stem":  "A 7-year-old girl with recurrent UTIs is found to have a duplex collecting system on ultrasound. An ectopic ureteric insertion is suspected. Which imaging modality provides the most valuable anatomical information for defining complex upper tract anatomy in this setting?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Micturating cystourethrography (MCUG) alone"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "CT without intravenous contrast"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Magnetic resonance imaging (MRI)"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Abdominal X-ray (AXR)"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "**Correct:** The chapter states that \u0027MR is also a very valuable means of defining complex upper tract anatomy â€“ notably in duplex systems with ectopic insertion of ureters.\u0027 MRI provides multiplanar images and excellent soft tissue delineation without ionising radiation.\n\n**Distractors:**\n- a: MCUG is primarily for detecting VUR and evaluating urethral anatomy; it does not provide the detailed anatomical delineation of a duplex system with ectopic ureteric insertion that MRI offers.\n- b: CT without contrast provides limited soft tissue differentiation and cannot reliably identify ureters or their insertions without intravenous contrast.\n- d: AXR has very limited soft tissue resolution and plays no significant role in evaluating complex upper tract anatomy.\n\n**Clinical Pearl:** MRI is the imaging modality of choice for delineating complex upper tract anatomy, including duplex systems with ectopic ureteric insertion.",
+        "topic":  "MRI — duplex systems"
+    },
+    {
+        "id":  "ch03-Q40",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  40,
+        "stem":  "A 5-year-old child with pelviureteric junction obstruction is scheduled for pyeloplasty. The surgeon requests a preoperative MR angiogram. What specific finding is this MR study primarily intended to detect?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "The extent of renal cortical scarring"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Aberrant crossing vessels at the PUJ"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Differential function of the obstructed kidney"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "The presence of ureteric peristalsis"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter states that \u0027it can demonstrate the presence of aberrant \u0027crossing vessels\u0027 prior to a pyeloplasty or vascular hitch procedure for pelviureteric junction (PUJ) obstruction.\u0027 Identifying crossing vessels is critical for surgical planning.\n\n**Distractors:**\n- a: Renal scarring is better assessed with DMSA scintigraphy or contrast-enhanced MRI, not specifically MR angiography.\n- c: Differential renal function is assessed with DMSA or MAG3 renography, not with MR angiography.\n- d: Ureteric peristalsis can be observed on dynamic MR urography but is not the primary purpose of preoperative MR angiography for PUJ obstruction.\n\n**Clinical Pearl:** Preoperative MR angiography for PUJ obstruction is primarily used to identify aberrant crossing vessels that may affect the surgical approach.",
+        "topic":  "MRI — crossing vessels"
+    },
+    {
+        "id":  "ch03-Q41",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  41,
+        "stem":  "A 10-year-old child with a known renal tumour requires an MRI with gadolinium-based contrast for further characterisation. Pre-procedure laboratory testing reveals severely impaired renal function. Which risk of gadolinium contrast is of greatest concern in this setting?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Acute anaphylactic reaction to the contrast agent"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Nephrogenic systemic fibrosis (NSF)"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Contrast-induced acute kidney injury"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Delayed hypersensitivity skin reaction"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter states that \u0027gadolinium carries a risk of nephrogenic systemic fibrosis in patients with severe renal impairment.\u0027 NSF is a serious, potentially fatal condition characterised by fibrosis of the skin and internal organs.\n\n**Distractors:**\n- a: Allergic reactions to gadolinium can occur but are not specifically linked to renal impairment; they are not the primary concern in patients with severe renal dysfunction.\n- c: Contrast-induced acute kidney injury is associated with iodinated contrast agents used in CT, not with gadolinium-based MRI contrast.\n- d: Delayed hypersensitivity reactions are possible but are not the specific risk highlighted in patients with severe renal impairment.\n\n**Clinical Pearl:** Gadolinium-based contrast is contraindicated in patients with severe renal impairment because of the risk of nephrogenic systemic fibrosis.",
+        "topic":  "Contrast safety — gadolinium"
+    },
+    {
+        "id":  "ch03-Q42",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  42,
+        "stem":  "A 7-year-old child presents with suspected renal colic. The emergency department clinician orders an abdominal X-ray (AXR). According to current paediatric urology guidelines, what is the appropriate contemporary role of AXR in children?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "First-line investigation for all suspected urinary tract pathology"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Gold-standard imaging modality for assessing renal scarring"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Largely limited to detecting calculi, spinal anomalies, and constipation"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Primary tool for evaluating and staging renal tumours"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "**Correct:** The chapter states that \u0027AXR is no longer a routine investigation in paediatric urology and its role is now largely limited to the detection of urinary tract calculi, spinal anomalies, abdominal or pelvic mass lesions and constipation.\u0027 Ultrasound has replaced AXR for most indications.\n\n**Distractors:**\n- a: AXR is no longer a routine investigation; ultrasound is the first-line imaging modality for suspected urinary tract pathology.\n- b: DMSA scintigraphy or MRI with contrast are the gold standard for detecting renal scarring, not AXR.\n- d: MRI is the examination of choice for assessing renal tumours; AXR has no role in tumour evaluation.\n\n**Clinical Pearl:** Abdominal X-ray is no longer routine in paediatric urology; its role is largely limited to detecting calculi, spinal anomalies, and constipation.",
+        "topic":  "AXR — current role"
+    },
+    {
+        "id":  "ch03-Q43",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  43,
+        "stem":  "A 12-year-old boy with persistent hypertension and suspected renal artery stenosis is referred for imaging. According to the recommended diagnostic pathway described in the chapter, what sequence of imaging investigations should be performed?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Conventional arteriography first, followed by Doppler US if findings are equivocal"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Ultrasound (including Doppler) first, followed by MRI"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "CT angiography first, followed by Doppler US for confirmation"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "MAG3 renogram first, followed by DMSA for split function"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "**Correct:** The chapter states that renal artery stenosis \u0027is usually investigated by US (including Doppler) in the first instance and then by MRI. Conventional arteriography does, however, have the advantage that it can be combined with renal artery angioplasty under the same anaesthetic.\u0027\n\n**Distractors:**\n- a: Conventional arteriography is reserved for cases where angioplasty may be needed, not as the initial investigation.\n- c: CT angiography is not listed as the first-line investigation; Doppler US and MRI are the recommended initial approach.\n- d: MAG3 and DMSA assess differential function but are not the primary investigations for renal artery stenosis.\n\n**Clinical Pearl:** Suspected renal artery stenosis should be investigated with Doppler ultrasound first, followed by MRI; conventional arteriography is reserved for cases where angioplasty may be required.",
+        "topic":  "Arteriography — approach"
+    },
+    {
+        "id":  "ch03-Q44",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  44,
+        "stem":  "A 6-year-old child with hypertension and a known scarred, dysplastic kidney is suspected to have renin-mediated hypertension. Which interventional procedure may be indicated to confirm the diagnosis?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Selective renal vein sampling for renin levels"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Percutaneous nephrostomy of the affected kidney"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Antegrade pyelography to assess the collecting system"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Contrast-enhanced voiding ultrasonography for reflux"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "**Correct:** The chapter states that \u0027selective sampling of renal veins (for renin) and the IVC may be indicated in children whose hypertension is thought to arise from excessive renin production by a scarred or dysplastic kidney.\u0027 This helps lateralise renin production.\n\n**Distractors:**\n- b: Percutaneous nephrostomy is used for decompression of obstructed or infected hydronephrosis, not for the diagnostic work-up of renovascular hypertension.\n- c: Antegrade pyelography is indicated for investigation of distal upper tract obstruction, not for renin-mediated hypertension.\n- d: CEUS is used for detecting VUR and urethral pathology, not for evaluating renin-mediated hypertension.\n\n**Clinical Pearl:** Selective renal vein renin sampling is indicated when hypertension is thought to arise from excessive renin production by a scarred or dysplastic kidney.",
+        "topic":  "Venography — renin sampling"
+    },
+    {
+        "id":  "ch03-Q45",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  45,
+        "stem":  "A 5-year-old child with recurrent pyelonephritis is found to have distal ureteric obstruction. The interventional radiologist proposes a procedure to delineate the level and nature of the obstruction. What is the principal indication for antegrade pyelography in paediatric urology?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Evaluation of solid and cystic renal tumours"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Diagnosis and grading of vesicoureteric reflux"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Investigation of distal obstruction in the upper urinary tract"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Quantification of differential renal function"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "**Correct:** The chapter states that \u0027the principal indication lies in the investigation of distal obstruction in the upper urinary tract.\u0027 Antegrade pyelography via percutaneous renal puncture can be performed by an interventional radiologist or urologist.\n\n**Distractors:**\n- a: Renal tumours are best evaluated with MRI, and antegrade pyelography plays no role in tumour assessment.\n- b: VUR is diagnosed with MCUG, IRC, or CEUS, not with antegrade pyelography.\n- d: Differential renal function is quantified with DMSA or MAG3 renography, not with antegrade pyelography.\n\n**Clinical Pearl:** Antegrade pyelography is specifically indicated for investigating distal upper urinary tract obstruction.",
+        "topic":  "Antegrade pyelography"
+    },
+    {
+        "id":  "ch03-Q46",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  46,
+        "stem":  "A 3-year-old child presents with fever, flank pain, and an acutely obstructed, infected hydronephrosis secondary to pelviureteric junction obstruction. Urgent drainage is required. What is the preferred drainage procedure in this setting?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Open surgical nephrostomy with general anaesthesia"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Retrograde ureteric stenting via cystoscopy"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Antegrade pyelography with immediate stent placement"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Percutaneous nephrostomy under ultrasound or fluoroscopic guidance"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "**Correct:** The chapter states that \u0027percutaneous nephrostomy is generally preferred to open surgical nephrostomy and drainage. Its main use is in the decompression and drainage of acutely obstructed or infected hydronephrosis â€“ usually due to PUJ obstruction.\u0027\n\n**Distractors:**\n- a: Open surgical nephrostomy is more invasive and has largely been replaced by percutaneous techniques.\n- b: Retrograde stenting may be technically difficult in an obstructed system and often requires general anaesthesia and cystoscopy.\n- c: Antegrade pyelography is a diagnostic procedure; the therapeutic drainage is achieved via percutaneous nephrostomy tube placement.\n\n**Clinical Pearl:** Percutaneous nephrostomy is the preferred method for urgent decompression of acutely obstructed and infected hydronephrosis.",
+        "topic":  "Percutaneous nephrostomy"
+    },
+    {
+        "id":  "ch03-Q47",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  47,
+        "stem":  "A 10-year-old cooperative child with suspected glomerulonephritis is scheduled for an ultrasound-guided renal biopsy. According to the chapter, what anaesthetic approach is typically used in this age group?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "General anaesthesia with endotracheal intubation"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Local anaesthesia only, without sedation"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Sedation combined with local anaesthesia"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Intravenous conscious sedation without local anaesthetic"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "**Correct:** The chapter states that \u0027ultrasound guided procedures can generally be performed using sedation and local anaesthesia in compliant older children.\u0027 General anaesthesia is reserved for younger children.\n\n**Distractors:**\n- a: General anaesthesia is required for younger children, but a cooperative 10-year-old can be managed with sedation and local anaesthetic.\n- b: While local anaesthesia at the puncture site is important, sedation is also typically used to keep the child comfortable and still during the biopsy.\n- d: Local anaesthesia is routinely administered in addition to sedation to provide adequate analgesia at the biopsy site.\n\n**Clinical Pearl:** Ultrasound-guided renal biopsies in compliant older children can be performed under sedation with local anaesthesia, avoiding the need for general anaesthesia.",
+        "topic":  "Renal biopsy — anaesthesia"
+    },
+    {
+        "id":  "ch03-Q48",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  48,
+        "stem":  "During an ultrasound-guided renal biopsy in a 6-year-old child under general anaesthesia, the radiologist obtains multiple cores and immediately examines them under a microscope at the bedside. What is the primary purpose of this immediate microscopic assessment?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "To provide the family with a provisional histological diagnosis"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "To culture the tissue for evidence of active infection"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "To determine which immunohistochemical stains will be required"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "To confirm adequate tissue has been obtained and avoid a repeat procedure"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "**Correct:** The chapter states that \u0027whenever possible these undergo immediate microscopic examination to confirm that adequate tissue has been obtained so as to minimise the possible need for a repeat procedure and further anaesthetic.\u0027 This is a quality assurance step.\n\n**Distractors:**\n- a: The microscopic examination is not for diagnosis; it is to verify that the core contains sufficient glomeruli for pathological analysis.\n- b: Tissue culture is not performed as part of the immediate microscopic assessment; it is a separate microbiological investigation if infection is suspected.\n- c: Immunohistochemical staining requirements are determined later by the pathologist based on the clinical question and light microscopy findings.\n\n**Clinical Pearl:** Immediate microscopic examination of biopsy cores confirms adequate tissue is present, minimising the need for repeat biopsies and additional anaesthesia.",
+        "topic":  "Renal biopsy — adequacy assessment"
+    },
+    {
+        "id":  "ch03-Q49",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  49,
+        "stem":  "A 4-month-old infant requires an MRI study for evaluation of a suspected renal tumour. The radiologist suggests using the \u0027feed and wrap\u0027 technique to avoid sedation. For which age group is this approach most suitable?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "All children under 5 years of age"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Children aged 1â€“3 years who cannot tolerate oral sedation"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Infants from 6 to 12 months of age during natural sleep"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Infants under 6 months who can be immobilised and sleep after feeding"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "**Correct:** The chapter states that \u0027infants under 6 months can be immobilised using a \u0027feed and wrap\u0027 technique in which they sleep throughout the study.\u0027 This avoids the need for sedation or general anaesthesia.\n\n**Distractors:**\n- a: Children over 6 months cannot reliably be scanned using this technique; older children (18 months to 5 years) typically require general anaesthesia for MRI.\n- b: Children aged 1â€“3 years are not candidates for feed and wrap as they are older and more active; GA is usually required in this group.\n- c: Infants 6â€“12 months are beyond the age where feed and wrap is reliably effective; the chapter specifies its use for infants under 6 months.\n\n**Clinical Pearl:** The feed-and-wrap technique allows infants under 6 months to undergo MRI without sedation by having them sleep through the study.",
+        "topic":  "MRI — feed and wrap"
+    },
+    {
+        "id":  "ch03-Q50",
+        "chapter":  "Imaging",
+        "chapterSlug":  "ch03_imaging",
+        "chapterNumber":  3,
+        "questionNumber":  50,
+        "stem":  "An obese 7-year-old with marked scoliosis presents with acute flank pain and suspected renal colic. An ultrasound is attempted but image quality is poor due to body habitus and bowel gas. What is the most appropriate next imaging investigation?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "DMSA scintigraphy to assess for photopenic areas"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Repeat ultrasound in the prone position with a full bladder"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "MAG3 renography with diuretic to evaluate drainage"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "CT without intravenous contrast (stone protocol)"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "**Correct:** The chapter states that \u0027CT also retains a role in the investigation of stone disease (including colic) â€“ particularly in children with physical features such as marked scoliosis or obesity which limit the usefulness of US.\u0027 Non-contrast CT is the appropriate study.\n\n**Distractors:**\n- a: DMSA assesses functioning renal parenchyma and scarring, not acute stone disease; it cannot detect calculi.\n- b: In an obese child with scoliosis, ultrasound is already limited and repeating it in a different position is unlikely to overcome the acoustic limitations.\n- c: MAG3 renography evaluates drainage and function but does not directly visualise calculi and is not indicated for acute renal colic.\n\n**Clinical Pearl:** CT without contrast (stone protocol) remains the preferred imaging modality for suspected renal colic when obesity or scoliosis limits the utility of ultrasound.",
+        "topic":  "CT — stone disease"
+    }
+]

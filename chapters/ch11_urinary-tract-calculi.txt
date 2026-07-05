@@ -1,0 +1,597 @@
+                                                                                              11
+Urinary Tract Calculi
+
+ALEXANDER CHO, PATRICK G DUFFY and NAIMA SMEULDERS
+
+
+Topics covered
+
+Incidence and epidemiology                               Minimally invasive surgery: ESWL, PCNL,
+Pathology/aetiology                                         ureteroscopy, PCCL
+Clinical presentation                                    Open surgery
+Diagnostic imaging                                       Follow-up
+Metabolic screening
+
+
+
+
+ INTRODUCTION                                            essential to ensure optimal care for children with
+                                                         stone disease.
+Urinary stones (calculi) are rare in children but
+their incidence is increasing in developed coun-
+                                                          INCIDENCE AND EPIDEMIOLOGY
+tries and they can give rise to significant morbidity.
+
+●● Urolithiasis is defined as a macroscopic cal-         The incidence of stone disease varies widely by
+   cification localised anywhere in the urinary          geographic region, reflecting differences in the
+   tract including the bladder.                          prevalence of environmental, dietary and genetic
+●● Nephrocalcinosis refers to microscopic cal-           factors.
+   cification secondary to calcium salt deposits            A geographical ‘stone belt’ extending from
+   within the kidney interstitium, the tubules or        the North African countries, Turkey, Pakistan,
+   the tubular epithelium.                               Northern India across to the Philippines is char-
+                                                         acterised by a higher prevalence of stones espe-
+A predisposing factor is present in up to 60% of         cially within the bladder. Chronic malnutrition
+patients – of whom a third have an identifiable          has been implicated, but relative dehydration
+metabolic disorder.                                      associated with the climate and diarrhoeal illness
+   A multi-disciplinary team approach includ-            may also be contributory factors. There is also a
+ing paediatric urologists, interventional radiolo-       higher prevalence of endemic metabolic disor-
+gists, nephrologists and adult stone urologists, is      ders in the same population.
+
+
+                                                                                                       139
+140 Urinary Tract Calculi
+
+
+
+   Another stone belt exists in the southern-eastern   ●● Reduced urinary inhibitors of crystallisa-
+region of the USA known as the ‘North American            tion. Citrate binds to urinary calcium form-
+Stone Belt’ with the incidence of urolithiasis being      ing a soluble complex and thereby inhibits
+nearly twice that of north-west regions.                  formation of calcium stones. Conversely,
+   The estimated annual incidence of urinary              reduced citrate levels favour stone formation.
+calculi in children in the UK is around 50 per         ●● Urinary infection. Gram-negative urease-
+
+100,000. The risk of kidney stones appears to be          positive organisms such as Proteus, Klebsiella
+higher amongst boys in the first decade of life, but      and Pseudomonas, enzymatically split urea to
+higher in girls in the second decade. The propor-         produce ammonia, with consequent alkalisa-
+tion of stones secondary to infection continues to        tion of the urinary pH and precipitation of
+decline in the UK and is currently around 20%.            ammonium salts – typically combined with
+Infective stones are more common in boys and              magnesium and phosphate. Infection is also
+they present at a younger age.                            a key factor in the production of the protein-
+   There has been a recent increase in uroli-             aceous matrix component of calculi.
+thiasis in the adolescent female population and        ●● Anatomical abnormalities of the urinary
+
+although a specific cause has not been identi-            tract. Stasis of urine within a dilated or
+fied, consumption of animal protein, a high salt          obstructed urinary tract predisposes to stone
+intake and obesity have been implicated as pos-           formation due to precipitation of stone form-
+sible factors since these are known to be associ-         ing solutes with or without co-existing urine
+ated with stone formation.                                infection. Anatomical or functional abnormal-
+                                                          ities of the urinary tract can be identified in up
+                                                          to 30% of children presenting with urolithiasis.
+                                                       ●● Foreign materials. Non-absorbable foreign
+ AETIOLOGY                                                bodies, usually surgical in origin (stents, frag-
+                                                          ments of catheters or non-absorbable sutures)
+Urinary calculi are composed of crystalline               act as a nidus of encrustation and stone
+and matrix components in varying propor-                  formation.
+tions. Matrix, a gelatinous glycoprotein, is a         ●● Prematurity. Ex-premature children (born
+
+particular feature of infective stones which are          <37 weeks’ gestation) are at higher risk of
+typically whitish and chalky and crumble eas-             nephrocalcinosis and nephrolithiasis This
+ily. The mineral components are mainly cal-               risk is exacerbated by extreme prematurity,
+cium, ammonia and magnesium phosphate.                    co-morbidity and the use of furosemide, thia-
+Metabolic stones, e.g. cystine and xanthine, are          zides and other drugs. Neonates with intes-
+predominantly crystalline and are correspond-             tinal failure due to necrotising enterocolitis
+ingly harder.                                             (NEC) are at risk of secondary hyperoxaluria.
+                                                          Although up to 40% of neonates <32 weeks
+                                                          gestational age have evidence of nephrocalci-
+Factors Involved in Stone Formation                       nosis this rarely progresses to the formation
+                                                          of discreet stones (nephrolithiasis.
+●●   Abnormal urinary metabolites or ele-              ●● Pharmacological agents. Approximately
+
+     vated concentration of normal urinary                1–2% of renal calculi are drug induced as a
+     constituents. When the concentration of              consequence of increased urinary excretion of
+     stone-forming solutes exceeds the saturation         solute (e.g. with loop diuretics) or decreased
+     point, crystal deposition occurs which acts          excretion of inhibitory substances (e.g. with
+     as a nidus for stone formation. A low fluid          topiramate for the management of epilepsy).
+     intake and reduced urinary output acceler-        ●● Genetics. A positive family history stone
+
+     ates this process due to higher urinary con-         disease in a first or second-degree relative
+     centration of the solute and an unfavourable         represents an important risk factor. However,
+     urinary pH.                                          familial recurrence is not necessarily a
+                                                                            Aetiology / Stone Structure 141
+
+
+
+   consequence of inherited transmission as it          hypercalciuria and nephrocalcinosis points to an
+   may be an effect of shared environmental fac-        underlying renal tubular defect.
+   tors including dietary habits.
+                                                        OXALATE
+Stone Structure                                         Hyperoxaluria accounts for 10–20% of children
+                                                        with stones, of whom a half have primary hyp-
+Infective calculi                                       eroxaluria. This autosomal recessive disorder is
+                                                        characterised by deficiencies of hepatic enzyme
+Infective stones initially comprise a combi-            resulting in the overproduction of oxalate. Type 1
+nation of magnesium, ammonium phosphate                 hyperoxaluria is associated with nephrocalcino-
+and glycoprotein matrix in varying propor-              sis, recurrent stone formation and 100% progres-
+tions. Calcium phosphate and other inorganic            sion to end-stage renal failure whereas types 2 & 3
+constituents then become incorporated into              have a less severe clinical course. A combination of
+the expanding stone mass. Their consistency             renal and liver transplantation has been employed
+is variable, with areas of hard calcified mate-         for severe forms and new treatments for the under-
+rial embedded within softer, less densely cal-          lying hepatic enzyme deficiency are currently
+cified matrix. Calcified areas are radio-opaque         being investigated in clinical trials. Secondary
+but the softer matrix component, which may              hyperoxaluria occurs in malabsorption states such
+extend throughout much of the collecting                as Crohn’s disease or short gut syndrome. Cystic
+system, is radiolucent or only faintly appar-           fibrosis is also associated with higher incidence of
+ent on plain X-ray. The descriptive term ‘stag-         renal stones related to hyperoxaluria.
+horn’ refers to an infective calculus that has
+adopted the configuration of the renal pelvis           CYSTINE
+and calyces (fancifully likened to the antlers of       Cystine is one of four amino acids (the others
+a stag). Rarely, the infective process progresses       being lysine, arginine and ornithine), which are
+to involve the entire renal parenchyma in a             excreted in abnormally high concentrations as a
+chronic inflammatory mass – xanthogranulo-              result of an autosomal recessive disorder affect-
+matous pyelonephritis.                                  ing the proximal tubule. The solubility of cystine
+                                                        in urine is low – leading to crystal deposition,
+Metabolic calculi                                       recurrent episodes of stone formation and subse-
+                                                        quent risk of renal failure.
+CALCIUM
+Hypercalciuria is the commonest metabolic               URIC ACID
+abnormality and is found in up to 50% of patients       Metabolic disorders of uric acid metabolism are
+with an identifiable metabolic cause. The com-          rare in children but acute deposition of uric acid
+monest form is idiopathic hypercalciuria in             crystals within the urinary tract can occur as a
+which the hypercalciuria is not accompanied by          result of massive cell breakdown, e.g. following
+hypercalcemia and no other cause is identified. It      the commencement of cytotoxic treatment for
+is thought to represent an autosomal dominant           leukaemia or lymphoma. In these conditions,
+trait with variable penetrance.                         uric acid crystalline debris ‘silts up’ the collecting
+    Elevated urinary calcium levels are more fre-       systems, leading to anuric renal failure. Uric acid
+quent in premature infants, children on a keto-         is radiolucent and cannot be directly visualised
+genic diet and in children being treated with           on plain X-ray.
+drugs such as furosemide or topiramate. Children
+with neurological conditions associated with            XANTHINE
+profound physical disability (e.g. severe cerebral      Xanthine oxidase deficiency, a rare autosomal
+palsy) are at greater risk of stones because of skel-   recessive disorder, results in the deposition of
+etal ‘demineralisation’ induced by their immo-          insoluble, non-opaque xanthine stones within the
+bility. In newborn infants, the combination of          urinary tract.
+142 Urinary Tract Calculi
+
+
+
+Underlying Urological Conditions                      failure to thrive. The isolation of Proteus from a
+                                                      child’s urine should always prompt investigation
+Predisposing urological abnormalities can be          for possible stone disease.
+identified in approximately 20–30% of children
+with urinary calculi. However, since the majority     Haematuria
+of children with urinary tract abnormalities do
+not develop urolithiasis it seems likely that addi-   Macroscopic or microscopic haematuria is a com-
+tional factors, notably a concomitant metabolic       mon feature of calculi, but there is only a poor
+abnormality are implicated in the small minority      correlation between its severity and the extent
+of who do develop stones.                             and distribution of stones within the urinary
+    Stone formation is a rare complication of         tract. The absence of haematuria on microscopy
+pelvic-ureteric junction (PUJ) obstruction and        or reagent strip testing does not exclude the pos-
+when it does occur the stones are characteristi-      sible presence of stones.
+cally small and multiple. Although vesicoureteral
+reflux (VUR) is present in 14% of cases it may be     Passage of Stone Material Per Urethra
+a secondary phenomenon following the passage
+of uretric calculi rather than being implicated as    Occasionally stones come to light when a frag-
+a primary cause of urinary tract infection (UTI).     ment or some softer matrix material is passed
+Neuropathic bladder dysfunction carries an            per urethra. Rarely, a urethral stone can cause
+increased risk of stone formation due to incom-       acute urinary obstruction. In infants the presence
+plete bladder emptying and UTIs.                      of unusual material and streaks of blood in the
+    The use of intestinal segments for bladder        nappy may be incorrectly ascribed to balanitis.
+reconstruction (enterocystoplasty) is accompa-
+nied by a 20–40% risk of bladder stones. This
+is due to factors which include; urinary stasis,
+                                                      Pain
+intestinal mucus in the urine acting as a nidus       Acute renal colic of the pattern and severity
+for crystalline deposition and chronic low-grade      encountered in adults is not a prominent feature
+bacteriuria. The risk can be reduced by the use       of the symptomology in children. When pain
+of regular bladder washouts to promote effective      does occur, it is often a poorly localised symptom
+clearance of urinary mucus.                           in a fractious, unwell child.
+
+                                                      Abdominal Mass
+ CLINICAL PRESENTATION                                Xanthogranulomatous pyelonephritis presents
+                                                      with general ill health, which may be accompa-
+Age                                                   nied by a palpable abdominal mass – a clinical
+                                                      picture resembling Wilms’ tumour.
+Stones may develop from 1 to 2 months of age
+onwards, with the incidence being higher under        Incidental Finding
+5 years of age – reflecting the relative importance
+of infective stones (predominantly in boys) in this   The presence of stones may occasionally come
+age group.                                            to light as an entirely incidental finding.
+                                                      Alternatively, they may be identified unexpect-
+Urinary Infection                                     edly in a child without urinary symptoms who
+                                                      is being investigated for other symptoms caused
+Although stones typically present in older chil-      by unsuspected stone disease. Stones may also be
+dren with recognisable symptoms the clinical pic-     detected on sibling screening and in our experi-
+ture in infants may be deceptively non-specific,      ence a third of cystinuria patients are diagnosed
+consisting of vague ill health, low-grade fever and   in this way.
+                                                                Diagnosis / Initial Screening for Calculi 143
+
+
+
+
+Figure 11.1 Ultrasound appearances of renal calculi with posterior acoustic shadowing (left image)
+and corresponding ‘twinkle artefact’ (right image).
+
+
+ DIAGNOSIS                                              stone. Ultrasound has high sensitivity and specific-
+                                                        ity for the visualisation of renal stones (61–93% and
+                                                        95–100%, respectively) but these figures are much
+Initial Screening for Calculi                           lower for the detection of ureteral stones.
+                                                            Acute upper tract obstruction caused by the
+Ultrasound                                              impaction of a stone may only be associated with
+Ultrasound is the primary diagnostic modality in        a misleadingly mild degree of hydronephrosis,
+children because of the quality of the imaging and      with an anterior-posterior diameter of <15mm.
+because it does not entail exposure to radiation.
+Stones are seen as discrete echogenic foci which cast
+a posterior acoustic shadow (Figures 11.1 & 11.2). A    Abdominal X-ray (AXR)
+‘twinkle artefact’ is seen with colour Doppler ultra-   The sensitivity of an abdominal X-ray for detect-
+sound due to multi-reflecting rough surface of the      ing radio-opaque urinary stones is only 50% and
+                                                        it is not routinely used for urolithiasis screening.
+
+
+                                                        Unenhanced ultra-low dose spiral
+                                                        computed tomography (CT)
+                                                        CT is considered the gold standard imaging
+                                                        modality for urolithiasis. In the paediatric age
+                                                        range it is generally reserved for indeterminate
+                                                        cases following ultrasonography or where exact
+                                                        details regarding the stone are necessary for sur-
+                                                        gical decision-making. With the ultra-low dose
+                                                        Stone Protocol sequences, the radiation expo-
+                                                        sure has been reduced to <3mSv whilst main-
+                                                        taining sensitivity for urolithiasis at over 96%
+Figure 11.2 Ultrasound scan demonstrating a             (Figure 11.3). With dual-energy CT-imaging, the
+distal ureteric calculus with associated proximal       stone density (in Hounsfield units) can be calcu-
+ureteric dilatation and posterior shadowing.            lated to further aid surgical planning.
+144 Urinary Tract Calculi
+
+
+
+                                                    Intravenous urography
+                                                    Intravenous urography (IVU) can provide addi-
+                                                    tional anatomical information (e.g. on calyceal
+                                                    anatomy) but an ultra low-dose CT scan is usu-
+                                                    ally sufficient to provide the information needed
+                                                    when planning percutaneous nephrolithotomy.
+
+
+                                                    Additional investigations
+                                                    DYNAMIC RENOGRAPHY
+                                                    Dynamic renography, e.g. (99mTc)mercaptoacetyl-
+                                                    triglycine (MAG3), is undertaken if obstruction
+                                                    is suspected. However, it is not possible to make
+Figure 11.3 Low dose CT image demonstrating         a reliable diagnosis of PUJ obstruction when a
+complex left staghorn calculus.
+                                                    stone is present in the renal pelvis. The presence
+                                                    of underlying obstruction can only be reliably
+Evaluation Prior to Treatment                       diagnosed after complete removal of the stone.
+of Proven Stone Disease
+                                                    MICTURATING CYSTOGRAPHY
+DMSA                                                Micturating cystography (MCUG) is not per-
+Differential function in the affected kidney(s)     formed routinely. Even when VUR is dem-
+should be documented on a 99mTc dimercaptosuc-      onstrated it may be a transient phenomenon
+cinic acid (DMSA) scan before intervention and      (secondary to infection and the passage of stone
+re-evaluated after treatment. This can be com-      material to the bladder) which resolves once
+bined with a low-dose unenhanced CT scan of         the infection has been treated and stone clear-
+the urinary tract which is co-registered with the   ance has been achieved. If indicated (e.g. to
+DMSA tomographic images (DMSA SPECT-CT)             exclude posterior urethral valves or other pathol-
+to provide the additional assessment of the renal   ogy) cystoscopy can be performed at the time of
+parenchymal function adjacent to renal stones       an interventional procedure for the stone(s).
+(Figure 11.4).
+                                                    METABOLIC INVESTIGATIONS
+                                                    If stone fragments are obtained, crystallographic
+                                                    evaluation with infra-red spectroscopy may aid
+                                                    the diagnosis of an underlying metabolic disor-
+                                                    der. However, metabolic screening by urinary
+                                                    biochemistry analysis must also be undertaken
+                                                    routinely because underlying metabolic disorders
+                                                    may not always be reflected in the chemical com-
+                                                    position of the stones. The presence of urinary
+                                                    infection and/or abnormalities of the urinary
+                                                    tract abnormality does not exclude the possibil-
+                                                    ity of co-existing metabolic disorder and every
+                                                    child with stone disease, regardless of the per-
+Figure 11.4 DMSA SPECT-CT demonstrating             ceived aetiology, should therefore undergo meta-
+left staghorn calculus and small stones on the      bolic screening after the eradication of infection
+right with good functioning surrounding renal       and ideally at least 6 weeks after stone clearance
+parenchyma.                                         (Table 11.1).
+                                                                 Management / Treatment Modalities 145
+
+
+
+Table 11.1 Metabolic screening protocol                 Treatment Modalities
+Plasma levels of urea, electrolytes, creatinine,        Less invasive techniques have become increas-
+  calcium, phosphate, magnesium, uric acid              ingly applicable for use in children and have
+Early morning urine sample (pH to exclude               consequently reduced the requirement for open
+  renal tubular acidosis)                               surgery in this age group.
+‘Spot’, i.e. untimed, urine sample 2–5 ml:                 Guidelines based on the published literature
+  –Ratio of calcium, oxalate, cystine, citrate         can be briefly summarised as follows:
+    and urate to creatinine
+  –Urine microscopy and culture                         ●● ESWL is the treatment of choice for renal
+24-hour urine collection:                                  calculi <20 mm in size.
+  –Calcium, cystine, creatinine clearance, total       ●● PCNL is the treatment of choice for renal
+    urinary volume                                         calculi >20 mm in size.
+  –A separate 24-hour collection is required           ●● Ureteroscopy and lithotripsy with the
+    for oxalate analysis as the sample is                  holmium laser is the treatment of choice for
+    acidified during collection                            ureteric calculi.
+
+
+METABOLIC SCREENING                                     Medical expulsive therapy (MET)
+Stone screening can be reliably undertaken on a         This can be considered for the treatment of an
+random ‘spot’ sample of 2–5 ml of urine, although       uncomplicated ureteral stone <10 mm if the
+an early morning specimen may be preferable for         child’s clinical condition is stable. Medical expul-
+some studies. Twenty-four hour urine collections        sive therapy using alpha-adrenergic antagonists to
+may be indicated depending on the clinical pre-         relax the ureteric smooth muscle has been shown
+sentation, a positive family history for stones,        to increase stone expulsion rates in children
+stone analysis and results from the urinary ‘spot’      without causing significant adverse side effects.
+samples. Urine biochemistry analysis is used to         Tamsulosin and doxazosin are the most com-
+monitor the effect of preventative measures where       monly used agents. Close follow-up is essential to
+a metabolic cause has been identified.                  confirm stone-clearance and assess the possible
+                                                        need to move on to other treatment modalities.
+
+
+ MANAGEMENT                                             External shockwave lithotripsy (ESWL)
+                                                        Shockwaves, generated either by piezoelectric
+Children who present acutely with complications         energy or by an electromagnetic generator, are
+should be urgently referred to a paediatric stone       transmitted to the patient via a silicon-membrane
+unit. Following initial resuscitation, the priority     covered cushion containing a fluid or water film
+is decompression of the obstructed urinary sys-         (Figure 11.5). Using in-line ultrasound or X-ray
+tem. This may be achieved by percutaneous neph-         linked to the shockwave generator, this energy is
+rostomy or by retrograde insertion of a JJ stent if     focused on the renal stone(s). Unlike adults, chil-
+this is feasible and the child’s condition is stable.   dren frequently require general anaesthesia or
+Definitive stone surgery should be deferred until       heavy sedation to ensure they maintain a suitable
+the patient has recovered from the acute episode.       position throughout the duration of the treat-
+   The aims of treatment are to achieve complete        ment session.
+stone clearance whilst minimising renal tissue              ESWL is valuable for the treatment of renal
+damage and complications. Some patients may             stones <2 cm and stones in the upper ureter. The
+need a planned, staged approach with a combi-           reported success rates range from 49% to 95%.
+nation of interventions at different intervals to       It is less effective for the treatment of very dense
+achieve complete stone clearance.                       stones (>1000 HU) such as those composed of
+146 Urinary Tract Calculi
+
+
+
+
+Figure 11.5 Child being treated under general anaesthesia by a current generation Piezolith litho-
+tripter. Stone localisation and imaging during the treatment is achieved by a combination of in-line
+ultrasound and, if necessary, X-ray C-arm.
+
+
+
+cystine or calcium-phosphate, although this is         Complications
+not an absolute contraindication. ESWL also has
+a role for ‘mopping up’ residual fragments follow-     Steinstrasse (the presence of a column of stone
+ing PCNL. JJ stents are not routinely placed for       fragments in the ureter) occurs in 8% of cases –
+ESWL. If the child already has a stent in situ it is   with the risk being higher in smaller children with
+removed at the end of the ESWL session under           large stones. It can be managed by retrograde
+the same general anaesthetic to facilitate the pas-    insertion of a JJ stent, although ureteroscopy may
+sage of fragments.                                     be required for stone clearance.
+                                                                       Management / Complications 147
+
+
+
+   Children who are thought to be at greater risk of
+developing steinstrasse are monitored after ESWL
+with an early ultrasound scan and planned review.
+   Dermal bruising is common and haematuria
+occurs in up to 40% of patients. Initial concerns
+regarding risks of impaired renal growth, renal
+scarring or hypertension have not materialised
+and the published data have demonstrated that
+ESWL is a safe treatment modality in children.
+
+Percutaneous nephrolithotomy
+(PCNL)
+PCNL is typically used for large staghorn calculi,
+renal stones unsuitable for ESWL or stones per-        Figure 11.7 Endoscopic view with the nephro-
+sisting following previous intervention. Stone-        scope. Stone fragment removed with a grasper
+free rates of up to 98% have been reported and         under direct vision after disintegration with a
+PCNL has largely replaced open surgery for the         pneumatic probe.
+treatment of large stones in children.
+    The procedure starts with a cystoscopy and         either removed or is disintegrated with an ultra-
+retrograde contrast studies to delineate the ipsi-     sonic or pneumatic probe (Figure 11.7). The kid-
+lateral renal and ureteric anatomy. Then, with         ney is drained post operatively by a nephrostomy
+the patient prone, percutaneous needle punc-           tube or internal JJ-stent.
+ture into the selected calyx is performed under           The “standard” PCNL tract corresponds to
+ultrasonographic or fluoroscopic guidance. Serial      24–30Fr but miniaturised PCNL systems are now
+dilators are passed over a guidewire to widen          available, such as the SuperMini PCNL with tract
+the tract sufficiently to permit the introduction      size of 14F. However, reduced tract size usually
+of an endoscope into the renal collecting system       comes at the expense of speed of stone clearance.
+(Figure 11.6). Under direct vision, the stone is       The stone(s) are disintegrated with Holmium
+                                                       YAG laser and removed via active suction along
+                                                       the tract.
+
+                                                       Complications
+                                                       Bleeding requiring transfusion occurs in <10%
+                                                       of cases. Infective/febrile complications occur in
+                                                       up to 15% of cases – highlighting the importance
+                                                       of appropriate peri-operative antibiotic cover.
+                                                       Persistent urinary leakage, hydrothorax, injury
+                                                       to lung/liver/spleen and pelvicalyceal scarring are
+                                                       uncommon but recognised complications.
+
+
+                                                       Ureterorenoscopy (Ureteroscopy)
+                                                       (URS)
+                                                       Ureteric stones and renal stones in favour-
+Figure 11.6 PCNL – percutaneous sheath, neph-          able anatomical positions can be treated using
+roscope and lithoclast.                                semirigid ureteroscopes (4.5/6.5 6.8/8.5 F) or by
+148 Urinary Tract Calculi
+
+
+
+flexible ureteroscopy (Figure 11.8a, b). Under
+direct vision, the stones are fragmented by laser.
+Small stone fragments can be cleared with an
+endoscopic basket and sent for stone analysis.
+The remainder can be further fragmented to dust
+which passes spontaneously. However, passive
+dilatation of the VUJ/PUJ by a period of indwell-
+ing ureteral stenting may sometimes be necessary
+to enable the ureteroscope to be negotiated into
+the ureter and kidney.
+   A stone-free rate of 90% has been reported
+in children. Complications occurring in 10%
+of cases include UTI, haematuria and intra-
+operative complications such as ureteral
+perforation or tear. Ureteral strictures are
+uncommon but it is important that care is taken
+to minimise trauma to the ureter and VUJ dur-
+ing instrumentation.
+
+
+Minimally invasive cystolithotomy
+Endoscopic treatment is now feasible for the
+majority of bladder stones. Access can be achieved
+per urethra, via a Mitrofanoff channel or via a
+direct percutaneous channel – percutaneous
+cystolithotomy (PCCL). The stone is fragmented
+using a lithoclast or laser and fragments can be
+extracted directly (Figure 11.9a, b). The PCCL
+route avoids urethral trauma and permits the
+use of a larger access sheath to deal with larger
+bladder stones and reduce operative time. Open
+surgery (cystolithotomy) remains the preferred
+option for very large stones or if there are a large
+number of stones of significant size.
+
+
+Urethra
+Urethral calculi are rare in children. They may
+result from impaction of a calculus (or post-
+ESWL fragments) during its passage through the
+urethra, or the formation of a stone within an         Figure 11.8 (a) Ureteroscopy and laser litho-
+anatomical abnormality of the urethra such as          tripsy (left). (b) Ureteroscopic view (right)
+                                                       demonstrating ureteric stone partially laser
+the remnant of a rectourethral fistula following
+                                                       fragmented. Note the clear laser fibre in the
+surgery for an anorectal anomaly.                      7 o’clock position and the two guide wires
+   Urethral calculi can be removed or crushed          running in 2 o’clock position that aid passage
+using rigid endoscopic biopsy forceps. Meatotomy       of the ureteroscope. The smaller telescopes
+may be required to release a stone impacted            limit the optics which reduces the image
+within the fossa navicularis.                          quality.
+                                                                            Follow-up / Recurrence 149
+
+
+
+
+Figure 11.9 (a) Endoscopic fragmentation of bladder calculus by lithoclast (left). (b) PCCL access
+into bladder with a nephroscope passed via a clear access sheath.
+
+
+Laparoscopy
+A poorly functioning kidney which has been dam-
+aged by stone disease or xanthogranulomatous
+pyelonephritis can be removed laparoscopically.
+However, laparoscopic nephrectomy in such cases
+should only be undertaken by an experienced lap-
+aroscopic surgeon because of the extensive perire-
+nal inflammatory adhesions and risk of damage to
+adjacent organs.
+
+
+Open pyelolithotomy
+Although, largely superseded by ESWL and
+endoscopic techniques, open surgery still plays a
+limited role – for example in urolithiasis in con-
+genitally obstructed systems or children with
+severe skeletal abnormalities which may preclude      Figure 11.10 Pyelolithotomy. Open removal of a
+endoscopic intervention.                              calculus from the renal pelvis.
+   Following exposure and mobilisation of the
+kidney, isolated stones within the collecting sys-    leakage and parenchymal damage resulting in
+tem can usually be removed with stone forceps         loss of renal function.
+via an incision in the renal pelvis (Figure 11.10).
+The bulk of a staghorn calculus can also be
+removed by this approach, but the subsequent           FOLLOW-UP
+removal of fragments impacted in the calyces can
+be difficult and may require later intervention       Recurrence
+with ESWL to achieve complete stone clearance.
+   Complications include haemorrhage, par-            Stone disease in children is associated with a
+ticularly after multiple nephrotomies, retained       significant risk of recurrence – with a 20% inci-
+or displaced stone fragments, prolonged urinary       dence of further stone formation within 10 years.
+150 Urinary Tract Calculi
+
+
+
+This risk can be reduced by appropriate follow          XANTHOGRANULOMATOUS
+up and management – ideally in a joint urology-         PYELONEPHRITIS
+nephrology clinic.                                      (FIGURE 11.11A, B)
+Infective calculi                                      This rare manifestation of stone disease is char-
+The recurrence risk can be minimised by cor-           acterised by a destructive inflammatory mass
+recting any underlying predisposing anatomical         which invades renal parenchyma. The presenta-
+abnormality and by maintaining infection-free          tion is with chronic sepsis: weight loss, anaemia,
+urine with antibiotic prophylaxis for 12 months        elevated inflammatory markers and the pres-
+following surgery. A circumcision can be consid-       ence of a mass which may extend to involve adja-
+ered in young boys with infective stones.              cent viscera. Pain is usually dull and persistent.
+                                                       The diagnosis is confirmed by a combination of
+                                                       ultrasound, CT and DMSA, which reveals absent
+Metabolic calculi                                      or minimal function in the affected kidney.
+Following the initial stone episode, the recur-        Open nephrectomy is usually preferred because
+rence rate in children with underlying metabolic       of the dense perirenal inflammatory adhesions
+disorders is around 40% within 5 years.                and risk of damage to adjacent organs. Post-
+   A high fluid intake is essential for all groups     operative monitoring of the remaining kidney
+together with dietary modifications dependent          and aggressive treatment of any further UTIs
+on the metabolic abnormality. In addition, a           are essential.
+number of specific measures can be utilised as
+outlined in Table 11.2.
+                                                           KEY POINTS
+Residual fragments
+                                                          ●● Urinary calculi are becoming more
+Even in the absence of infection or urinary sta-             common in children. Urinary infection
+sis, seemingly ‘insignificant’ residual stone frag-          is still an important aetiological factor
+ments of less than 4mm have a 50% likelihood                 but the importance of predisposing
+of increasing in size (‘regrowing’) in structur-             metabolic disorders is being increas-
+ally normal kidneys and up to 80% in abnormal                ingly recognised.
+kidneys. Achieving complete stone clearance at            ●● Every child who presents with calculi
+the time of initial intervention is therefore of the         should be thoroughly evaluated to iden-
+upmost importance.                                           tify any underlying metabolic disorder
+                                                             or urological malformation – regardless
+Table 11.2 Medications commonly used for                     of presumed primary aetiology.
+metabolic stone prevention                                ●● The initial priorities of management
+
+Thiazide diuretic           Hypercalcuria                    consist of relieving obstruction, treat-
+                              – despite diet                 ing sepsis and achieving complete stone
+                              modification                   clearance.
+                                                          ●● Urine biochemistry should be com-
+Potassium citrate           Hypercalcuria,
+                              hyperoxaluria,                 bined with stone analysis to diagnose
+                              Cystinuria – only              metabolic disorders.
+                                                          ●● Minimally invasive modalities such
+                              with acidic urinary
+                              pH                             as ESWL, PCNL and endoscopic
+Tiopronin,                  Cystinuria
+                                                             lithotripsy have now superseded open
+  D-penicillamine
+                                                             techniques in the treatment of chil-
+                                                             dren’s stones.
+Pyridoxine                  Primary hyperoxaluria
+                                                            Xanthogranulomatous pyelonephritis 151
+
+
+
+
+Figure 11.11 (a) CT scan (left): xanthogranulomatous pyelonephritis of the right kidney illustrat-
+ing calculi embedded within a non-functioning inflammatory renal mass. Normal left kidney.
+(b) Histopathology specimen of an XPN kidney (right): the kidney has been split open along its
+long axis.
+
+                                                   Purkait B, Sinha RJ, Bansal A, Sokhal AK, Singh
+   ●●   Careful follow-up, with maintenance           K, Singh V. What is the fate of insignificant
+        of sterile urine and appropriate treat-       residual fragment following percutaneous
+        ment of any metabolic disorder, is            nephrolithotomy in paediatric patients with
+        essential to minimise the risk of stone       anomalous kidney? A comparison with nor-
+        recurrence.                                   mal kidney. Urolithiasis. 2018;46:285–290.
+                                                   Rob S, Jones P, Pietropaolo A, Griffin S, Somani
+                                                      BK. Ureteroscopy for stone disease in pae-
+FURTHER READING                                       diatric population is safe and effective in
+                                                      medium-volume and high-volume centres:
+Bowen DK, Tasian GE. Paediatric stone disease.        evidence for a systematic review. Curr Urol
+    Urol Clin N Am. 2018;539–550.                     Rep. 2017;18:92.
+Issler N, Dufek S, Kleta R et al. Epidemiology     Velázquez N, Zapata D, Wang HHS et al.
+    of paediatric renal stone disease: a 22-year      Medical expulsive therapy for paediatric
+    single centre experience in the UK. BMC           urolithiasis: systematic review and meta-
+    Nephrol. 2017; 18:136                             analysis. J Ped Urol. 2015;11(6):321–327.
+Papageorgiou E, Smeulders N. Renal Calculi.
+    In: Davenport M, Geiger J. (eds), Operative
+    Paediatric Surgery, 8th Edition. Taylor &
+    Francis, [In Press].
+

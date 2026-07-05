@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch06-Q01",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 1,
+    "stem": "According to the International Reflux Study Committee grading system, which of the following best describes grade III vesicoureteral reflux?",
+    "options": [
+      { "id": "a", "text": "Reflux accompanied by mild to moderate dilatation without blunting of the calyces" },
+      { "id": "b", "text": "Reflux into the ureter only without dilatation" },
+      { "id": "c", "text": "Reflux into a non-dilated upper tract (pelvis and calyces)" },
+      { "id": "d", "text": "Moderate dilatation with loss of normal calyceal appearances" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Grade III VUR is defined as reflux into the ureter and pelvicalyceal system with mild to moderate dilatation but without blunting of the calyces. Grade I involves the ureter only, grade II involves a non-dilated upper tract, and grade IV shows moderate dilatation with calyceal blunting.",
+    "topic": "Reflux grading"
+  },
+  {
+    "id": "ch06-Q02",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 2,
+    "stem": "A 4-year-old girl undergoes VCUG which shows contrast reaching the renal pelvis with moderate dilatation and blunting of the calyces. What is the most appropriate VUR grade?",
+    "options": [
+      { "id": "a", "text": "Grade IV" },
+      { "id": "b", "text": "Grade III" },
+      { "id": "c", "text": "Grade II" },
+      { "id": "d", "text": "Grade V" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Grade IV VUR features moderate dilatation of the ureter and pelvicalyceal system with blunting of the calyces. Grade III has no calyceal blunting, grade II shows no dilatation, and grade V has gross dilatation and tortuosity with severe blunting.",
+    "topic": "Reflux grading"
+  },
+  {
+    "id": "ch06-Q03",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 3,
+    "stem": "In the International Reflux Study grading system, grade I vesicoureteral reflux is characterized by:",
+    "options": [
+      { "id": "a", "text": "Reflux into the ureter and renal pelvis without dilatation" },
+      { "id": "b", "text": "Reflux with mild ureteral tortuosity" },
+      { "id": "c", "text": "Reflux into a non-dilated ureter only" },
+      { "id": "d", "text": "Reflux with moderate pelvicalyceal dilatation" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Grade I VUR is confined to the ureter only, without any dilatation. Grade II involves the non-dilated upper tract (pelvis and calyces). Higher grades involve progressively increasing dilatation and anatomical distortion.",
+    "topic": "Reflux grading"
+  },
+  {
+    "id": "ch06-Q04",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 4,
+    "stem": "Which of the following novel diagnostic parameters has been developed to address the subjectivity of traditional VUR grading?",
+    "options": [
+      { "id": "a", "text": "VUR index (VURx)" },
+      { "id": "b", "text": "Bladder capacity ratio (BCR)" },
+      { "id": "c", "text": "Detrusor leak point pressure (DLPP)" },
+      { "id": "d", "text": "Ureteral pressure profile (UPP)" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The VUR index (VURx) and the ureteral diameter ratio (UDR) have been developed as alternative diagnostic parameters to address the subjectivity of the traditional five-grade International Reflux Study classification.",
+    "topic": "Reflux grading"
+  },
+  {
+    "id": "ch06-Q05",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 5,
+    "stem": "According to pooled data from systematic reviews, what is the approximate spontaneous resolution rate for grade I VUR at 5 years?",
+    "options": [
+      { "id": "a", "text": "92%" },
+      { "id": "b", "text": "42%" },
+      { "id": "c", "text": "70%" },
+      { "id": "d", "text": "81%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Pooled systematic review data show spontaneous resolution at 5 years for grade I VUR is 92%. For grade II it is 81%, for grade III 42%, and for grade IV 16%. Lower grades have a much higher likelihood of spontaneous resolution.",
+    "topic": "Spontaneous resolution"
+  },
+  {
+    "id": "ch06-Q06",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 6,
+    "stem": "A 2-year-old boy is diagnosed with grade III VUR. Based on pooled data, what is the approximate likelihood of spontaneous resolution by 5 years?",
+    "options": [
+      { "id": "a", "text": "65%" },
+      { "id": "b", "text": "16%" },
+      { "id": "c", "text": "42%" },
+      { "id": "d", "text": "81%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "For grade III VUR, the spontaneous resolution rate at 5 years is approximately 42% based on pooled systematic review data. Grade IV resolves in only 16% by 5 years, making higher-grade VUR much less likely to resolve spontaneously.",
+    "topic": "Spontaneous resolution"
+  },
+  {
+    "id": "ch06-Q07",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 7,
+    "stem": "The weighted average spontaneous resolution rate at 1 year across all grades of VUR is approximately:",
+    "options": [
+      { "id": "a", "text": "17%" },
+      { "id": "b", "text": "39%" },
+      { "id": "c", "text": "53%" },
+      { "id": "d", "text": "6%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The weighted average spontaneous resolution rate at 1 year across all VUR grades is 17% (ranging from 39% for grade I down to 6% for grade IV). At 5 years, the weighted average increases to 53%.",
+    "topic": "Spontaneous resolution"
+  },
+  {
+    "id": "ch06-Q08",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 8,
+    "stem": "At what rate does grade IV VUR resolve spontaneously at 5 years according to pooled systematic review data?",
+    "options": [
+      { "id": "a", "text": "6%" },
+      { "id": "b", "text": "42%" },
+      { "id": "c", "text": "16%" },
+      { "id": "d", "text": "53%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Grade IV VUR has only a 16% spontaneous resolution rate at 5 years. The high-grade nature and anatomical abnormalities associated with grade IV make it far less likely to resolve without intervention compared to lower grades.",
+    "topic": "Spontaneous resolution"
+  },
+  {
+    "id": "ch06-Q09",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 9,
+    "stem": "What is the approximate incidence of VUR in infant siblings of affected children?",
+    "options": [
+      { "id": "a", "text": "30%" },
+      { "id": "b", "text": "10%" },
+      { "id": "c", "text": "50%" },
+      { "id": "d", "text": "20%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The incidence of VUR in infant siblings of affected children is approximately 30%, rising to 50% in the offspring of affected parents. This strong familial clustering supports a genetic basis for primary VUR. The background incidence in the general pediatric population is 1–2%.",
+    "topic": "Genetics of VUR"
+  },
+  {
+    "id": "ch06-Q10",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 10,
+    "stem": "The pattern of inheritance for nonsyndromic VUR is best described as:",
+    "options": [
+      { "id": "a", "text": "Autosomal dominant with variable penetrance and expression" },
+      { "id": "b", "text": "X-linked recessive with variable penetrance" },
+      { "id": "c", "text": "Mitochondrial inheritance" },
+      { "id": "d", "text": "Autosomal recessive with complete penetrance" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Nonsyndromic VUR has a polygenetic basis characterized by an autosomal dominant pattern of transmission with variable penetrance and expression. Multiple genes have been implicated, and no single 'reflux gene' has been definitively identified.",
+    "topic": "Genetics of VUR"
+  },
+  {
+    "id": "ch06-Q11",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 11,
+    "stem": "Which of the following genes is expressed in the ureteric bud and has been implicated in the pathogenesis of VUR?",
+    "options": [
+      { "id": "a", "text": "ROBO2" },
+      { "id": "b", "text": "SLIT2" },
+      { "id": "c", "text": "PAX2" },
+      { "id": "d", "text": "SOX17" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "PAX2 is expressed in the ureteric bud and has been implicated in VUR. SLIT2, ROBO2, and SOX17 are expressed in metanephric tissue and are linked to congenital renal malformations associated with VUR rather than the ureteric bud itself.",
+    "topic": "Genetics of VUR"
+  },
+  {
+    "id": "ch06-Q12",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 12,
+    "stem": "In the Swedish Reflux Trial, what was the incidence of febrile UTIs in children with grades III–IV VUR managed with continuous antibiotic prophylaxis?",
+    "options": [
+      { "id": "a", "text": "57%" },
+      { "id": "b", "text": "38%" },
+      { "id": "c", "text": "19%" },
+      { "id": "d", "text": "76%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "In the Swedish Reflux Trial, the incidence of febrile UTI in children on CAP was 19%, compared to 57% in the surveillance arm — a threefold increase. This demonstrates the significant protective effect of CAP against febrile UTIs in children with grades III–IV VUR.",
+    "topic": "Continuous antibiotic prophylaxis"
+  },
+  {
+    "id": "ch06-Q13",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 13,
+    "stem": "Which of the following prophylactic antibiotics is most commonly used for medical management of VUR?",
+    "options": [
+      { "id": "a", "text": "Trimethoprim-sulfamethoxazole" },
+      { "id": "b", "text": "Ciprofloxacin" },
+      { "id": "c", "text": "Amoxicillin-clavulanate" },
+      { "id": "d", "text": "Gentamicin" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The most widely used prophylactic antibiotics for VUR include trimethoprim-sulfamethoxazole, trimethoprim alone, nitrofurantoin, and cephalexin, depending on local availability. Ciprofloxacin and gentamicin are not typically used for prophylaxis due to side effect profiles and resistance concerns.",
+    "topic": "Continuous antibiotic prophylaxis"
+  },
+  {
+    "id": "ch06-Q14",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 14,
+    "stem": "According to studies on compliance with continuous antibiotic prophylaxis for VUR, what is the estimated compliance rate in some series?",
+    "options": [
+      { "id": "a", "text": "As low as 40%" },
+      { "id": "b", "text": "Approximately 90%" },
+      { "id": "c", "text": "Approximately 75%" },
+      { "id": "d", "text": "Approximately 60%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Some studies suggest that compliance rates with CAP may be as low as 40%. This is a major drawback of medical management, as the effectiveness of CAP is highly dependent on consistent long-term antibiotic administration by parents and children.",
+    "topic": "Continuous antibiotic prophylaxis"
+  },
+  {
+    "id": "ch06-Q15",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 15,
+    "stem": "A 5-year-old girl with grade II VUR is being managed with CAP. Which demographic group derives the greatest benefit from CAP?",
+    "options": [
+      { "id": "a", "text": "Boys under 1 year of age" },
+      { "id": "b", "text": "Girls with low to moderate grades of VUR" },
+      { "id": "c", "text": "Children with antenatally detected VUR" },
+      { "id": "d", "text": "Boys with high-grade VUR" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Girls with low to moderate grades of VUR are considerably more likely to benefit from CAP than boys. After the first year of life, the overall incidence of UTIs in boys with primary VUR is low regardless of how they are managed.",
+    "topic": "Continuous antibiotic prophylaxis"
+  },
+  {
+    "id": "ch06-Q16",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 16,
+    "stem": "A significant concern associated with long-term continuous antibiotic prophylaxis in children with VUR is:",
+    "options": [
+      { "id": "a", "text": "Hepatic toxicity" },
+      { "id": "b", "text": "Development of antibiotic-resistant bacterial colonization" },
+      { "id": "c", "text": "Growth retardation" },
+      { "id": "d", "text": "Increased risk of allergic reactions" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "There is growing evidence that children on CAP are at increased risk of developing antibiotic-resistant bacterial colonization and/or infection. This is an increasingly relevant consideration when deciding on treatment approaches for VUR.",
+    "topic": "Continuous antibiotic prophylaxis"
+  },
+  {
+    "id": "ch06-Q17",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 17,
+    "stem": "Which of the following randomized trials on CAP for VUR was judged to be at low risk of bias in a recent meta-analysis?",
+    "options": [
+      { "id": "a", "text": "Swedish Reflux Trial and RIVUR" },
+      { "id": "b", "text": "RIVUR and PRIVENT trials" },
+      { "id": "c", "text": "Swedish Reflux Trial only" },
+      { "id": "d", "text": "PRIVENT trial only" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Only the PRIVENT and RIVUR trials were judged to be at low risk of bias in a recent meta-analysis. The Swedish Reflux Trial was not included among those at low risk of bias, highlighting the importance of methodological quality when interpreting trial results.",
+    "topic": "Continuous antibiotic prophylaxis"
+  },
+  {
+    "id": "ch06-Q18",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 18,
+    "stem": "The primary goal in the management of a child with VUR is:",
+    "options": [
+      { "id": "a", "text": "Prevention of febrile UTIs and pyelonephritic scarring" },
+      { "id": "b", "text": "Complete radiological resolution of VUR" },
+      { "id": "c", "text": "Avoidance of all surgical interventions" },
+      { "id": "d", "text": "Normalization of bladder capacity" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The primary goal in managing VUR is the prevention of febrile UTIs and pyelonephritic scarring. A secondary goal is reducing morbidity from recurrent lower tract UTIs that impact general health, education, and social activities.",
+    "topic": "Medical management"
+  },
+  {
+    "id": "ch06-Q19",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 19,
+    "stem": "In children with VUR managed by CAP, the incidence of de novo renal scarring is best described as:",
+    "options": [
+      { "id": "a", "text": "Very high, occurring in most patients" },
+      { "id": "b", "text": "Completely prevented by antibiotic therapy" },
+      { "id": "c", "text": "Relatively low regardless of management type" },
+      { "id": "d", "text": "Comparable to untreated patients" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The incidence of de novo renal scarring is relatively low in both medically and surgically treated patients. This is partly because most scarring has already occurred by the time VUR is first diagnosed, regardless of which management approach is adopted.",
+    "topic": "Renal scarring"
+  },
+  {
+    "id": "ch06-Q20",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 20,
+    "stem": "A 3-year-old girl with grade III VUR on continuous antibiotic prophylaxis develops a febrile UTI. This clinical scenario is best described as:",
+    "options": [
+      { "id": "a", "text": "Uncomplicated UTI" },
+      { "id": "b", "text": "Breakthrough UTI" },
+      { "id": "c", "text": "Reinfection" },
+      { "id": "d", "text": "Relapse" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A breakthrough UTI is defined as a symptomatic (particularly febrile) UTI occurring while the patient is receiving continuous antibiotic prophylaxis. Breakthrough UTIs are a key indication for considering surgical intervention such as endoscopic correction or ureteroneocystostomy.",
+    "topic": "Breakthrough UTI"
+  },
+  {
+    "id": "ch06-Q21",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 21,
+    "stem": "In which of the following clinical scenarios is ureteroneocystostomy most clearly indicated?",
+    "options": [
+      { "id": "a", "text": "Grade II VUR with spontaneous resolution on follow-up VCUG" },
+      { "id": "b", "text": "Asymptomatic grade I VUR found on sibling screening" },
+      { "id": "c", "text": "Prenatally detected grade V VUR in a 1-month-old asymptomatic infant" },
+      { "id": "d", "text": "Grade III VUR with recurrent breakthrough febrile UTIs despite CAP" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Ureteroneocystostomy is indicated for children with high-grade and/or symptomatic VUR who experience recurrent breakthrough UTIs despite CAP. Asymptomatic low-grade VUR and spontaneously resolving VUR do not typically require surgical intervention.",
+    "topic": "Breakthrough UTI / Surgical indications"
+  },
+  {
+    "id": "ch06-Q22",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 22,
+    "stem": "Regarding minimally invasive (laparoscopic/robotic) ureteroneocystostomy for VUR, which of the following statements is most accurate?",
+    "options": [
+      { "id": "a", "text": "It has been proven superior to open surgery in multiple randomized trials" },
+      { "id": "b", "text": "Concerns include possible commercial influence, higher complication rates, and lack of proven advantages over open surgery" },
+      { "id": "c", "text": "It has replaced open ureteroneocystostomy as the standard of care" },
+      { "id": "d", "text": "It is contraindicated in children with high-grade VUR" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The role of minimally invasive techniques for VUR correction remains controversial. Concerns have been raised regarding possible commercial influence, higher complication rates, and lack of evidence that these procedures offer significant advantages over current open surgical techniques. For now, many clinicians and parents continue to favor open ureteroneocystostomy.",
+    "topic": "Minimally invasive surgery"
+  },
+  {
+    "id": "ch06-Q23",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 23,
+    "stem": "The injectable bulking agent used for endoscopic correction of VUR that is currently approved by the FDA is:",
+    "options": [
+      { "id": "a", "text": "Polytetrafluoroethylene (PTFE/Teflon)" },
+      { "id": "b", "text": "Autologous chondrocytes" },
+      { "id": "c", "text": "Polydimethylsiloxane (Macroplastique)" },
+      { "id": "d", "text": "Dextranomer/hyaluronic acid copolymer (Deflux)" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Dextranomer/hyaluronic acid copolymer (Dx/HA) — marketed as Deflux — is the only injectable agent approved by the FDA for endoscopic correction of VUR in the United States. PTFE, chondrocytes, and polydimethylsiloxane are no longer in routine use.",
+    "topic": "Endoscopic injection"
+  },
+  {
+    "id": "ch06-Q24",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 24,
+    "stem": "During endoscopic correction of VUR, the injection needle is placed in which position relative to the ureteral orifice in the standard technique?",
+    "options": [
+      { "id": "a", "text": "3 o'clock position" },
+      { "id": "b", "text": "12 o'clock position" },
+      { "id": "c", "text": "6 o'clock position" },
+      { "id": "d", "text": "9 o'clock position" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "In the standard endoscopic injection technique, the implant is placed in a 6 o'clock position at the ureteral orifice. If the orifice is wide enough to admit the cystoscope tip, an intra-ureteral injection is preferred instead. The goal is to create a mound that elevates the orifice.",
+    "topic": "Endoscopic injection"
+  },
+  {
+    "id": "ch06-Q25",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 25,
+    "stem": "What is the reported success rate (complete VUR correction) for endoscopic injection 3 months after treatment?",
+    "options": [
+      { "id": "a", "text": "Approximately 50–55%" },
+      { "id": "b", "text": "Approximately 75–80%" },
+      { "id": "c", "text": "Approximately 98–99%" },
+      { "id": "d", "text": "Approximately 90–95%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Reported success rates 3 months after endoscopic injection are in the region of 75–80%. However, success rates decrease with longer follow-up, and more than one injection may be required. In the Swedish Reflux Trial, 20% of successfully treated children developed recurrent VUR within 2 years.",
+    "topic": "Endoscopic injection"
+  },
+  {
+    "id": "ch06-Q26",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 26,
+    "stem": "Which endoscopic injection technique claims success rates exceeding 93% and involves a dual injection approach?",
+    "options": [
+      { "id": "a", "text": "Subureteric Teflon injection (STI)" },
+      { "id": "b", "text": "Intravesical balloon dilation" },
+      { "id": "c", "text": "STING procedure" },
+      { "id": "d", "text": "Double hydrodistention injection technique (HIT)" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The double hydrodistention injection technique (HIT) has been reported to achieve success rates greater than 93%. This is notably higher than the standard single-injection STING technique, which reports success rates around 75–80% at 3 months.",
+    "topic": "Endoscopic injection"
+  },
+  {
+    "id": "ch06-Q27",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 27,
+    "stem": "The most important complication of endoscopic correction for VUR is:",
+    "options": [
+      { "id": "a", "text": "Bladder perforation" },
+      { "id": "b", "text": "Hemorrhage requiring transfusion" },
+      { "id": "c", "text": "Anaphylactic reaction to the injectable material" },
+      { "id": "d", "text": "Distal ureteral obstruction" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The most important complication of endoscopic correction is distal ureteral obstruction. Transient partial obstruction occurs in up to 5% of children, but more severe or persistent obstruction requiring intervention is rare (<1% of cases).",
+    "topic": "Endoscopic injection"
+  },
+  {
+    "id": "ch06-Q28",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 28,
+    "stem": "According to the Swedish Reflux Trial, the incidence of new renal scarring was 12% in children treated with endoscopic correction and 6% in those on CAP. The reported p-value was 0.55, which indicates:",
+    "options": [
+      { "id": "a", "text": "Endoscopic correction is superior to CAP" },
+      { "id": "b", "text": "The difference was not statistically significant" },
+      { "id": "c", "text": "CAP causes less scarring than observation alone" },
+      { "id": "d", "text": "The difference was highly statistically significant" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A p-value of 0.55 indicates that the observed difference in new scarring rates (12% endoscopic vs. 6% CAP) was not statistically significant. This means the difference could have occurred by chance, and no firm conclusion can be drawn about superiority of either approach regarding scarring.",
+    "topic": "Endoscopic injection / Renal scarring"
+  },
+  {
+    "id": "ch06-Q29",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 29,
+    "stem": "The Cohen technique for ureteroneocystostomy is best described as a:",
+    "options": [
+      { "id": "a", "text": "Extravesical detrusorraphy technique" },
+      { "id": "b", "text": "Ureteral tapering with psoas hitch" },
+      { "id": "c", "text": "Transureteroureterostomy" },
+      { "id": "d", "text": "Cross-trigonal advancement procedure" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The Cohen technique is a cross-trigonal advancement procedure designed to elongate the submucosal course of the distal ureter within the bladder. Its advantages include relative simplicity, a high success rate (~97%), and a low incidence of postoperative obstruction.",
+    "topic": "Ureteral reimplantation"
+  },
+  {
+    "id": "ch06-Q30",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 30,
+    "stem": "What is the published success rate for open ureteroneocystostomy in correcting VUR?",
+    "options": [
+      { "id": "a", "text": "Approximately 85–90%" },
+      { "id": "b", "text": "Approximately 75–80%" },
+      { "id": "c", "text": "Consistently exceeding 95%" },
+      { "id": "d", "text": "Approximately 50–60%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Open ureteroneocystostomy has consistently reported success rates exceeding 95% in published series (with rates of 97–99% for grades I–IV and 81% for grade V). This makes it the most effective surgical option for VUR correction.",
+    "topic": "Ureteral reimplantation"
+  },
+  {
+    "id": "ch06-Q31",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 31,
+    "stem": "A well-documented risk of the extravesical (Lich-Gregoir) ureteroneocystostomy is:",
+    "options": [
+      { "id": "a", "text": "Higher rates of ureteral obstruction" },
+      { "id": "b", "text": "Postoperative voiding dysfunction and urinary retention" },
+      { "id": "c", "text": "Inability to correct duplex system reflux" },
+      { "id": "d", "text": "Higher recurrence of VUR compared to endoscopic injection" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The Lich-Gregoir extravesical technique carries a well-documented risk of postoperative voiding dysfunction, which may occasionally amount to urinary retention. This is thought to result from disruption of pelvic nerves during dissection near the bladder base.",
+    "topic": "Ureteral reimplantation"
+  },
+  {
+    "id": "ch06-Q32",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 32,
+    "stem": "Which ureteroneocystostomy technique is particularly useful for grossly dilated refluxing ureters, especially when combined with a psoas hitch and ureteral tapering?",
+    "options": [
+      { "id": "a", "text": "Cohen cross-trigonal technique" },
+      { "id": "b", "text": "Politano-Leadbetter technique" },
+      { "id": "c", "text": "Glenn-Anderson technique" },
+      { "id": "d", "text": "Lich-Gregoir extravesical technique" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The Politano-Leadbetter technique, although largely superseded by the Cohen technique, retains a valuable role for grossly dilated refluxing ureters — particularly when combined with a psoas hitch and ureteral tapering. It involves creating a new hiatus in the posterior bladder wall.",
+    "topic": "Ureteral reimplantation"
+  },
+  {
+    "id": "ch06-Q33",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 33,
+    "stem": "For reimplanting duplex ureters, which of the following principles is most important?",
+    "options": [
+      { "id": "a", "text": "An extravesical approach is mandatory" },
+      { "id": "b", "text": "Each ureter must be reimplanted separately through its own tunnel" },
+      { "id": "c", "text": "The upper pole ureter should be reimplanted first" },
+      { "id": "d", "text": "Both ureters should be mobilized together within their common sheath" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "For duplex ureters, both ureters must be mobilized together within their common sheath and share the same submucosal tunnel. Attempting to reimplant the lower pole ureter separately risks devascularization and/or damage to one or both ureters.",
+    "topic": "Ureteral reimplantation"
+  },
+  {
+    "id": "ch06-Q34",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 34,
+    "stem": "Which of the following is a temporary urinary diversion option for small infants with high-grade VUR and severe febrile UTIs in whom ureteroneocystostomy is best avoided?",
+    "options": [
+      { "id": "a", "text": "Mitrofanoff principle" },
+      { "id": "b", "text": "Ileal conduit" },
+      { "id": "c", "text": "Bilateral nephrostomy" },
+      { "id": "d", "text": "Cutaneous vesicostomy" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Cutaneous vesicostomy (or refluxing ureterostomy) provides effective temporary bladder decompression and drainage for small infants with high-grade VUR and severe febrile UTIs. Definitive correction can then be performed during the second or third year of life.",
+    "topic": "Other surgical options"
+  },
+  {
+    "id": "ch06-Q35",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 35,
+    "stem": "Reflux nephropathy accounts for what proportion of children on end-stage renal failure programs?",
+    "options": [
+      { "id": "a", "text": "Approximately 10%" },
+      { "id": "b", "text": "More than 20%" },
+      { "id": "c", "text": "Less than 5%" },
+      { "id": "d", "text": "Approximately 50%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Reflux nephropathy accounts for more than 20% of children on end-stage renal failure programs. It also poses a significant long-term risk of less severe forms of chronic kidney disease, making early detection and management of VUR important.",
+    "topic": "Reflux nephropathy"
+  },
+  {
+    "id": "ch06-Q36",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 36,
+    "stem": "Severe congenital renal dysplasia associated with VUR is seen mainly in conjunction with:",
+    "options": [
+      { "id": "a", "text": "Low-grade (I–II) VUR in girls" },
+      { "id": "b", "text": "Unilateral grade II VUR" },
+      { "id": "c", "text": "VUR associated with bladder bowel dysfunction" },
+      { "id": "d", "text": "High-grade (IV–V) VUR" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Severe congenital renal damage (renal dysplasia) is seen mainly in conjunction with high-grade (IV–V) VUR. It represents the outcome of aberrant interaction between the ureteric bud and metanephric mesenchyme during development.",
+    "topic": "Reflux nephropathy"
+  },
+  {
+    "id": "ch06-Q37",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 37,
+    "stem": "Regarding gender differences in reflux nephropathy, which statement is true?",
+    "options": [
+      { "id": "a", "text": "Congenital renal damage is more common in females" },
+      { "id": "b", "text": "Pyelonephritic scarring is a more important cause of long-term renal damage in females" },
+      { "id": "c", "text": "Gender does not influence the pattern of renal damage" },
+      { "id": "d", "text": "Males have a higher risk of pyelonephritic scarring at all ages" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Histological studies show that while congenital renal damage is seen more commonly in males, pyelonephritic scarring is a far more important cause of long-term renal damage in females. This reflects the higher incidence of UTIs in post-infancy girls with VUR.",
+    "topic": "Reflux nephropathy"
+  },
+  {
+    "id": "ch06-Q38",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 38,
+    "stem": "The reflux of sterile urine at physiological voiding pressures is generally considered to:",
+    "options": [
+      { "id": "a", "text": "Cause significant renal scarring over time" },
+      { "id": "b", "text": "Lead to hypertension in all affected children" },
+      { "id": "c", "text": "Not cause renal scarring or impair renal growth" },
+      { "id": "d", "text": "Cause progressive loss of renal function" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Experimental and clinical evidence indicates that the reflux of sterile urine at physiological voiding pressures does not cause renal scarring or impairment of renal growth. It is the combination of VUR with infection (pyelonephritis) that leads to acquired parenchymal damage.",
+    "topic": "Reflux nephropathy"
+  },
+  {
+    "id": "ch06-Q39",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 39,
+    "stem": "Which imaging modality remains the definitive gold standard for the diagnosis and evaluation of VUR?",
+    "options": [
+      { "id": "a", "text": "Renal and bladder ultrasound (RBUS)" },
+      { "id": "b", "text": "Magnetic resonance urography (MRU)" },
+      { "id": "c", "text": "Fluoroscopic voiding cystourethrography (VCUG)" },
+      { "id": "d", "text": "99m-Tc DMSA renal scan" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Fluoroscopic VCUG remains the definitive gold standard for diagnosis and evaluation of VUR. It not only permits grading of VUR but also provides valuable additional anatomical information about the lower urinary tract that other modalities cannot.",
+    "topic": "Diagnostic imaging"
+  },
+  {
+    "id": "ch06-Q40",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 40,
+    "stem": "A 6-month-old infant with febrile UTI undergoes a renal and bladder ultrasound that shows no abnormalities. Which of the following best reflects the current AAP guideline recommendation?",
+    "options": [
+      { "id": "a", "text": "RBUS should initially be performed after a febrile UTI" },
+      { "id": "b", "text": "VCUG is recommended for all children with febrile UTI" },
+      { "id": "c", "text": "No further imaging is required" },
+      { "id": "d", "text": "DMSA should be performed before VCUG" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The current AAP guidelines recommend that renal and bladder ultrasound (RBUS) should be performed in children who have experienced a febrile UTI. The decision regarding VCUG and DMSA is more nuanced, with considerable variation between different guidelines.",
+    "topic": "Diagnostic imaging / Guidelines"
+  },
+  {
+    "id": "ch06-Q41",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 41,
+    "stem": "What is a recognized limitation of radionuclide cystography (RNC) compared to VCUG?",
+    "options": [
+      { "id": "a", "text": "Cannot be used in toilet-trained children" },
+      { "id": "b", "text": "Poor sensitivity for lower grades of VUR" },
+      { "id": "c", "text": "Higher radiation dose" },
+      { "id": "d", "text": "Requires urethral catheterization" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "RNC has poor sensitivity for the visualization of lower grades of VUR. While it does not require urethral catheterization and has a lower radiation dose than VCUG, its limited ability to detect low-grade VUR and unsuitability for non-toilet-trained children are significant drawbacks.",
+    "topic": "Diagnostic imaging"
+  },
+  {
+    "id": "ch06-Q42",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 42,
+    "stem": "The 'top-down' approach to investigating children with suspected VUR relies on which combination of imaging in the first instance?",
+    "options": [
+      { "id": "a", "text": "RNC and VCUG" },
+      { "id": "b", "text": "VCUG and renal ultrasound" },
+      { "id": "c", "text": "MRI and contrast-enhanced ultrasound" },
+      { "id": "d", "text": "RBUS and DMSA" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The 'top-down' approach uses RBUS and DMSA first, reserving VCUG only for children with evidence of renal scarring. Proponents argue that VUR without parenchymal changes is unlikely to be clinically significant, but critics note that DMSA lacks sufficient sensitivity and specificity for high-grade VUR.",
+    "topic": "Diagnostic imaging"
+  },
+  {
+    "id": "ch06-Q43",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 43,
+    "stem": "Contrast-enhanced ultrasound (CEUS) for VUR diagnosis involves instillation of:",
+    "options": [
+      { "id": "a", "text": "A microbubble-containing solution into the bladder" },
+      { "id": "b", "text": "Iodinated contrast into the bladder" },
+      { "id": "c", "text": "Saline with air bubbles into the urethra" },
+      { "id": "d", "text": "Gadolinium-based contrast intravenously" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "CEUS employs instillation of a solution containing microbubbles into the bladder, which appear echogenic on ultrasound scanning. Although advocated for VUR diagnosis, it has not found wide-scale acceptance as it requires urethral catheterization and specialized equipment.",
+    "topic": "Diagnostic imaging"
+  },
+  {
+    "id": "ch06-Q44",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 44,
+    "stem": "A couple has a 3-year-old daughter with known grade III VUR. They are considering screening their asymptomatic 6-month-old son. Which statement best reflects current evidence on sibling screening?",
+    "options": [
+      { "id": "a", "text": "Screening has been proven cost-effective in randomized trials" },
+      { "id": "b", "text": "All siblings should undergo VCUG regardless of ultrasound findings" },
+      { "id": "c", "text": "DMSA scan is the recommended screening test" },
+      { "id": "d", "text": "Screening is most useful in the first 1–2 years of life but of limited benefit in older siblings" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Sibling screening is probably most useful in the first year or two of life but of very limited benefit in older siblings. The only feasible screening test is RBUS, which has limited ability to detect VUR. There is only very limited evidence that sibling screening is worthwhile and cost-effective.",
+    "topic": "Sibling screening"
+  },
+  {
+    "id": "ch06-Q45",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 45,
+    "stem": "According to estimates, how many asymptomatic siblings would need to be screened to prevent a single febrile UTI?",
+    "options": [
+      { "id": "a", "text": "10 siblings" },
+      { "id": "b", "text": "5 siblings" },
+      { "id": "c", "text": "More than 30 siblings" },
+      { "id": "d", "text": "More than 100 siblings" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "By one estimate, more than 30 asymptomatic siblings would need to be screened at a cost of US$56,000 to prevent a single febrile UTI. This underscores the limited evidence that sibling screening is a worthwhile and cost-effective measure.",
+    "topic": "Sibling screening"
+  },
+  {
+    "id": "ch06-Q46",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 46,
+    "stem": "Prenatally detected VUR is predominantly a condition of:",
+    "options": [
+      { "id": "a", "text": "Both sexes equally, with similar grade distribution" },
+      { "id": "b", "text": "Girls, with low-grade VUR being most common" },
+      { "id": "c", "text": "Boys, typically characterized by high-grade VUR" },
+      { "id": "d", "text": "Girls, with high-grade VUR being most common" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Prenatally detected VUR is predominantly a condition of boys, in whom it is typically characterized by high-grade VUR. By contrast, when VUR is diagnosed after clinical presentation with UTI, girls outnumber boys by approximately 5:1.",
+    "topic": "Prenatal hydronephrosis screening"
+  },
+  {
+    "id": "ch06-Q47",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 47,
+    "stem": "According to AUA/Society for Fetal Urology guidelines, VCUG is warranted in infants with prenatal hydronephrosis when which of the following is present?",
+    "options": [
+      { "id": "a", "text": "Only when bilateral hydronephrosis is present" },
+      { "id": "b", "text": "Ureteral dilatation (hydroureter), bladder abnormalities, or SFU grades III–IV" },
+      { "id": "c", "text": "Only when the anteroposterior renal pelvic diameter exceeds 20 mm" },
+      { "id": "d", "text": "Any degree of pelvicaliectasis including SFU grade I" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "AUA/SFU guidelines advocate a selective role for VCUG based on: ureteral dilatation (hydroureter), bladder abnormalities, or moderate to severe PNH (SFU grades III–IV). Routine VCUG for mild dilatation (SFU I–II) yields VUR in only 10–15%, usually low-grade and of doubtful significance.",
+    "topic": "Prenatal hydronephrosis screening"
+  },
+  {
+    "id": "ch06-Q48",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 48,
+    "stem": "Bladder and bowel dysfunction (BBD) in children with VUR is associated with all of the following EXCEPT:",
+    "options": [
+      { "id": "a", "text": "Psychiatric and developmental disorders" },
+      { "id": "b", "text": "Obesity" },
+      { "id": "c", "text": "Higher spontaneous resolution rates of VUR" },
+      { "id": "d", "text": "Increased risk of breakthrough UTIs" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "BBD is associated with psychiatric/developmental disorders and obesity, and it increases the risk of UTIs and breakthrough infections. Importantly, dysfunctional voiding may prolong the duration of VUR or exacerbate its severity, reducing rather than increasing spontaneous resolution rates.",
+    "topic": "Bladder and bowel dysfunction"
+  },
+  {
+    "id": "ch06-Q49",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 49,
+    "stem": "Which of the following is true regarding the role of circumcision in boys with VUR?",
+    "options": [
+      { "id": "a", "text": "There is growing evidence supporting circumcision in boys with high-grade VUR who experience symptomatic breakthrough UTIs on CAP" },
+      { "id": "b", "text": "Circumcision is indicated for all boys with VUR regardless of grade" },
+      { "id": "c", "text": "Circumcision has no role in VUR management" },
+      { "id": "d", "text": "Circumcision is contraindicated in boys with VUR" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "There is growing evidence to support circumcision in boys with high-grade VUR who are experiencing symptomatic breakthrough UTIs on CAP. It is not indicated for all boys with VUR and is specifically considered in the context of recurrent UTIs.",
+    "topic": "Surgical management / Male circumcision"
+  },
+  {
+    "id": "ch06-Q50",
+    "chapter": "Vesicoureteral Reflux",
+    "chapterSlug": "ch06_vesicoureteral-reflux",
+    "chapterNumber": 6,
+    "questionNumber": 50,
+    "stem": "A 4-year-old boy is found to have an 'atypical' organism causing a UTI during workup. According to published guidelines, infection with which type of organism is generally regarded as an indication for further investigation for VUR?",
+    "options": [
+      { "id": "a", "text": "Klebsiella pneumoniae" },
+      { "id": "b", "text": "Enterococcus faecalis" },
+      { "id": "c", "text": "Escherichia coli" },
+      { "id": "d", "text": "Pseudomonas or Proteus species" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "UTI caused by an 'atypical' organism such as Pseudomonas or Proteus is generally regarded as an indication for further investigation, including VCUG. E. coli is the most common typical uropathogen and does not in itself warrant additional investigation beyond standard protocols.",
+    "topic": "Diagnostic approach / Atypical UTI"
+  }
+]

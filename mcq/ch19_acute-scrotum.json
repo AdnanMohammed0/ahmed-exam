@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch19-Q01",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 1,
+    "stem": "A 15-year-old boy presents with acute right scrotal pain and swelling. What percentage of acute scrotal presentations in pubertal boys and adolescents is attributable to testicular torsion?",
+    "options": [
+      { "id": "a", "text": "40–50%" },
+      { "id": "b", "text": "60–70%" },
+      { "id": "c", "text": "80–90%" },
+      { "id": "d", "text": "95–99%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Testicular torsion accounts for 80–90% of cases of acute scrotal symptoms in pubertal boys and adolescents. Urgent surgical exploration is mandatory unless there is compelling evidence of an alternative diagnosis.",
+    "topic": "Epidemiology"
+  },
+  {
+    "id": "ch19-Q02",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 2,
+    "stem": "What is the reported population incidence of testicular torsion?",
+    "options": [
+      { "id": "a", "text": "1:3,000–1:4,000" },
+      { "id": "b", "text": "1:1,000" },
+      { "id": "c", "text": "1:10,000" },
+      { "id": "d", "text": "1:17,000" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The reported incidence of testicular torsion is approximately 1:3,000–1:4,000 in the general population.",
+    "topic": "Epidemiology"
+  },
+  {
+    "id": "ch19-Q03",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 3,
+    "stem": "What is the estimated incidence of neonatal testicular torsion?",
+    "options": [
+      { "id": "a", "text": "1:3,000" },
+      { "id": "b", "text": "1:4,000" },
+      { "id": "c", "text": "1:10,000" },
+      { "id": "d", "text": "1:17,000" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Neonatal torsion has an estimated incidence of 1:17,000. The extravaginal form of torsion is virtually confined to this age group.",
+    "topic": "Neonatal torsion"
+  },
+  {
+    "id": "ch19-Q04",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 4,
+    "stem": "Testicular torsion occurs most frequently at which age range?",
+    "options": [
+      { "id": "a", "text": "5–7 years" },
+      { "id": "b", "text": "8–10 years" },
+      { "id": "c", "text": "14–16 years" },
+      { "id": "d", "text": "18–20 years" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Testicular torsion occurs most frequently between the ages of 14 and 16, though it can occur into late adulthood.",
+    "topic": "Epidemiology"
+  },
+  {
+    "id": "ch19-Q05",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 5,
+    "stem": "A male infant is noted at birth to have a firm, enlarged, discoloured testis. Which pattern of torsion has most likely occurred?",
+    "options": [
+      { "id": "a", "text": "Extravaginal torsion" },
+      { "id": "b", "text": "Intravaginal torsion" },
+      { "id": "c", "text": "Mesorchial torsion" },
+      { "id": "d", "text": "Intratunical torsion" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The extravaginal form of torsion, in which the testis and its coverings twist in their entirety, is virtually confined to neonatal torsion.",
+    "topic": "Neonatal torsion"
+  },
+  {
+    "id": "ch19-Q06",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 6,
+    "stem": "What anatomical variant is conventionally associated with predisposition to intravaginal testicular torsion?",
+    "options": [
+      { "id": "a", "text": "Short spermatic cord" },
+      { "id": "b", "text": "Bell-clapper testis" },
+      { "id": "c", "text": "Hydrocoele" },
+      { "id": "d", "text": "Open processus vaginalis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Intravaginal torsion is conventionally attributed to a 'bell-clapper' testis, in which the testis is suspended within the tunica by an abnormally long leash of spermatic vessels.",
+    "topic": "Testicular torsion — aetiology"
+  },
+  {
+    "id": "ch19-Q07",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 7,
+    "stem": "According to autopsy studies, the bell-clapper testis is best characterised as:",
+    "options": [
+      { "id": "a", "text": "One end of the normal anatomical spectrum" },
+      { "id": "b", "text": "A distinct pathological entity" },
+      { "id": "c", "text": "A post-traumatic deformity" },
+      { "id": "d", "text": "A congenital malformation requiring prophylactic surgery" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Autopsy studies suggest the bell-clapper testis simply represents one end of the normal anatomical spectrum rather than a distinct pathological entity.",
+    "topic": "Testicular torsion — aetiology"
+  },
+  {
+    "id": "ch19-Q08",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 8,
+    "stem": "In experimentally induced torsion in animal models, what degree of rotation consistently produces complete cessation of testicular blood flow?",
+    "options": [
+      { "id": "a", "text": "180\u00b0" },
+      { "id": "b", "text": "720\u00b0" },
+      { "id": "c", "text": "360\u00b0" },
+      { "id": "d", "text": "540\u00b0" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "In animal models, 720\u00b0 torsion consistently leads to complete cessation of blood flow to and from the testis, followed by the onset of irreversible ischaemic damage to seminiferous tissue.",
+    "topic": "Pathophysiology"
+  },
+  {
+    "id": "ch19-Q09",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 9,
+    "stem": "What is the best time window for restoring testicular blood supply to maximise the chance of conserving a viable testis of normal size?",
+    "options": [
+      { "id": "a", "text": "Within 1 hour" },
+      { "id": "b", "text": "2\u20133 hours" },
+      { "id": "c", "text": "6\u20138 hours" },
+      { "id": "d", "text": "4\u20136 hours" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The weight of evidence indicates the best prospect of conserving a viable testis of normal size lies in restoring its blood supply within 4\u20136 hours.",
+    "topic": "Testicular torsion — prognosis"
+  },
+  {
+    "id": "ch19-Q10",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 10,
+    "stem": "After what duration of testicular torsion is atrophy described as 'the rule'?",
+    "options": [
+      { "id": "a", "text": "8\u201310 hours" },
+      { "id": "b", "text": "4\u20136 hours" },
+      { "id": "c", "text": "6\u20138 hours" },
+      { "id": "d", "text": "12\u201324 hours" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Atrophy is virtually inevitable if blood supply is not restored within 6\u20138 hours, and atrophy is 'the rule' after 8\u201310 hours of torsion.",
+    "topic": "Testicular torsion — prognosis"
+  },
+  {
+    "id": "ch19-Q11",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 11,
+    "stem": "What proportion of boys with testicular torsion present with vomiting?",
+    "options": [
+      { "id": "a", "text": "Around 10%" },
+      { "id": "b", "text": "Around 20%" },
+      { "id": "c", "text": "Around 40%" },
+      { "id": "d", "text": "Around 60%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Testicular torsion is characterised by acute onset of unilateral scrotal pain and swelling accompanied by vomiting in around 40% of cases.",
+    "topic": "Testicular torsion — presentation"
+  },
+  {
+    "id": "ch19-Q12",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 12,
+    "stem": "A 14-year-old boy presents with right testicular pain and referred right lower quadrant pain. This presentation carries a risk of being misdiagnosed as:",
+    "options": [
+      { "id": "a", "text": "Gastroenteritis" },
+      { "id": "b", "text": "Renal colic" },
+      { "id": "c", "text": "Urinary tract infection" },
+      { "id": "d", "text": "Appendicitis" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Right-sided torsion may be misdiagnosed as appendicitis because referred pain in the right lower quadrant can be perceived as more severe than the testicular pain itself.",
+    "topic": "Testicular torsion — presentation"
+  },
+  {
+    "id": "ch19-Q13",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 13,
+    "stem": "Left-sided testicular torsion with ipsilateral lower quadrant pain risks being misdiagnosed as:",
+    "options": [
+      { "id": "a", "text": "Appendicitis" },
+      { "id": "b", "text": "Gastroenteritis" },
+      { "id": "c", "text": "Diverticulitis" },
+      { "id": "d", "text": "Pancreatitis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Left-sided torsion may be misdiagnosed as gastroenteritis due to referred pain perceived in the left lower quadrant.",
+    "topic": "Testicular torsion — presentation"
+  },
+  {
+    "id": "ch19-Q14",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 14,
+    "stem": "According to the Royal College of Surgeons of England, transfer of a boy with suspected testicular torsion from a secondary institution to a tertiary care centre should be:",
+    "options": [
+      { "id": "a", "text": "Mandatory before surgery" },
+      { "id": "b", "text": "Routinely performed" },
+      { "id": "c", "text": "An exceptional occurrence" },
+      { "id": "d", "text": "Required if ultrasound is unavailable" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The Royal College of Surgeons of England states that transfer from a secondary to a tertiary institution should be an exceptional occurrence, to avoid unnecessary delay and increased risk to testicular viability.",
+    "topic": "Testicular torsion — management"
+  },
+  {
+    "id": "ch19-Q15",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 15,
+    "stem": "During surgical exploration for suspected testicular torsion, which intraoperative finding best supports a decision to conserve the testis after detorsion?",
+    "options": [
+      { "id": "a", "text": "Arterial bleeding on incising the tunica albuginea" },
+      { "id": "b", "text": "Persistent dark discolouration of the testis" },
+      { "id": "c", "text": "Absence of pulsation in the spermatic cord" },
+      { "id": "d", "text": "Marked oedema of the scrotal tissues" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Factors influencing the decision to conserve or remove the testis include the duration of history, testicular appearance, and presence of arterial bleeding on incising the tunica albuginea.",
+    "topic": "Testicular torsion — surgical management"
+  },
+  {
+    "id": "ch19-Q16",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 16,
+    "stem": "Regardless of whether the affected testis is conserved or removed at exploration for testicular torsion, what additional procedure must always be performed?",
+    "options": [
+      { "id": "a", "text": "Excision of both appendix testes" },
+      { "id": "b", "text": "Prophylactic fixation of the contralateral testis" },
+      { "id": "c", "text": "Insertion of a testicular prosthesis" },
+      { "id": "d", "text": "Contralateral orchidectomy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Prophylactic fixation of the contralateral testis should always be performed because of the bilateral nature of the predisposing anatomy.",
+    "topic": "Testicular torsion — surgical management"
+  },
+  {
+    "id": "ch19-Q17",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 17,
+    "stem": "What is the recommended technique for suture fixation of the testis at orchidopexy for torsion?",
+    "options": [
+      { "id": "a", "text": "One absorbable suture" },
+      { "id": "b", "text": "Two non-absorbable sutures" },
+      { "id": "c", "text": "Four absorbable sutures" },
+      { "id": "d", "text": "Three non-absorbable sutures" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Three-point fixation with non-absorbable sutures (e.g. 4/0 prolene) between the scrotal wall and tunica albuginea of the upper and lower poles and mid-zone is widely regarded as the most reliable technique.",
+    "topic": "Testicular torsion — surgical management"
+  },
+  {
+    "id": "ch19-Q18",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 18,
+    "stem": "A 10-year-old boy presents with mild scrotal pain. Examination reveals a visible blue discolouration at the upper pole of the testis through the scrotal skin. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Testicular torsion" },
+      { "id": "b", "text": "Epididymo-orchitis" },
+      { "id": "c", "text": "Torsion of the appendix testis" },
+      { "id": "d", "text": "Idiopathic scrotal oedema" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Haemorrhagic infarction of the appendix testis is sometimes visible as a localised area of discolouration at the upper pole ('blue dot sign'), which is diagnostic of torsion of the appendix testis.",
+    "topic": "Torsion of testicular appendage"
+  },
+  {
+    "id": "ch19-Q19",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 19,
+    "stem": "What is the peak age incidence for torsion of the appendix testis?",
+    "options": [
+      { "id": "a", "text": "5\u20137 years" },
+      { "id": "b", "text": "10\u201312 years" },
+      { "id": "c", "text": "14\u201316 years" },
+      { "id": "d", "text": "2\u20134 years" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Torsion of the appendix testis can occur at any age in childhood but the peak incidence is between 10 and 12 years.",
+    "topic": "Torsion of testicular appendage"
+  },
+  {
+    "id": "ch19-Q20",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 20,
+    "stem": "The appendix testis (hydatid of Morgagni) is an embryological remnant of which structure?",
+    "options": [
+      { "id": "a", "text": "The paramesonephric (M\u00fcllerian) duct" },
+      { "id": "b", "text": "The mesonephric (Wolffian) duct" },
+      { "id": "c", "text": "The urogenital sinus" },
+      { "id": "d", "text": "The pronephros" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The appendix testis is a small vestigial remnant of paramesonephric (M\u00fcllerian) origin, attached to the upper pole of the testis.",
+    "topic": "Embryology"
+  },
+  {
+    "id": "ch19-Q21",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 21,
+    "stem": "A confident diagnosis of torsion of the appendix testis with mild, resolving pain is made in a 9-year-old boy by an experienced clinician. What is the appropriate management?",
+    "options": [
+      { "id": "a", "text": "Urgent surgical exploration" },
+      { "id": "b", "text": "Antibiotic therapy" },
+      { "id": "c", "text": "Manual detorsion" },
+      { "id": "d", "text": "Conservative management" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Torsion of a testicular appendage can be managed conservatively if the diagnosis can be established with confidence and the pain is mild or resolving. Surgical intervention is indicated when torsion cannot be excluded or discomfort is more severe.",
+    "topic": "Torsion of testicular appendage"
+  },
+  {
+    "id": "ch19-Q22",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 22,
+    "stem": "At surgical exploration for a torted appendix testis, what is the appropriate treatment?",
+    "options": [
+      { "id": "a", "text": "Excision with contralateral appendage excision" },
+      { "id": "b", "text": "Prophylactic testicular fixation" },
+      { "id": "c", "text": "Simple excision of the torted appendage" },
+      { "id": "d", "text": "Orchidectomy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Treatment consists of simple excision of the infarcted hydatid of Morgagni. Prophylactic excision of the contralateral appendage is not necessary, nor is prophylactic fixation of the testis.",
+    "topic": "Torsion of testicular appendage"
+  },
+  {
+    "id": "ch19-Q23",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 23,
+    "stem": "In prepubertal boys presenting with an acute scrotum, testicular torsion accounts for approximately what proportion of cases?",
+    "options": [
+      { "id": "a", "text": "10%" },
+      { "id": "b", "text": "One-third" },
+      { "id": "c", "text": "Half" },
+      { "id": "d", "text": "80%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Although torsion of a testicular appendage is the commonest diagnosis in this age range, testicular torsion nevertheless accounts for approximately one-third of cases of acute scrotal pathology in prepubertal boys.",
+    "topic": "Prepubertal torsion"
+  },
+  {
+    "id": "ch19-Q24",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 24,
+    "stem": "What is the most common cause of acute scrotal symptoms in prepubertal boys?",
+    "options": [
+      { "id": "a", "text": "Torsion of a testicular appendage" },
+      { "id": "b", "text": "Testicular torsion" },
+      { "id": "c", "text": "Epididymo-orchitis" },
+      { "id": "d", "text": "Idiopathic scrotal oedema" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Torsion of a testicular appendage (hydatid of Morgagni) is the commonest diagnosis in the prepubertal age range, though testicular torsion accounts for approximately one-third of cases.",
+    "topic": "Prepubertal torsion"
+  },
+  {
+    "id": "ch19-Q25",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 25,
+    "stem": "A 5-year-old boy presents with marked, painless scrotal oedema that extends bilaterally to the inguinal region. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Testicular torsion" },
+      { "id": "b", "text": "Epididymo-orchitis" },
+      { "id": "c", "text": "Torsion of appendix testis" },
+      { "id": "d", "text": "Idiopathic scrotal oedema" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Idiopathic scrotal oedema is characterised by marked oedema of the scrotum with minimal or absent pain. It may be unilateral or bilateral and can extend to the inguinal region.",
+    "topic": "Idiopathic scrotal oedema"
+  },
+  {
+    "id": "ch19-Q26",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 26,
+    "stem": "At what age is idiopathic scrotal oedema most commonly seen?",
+    "options": [
+      { "id": "a", "text": "5\u20136 years" },
+      { "id": "b", "text": "10\u201312 years" },
+      { "id": "c", "text": "2\u20134 years" },
+      { "id": "d", "text": "14\u201316 years" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Idiopathic scrotal oedema is virtually confined to the prepubertal age group with a peak incidence between 5 and 6 years.",
+    "topic": "Idiopathic scrotal oedema"
+  },
+  {
+    "id": "ch19-Q27",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 27,
+    "stem": "How long does idiopathic scrotal oedema typically take to resolve spontaneously?",
+    "options": [
+      { "id": "a", "text": "6\u201312 hours" },
+      { "id": "b", "text": "24\u201348 hours" },
+      { "id": "c", "text": "3\u20135 days" },
+      { "id": "d", "text": "1\u20132 weeks" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The scrotal swelling in idiopathic scrotal oedema settles spontaneously, usually within 24\u201348 hours. No specific treatment is generally required.",
+    "topic": "Idiopathic scrotal oedema"
+  },
+  {
+    "id": "ch19-Q28",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 28,
+    "stem": "In children, epididymo-orchitis most commonly results from spread of infection via which route?",
+    "options": [
+      { "id": "a", "text": "Retrograde transmission via the vas deferens from the posterior urethra" },
+      { "id": "b", "text": "Haematogenous spread from a distant focus" },
+      { "id": "c", "text": "Lymphatic spread from the rectum" },
+      { "id": "d", "text": "Direct inoculation through the scrotal skin" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Epididymo-orchitis usually occurs as a consequence of bacterial infection transmitted via the ejaculatory ducts and vas deferens from the posterior urethra.",
+    "topic": "Epididymo-orchitis"
+  },
+  {
+    "id": "ch19-Q29",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 29,
+    "stem": "In a sexually active adolescent male presenting with epididymitis, the most likely causative organism is:",
+    "options": [
+      { "id": "a", "text": "Escherichia coli" },
+      { "id": "b", "text": "Chlamydia" },
+      { "id": "c", "text": "Pseudomonas aeruginosa" },
+      { "id": "d", "text": "Neisseria meningitidis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Epididymitis in sexually active adolescents and young adults may be secondary to sexually transmitted infection, notably chlamydia.",
+    "topic": "Epididymo-orchitis"
+  },
+  {
+    "id": "ch19-Q30",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 30,
+    "stem": "An infant presents with epididymo-orchitis but has sterile urine and no identifiable anatomical abnormality of the urinary tract. What is the postulated mechanism?",
+    "options": [
+      { "id": "a", "text": "Viral orchitis" },
+      { "id": "b", "text": "Autoimmune inflammation" },
+      { "id": "c", "text": "Trauma" },
+      { "id": "d", "text": "Irritant effect of sterile urine via vasal reflux" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Such cases are thought to result from the irritant effect of sterile urine transmitted from the lower urinary tract to the testis via the vas deferens (vasal reflux).",
+    "topic": "Epididymo-orchitis"
+  },
+  {
+    "id": "ch19-Q31",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 31,
+    "stem": "In cases of recurrent symptomatic epididymo-orchitis, which surgical option may be considered to prevent further episodes?",
+    "options": [
+      { "id": "a", "text": "Orchidectomy" },
+      { "id": "b", "text": "Orchidopexy" },
+      { "id": "c", "text": "Vasectomy" },
+      { "id": "d", "text": "Epididymectomy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Vasectomy may be considered to prevent retrograde transmission of infecting bacteria to the testis via the vas deferens in cases of recurrent epididymo-orchitis.",
+    "topic": "Epididymo-orchitis"
+  },
+  {
+    "id": "ch19-Q32",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 32,
+    "stem": "In boys of all ages presenting with an acute scrotum, which statement best reflects the relative frequency of testicular torsion compared with epididymo-orchitis?",
+    "options": [
+      { "id": "a", "text": "They occur with equal frequency" },
+      { "id": "b", "text": "Epididymo-orchitis is considerably more common" },
+      { "id": "c", "text": "Testicular torsion is considerably more common" },
+      { "id": "d", "text": "Epididymo-orchitis is more common in adolescents only" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "In boys of all ages, testicular torsion is considerably more common than epididymo-orchitis, and the diagnosis of epididymo-orchitis should therefore be viewed with suspicion.",
+    "topic": "Epidemiology"
+  },
+  {
+    "id": "ch19-Q33",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 33,
+    "stem": "For a child diagnosed with epididymo-orchitis, what empirical antibiotic is recommended pending urine culture results?",
+    "options": [
+      { "id": "a", "text": "Gentamicin or ciprofloxacin" },
+      { "id": "b", "text": "Amoxicillin" },
+      { "id": "c", "text": "Metronidazole" },
+      { "id": "d", "text": "Trimethoprim" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Non-operative management includes analgesia and an intravenous antibiotic such as gentamicin or ciprofloxacin pending the result of urine culture.",
+    "topic": "Epididymo-orchitis"
+  },
+  {
+    "id": "ch19-Q34",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 34,
+    "stem": "Following an episode of epididymo-orchitis in a child, when can the fate of the testis be reliably assessed?",
+    "options": [
+      { "id": "a", "text": "Within 1 week" },
+      { "id": "b", "text": "Within 1 month" },
+      { "id": "c", "text": "After several months, once all induration has resolved" },
+      { "id": "d", "text": "Immediately after completing antibiotics" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The fate of the testis cannot be reliably assessed until all induration has resolved, which is generally a matter of several months.",
+    "topic": "Epididymo-orchitis"
+  },
+  {
+    "id": "ch19-Q35",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 35,
+    "stem": "A male infant is noted at birth to have a hard, discoloured scrotum. Ultrasound shows an enlarged testis and epididymis with haemorrhagic fluid and absent perfusion. What are the prospects for testicular salvage?",
+    "options": [
+      { "id": "a", "text": "Excellent with urgent surgical exploration" },
+      { "id": "b", "text": "Effectively zero" },
+      { "id": "c", "text": "Moderate with conservative management" },
+      { "id": "d", "text": "Good if treated within 6 hours" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "In neonatal torsion, which is usually an intrauterine event, the prospects of salvaging a viable testis are effectively zero.",
+    "topic": "Neonatal torsion"
+  },
+  {
+    "id": "ch19-Q36",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 36,
+    "stem": "What factor has led some paediatric urologists to question the conservative approach to neonatal torsion and favour surgical exploration?",
+    "options": [
+      { "id": "a", "text": "High risk of testicular malignancy" },
+      { "id": "b", "text": "Poor cosmetic outcomes with observation" },
+      { "id": "c", "text": "Risk of necrotising fasciitis" },
+      { "id": "d", "text": "Reports of bilateral synchronous and asynchronous neonatal torsion" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Case reports of bilateral synchronous and asynchronous neonatal torsion occurring more frequently than expected by chance have challenged the rationale for conservative management.",
+    "topic": "Neonatal torsion"
+  },
+  {
+    "id": "ch19-Q37",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 37,
+    "stem": "In studies of men with a history of testicular torsion, what percentage typically exhibit reduced semen quality?",
+    "options": [
+      { "id": "a", "text": "5\u201310%" },
+      { "id": "b", "text": "60\u201375%" },
+      { "id": "c", "text": "80\u201390%" },
+      { "id": "d", "text": "20\u201350%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The percentage of men with reduced semen quality varies between studies but is typically in the range of 20\u201350%.",
+    "topic": "Testicular torsion — prognosis"
+  },
+  {
+    "id": "ch19-Q38",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 38,
+    "stem": "Regarding paternity rates in men with a history of testicular torsion, recent studies have demonstrated that:",
+    "options": [
+      { "id": "a", "text": "Paternity rates are significantly reduced compared with controls" },
+      { "id": "b", "text": "Paternity rates are no different to those in age-matched controls" },
+      { "id": "c", "text": "Only men who underwent orchidectomy have reduced paternity" },
+      { "id": "d", "text": "Time to achieve conception is significantly longer" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Recent studies have reported that paternity rates in men with a history of torsion are no different to those in normal age-matched controls, with no difference in time to conception regardless of whether the testis was preserved or removed.",
+    "topic": "Testicular torsion — prognosis"
+  },
+  {
+    "id": "ch19-Q39",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 39,
+    "stem": "In men with a history of testicular torsion, plasma testosterone levels are typically:",
+    "options": [
+      { "id": "a", "text": "Within the normal range" },
+      { "id": "b", "text": "Reduced regardless of management" },
+      { "id": "c", "text": "Elevated due to compensatory hypertrophy" },
+      { "id": "d", "text": "Undetectable after orchidectomy" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Published studies consistently report that plasma testosterone levels are within the normal range in men with a history of torsion, regardless of whether the affected testis was conserved or removed.",
+    "topic": "Testicular torsion — prognosis"
+  },
+  {
+    "id": "ch19-Q40",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 40,
+    "stem": "Following testicular torsion, which serum marker of Sertoli cell function may be reduced?",
+    "options": [
+      { "id": "a", "text": "Testosterone" },
+      { "id": "b", "text": "Luteinizing hormone (LH)" },
+      { "id": "c", "text": "Inhibin B" },
+      { "id": "d", "text": "Follicle stimulating hormone (FSH)" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Levels of gonadotrophin hormones (FSH and LH) are unaffected, but Inhibin B, a marker of Sertoli cell function, is sometimes reduced in men with a history of torsion.",
+    "topic": "Testicular torsion — prognosis"
+  },
+  {
+    "id": "ch19-Q41",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 41,
+    "stem": "A 14-year-old boy who underwent orchidectomy for torsion at age 12 requests a testicular prosthesis. When should elective implantation be offered?",
+    "options": [
+      { "id": "a", "text": "Immediately" },
+      { "id": "b", "text": "At age 16" },
+      { "id": "c", "text": "At age 18" },
+      { "id": "d", "text": "Deferred until the mid-teens or later" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Elective implantation of a testicular prosthesis should be deferred until the mid-teens (or later) to ensure the patient is competent to make a fully informed decision and to allow implantation of an adult-sized prosthesis comparable to the contralateral testis.",
+    "topic": "Testicular prosthesis"
+  },
+  {
+    "id": "ch19-Q42",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 42,
+    "stem": "A 10-year-old boy presents with recurrent episodes of unexplained testicular discomfort. After appropriate counselling regarding the possible risk of intermittent torsion, what management option should be offered?",
+    "options": [
+      { "id": "a", "text": "Reassurance only" },
+      { "id": "b", "text": "Prophylactic fixation of the testis" },
+      { "id": "c", "text": "Empirical antibiotics" },
+      { "id": "d", "text": "Urgent surgical exploration" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Parents and the boy should be counselled appropriately and offered prophylactic fixation. If declined, they should be advised to attend the nearest emergency department without delay in the event of acute severe pain.",
+    "topic": "Recurrent testicular pain"
+  },
+  {
+    "id": "ch19-Q43",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 43,
+    "stem": "What is the recommended role of colour Doppler ultrasonography in the evaluation of the acute scrotum in children?",
+    "options": [
+      { "id": "a", "text": "Largely confined to prepubertal boys in whom torsion has been excluded on clinical grounds" },
+      { "id": "b", "text": "The definitive investigation before any surgical exploration" },
+      { "id": "c", "text": "Should replace surgical exploration in all cases" },
+      { "id": "d", "text": "Mandatory in all cases of acute scrotum before discharge" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The role of diagnostic imaging is largely confined to prepubertal boys in whom testicular torsion has been effectively excluded on clinical grounds. Surgical exploration is the definitive investigation in children and adolescents.",
+    "topic": "Imaging"
+  },
+  {
+    "id": "ch19-Q44",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 44,
+    "stem": "Which of the following is NOT a recognised drawback of colour Doppler ultrasonography in the assessment of acute scrotum?",
+    "options": [
+      { "id": "a", "text": "Operator dependency" },
+      { "id": "b", "text": "Limited out-of-hours availability" },
+      { "id": "c", "text": "Radiation exposure" },
+      { "id": "d", "text": "Potential for false negative or false positive results" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Drawbacks of Doppler ultrasonography include operator dependency, limited out-of-hours availability, false negative/positive results, and additional delay. Radiation exposure is not a concern with ultrasound.",
+    "topic": "Imaging"
+  },
+  {
+    "id": "ch19-Q45",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 45,
+    "stem": "A child with known Henoch\u2013Sch\u00f6nlein vasculitis presents with acute scrotal swelling and tenderness. What clinical finding makes testicular torsion unlikely and helps avoid unnecessary surgery?",
+    "options": [
+      { "id": "a", "text": "Blue dot sign" },
+      { "id": "b", "text": "Absent cremasteric reflex" },
+      { "id": "c", "text": "Presence of a purpuric rash" },
+      { "id": "d", "text": "High fever" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The presence of a purpuric rash in a child with Henoch\u2013Sch\u00f6nlein vasculitis and scrotal involvement should give the clue to the diagnosis and avert unnecessary surgical intervention.",
+    "topic": "Henoch\u2013Sch\u00f6nlein vasculitis"
+  },
+  {
+    "id": "ch19-Q46",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 46,
+    "stem": "A 2-year-old boy presents with a tense, non-tender scrotal swelling. Transillumination is positive. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Incarcerated inguinoscrotal hernia" },
+      { "id": "b", "text": "Testicular torsion" },
+      { "id": "c", "text": "Idiopathic scrotal oedema" },
+      { "id": "d", "text": "Acute hydrocoele" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "A tense, rapidly developing hydrocoele can occasionally cause diagnostic uncertainty, but acute hydrocoeles are rarely painful and transillumination confirms the diagnosis.",
+    "topic": "Acute hydrocoele"
+  },
+  {
+    "id": "ch19-Q47",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 47,
+    "stem": "A 13-year-old boy presents with acute scrotal pain. Under what circumstances can surgical exploration be safely avoided?",
+    "options": [
+      { "id": "a", "text": "If colour Doppler ultrasound shows normal perfusion" },
+      { "id": "b", "text": "If there is a known predisposing urological abnormality or strong clinical features of epididymo-orchitis" },
+      { "id": "c", "text": "If the pain is mild and intermittent" },
+      { "id": "d", "text": "If symptoms have been present for less than 2 hours" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Surgical exploration is advisable unless there is a known history of a predisposing urological abnormality or the clinical features are strongly indicative of epididymo-orchitis, since epididymo-orchitis cannot always be reliably distinguished from torsion on clinical grounds alone.",
+    "topic": "Epididymo-orchitis"
+  },
+  {
+    "id": "ch19-Q48",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 48,
+    "stem": "A boy presents 7 hours after the onset of testicular pain from torsion. The '6-hour rule' cited in the context of litigation most directly implies that:",
+    "options": [
+      { "id": "a", "text": "Irreversible ischaemic damage is likely after this duration" },
+      { "id": "b", "text": "Surgery is no longer indicated" },
+      { "id": "c", "text": "Manual detorsion alone is sufficient treatment" },
+      { "id": "d", "text": "An urgent ultrasound must be obtained before exploration" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The '6-hour rule' is broadly supported by scientific evidence: the best prospect of conserving a viable testis lies in restoring blood supply within 4\u20136 hours, and irreversible damage becomes increasingly likely beyond this window.",
+    "topic": "Testicular torsion — prognosis"
+  },
+  {
+    "id": "ch19-Q49",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 49,
+    "stem": "In prepubertal boys with testicular torsion, why are opportunities to conserve a viable testis significantly more limited than in adolescents?",
+    "options": [
+      { "id": "a", "text": "The torsion is usually of higher degree" },
+      { "id": "b", "text": "Prepubertal testes are more susceptible to ischaemia" },
+      { "id": "c", "text": "The presentation is often deceptively painless in the early stages" },
+      { "id": "d", "text": "Surgical exploration is more hazardous in younger children" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "In prepubertal boys, torsion may be relatively or completely painless in the early stages, and parents may be unaware of its occurrence until scrotal swelling, erythema and discolouration supervene, leading to delayed presentation.",
+    "topic": "Prepubertal torsion"
+  },
+  {
+    "id": "ch19-Q50",
+    "chapter": "Acute Scrotum",
+    "chapterSlug": "ch19_acute-scrotum",
+    "chapterNumber": 19,
+    "questionNumber": 50,
+    "stem": "What is the impact of current vaccination policy on the incidence of mumps orchitis?",
+    "options": [
+      { "id": "a", "text": "Mumps remains the commonest cause of orchitis in children" },
+      { "id": "b", "text": "Mumps orchitis occurs in approximately 50% of mumps cases" },
+      { "id": "c", "text": "The incidence of mumps orchitis is unchanged" },
+      { "id": "d", "text": "Mumps orchitis is now a very rare cause of orchitis" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "As a result of vaccination policy, mumps orchitis is now a very rare cause of orchitis in the paediatric age group.",
+    "topic": "Epididymo-orchitis"
+  }
+]

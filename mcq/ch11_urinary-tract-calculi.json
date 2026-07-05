@@ -1,0 +1,1452 @@
+[
+    {
+        "id":  "ch11-Q01",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  1,
+        "stem":  "A 7-year-old boy presents with a calcium oxalate stone. Serum calcium, phosphate and PTH are normal. Twenty-four-hour urine shows elevated calcium. What is the most likely diagnosis?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Idiopathic hypercalciuria"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Primary hyperparathyroidism"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Distal renal tubular acidosis"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Hypomagnesaemia"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Idiopathic hypercalciuria is the commonest metabolic abnormality in children with stones (up to 50% of identifiable metabolic causes), characterised by elevated urinary calcium without hypercalcaemia or another identifiable cause. It is thought to represent an autosomal dominant trait with variable penetrance.",
+        "topic":  "Hypercalciuria"
+    },
+    {
+        "id":  "ch11-Q02",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  2,
+        "stem":  "A 3-year-old boy presents with a large staghorn calculus and recurrent UTIs. Urine culture is most likely to grow which organism?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Escherichia coli"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Proteus mirabilis"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Enterococcus faecalis"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Candida albicans"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Gram-negative urease-positive organisms such as Proteus, Klebsiella and Pseudomonas enzymatically split urea to produce ammonia, alkalinising the urine and precipitating ammonium magnesium phosphate (struvite) stones. Proteus is the most commonly implicated organism in infection-related staghorn calculi.",
+        "topic":  "Struvite stones"
+    },
+    {
+        "id":  "ch11-Q03",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  3,
+        "stem":  "Cystinuria results from a defect in renal tubular transport affecting cystine and which other amino acids?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Methionine, glycine and alanine"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Leucine, isoleucine and valine"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Lysine, arginine and ornithine"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Serine, threonine and proline"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Cystinuria is an autosomal recessive disorder affecting the proximal tubule, resulting in abnormally high urinary excretion of four amino acids: cystine, lysine, arginine and ornithine. The low solubility of cystine in urine leads to crystal deposition and recurrent stone formation.",
+        "topic":  "Cystine stones"
+    },
+    {
+        "id":  "ch11-Q04",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  4,
+        "stem":  "A 5-year-old with acute lymphoblastic leukaemia develops anuric renal failure 48 hours after starting induction chemotherapy. Ultrasound shows echogenic material \u0027silting up\u0027 the renal collecting systems with no discrete calculus. What is the most likely cause?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Bilateral ureteric obstruction by tumour"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Acute tubular necrosis from chemotherapy"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Methotrexate crystalluria"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Acute uric acid crystal deposition"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Acute deposition of uric acid crystals within the urinary tract can occur as a result of massive cell breakdown following cytotoxic treatment for leukaemia or lymphoma. Uric acid crystalline debris \u0027silts up\u0027 the collecting systems, leading to anuric renal failure. Uric acid is radiolucent and cannot be seen on plain X-ray.",
+        "topic":  "Uric acid stones"
+    },
+    {
+        "id":  "ch11-Q05",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  5,
+        "stem":  "According to published guidelines, ESWL is the treatment of choice for renal calculi of what maximum size?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "\u003c20 mm"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "\u003c10 mm"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "\u003c15 mm"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "\u003c25 mm"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "ESWL is the treatment of choice for renal calculi \u003c20 mm in size. For stones \u003e20 mm, PCNL is preferred. ESWL is also valuable for stones in the upper ureter and for \u0027mopping up\u0027 residual fragments following PCNL.",
+        "topic":  "ESWL"
+    },
+    {
+        "id":  "ch11-Q06",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  6,
+        "stem":  "PCNL is the treatment of choice for renal calculi of what size?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "\u003c15 mm"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "\u003e20 mm"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "10–20 mm"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "\u003c10 mm"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "PCNL (percutaneous nephrolithotomy) is the treatment of choice for renal calculi \u003e20 mm in size. It is also used for staghorn calculi, stones unsuitable for ESWL, and stones persisting after previous intervention. Stone-free rates of up to 98% have been reported.",
+        "topic":  "PCNL"
+    },
+    {
+        "id":  "ch11-Q07",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  7,
+        "stem":  "A 12-year-old girl presents with right iliac fossa pain and haematuria. CT KUB reveals a 7 mm stone in the distal right ureter with proximal hydronephrosis. What is the treatment of choice for this ureteric calculus?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "ESWL with JJ stent"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "PCNL"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Ureteroscopy and holmium laser lithotripsy"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Open ureterolithotomy"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Ureteroscopy (URS) with holmium laser lithotripsy is the treatment of choice for ureteric calculi in children. Semirigid ureteroscopes (4.5/6.5 to 6.8/8.5 F) or flexible ureteroscopes are used, with a reported stone-free rate of 90%.",
+        "topic":  "Ureteroscopy"
+    },
+    {
+        "id":  "ch11-Q08",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  8,
+        "stem":  "After complete stone clearance, metabolic screening should ideally be performed after a minimum interval of:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Immediately after stone clearance"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "2 weeks"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "4 weeks"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "6 weeks"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Metabolic screening should be undertaken after eradication of infection and ideally at least 6 weeks after stone clearance. This ensures that transient perturbations from the acute stone episode or surgical intervention have resolved, providing a reliable baseline.",
+        "topic":  "Metabolic evaluation"
+    },
+    {
+        "id":  "ch11-Q09",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  9,
+        "stem":  "A staghorn calculus that has adopted the configuration of the renal pelvis and calyces is most commonly composed of:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Magnesium ammonium phosphate (struvite)"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Calcium oxalate monohydrate"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Cystine"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Uric acid"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Staghorn calculi are typically infective (struvite) stones, initially comprising magnesium ammonium phosphate and glycoprotein matrix. Their consistency is variable, with hard calcified areas embedded within softer matrix. The descriptive term \u0027staghorn\u0027 refers to the configuration resembling the antlers of a stag.",
+        "topic":  "Staghorn calculi"
+    },
+    {
+        "id":  "ch11-Q10",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  10,
+        "stem":  "The \u0027twinkle artefact\u0027 seen on colour Doppler ultrasound of urinary calculi is caused by:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Posterior acoustic shadowing"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Multi-reflecting rough surface of the stone"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Edge shadowing from the stone margin"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Reverberation between the stone and transducer"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "The \u0027twinkle artefact\u0027 is seen with colour Doppler ultrasound due to the multi-reflecting rough surface of the stone. This, together with posterior acoustic shadowing, helps distinguish stones from other echogenic renal lesions.",
+        "topic":  "Diagnostic imaging"
+    },
+    {
+        "id":  "ch11-Q11",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  11,
+        "stem":  "The sensitivity of ultra-low dose CT Stone Protocol for urolithiasis in children is reported at:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "\u003c80%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "85–90%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "\u003e96%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "99%"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "CT is considered the gold standard imaging modality for urolithiasis. With ultra-low dose Stone Protocol sequences, radiation exposure has been reduced to \u003c3 mSv whilst maintaining sensitivity for urolithiasis at over 96%. In children, CT is generally reserved for indeterminate cases on ultrasound or when precise stone details are needed for surgical planning.",
+        "topic":  "Diagnostic imaging"
+    },
+    {
+        "id":  "ch11-Q12",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  12,
+        "stem":  "The sensitivity of a plain abdominal X-ray for detecting radio-opaque urinary stones in children is approximately:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "20%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "30%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "40%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "50%"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Abdominal X-ray has a sensitivity of only 50% for detecting radio-opaque urinary stones and is not routinely used for urolithiasis screening in children. Ultrasound is the primary diagnostic modality due to its superior imaging quality and lack of radiation exposure.",
+        "topic":  "Diagnostic imaging"
+    },
+    {
+        "id":  "ch11-Q13",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  13,
+        "stem":  "Medical expulsive therapy can be considered for an uncomplicated ureteral stone in a clinically stable child when the stone is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "\u003c10 mm"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "\u003c5 mm"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "\u003c15 mm"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "\u003c20 mm"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Medical expulsive therapy (MET) can be considered for an uncomplicated ureteral stone \u003c10 mm if the child\u0027s clinical condition is stable. Alpha-adrenergic antagonists such as tamsulosin and doxazosin relax ureteric smooth muscle and have been shown to increase stone expulsion rates in children without significant adverse effects.",
+        "topic":  "Medical expulsive therapy"
+    },
+    {
+        "id":  "ch11-Q14",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  14,
+        "stem":  "Tamsulosin promotes spontaneous passage of ureteral stones by acting as an:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Beta-adrenergic agonist"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Alpha-adrenergic antagonist"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Calcium channel blocker"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Anticholinergic agent"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Tamsulosin is an alpha-adrenergic antagonist that relaxes ureteric smooth muscle, reducing ureteral spasm and facilitating spontaneous stone passage. It is the most commonly used agent for medical expulsive therapy in children.",
+        "topic":  "Medical expulsive therapy"
+    },
+    {
+        "id":  "ch11-Q16",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  15,
+        "stem":  "A 10-year-old with a history of bladder exstrophy and enterocystoplasty presents with recurrent bladder stones. The reported risk of bladder stones following enterocystoplasty is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "\u003c5%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "5–10%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "10–20%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "20–40%"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "The use of intestinal segments for bladder reconstruction (enterocystoplasty) is accompanied by a 20–40% risk of bladder stones. Contributing factors include urinary stasis, intestinal mucus acting as a nidus for crystal deposition, and chronic low-grade bacteriuria. Regular bladder washouts help reduce this risk.",
+        "topic":  "Enterocystoplasty"
+    },
+    {
+        "id":  "ch11-Q17",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  16,
+        "stem":  "Primary hyperoxaluria type 1 is characterized by:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "100% progression to end-stage renal failure"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Autosomal dominant inheritance"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Milder clinical course than types 2 and 3"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Complete response to dietary oxalate restriction alone"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Primary hyperoxaluria type 1 is an autosomal recessive disorder associated with nephrocalcinosis, recurrent stone formation and 100% progression to end-stage renal failure. Types 2 and 3 have a less severe clinical course. Treatment may include combined renal and liver transplantation for severe forms.",
+        "topic":  "Hyperoxaluria"
+    },
+    {
+        "id":  "ch11-Q18",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  17,
+        "stem":  "Regarding the epidemiology of infective stones in the UK, which statement is correct?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "They are most common in adolescent girls"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "They are more common in boys and present at a younger age"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "They account for over 50% of paediatric stones"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Their incidence is increasing"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "In the UK, the proportion of stones secondary to infection is declining and is currently around 20%. Infective stones are more common in boys and they present at a younger age. Stones may develop from 1–2 months of age, with higher incidence under 5 years reflecting the relative importance of infective stones in this age group.",
+        "topic":  "Epidemiology"
+    },
+    {
+        "id":  "ch11-Q19",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  18,
+        "stem":  "The proportion of neonates born before 32 weeks\u0027 gestation who have ultrasound evidence of nephrocalcinosis is approximately:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "10%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "25%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "40%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "60%"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Up to 40% of neonates \u003c32 weeks gestational age have evidence of nephrocalcinosis, although this rarely progresses to the formation of discrete stones (nephrolithiasis). The risk is exacerbated by extreme prematurity, co-morbidity and the use of furosemide or thiazides.",
+        "topic":  "Prematurity"
+    },
+    {
+        "id":  "ch11-Q20",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  19,
+        "stem":  "A child with recurrent hypercalciuric calcium stones despite dietary modification is best managed with which medication?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Potassium citrate"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Pyridoxine"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Tiopronin"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Thiazide diuretic"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Thiazide diuretics are the medication of choice for hypercalciuria despite dietary modification. They reduce urinary calcium excretion by enhancing distal tubular calcium reabsorption. Potassium citrate is used for hypercalciuria, hyperoxaluria and cystinuria with acidic pH. Pyridoxine is used for primary hyperoxaluria, and tiopronin for cystinuria.",
+        "topic":  "Medical management"
+    },
+    {
+        "id":  "ch11-Q21",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  20,
+        "stem":  "Which of the following is a modifiable risk factor implicated in the recent increase of urolithiasis in the adolescent female population?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "High salt intake and obesity"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Family history of stone disease"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Female gender itself"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Premature birth"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Although a specific cause for the increase in adolescent female urolithiasis has not been identified, consumption of animal protein, high salt intake and obesity have been implicated as possible factors since these are known to be associated with stone formation.",
+        "topic":  "Epidemiology"
+    },
+    {
+        "id":  "ch11-Q22",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  21,
+        "stem":  "Anatomical or functional abnormalities of the urinary tract can be identified in up to what proportion of children presenting with urolithiasis?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "15%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "30%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "50%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "70%"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Anatomical or functional abnormalities of the urinary tract can be identified in up to 30% of children presenting with urolithiasis. However, since most children with such abnormalities do not develop stones, additional factors—notably a concomitant metabolic abnormality—are likely implicated.",
+        "topic":  "Aetiology"
+    },
+    {
+        "id":  "ch11-Q23",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  22,
+        "stem":  "When stone formation complicates PUJ obstruction, the stones are characteristically:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Large staghorn calculi"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Large solitary pelvic stones"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Small and multiple"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Radiolucent uric acid stones"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Stone formation is a rare complication of PUJ obstruction. When it does occur, the stones are characteristically small and multiple. A reliable diagnosis of PUJ obstruction cannot be made when a stone is present in the renal pelvis; underlying obstruction can only be confirmed after complete stone removal.",
+        "topic":  "Aetiology"
+    },
+    {
+        "id":  "ch11-Q24",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  23,
+        "stem":  "Vesicoureteral reflux identified in a child presenting with a ureteric calculus is most often:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "A primary indication for ureteric reimplantation"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "High-grade reflux requiring endoscopic correction"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Associated with posterior urethral valves"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "A secondary phenomenon following stone passage"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Although VUR is present in 14% of stone cases, it may be a secondary phenomenon following the passage of ureteric calculi rather than a primary cause. It often resolves once infection has been treated and stone clearance achieved. Micturating cystography is not performed routinely.",
+        "topic":  "Aetiology"
+    },
+    {
+        "id":  "ch11-Q25",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  24,
+        "stem":  "Children with neuropathic bladder dysfunction have an increased risk of stone formation due to all of the following EXCEPT:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Hypercalciuria"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Incomplete bladder emptying"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Urinary tract infections"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Urinary stasis"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Neuropathic bladder dysfunction increases stone risk due to incomplete bladder emptying, UTIs and urinary stasis. Hypercalciuria is not typically a direct consequence of neuropathic bladder dysfunction but rather a separate metabolic abnormality that may coexist.",
+        "topic":  "Aetiology"
+    },
+    {
+        "id":  "ch11-Q26",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  25,
+        "stem":  "Which of the following best describes the macroscopic appearance of infective calculi?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Hard, densely calcified and smooth"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Whitish, chalky and crumble easily"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Translucent, gelatinous and soft"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Dark brown, laminated and rock-hard"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Infective stones are typically whitish and chalky and crumble easily. They comprise a combination of magnesium, ammonium phosphate and glycoprotein matrix in varying proportions, with calcified areas of variable hardness embedded within softer matrix.",
+        "topic":  "Stone composition"
+    },
+    {
+        "id":  "ch11-Q27",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  26,
+        "stem":  "Xanthine stones in the urinary tract result from deficiency of which enzyme?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Uricase"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Alanine-glyoxylate aminotransferase"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Xanthine oxidase"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Cystine dibasic transporter"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Xanthine oxidase deficiency is a rare autosomal recessive disorder that results in the deposition of insoluble, non-opaque xanthine stones within the urinary tract. This differs from uric acid stones, which are also radiolucent but arise from different metabolic pathways.",
+        "topic":  "Xanthine stones"
+    },
+    {
+        "id":  "ch11-Q29",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  27,
+        "stem":  "The reported rate of bleeding requiring transfusion after PCNL in children is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "\u003c10%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "10–15%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "15–20%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "\u003e20%"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Bleeding requiring transfusion occurs in \u003c10% of paediatric PCNL cases. Infective or febrile complications occur in up to 15%, highlighting the importance of appropriate peri-operative antibiotic cover. Other uncommon complications include hydrothorax and injury to adjacent organs.",
+        "topic":  "PCNL"
+    },
+    {
+        "id":  "ch11-Q30",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  28,
+        "stem":  "Infective or febrile complications following PCNL in children occur in up to what percentage of cases?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "5%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "15%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "25%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "30%"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Infective/febrile complications occur in up to 15% of PCNL cases, emphasising the importance of appropriate peri-operative antibiotic cover. Other recognised complications include bleeding requiring transfusion (\u003c10%), persistent urinary leakage, hydrothorax and pelvicalyceal scarring.",
+        "topic":  "PCNL"
+    },
+    {
+        "id":  "ch11-Q31",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  29,
+        "stem":  "The reported stone-free rate for ureteroscopy (URS) in children is approximately:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "70%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "80%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "90%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "98%"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "A stone-free rate of 90% has been reported for ureteroscopy in children. Complications occur in approximately 10% of cases and include UTI, haematuria, and intra-operative complications such as ureteral perforation or tear. Ureteral strictures are uncommon.",
+        "topic":  "Ureteroscopy"
+    },
+    {
+        "id":  "ch11-Q33",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  30,
+        "stem":  "Which of the following is an advantage of percutaneous cystolithotomy (PCCL) over transurethral cystolithotripsy for bladder stones in children?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "It avoids urethral trauma and permits a larger access sheath"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "It can be performed without general anaesthesia"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "It has a lower risk of stone recurrence"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "It does not require stone fragmentation"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "PCCL avoids urethral trauma and permits the use of a larger access sheath to deal with larger bladder stones and reduce operative time. The stone is fragmented using a lithoclast or laser. Open cystolithotomy remains indicated for very large stones or numerous significant-sized stones.",
+        "topic":  "PCCL"
+    },
+    {
+        "id":  "ch11-Q34",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  31,
+        "stem":  "Urethral calculi in children most commonly result from:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Primary stone formation within a urethral diverticulum"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Impaction of a calculus during passage through the urethra"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Bladder outlet obstruction alone"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Hypercalciuria exclusively"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Urethral calculi in children are rare. They may result from impaction of a calculus (or post-ESWL fragments) during passage through the urethra, or formation of a stone within an anatomical abnormality such as a rectourethral fistula remnant. Treatment can be by endoscopic removal or crushing with biopsy forceps.",
+        "topic":  "Urethral calculi"
+    },
+    {
+        "id":  "ch11-Q35",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  32,
+        "stem":  "Laparoscopic nephrectomy for stone-damaged kidneys or xanthogranulomatous pyelonephritis should only be undertaken by experienced surgeons because of:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "The higher risk of steinstrasse"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Difficulty achieving complete metabolic evaluation"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Extensive perirenal inflammatory adhesions and risk of organ damage"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "The need for concomitant ESWL"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Laparoscopic nephrectomy in such cases should only be undertaken by an experienced surgeon because of extensive perirenal inflammatory adhesions and risk of damage to adjacent organs. Open nephrectomy is often preferred for xanthogranulomatous pyelonephritis due to the dense inflammatory mass.",
+        "topic":  "Surgical management"
+    },
+    {
+        "id":  "ch11-Q36",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  33,
+        "stem":  "Open pyelolithotomy retains a role in the management of urolithiasis in children with:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "All staghorn calculi"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Stones \u003c10 mm"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Distal ureteric stones"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Severe skeletal abnormalities precluding endoscopic intervention"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Although largely superseded by ESWL and endoscopic techniques, open surgery still has a limited role—for example in urolithiasis in congenitally obstructed systems or children with severe skeletal abnormalities that preclude endoscopic intervention.",
+        "topic":  "Open surgery"
+    },
+    {
+        "id":  "ch11-Q37",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  34,
+        "stem":  "Within 10 years of an initial stone episode, the incidence of further stone formation in children is approximately:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "20%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "30%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "40%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "50%"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Stone disease in children is associated with a significant risk of recurrence, with a 20% incidence of further stone formation within 10 years. This risk can be reduced by appropriate follow-up and management in a joint urology-nephrology clinic.",
+        "topic":  "Follow-up"
+    },
+    {
+        "id":  "ch11-Q38",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  35,
+        "stem":  "In children with an underlying metabolic disorder, the stone recurrence rate within 5 years of the initial episode is approximately:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "20%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "40%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "60%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "80%"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Following the initial stone episode, the recurrence rate in children with underlying metabolic disorders is around 40% within 5 years—double the overall 10-year recurrence rate of 20%. This highlights the importance of metabolic evaluation and targeted preventive therapy.",
+        "topic":  "Follow-up"
+    },
+    {
+        "id":  "ch11-Q40",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  36,
+        "stem":  "In abnormal kidneys (e.g. those with anatomical or functional abnormalities), residual stone fragments \u003c4 mm have a likelihood of regrowing of up to:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "40%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "50%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "65%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "80%"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Residual stone fragments \u003c4 mm have a 50% likelihood of regrowing in structurally normal kidneys and up to 80% in abnormal kidneys. This underscores the critical importance of achieving complete stone clearance at the time of initial intervention.",
+        "topic":  "Residual fragments"
+    },
+    {
+        "id":  "ch11-Q41",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  37,
+        "stem":  "Potassium citrate is used in the medical prevention of all of the following EXCEPT:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Primary hyperoxaluria"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Hypercalciuria"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Hyperoxaluria"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Cystinuria with acidic urinary pH"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Potassium citrate is used for hypercalciuria, hyperoxaluria and cystinuria with acidic urinary pH. It works by binding calcium, inhibiting crystallisation and alkalinising urine. Primary hyperoxaluria is specifically managed with pyridoxine (vitamin B6) and, in severe cases, combined liver-kidney transplantation.",
+        "topic":  "Medical management"
+    },
+    {
+        "id":  "ch11-Q42",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  38,
+        "stem":  "D-Penicillamine is a medication used specifically for the prevention of:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Hypercalciuria"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Cystinuria"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Hyperoxaluria"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Uric acid stones"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "D-Penicillamine (along with tiopronin) is used in the management of cystinuria. These thiol-binding drugs form soluble complexes with cystine, reducing its concentration in urine and preventing crystal formation.",
+        "topic":  "Medical management"
+    },
+    {
+        "id":  "ch11-Q43",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  39,
+        "stem":  "Pyridoxine (vitamin B6) is used in the management of which metabolic stone disorder?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Idiopathic hypercalciuria"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Cystinuria"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Primary hyperoxaluria"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Xanthinuria"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Pyridoxine is used specifically for primary hyperoxaluria. It acts as a co-factor for alanine-glyoxylate aminotransferase, the enzyme deficient in primary hyperoxaluria type 1, and can reduce oxalate production in some patients.",
+        "topic":  "Medical management"
+    },
+    {
+        "id":  "ch11-Q47",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  40,
+        "stem":  "In a child with acute upper tract obstruction caused by stone impaction, the hydronephrosis on ultrasound may be:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Uniformly severe in all cases"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Accompanied by perinephric urinoma"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Misleadingly mild with AP diameter \u003c15 mm"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Always associated with absent ureteric jet"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Acute upper tract obstruction caused by stone impaction may only be associated with a misleadingly mild degree of hydronephrosis, with an anterior-posterior (AP) diameter of \u003c15 mm. This highlights the importance of maintaining a high index of suspicion even when sonographic findings appear minimal.",
+        "topic":  "Diagnostic imaging"
+    },
+    {
+        "id":  "ch11-Q48",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  41,
+        "stem":  "The preferred treatment for xanthogranulomatous pyelonephritis (XPN) is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Prolonged antibiotic therapy alone"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "ESWL of the associated stones"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Percutaneous drainage"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Open nephrectomy"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Open nephrectomy is usually preferred for XPN because of the dense perirenal inflammatory adhesions and risk of damage to adjacent organs. Presentation is with chronic sepsis, weight loss, anaemia, elevated inflammatory markers and a palpable mass. DMSA reveals absent or minimal function in the affected kidney.",
+        "topic":  "Xanthogranulomatous pyelonephritis"
+    },
+    {
+        "id":  "ch11-Q49",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  42,
+        "stem":  "ESWL is less effective for the treatment of very dense stones with a density greater than:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "1000 HU"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "750 HU"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "500 HU"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "1200 HU"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "ESWL is less effective for stones with density \u003e1000 Hounsfield units (HU), such as those composed of cystine or calcium-phosphate, although this is not an absolute contraindication. Dual-energy CT can calculate stone density to aid surgical planning.",
+        "topic":  "ESWL"
+    },
+    {
+        "id":  "ch11-Q51",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  43,
+        "stem":  "A 2-year-old is found to have microscopic calcium salt deposits within the renal tubules and interstitium on renal biopsy. Which term best describes this finding?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Urolithiasis"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Nephrocalcinosis"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Nephrolithiasis"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Medullary sponge kidney"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Nephrocalcinosis refers to microscopic calcification secondary to calcium salt deposits within the kidney interstitium, the tubules or the tubular epithelium. Urolithiasis/nephrolithiasis refers to macroscopic calculi within the urinary tract.",
+        "topic":  "Definitions"
+    },
+    {
+        "id":  "ch11-Q52",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  44,
+        "stem":  "Urinary citrate inhibits calcium stone formation primarily by:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Acidifying the urine"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Binding to urinary calcium and forming a soluble complex"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Increasing glomerular filtration rate"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Inhibiting bacterial urease production"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Citrate binds to urinary calcium forming a soluble complex and thereby inhibits formation of calcium stones. Conversely, reduced urinary citrate levels favour stone formation. This is an example of a reduced inhibitor of crystallisation contributing to stone disease.",
+        "topic":  "Stone formation factors"
+    },
+    {
+        "id":  "ch11-Q53",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  45,
+        "stem":  "Each of the following can act as a foreign-body nidus for stone formation EXCEPT:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Retained ureteric stent"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Non-absorbable suture material"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Fragment of catheter"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Absorbable polyglactin suture"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Non-absorbable foreign bodies, usually surgical in origin (stents, fragments of catheters or non-absorbable sutures), act as a nidus of encrustation and stone formation. Absorbable sutures dissolve and do not typically serve as a long-term nidus.",
+        "topic":  "Stone formation factors"
+    },
+    {
+        "id":  "ch11-Q55",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  46,
+        "stem":  "Secondary hyperoxaluria occurs in all of the following conditions EXCEPT:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Crohn\u0027s disease"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Short gut syndrome"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Cystic fibrosis"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Autosomal recessive hepatic enzyme deficiency (primary hyperoxaluria)"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Secondary hyperoxaluria occurs in malabsorption states such as Crohn\u0027s disease or short gut syndrome. Cystic fibrosis is also associated with a higher incidence of renal stones related to hyperoxaluria. Primary hyperoxaluria types 1–3 are autosomal recessive hepatic enzyme deficiencies and are distinct entities.",
+        "topic":  "Hyperoxaluria"
+    },
+    {
+        "id":  "ch11-Q56",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  47,
+        "stem":  "A 4-year-old presents with an acutely obstructing ureteric calculus, fever and vomiting. After initial resuscitation, the priority is to:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Start medical expulsive therapy with tamsulosin"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Decompress the obstructed system by nephrostomy or JJ stent insertion"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Commence ESWL without delay"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Perform open ureterolithotomy"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "After initial resuscitation, the priority is decompression of the obstructed urinary system. This may be achieved by percutaneous nephrostomy or by retrograde insertion of a JJ stent if feasible and the child\u0027s condition is stable. Definitive stone surgery should be deferred until recovery from the acute episode.",
+        "topic":  "Acute management"
+    },
+    {
+        "id":  "ch11-Q57",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  48,
+        "stem":  "A \u0027spot\u0027 (untimed) urine sample for metabolic screening in a child with urolithiasis should be analysed for:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Calcium, phosphate and magnesium concentrations only"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Ratio of calcium, oxalate, cystine, citrate and urate to creatinine, plus urine microscopy and culture"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "24-hour urinary volume and creatinine clearance"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Urinary pH and osmolality only"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "According to the metabolic screening protocol (Table 11.1), a \u0027spot\u0027 urine sample (2–5 ml) should be analysed for the ratio of calcium, oxalate, cystine, citrate and urate to creatinine, together with urine microscopy and culture. Twenty-four-hour collections are used for calcium, cystine, creatinine clearance and total volume.",
+        "topic":  "Metabolic screening"
+    },
+    {
+        "id":  "ch11-Q59",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  49,
+        "stem":  "The reported success rates for ESWL in the treatment of paediatric renal stones range from:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "20–40%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "49–95%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "70–85%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "90–99%"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "The reported success rates for ESWL in children range from 49% to 95%. ESWL is valuable for renal stones \u003c2 cm and stones in the upper ureter, but less effective for very dense stones (\u003e1000 HU) such as those composed of cystine or calcium-phosphate.",
+        "topic":  "ESWL"
+    },
+    {
+        "id":  "ch11-Q62",
+        "chapter":  "Urinary Tract Calculi",
+        "chapterSlug":  "ch11_urinary-tract-calculi",
+        "chapterNumber":  11,
+        "questionNumber":  50,
+        "stem":  "Open cystolithotomy remains the preferred option for bladder stones when:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "The patient is under 1 year of age"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Stones are radiolucent and \u003c10 mm in diameter"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Stones are very large or there are numerous stones of significant size"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "The patient has an associated ureteric stone"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Open cystolithotomy remains the preferred option for very large bladder stones or if there are a large number of stones of significant size. For the majority of bladder stones, minimally invasive endoscopic treatment (per urethra, via Mitrofanoff channel or percutaneous cystolithotomy) is now feasible.",
+        "topic":  "Open surgery"
+    }
+]

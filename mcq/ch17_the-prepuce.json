@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch17-Q01",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 1,
+    "stem": "At what gestational week does the prepuce first appear as an epithelial ridge?",
+    "options": [
+      { "id": "a", "text": "8 weeks" },
+      { "id": "b", "text": "6 weeks" },
+      { "id": "c", "text": "12 weeks" },
+      { "id": "d", "text": "16 weeks" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The prepuce first appears as an epithelial ridge at 8 weeks' gestation and then advances over the developing glans. By 16 weeks it is fully formed, but there is no plane of separation at the epithelial interface at that stage.",
+    "topic": "Development of the prepuce"
+  },
+  {
+    "id": "ch17-Q02",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 2,
+    "stem": "A 2-year-old boy is brought to clinic because his foreskin cannot be retracted. His parents are concerned this is abnormal. Which of the following best describes the natural history of the foreskin at this age?",
+    "options": [
+      { "id": "a", "text": "Forceful retraction should be performed daily to prevent adhesions" },
+      { "id": "b", "text": "The prepuce should be fully retractable by 12 months of age" },
+      { "id": "c", "text": "The prepuce is almost invariably non-retractable at birth and remains so for a variable period thereafter" },
+      { "id": "d", "text": "Non-retractility at 2 years is diagnostic of pathological phimosis" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The prepuce is almost invariably non-retractable at birth and remains so for a variable period thereafter. Attempted retraction during this period creates the appearance of a blanched, tight ring. This is physiological, not pathological.",
+    "topic": "Physiological phimosis"
+  },
+  {
+    "id": "ch17-Q03",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 3,
+    "stem": "Which of the following statements best describes the landmark studies on the natural history of the non-retractile foreskin?",
+    "options": [
+      { "id": "a", "text": "Gairdner (1949) showed that most boys require circumcision by age 5" },
+      { "id": "b", "text": "Øster (1968) found that preputial adhesions persist indefinitely in 50% of men" },
+      { "id": "c", "text": "Both studies recommended routine neonatal circumcision to prevent complications" },
+      { "id": "d", "text": "Gairdner (1949) and Øster (1968) demonstrated that without intervention the prepuce spontaneously becomes retractable in the overwhelming majority of boys by late childhood" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Gairdner (1949) and Øster (1968) convincingly demonstrated that without intervention the prepuce spontaneously progresses to become fully and easily retractable by late childhood in the overwhelming majority of boys.",
+    "topic": "Natural history of the foreskin"
+  },
+  {
+    "id": "ch17-Q04",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 4,
+    "stem": "A 3-year-old boy is noted to have ballooning of the foreskin during micturition. The parents are worried about urinary obstruction. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Arrange urgent uroflowmetry and post-void bladder ultrasound" },
+      { "id": "b", "text": "Prescribe a course of topical betamethasone cream" },
+      { "id": "c", "text": "Refer for preputioplasty" },
+      { "id": "d", "text": "Reassure the parents that this is a transient self-limiting phenomenon that resolves spontaneously" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Ballooning typically occurs between 2 and 4 years of age when the foreskin is not yet fully retractile but substantial separation from the glans has taken place. It is transient, self-limiting, and does not require any intervention. Studies have confirmed that urine flow rates, post-void residual volumes, and bladder-wall thickness are unaffected.",
+    "topic": "Ballooning of the foreskin"
+  },
+  {
+    "id": "ch17-Q05",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 5,
+    "stem": "A 10-year-old boy presents with a white, scarred, non-retractile foreskin and a poor urinary stream. On examination the preputial orifice is stenotic with a pale, sclerotic appearance. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Physiological phimosis" },
+      { "id": "b", "text": "Acute balanoposthitis" },
+      { "id": "c", "text": "Congenital megaprepuce" },
+      { "id": "d", "text": "Balanitis xerotica obliterans (lichen sclerosus)" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The combination of a scarred, pale, stenotic preputial orifice with a deteriorating urinary stream in a school-age child is classic for BXO (lichen sclerosus et atrophicus). BXO typically presents after age 5 with a peak incidence between 9 and 11 years and is the cause of true pathological phimosis.",
+    "topic": "Balanitis xerotica obliterans"
+  },
+  {
+    "id": "ch17-Q06",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 6,
+    "stem": "What percentage of boys are estimated to develop balanitis xerotica obliterans before the age of 16?",
+    "options": [
+      { "id": "a", "text": "0.5%" },
+      { "id": "b", "text": "2.0%" },
+      { "id": "c", "text": "5.0%" },
+      { "id": "d", "text": "0.1%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "It is estimated that approximately 0.5% of boys will develop BXO before the age of 16. It is rare under the age of 5, with a peak incidence between 9 and 11 years.",
+    "topic": "Balanitis xerotica obliterans"
+  },
+  {
+    "id": "ch17-Q07",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 7,
+    "stem": "Which of the following histological features is characteristic of balanitis xerotica obliterans?",
+    "options": [
+      { "id": "a", "text": "Granuloma formation with caseating necrosis" },
+      { "id": "b", "text": "Acantholysis and intraepithelial bullae" },
+      { "id": "c", "text": "Neutrophilic microabscesses in the stratum corneum" },
+      { "id": "d", "text": "Hyperkeratosis, lymphoedema, hyalinosis and chronic inflammatory infiltrate" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The histological features of BXO are the same as lichen sclerosus et atrophicus of the vulva and include hyperkeratosis, lymphoedema, hyalinosis and chronic inflammatory infiltrate.",
+    "topic": "Balanitis xerotica obliterans"
+  },
+  {
+    "id": "ch17-Q08",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 8,
+    "stem": "What is the preferred treatment for balanitis xerotica obliterans in childhood?",
+    "options": [
+      { "id": "a", "text": "Preputioplasty alone" },
+      { "id": "b", "text": "Topical antifungal cream" },
+      { "id": "c", "text": "Oral antibiotics" },
+      { "id": "d", "text": "Circumcision" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The preferred treatment for BXO is circumcision. Pathological phimosis due to BXO constitutes the only absolute indication for circumcision in childhood. Preputioplasty alone is not worthwhile because the ongoing inflammatory process leads to recurrent stenosis of the preputial opening.",
+    "topic": "Balanitis xerotica obliterans"
+  },
+  {
+    "id": "ch17-Q09",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 9,
+    "stem": "In approximately what percentage of boys undergoing circumcision for BXO is concomitant meatal stenosis severe enough to require meatotomy or meatoplasty?",
+    "options": [
+      { "id": "a", "text": "5%" },
+      { "id": "b", "text": "1%" },
+      { "id": "c", "text": "15%" },
+      { "id": "d", "text": "25%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "In approximately 5% of cases of BXO, meatal stenosis necessitates meatotomy or meatoplasty at the time of circumcision. The risk of recurrent meatal stenosis can be significantly reduced by postoperative application of topical steroid creams.",
+    "topic": "Meatal stenosis in BXO"
+  },
+  {
+    "id": "ch17-Q10",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 10,
+    "stem": "Which of the following statements about the aetiology of balanitis xerotica obliterans is correct?",
+    "options": [
+      { "id": "a", "text": "There is a strong familial predisposition" },
+      { "id": "b", "text": "Recurrent episodes of balanoposthitis predispose to BXO" },
+      { "id": "c", "text": "BXO is caused by human papillomavirus" },
+      { "id": "d", "text": "The aetiology is unknown with no familial predisposition or identifiable infective basis" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The aetiology of BXO is unknown with no familial predisposition or identifiable infective basis. Recurrent episodes of balanoposthitis do not predispose to BXO.",
+    "topic": "Aetiology of BXO"
+  },
+  {
+    "id": "ch17-Q11",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 11,
+    "stem": "A 6-year-old uncircumcised boy presents with acute onset of a purulent discharge from the prepuce, with overlying oedema and erythema extending onto the penile shaft. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Balanitis xerotica obliterans" },
+      { "id": "b", "text": "Physiological phimosis" },
+      { "id": "c", "text": "Acute balanoposthitis" },
+      { "id": "d", "text": "Paraphimosis" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Acute balanoposthitis in its most severe form consists of purulent, pyogenic infection of the entire preputial space with purulent discharge, overlying oedema and cellulitis of the prepuce, which may occasionally extend to involve the entire penile shaft.",
+    "topic": "Acute balanoposthitis"
+  },
+  {
+    "id": "ch17-Q12",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 12,
+    "stem": "Which of the following is the most common causative organism in acute balanoposthitis?",
+    "options": [
+      { "id": "a", "text": "Staphylococcus aureus" },
+      { "id": "b", "text": "Streptococcus pyogenes" },
+      { "id": "c", "text": "Pseudomonas aeruginosa" },
+      { "id": "d", "text": "Neisseria gonorrhoeae" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The most common causative organisms are Staphylococcus aureus, Escherichia coli and Proteus spp. The preputial discharge is sterile on culture in a third of cases.",
+    "topic": "Acute balanoposthitis"
+  },
+  {
+    "id": "ch17-Q13",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 13,
+    "stem": "A 4-year-old boy has had three episodes of balanoposthitis in the past year. What is the most appropriate management strategy?",
+    "options": [
+      { "id": "a", "text": "Circumcision at the earliest opportunity" },
+      { "id": "b", "text": "Long-term prophylactic antibiotics" },
+      { "id": "c", "text": "Therapeutic intervention including consideration of topical steroid creams, preputiolysis or preputioplasty as alternatives to circumcision" },
+      { "id": "d", "text": "Watchful waiting with no intervention" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Therapeutic intervention should be limited to boys who have suffered from recurrent episodes. Where appropriate, topical steroid creams, preputiolysis or preputioplasty should be considered as alternatives to circumcision.",
+    "topic": "Recurrent balanoposthitis"
+  },
+  {
+    "id": "ch17-Q14",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 14,
+    "stem": "In a mild case of posthitis (inflammation limited to the preputial orifice), which of the following clinical features would typically be present?",
+    "options": [
+      { "id": "a", "text": "Purulent discharge and high fever" },
+      { "id": "b", "text": "Frank haematuria and suprapubic pain" },
+      { "id": "c", "text": "Necrosis of the foreskin with black eschar" },
+      { "id": "d", "text": "Localised erythema, oedema and discomfort without purulent discharge" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "In less severe forms, more correctly termed posthitis, the inflammatory process is limited to the preputial orifice and outer lining of the foreskin. Clinical features comprise localised erythema, oedema and discomfort but do not include purulent discharge.",
+    "topic": "Posthitis"
+  },
+  {
+    "id": "ch17-Q15",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 15,
+    "stem": "A 7-year-old boy presents with acute onset of a swollen, oedematous prepuce that cannot be returned to its normal position over the glans after retraction. His mother states he was asked to start retracting his foreskin as treatment for a 'tight foreskin'. What is the diagnosis?",
+    "options": [
+      { "id": "a", "text": "Acute balanoposthitis" },
+      { "id": "b", "text": "Paraphimosis" },
+      { "id": "c", "text": "Congenital megaprepuce" },
+      { "id": "d", "text": "BXO" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Paraphimosis results from manipulation of the foreskin and a failure to draw the prepuce forward again following retraction. It can be an unforeseen consequence of instructing the boy to retract his foreskin as a treatment for physiological phimosis.",
+    "topic": "Paraphimosis"
+  },
+  {
+    "id": "ch17-Q16",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 16,
+    "stem": "What is the first-line management of a 9-year-old boy presenting with paraphimosis?",
+    "options": [
+      { "id": "a", "text": "Emergency dorsal slit under general anaesthesia" },
+      { "id": "b", "text": "Urgent circumcision" },
+      { "id": "c", "text": "Observation only, as it will resolve spontaneously within 24 hours" },
+      { "id": "d", "text": "Reduction of preputial oedema by manual compression, multiple needle puncture or topical cooling before drawing the foreskin forwards over the glans" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Treatment consists of reducing the preputial oedema by manual compression, multiple needle puncture or topical cooling before drawing the foreskin forwards over the glans. It should not usually be necessary to resort to urgent surgical intervention such as a dorsal slit.",
+    "topic": "Paraphimosis"
+  },
+  {
+    "id": "ch17-Q17",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 17,
+    "stem": "After successful reduction of a first episode of paraphimosis in a 6-year-old boy, what is the most appropriate next step?",
+    "options": [
+      { "id": "a", "text": "Schedule elective circumcision within 4 weeks" },
+      { "id": "b", "text": "Start a course of topical steroid cream" },
+      { "id": "c", "text": "Reassure that a single episode is not an indication for surgery and advise on proper foreskin care" },
+      { "id": "d", "text": "Perform preputioplasty" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The occurrence of paraphimosis does not signify underlying pathology of the foreskin and a single episode is not an indication for surgery. Recurrent episodes are relatively unusual, but circumcision is a reasonable option in such cases.",
+    "topic": "Paraphimosis"
+  },
+  {
+    "id": "ch17-Q18",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 18,
+    "stem": "A 2-year-old boy presents with a firm, mobile, yellowish subcutaneous lump at the coronal level. His general practitioner suspected a dermoid cyst. On examination the lump is superficial and appears to be associated with the prepuce. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Smegma retention 'cyst'" },
+      { "id": "b", "text": "Sebaceous cyst" },
+      { "id": "c", "text": "Lipoma of the penile shaft" },
+      { "id": "d", "text": "Epidermoid cyst" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Trapped smegma collections can form yellowish subcutaneous lumps that are often misdiagnosed by general practitioners as sebaceous cysts or lipomas of the penile shaft. Reassurance is all that is required, as the trapped smegma will be discharged when surrounding adhesions separate spontaneously.",
+    "topic": "Preputial cysts and smegma retention"
+  },
+  {
+    "id": "ch17-Q19",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 19,
+    "stem": "What is the recommended management for preputial adhesions in a young boy?",
+    "options": [
+      { "id": "a", "text": "Surgical division of adhesions under general anaesthesia" },
+      { "id": "b", "text": "Forceful retraction of the foreskin at every bath" },
+      { "id": "c", "text": "Antibiotic ointment applied twice daily" },
+      { "id": "d", "text": "Reassurance, as they usually resolve spontaneously during childhood" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Preputial adhesions usually resolve spontaneously during the course of childhood. There is only a very limited role for surgical division because disruption of the epithelial surface of the glans tends to promote the development of recurrent adhesions.",
+    "topic": "Preputial adhesions"
+  },
+  {
+    "id": "ch17-Q20",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 20,
+    "stem": "Which of the following is true regarding the condition 'congenital megaprepuce'?",
+    "options": [
+      { "id": "a", "text": "It typically presents with a good urinary stream" },
+      { "id": "b", "text": "The natural history is well documented and spontaneous improvement is the rule" },
+      { "id": "c", "text": "On cursory inspection it resembles a buried penis with an enormously capacious preputial sac" },
+      { "id": "d", "text": "Surgical correction is straightforward and rarely requires revision" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Congenital megaprepuce resembles a buried penis on cursory inspection, but closer examination reveals an enormously capacious preputial sac engulfing the whole penile shaft and upper scrotum. The natural history is poorly documented because surgery is usually performed when the condition first presents.",
+    "topic": "Congenital megaprepuce"
+  },
+  {
+    "id": "ch17-Q21",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 21,
+    "stem": "In congenital megaprepuce, which of the following best describes the voiding pattern?",
+    "options": [
+      { "id": "a", "text": "A normal urinary stream with complete bladder emptying" },
+      { "id": "b", "text": "Complete urinary retention requiring catheterisation" },
+      { "id": "c", "text": "Forceful projection of urine with high pressure" },
+      { "id": "d", "text": "Urine dribbles more or less continuously from the preputial orifice and there is never a normal urinary stream" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "In congenital megaprepuce, urine dribbles more or less continuously from the preputial orifice and although the capacious urine-filled sac can be readily emptied by compression there is never a normal urinary stream.",
+    "topic": "Congenital megaprepuce"
+  },
+  {
+    "id": "ch17-Q22",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 22,
+    "stem": "A newborn presents for ritual circumcision. On examination the glans has a cleft-like abnormality. The prepuce appears entirely normal. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Iatrogenic circumcision injury" },
+      { "id": "b", "text": "Megameatus intact prepuce" },
+      { "id": "c", "text": "Congenital megaprepuce" },
+      { "id": "d", "text": "Epispadias" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Megameatus intact prepuce is a rare congenital abnormality of the glans rather than the prepuce (the prepuce appears entirely normal). It is often recognised for the first time during the course of a medical circumcision and can be mistaken for an iatrogenic injury.",
+    "topic": "Megameatus intact prepuce"
+  },
+  {
+    "id": "ch17-Q23",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 23,
+    "stem": "Why may megameatus intact prepuce first be recognised shortly after a ritual circumcision?",
+    "options": [
+      { "id": "a", "text": "Circumcision causes the meatus to dilate" },
+      { "id": "b", "text": "The characteristic cleft-like abnormality of the glans becomes visible after the prepuce is removed, and may be mistakenly attributed to an iatrogenic injury" },
+      { "id": "c", "text": "Infection develops at the meatus after circumcision" },
+      { "id": "d", "text": "The Plastibell device causes meatal trauma" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "On some occasions the abnormality is first recognised shortly after a ritual circumcision, prompting parents and doctors to mistakenly attribute the characteristic cleft-like abnormality of the glans to an iatrogenic circumcision injury. Even experienced paediatric urologists have made this error.",
+    "topic": "Megameatus intact prepuce"
+  },
+  {
+    "id": "ch17-Q24",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 24,
+    "stem": "In the United Kingdom, non-medical circumcision is now largely confined to which groups?",
+    "options": [
+      { "id": "a", "text": "Muslim and Jewish religious communities and some West African Christian communities" },
+      { "id": "b", "text": "Exclusively Jewish communities" },
+      { "id": "c", "text": "All newborns regardless of religion" },
+      { "id": "d", "text": "Only those with a family history of penile cancer" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "In the UK, ritual circumcision is largely confined to the Muslim and Jewish religions, but it is also practised within predominantly Christian West African communities. It is generally not funded within NHS hospitals, though some cities with large Muslim populations provide circumcision services under local NHS arrangements.",
+    "topic": "Ritual circumcision"
+  },
+  {
+    "id": "ch17-Q25",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 25,
+    "stem": "The American Academy of Pediatrics (AAP) Circumcision Policy Statement endorses newborn circumcision. Which of the following best describes the European perspective on this guideline?",
+    "options": [
+      { "id": "a", "text": "It is fully endorsed by all European paediatric societies" },
+      { "id": "b", "text": "European guidelines recommend routine circumcision for all male newborns" },
+      { "id": "c", "text": "It is considered ambiguous, based on flawed analysis of the evidence and partly influenced by financial rather than scientific considerations" },
+      { "id": "d", "text": "The European perspective agrees but recommends circumcision only in the first 24 hours of life" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "From a European perspective, the AAP guidelines appear to be ambiguous, based on a flawed analysis of the evidence and partly influenced by financial rather than scientific considerations. The AAP statement also contrasts strongly with published guidelines of the UK, the Netherlands, Denmark and Canada, which conclude that the weight of evidence does not support routine neonatal circumcision.",
+    "topic": "Circumcision policy"
+  },
+  {
+    "id": "ch17-Q26",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 26,
+    "stem": "Approximately how many normal male infants would need to be circumcised to prevent one urinary tract infection in the first year of life?",
+    "options": [
+      { "id": "a", "text": "110–125" },
+      { "id": "b", "text": "50–75" },
+      { "id": "c", "text": "10–20" },
+      { "id": "d", "text": "500–1000" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Calculations based on systematic reviews indicate that around 110–125 normal male infants would need to be circumcised to prevent one UTI. Neonatal circumcision cannot be regarded as a rational routine prophylactic measure on this basis.",
+    "topic": "Circumcision and UTI prevention"
+  },
+  {
+    "id": "ch17-Q27",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 27,
+    "stem": "In which group of patients is circumcision considered a worthwhile intervention for reducing the risk of urinary tract infection?",
+    "options": [
+      { "id": "a", "text": "Male infants with predisposing urinary pathology such as vesicoureteric reflux or posterior urethral valves" },
+      { "id": "b", "text": "All healthy male infants under 6 months" },
+      { "id": "c", "text": "Adolescent males only" },
+      { "id": "d", "text": "Boys with a family history of recurrent UTIs" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "There is persuasive evidence that circumcision can be a worthwhile intervention in reducing the risk of UTI in male infants with predisposing urinary pathology, such as vesicoureteric reflux or urinary tract dilatation associated with posterior urethral valves.",
+    "topic": "Circumcision and UTI prevention"
+  },
+  {
+    "id": "ch17-Q28",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 28,
+    "stem": "Randomised controlled trials in sub-Saharan Africa have demonstrated that circumcision in men and adolescent males confers partial protection against which infection?",
+    "options": [
+      { "id": "a", "text": "Hepatitis B virus" },
+      { "id": "b", "text": "Human papillomavirus" },
+      { "id": "c", "text": "Heterosexually acquired HIV" },
+      { "id": "d", "text": "Herpes simplex virus type 2" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Randomised controlled trials in sub-Saharan Africa have demonstrated that circumcision in men and adolescent males confers partial protection against heterosexually acquired HIV infection. However, this is far less relevant to routine circumcision of newborn male infants in countries with a much lower prevalence of HIV.",
+    "topic": "Circumcision and HIV"
+  },
+  {
+    "id": "ch17-Q29",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 29,
+    "stem": "Penile cancer is virtually confined to uncircumcised men. Which of the following statements best reflects the recommended approach to prevention?",
+    "options": [
+      { "id": "a", "text": "Routine neonatal circumcision for all boys" },
+      { "id": "b", "text": "Health education and treatment of phimosis are more appropriate preventative measures than widescale circumcision of healthy newborns" },
+      { "id": "c", "text": "HPV vaccination alone is sufficient" },
+      { "id": "d", "text": "Screening all uncircumcised men annually with biopsy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Penile cancer is a rare malignancy in developed countries. Health education and treatment of phimosis are much more appropriate preventative measures than widescale circumcision of healthy newborn infants.",
+    "topic": "Penile cancer prevention"
+  },
+  {
+    "id": "ch17-Q30",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 30,
+    "stem": "What is the estimated percentage of boys aged 0–16 years who undergo circumcision for medical reasons in the UK?",
+    "options": [
+      { "id": "a", "text": "3–5%" },
+      { "id": "b", "text": "0.5–1%" },
+      { "id": "c", "text": "10–12%" },
+      { "id": "d", "text": "20–25%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Current estimates indicate that around 3–5% of boys aged 0–16 years undergo circumcision for medical reasons in the UK. The principal indications being 'phimosis' (BXO) and balanoposthitis.",
+    "topic": "Medical circumcision"
+  },
+  {
+    "id": "ch17-Q31",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 31,
+    "stem": "Which of the following is an absolute contraindication to newborn circumcision?",
+    "options": [
+      { "id": "a", "text": "Hypospadias, epispadias or ambiguous genitalia" },
+      { "id": "b", "text": "Family history of bleeding disorder" },
+      { "id": "c", "text": "Maternal diabetes" },
+      { "id": "d", "text": "Prematurity" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Hypospadias, epispadias or ambiguous genitalia are absolute contraindications to newborn circumcision because removal of the prepuce is highly likely to compromise the outcome of any later genital reconstruction.",
+    "topic": "Contraindications to circumcision"
+  },
+  {
+    "id": "ch17-Q32",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 32,
+    "stem": "A surgeon notices that after routine circumcision of a boy with a 'buried penis', there is insufficient skin to cover the penile shaft. What technical point has been violated?",
+    "options": [
+      { "id": "a", "text": "The Plastibell device was too small" },
+      { "id": "b", "text": "Too much preputial skin was removed in a boy with buried penis; a modified technique to redistribute rather than remove preputial skin is required" },
+      { "id": "c", "text": "The inner preputial layer was not fully separated" },
+      { "id": "d", "text": "Bipolar diathermy was used instead of ligation" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The risk of removing too much skin is greatest in boys with so-called 'buried penis' in whom even a standard circumcision may result in a denuded penile shaft and a requirement for skin grafting. A modified technique is required to redistribute rather than remove preputial skin.",
+    "topic": "Buried penis and circumcision"
+  },
+  {
+    "id": "ch17-Q33",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 33,
+    "stem": "Which of the following is true regarding the Plastibell technique for ritual circumcision?",
+    "options": [
+      { "id": "a", "text": "The Plastibell ring is sutured in place permanently" },
+      { "id": "b", "text": "The Plastibell technique requires general anaesthesia in all cases" },
+      { "id": "c", "text": "A haemostatic ligature is tied around the base of the prepuce overlying a groove in the Plastibell device, and the plastic ring detaches spontaneously after 3–7 days" },
+      { "id": "d", "text": "Complications specific to this technique include urethral fistula formation" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "In the Plastibell technique, a haemostatic ligature is tied around the base of the prepuce overlying a groove in the Plastibell device. The plastic ring remains in place before detaching spontaneously after an interval of 3–7 days. Complications include haemorrhage due to slippage of the ligature and delayed separation of the ring.",
+    "topic": "Plastibell circumcision"
+  },
+  {
+    "id": "ch17-Q34",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 34,
+    "stem": "What is the reported incidence of haemorrhage of sufficient severity to necessitate early re-operation following circumcision?",
+    "options": [
+      { "id": "a", "text": "2–5%" },
+      { "id": "b", "text": "0.1–0.5%" },
+      { "id": "c", "text": "10–15%" },
+      { "id": "d", "text": "20–25%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Haemorrhage of sufficient severity to necessitate early re-operation has been reported to occur in 2–5% of boys following circumcision. Early complications also include urinary retention, which can be prevented by adequate analgesia or intraoperative local block.",
+    "topic": "Complications of circumcision"
+  },
+  {
+    "id": "ch17-Q35",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 35,
+    "stem": "Which serious but rare complication of circumcision has been linked to dorsal penile nerve block used for postoperative pain relief?",
+    "options": [
+      { "id": "a", "text": "Urethral fistula" },
+      { "id": "b", "text": "Glans ischaemia" },
+      { "id": "c", "text": "Partial penile amputation" },
+      { "id": "d", "text": "Necrotising fasciitis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Glans ischaemia is a serious but fortunately rare complication that may be related to the dorsal penile nerve block commonly used for postoperative pain relief. It can resolve with treatment including oral sildenafil, subcutaneous enoxaparin and caudal anaesthesia.",
+    "topic": "Complications of circumcision"
+  },
+  {
+    "id": "ch17-Q36",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 36,
+    "stem": "A 3-month-old infant presents with glans ischaemia shortly after circumcision. Colour Doppler ultrasound of the penile vasculature shows normal appearances. Which of the following treatments has been described for this complication?",
+    "options": [
+      { "id": "a", "text": "Immediate surgical exploration and microvascular repair" },
+      { "id": "b", "text": "Topical nitroglycerin paste" },
+      { "id": "c", "text": "Hyperbaric oxygen therapy" },
+      { "id": "d", "text": "Oral sildenafil, subcutaneous enoxaparin and caudal anaesthesia with levobupivacaine" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "This complication has been reported to resolve completely within a few days following treatment with oral sildenafil, subcutaneous enoxaparin and caudal anaesthesia with levobupivacaine (for its vasodilatory effect), with no long-term implications.",
+    "topic": "Glans ischaemia treatment"
+  },
+  {
+    "id": "ch17-Q37",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 37,
+    "stem": "A 5-year-old boy is brought to the emergency department with a swollen, bruised penis and a purpuric rash on his legs and buttocks. The preputial swelling was initially thought to be balanoposthitis. What is the most likely underlying diagnosis?",
+    "options": [
+      { "id": "a", "text": "Idiopathic scrotal oedema" },
+      { "id": "b", "text": "Schönlein–Henoch purpura (IgA vasculitis)" },
+      { "id": "c", "text": "Traumatic haematoma" },
+      { "id": "d", "text": "Cellulitis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Schönlein–Henoch purpura involving the penis can cause preputial and penile swelling that may be confused with balanoposthitis, particularly if these appear before the characteristic purpuric rash on the legs, lower abdomen and buttocks.",
+    "topic": "Schönlein–Henoch purpura"
+  },
+  {
+    "id": "ch17-Q38",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 38,
+    "stem": "A 4-year-old boy has a persistently non-retractile foreskin. His parents are anxious and request intervention. There is no scarring, no history of balanoposthitis, and the boy is asymptomatic. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Refer for circumcision" },
+      { "id": "b", "text": "Prescribe a 4-week course of topical antibiotic cream" },
+      { "id": "c", "text": "Perform preputioplasty" },
+      { "id": "d", "text": "Reassure the parents about the natural history of the non-retractile foreskin and advise against intervention" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Conservative treatment of the non-retractable foreskin involves advising parents of the natural history of the foreskin and its normal tendency to become retractable when preputial adhesions resolve spontaneously. Alternatives are not appropriate simply because of parental concerns about non-retractility.",
+    "topic": "Conservative management"
+  },
+  {
+    "id": "ch17-Q39",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 39,
+    "stem": "Which of the following topical steroid preparations has been used to treat a non-retractile foreskin?",
+    "options": [
+      { "id": "a", "text": "0.05% betamethasone cream" },
+      { "id": "b", "text": "1% hydrocortisone cream" },
+      { "id": "c", "text": "0.1% triamcinolone acetonide cream" },
+      { "id": "d", "text": "0.05% fluocinonide gel" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Among the preparations used for treating a non-retractile foreskin are 0.05% betamethasone cream, 0.05% clobetasol propionate cream and 0.02% triamcinolone acetonide cream. Typical regimens comprise twice daily application for 4–8 weeks.",
+    "topic": "Topical steroid therapy"
+  },
+  {
+    "id": "ch17-Q40",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 40,
+    "stem": "Reported success rates for topical steroid treatment of a non-retractile foreskin range between 70–95%. Which of the following best describes the interpretation of these figures?",
+    "options": [
+      { "id": "a", "text": "Success is consistently defined as full retractability in all studies" },
+      { "id": "b", "text": "'Success' is often loosely and subjectively defined, with some studies including partial response or retractability deemed 'appropriate for age'" },
+      { "id": "c", "text": "The figures are based on large randomised placebo-controlled trials" },
+      { "id": "d", "text": "Success rates are significantly lower in boys over 10 years of age" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Although 'success rates' of 70–95% have been reported, 'success' is often loosely and subjectively defined – with some authors extending the definition to include partial response or retractability deemed 'appropriate for age'. Application of the steroid cream must be combined with regular attempts at gentle retraction.",
+    "topic": "Topical steroid therapy"
+  },
+  {
+    "id": "ch17-Q41",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 41,
+    "stem": "Which of the following boys is the most suitable candidate for preputioplasty?",
+    "options": [
+      { "id": "a", "text": "A 3-year-old with physiological phimosis and ballooning" },
+      { "id": "b", "text": "A 6-year-old with biopsy-proven BXO" },
+      { "id": "c", "text": "A 14-year-old with a persistently non-retractile foreskin who is motivated to perform regular postoperative self-retraction" },
+      { "id": "d", "text": "A 9-year-old with recurrent paraphimosis" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Preputioplasty is particularly suited to older boys with a persistently non-retractile foreskin predicted to cause problems after the onset of sexual activity. Regular postoperative self-retraction is essential for a satisfactory outcome, so the procedure is less suitable for younger boys and those unwilling to comply.",
+    "topic": "Preputioplasty"
+  },
+  {
+    "id": "ch17-Q42",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 42,
+    "stem": "Which of the following is true regarding preputioplasty?",
+    "options": [
+      { "id": "a", "text": "It results in a circumcised appearance" },
+      { "id": "b", "text": "The procedure consists of incising the constriction ring and closing the incision transversely with interrupted sutures" },
+      { "id": "c", "text": "It is the treatment of choice for BXO" },
+      { "id": "d", "text": "It requires no postoperative care or follow-up" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Preputioplasty involves incising the 'constriction ring' apparent on retracting the foreskin and closing this incision transversely with interrupted sutures. Initially the appearance resembles a limited dorsal slit but with time and regular retraction this evolves to create the appearance of a normal foreskin.",
+    "topic": "Preputioplasty"
+  },
+  {
+    "id": "ch17-Q43",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 43,
+    "stem": "Which of the following is NOT an appropriate alternative to circumcision for a non-retractile foreskin?",
+    "options": [
+      { "id": "a", "text": "Topical steroid therapy" },
+      { "id": "b", "text": "Preputioplasty" },
+      { "id": "c", "text": "Dorsal slit alone with no reconstruction" },
+      { "id": "d", "text": "Preputiolysis" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Effective alternatives to circumcision for the non-retractable foreskin include topical steroid therapy, preputioplasty and preputiolysis. A dorsal slit is an emergency procedure for paraphimosis, not an elective alternative. Alternatives are also not appropriate for boys with BXO, in whom circumcision is required.",
+    "topic": "Alternatives to circumcision"
+  },
+  {
+    "id": "ch17-Q44",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 44,
+    "stem": "A 9-year-old boy presents with secondary diurnal enuresis. He also has a poor urinary stream and a history of dysuria. On examination the foreskin is scarred and non-retractile with a pale, stenotic orifice. Ultrasound shows thickening of the bladder wall. What is the most likely underlying cause of his enuresis?",
+    "options": [
+      { "id": "a", "text": "Primary nocturnal enuresis" },
+      { "id": "b", "text": "Chronic outflow obstruction due to BXO causing functional bladder changes" },
+      { "id": "c", "text": "Urinary tract infection" },
+      { "id": "d", "text": "Diabetes insipidus" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Advanced cases of BXO can sometimes present with acute urinary retention or secondary diurnal or nocturnal enuresis resulting from chronic outflow obstruction. Ultrasonography may reveal thickening of the bladder wall and/or significant residual urine, which may very occasionally be accompanied by upper tract dilatation.",
+    "topic": "BXO complications"
+  },
+  {
+    "id": "ch17-Q45",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 45,
+    "stem": "A mother has been told her son needs surgical division of preputial adhesions. What is the most appropriate advice regarding this proposed procedure?",
+    "options": [
+      { "id": "a", "text": "Surgical division is the gold standard treatment" },
+      { "id": "b", "text": "It must be performed before the age of 2 to be effective" },
+      { "id": "c", "text": "There is only a very limited role for this because disruption of the epithelial surface of the glans tends to promote recurrent adhesions" },
+      { "id": "d", "text": "It should be combined with a meatotomy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "There is only a very limited role for surgical division of preputial adhesions because disruption of the epithelial surface of the glans tends to promote the development of recurrent adhesions. Topical steroid cream, circumcision or preputioplasty (in older boys) are preferable options.",
+    "topic": "Preputial adhesions"
+  },
+  {
+    "id": "ch17-Q46",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 46,
+    "stem": "Which of the following statements about Schönlein–Henoch purpura involving the penis is correct?",
+    "options": [
+      { "id": "a", "text": "It never involves the prepuce" },
+      { "id": "b", "text": "It is always accompanied by haemarthrosis" },
+      { "id": "c", "text": "Circumcision is required to prevent recurrence" },
+      { "id": "d", "text": "Preputial swelling may appear before the characteristic purpuric rash and can be confused with balanoposthitis" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The preputial and penile swelling and oedema which may be features of Schönlein–Henoch purpura can be confused with balanoposthitis, particularly if these appear before the characteristic purpuric rash on the legs, lower abdomen and buttocks.",
+    "topic": "Schönlein–Henoch purpura"
+  },
+  {
+    "id": "ch17-Q47",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 47,
+    "stem": "What is the purpose of combining preputioplasty with intralesional injection of a potent steroid in the management of BXO?",
+    "options": [
+      { "id": "a", "text": "It is the standard first-line treatment for all cases of BXO" },
+      { "id": "b", "text": "It has been claimed to be curative in milder cases of BXO" },
+      { "id": "c", "text": "It replaces the need for circumcision in advanced BXO" },
+      { "id": "d", "text": "It prevents recurrence of meatal stenosis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Preputioplasty alone is not a worthwhile option for BXO because the ongoing inflammatory process leads to recurrent stenosis. However, the combination of preputioplasty and intralesional injection of a potent steroid has been claimed to be curative in milder cases.",
+    "topic": "BXO treatment"
+  },
+  {
+    "id": "ch17-Q48",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 48,
+    "stem": "A 14-year-old uncircumcised boy is concerned about the appearance of small yellowish lumps under the skin of his penile shaft at the coronal level. He is otherwise asymptomatic. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Refer for excision biopsy" },
+      { "id": "b", "text": "Prescribe oral antibiotics" },
+      { "id": "c", "text": "Arrange urgent ultrasound of the penis" },
+      { "id": "d", "text": "Reassure him that these are smegma retention collections that will resolve when preputial adhesions separate spontaneously" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Smegma retention 'cysts' are mobile, subcutaneous, firm yellowish lumps at coronal level often misdiagnosed as dermoid cysts or lipomas. Reassurance is all that is required. The trapped smegma will be discharged when surrounding adhesions separate spontaneously.",
+    "topic": "Smegma retention"
+  },
+  {
+    "id": "ch17-Q49",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 49,
+    "stem": "Which of the following statements best summarises the key management principles for the non-retractile foreskin?",
+    "options": [
+      { "id": "a", "text": "All boys with non-retractile foreskin should be circumcised by age 5" },
+      { "id": "b", "text": "Topical steroids are contraindicated in children" },
+      { "id": "c", "text": "Conservative treatment involves advising parents of the natural history; effective alternatives include topical steroid therapy and preputioplasty; surgical intervention is justifiable for recurrent balanoposthitis" },
+      { "id": "d", "text": "Preputioplasty is the preferred treatment for all cases" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The key points are: (1) conservative treatment involves advising parents of the natural history; (2) effective alternatives include topical steroid therapy and preputioplasty; (3) surgical intervention is justifiable for recurrent balanoposthitis; (4) BXO is the only absolute indication for circumcision but is rare under age 5.",
+    "topic": "Summary of management"
+  },
+  {
+    "id": "ch17-Q50",
+    "chapter": "The Prepuce",
+    "chapterSlug": "ch17_the-prepuce",
+    "chapterNumber": 17,
+    "questionNumber": 50,
+    "stem": "An adolescent boy undergoes circumcision for BXO. Postoperatively, what can be used to significantly reduce the risk of recurrent meatal stenosis?",
+    "options": [
+      { "id": "a", "text": "Postoperative application of topical steroid creams" },
+      { "id": "b", "text": "Daily meatal dilation" },
+      { "id": "c", "text": "Prophylactic oral antibiotics" },
+      { "id": "d", "text": "Intermittent catheterisation" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The risk of recurrent meatal stenosis can be significantly reduced by postoperative application of topical steroid creams. In approximately 5% of cases, meatal stenosis necessitates meatotomy or meatoplasty at the time of circumcision.",
+    "topic": "Meatal stenosis prevention"
+  }
+]

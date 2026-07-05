@@ -1,0 +1,634 @@
+                                                                                          16
+Hypospadias
+
+NADIA V HALSTEAD, PIERRE D E MOURIQUAND and DUNCAN T WILCOX
+
+
+Topics covered
+
+Etiology and incidence                                Tubularization
+Disorders of sex development and associated           Two-staged repair
+   anomalies                                          Urethral repositioning
+Surgical principles                                   Pedicle- and meatal-based flaps
+Overview of surgical techniques                       Outcome and complications
+Chordee correction
+
+
+
+
+ INTRODUCTION                                          ETIOLOGY AND INCIDENCE
+
+Hypospadias is an association of three anatomi-       The incidence of hypospadias is generally quoted
+cal anomalies:                                        at 1 in 300 live male births (0.33%). However,
+                                                      data from different countries show considerable
+●● an abnormal ventral opening of the urethral        variation, with reported incidences ranging from
+   meatus;                                            0.006–0.7% in Asia to 0.2% in Europe to 0.34%
+●● ventral curvature (chordee) of the penis;          in North America. Hypospadias appears to be
+●● a dorsal hooded foreskin with ventral              increasing in frequency. The apparent increase
+   deficiency.                                        in the incidence of hypospadias, coupled with
+                                                      the increasing incidence of testicular cancer and
+However, not all three of these features are pres-    declining semen quality, have been cited as exam-
+ent in every case.                                    ples of the possible impact of estrogenic environ-
+   Hypospadias is better defined as a hypoplasia of   mental pollutants (“endocrine disruptors”) on
+the tissues forming the ventral aspect of the penis   normal virilization of the male fetus. Phthalates,
+beyond the division of the corpus spongiosum. It is   phytoestrogens (found in soy), and mycoestrogens Etiology
+characterized by a ventral triangular defect whose    have been identified as some of the environmental
+apex is the division of the corpus spongiosum; the    pollutants associated with hypospadias. In addi-
+sides are represented by the two pillars of atretic   tion, endocrinopathy, low birth weight, maternal
+spongiosum and the base is the glans.                 hypertension, maternal vegetarianism, conception
+
+                                                                                                   209
+210 Hypospadias
+
+ first degree relatives
+via intracervical semination and in vitro fertiliza-    genetic, gonadal, or phenotypic sexual abnor-
+tion, and advanced maternal age (possibly medi-         mality. It is essential that all patients with hypo-
+ated by placental insufficiency) have been identified   spadias who have undescended testes are fully
+by some studies as possible etiological factors.        investigated so that DSD can be excluded. Apart
+                                                        from an increased overall incidence of unde-
+                                                        scended testis, other anomalies in patients with
+                                                        isolated hypospadias are rare. Abnormalities of
+ GENETICS
+                                                        the urinary tract are uncommon, occurring in
+                                                        approximately 2% of patients. For this reason,
+By contrast to the uncertainty surrounding the          routine ultrasound screening is unnecessary. The
+extent of the role played by environmental fac-         overall incidence of undescended testis is in the
+tors, the importance of genetic factors has been        range 5–10%, rising to 50% in those with severe
+reliably documented in numerous studies. The            perineal or penoscrotal forms of hypospadias.
+incidence of hypospadias in first degree rela-          These severe forms are also associated with a per-
+tives is of the order of 7–10%, rising to 20% in        sistent prostatic utricle in 20% of cases. When
+the siblings of boys with severe hypospadias.           this is present it can create difficulties with ure-
+There is also an association with certain genetic       thral catheterization of the bladder. But since it
+syndromes including WAGR, Denys-Drash, and              is rarely necessary to remove a prostatic utricle,
+Opitz. However, genetic factors apply mainly to         cystography, or cystoscopy to look for a possible
+the more severe forms of proximal hypospadias           utricle are not routinely required and need only
+whereas distal forms are more likely to occur           be performed if the child is symptomatic.
+as sporadic (non-inherited) anomalies. Defects
+in genes expressed during development of the
+genital tubercle and urethral plate have been
+implicated in the etiology of hypospadias. These         CLASSIFICATION
+include SHH, GL1, GL2, GL3, FGF8, FGFR2,
+WT1, BMP 7, WNT5A, and DGKK. Mutations                  Although many classifications have been
+in homeobox genes (HOXA13, HOXA4, IRX5,                 described based on the position of the ectopic
+IRX6), genes involved in androgen production            urethral meatus (Figure 16.1), the level of division
+and signaling (HSD3B1, HSD17B3, SRD5A2,                 of the corpus spongiosum may provide a more
+AR), and estrogen production and signaling              accurate means of distinguishing anterior hypo-
+(ESR1, ESR2, ATF3, VAMP7) have also been                spadias with little or no chordee from posterior
+identified in some patients and have also been          hypospadias with chordee and hypoplasia of the
+studied experimentally in “knock out” mouse             tissues forming the ventral aspect of the penis
+models.                                                 (Figure 16.2). In approximately 70% of cases, the
+                                                        urethral meatus is located on, or adjacent to, the
+                                                        glans or on the distal penile shaft. In the remain-
+                                                        ing 30% of cases, the meatus is more proximal
+ DISORDERS OF SEX
+                                                        (midshaft to perineal) and the anatomy is more
+ DEVELOPMENT (DSD) AND
+                                                        complex.
+ ASSOCIATED ANOMALIES                                       The authors’ classification, therefore, recog-
+                                                        nizes three main types of hypospadias.
+Severe forms of hypospadias can present with
+similar appearances to disorders of sex develop-        1. Hypospadias with a distal division of the
+ment (DSDs), especially when severe hypospa-               corpus spongiosum with little or no chordee.
+dias is associated with undescended testes and          2. Hypospadias with a proximal division of the
+a prostatic utricle. In some series, up to 50% of          corpus spongiosum with a marked degree of
+patients with both hypospadias and cryptor-                hypoplasia of the ventral tissue and a signifi-
+chidism have been found to have an underlying              cant degree of chordee.
+                                             Specific surgical principles / Correction of Penile Chordee 211
+
+
+
+
+Figure 16.1 Standard classification of hypospadias.
+
+ 3. Hypospadias which persists despite multiple
+                                                         Figure 16.2 Deceptively severe case illustrating
+    previous operations. (Patients with this con-        the potential pitfalls of classification based on
+    dition were previously termed “hypospadias           the position of the urethral meatus. The urethra
+    cripples”).                                          terminates with an opening on the glans but the
+                                                         entire urethra is “paper thin” and this case is,
+                                                         in effect, a proximal form of hypospadias with
+                                                         chordee.
+ SPECIFIC SURGICAL PRINCIPLES
+
+Although more than 300 different techniques have         ●●   Skin coverage of the penis aimed at achieving
+been described for the repair of hypospadias, the last        a normal cosmetic appearance
+decade has seen the emergence of a growing consen-
+sus amongst specialist hypospadias surgeons. For         In general, surgical correction is recommended
+most patients this comprises either tubularization       between 6 months and 18 months of age with the
+of the urethral plate or a two-stage repair – usually    aim of achieving an optimal cosmetic and func-
+involving a free flap. This chapter will concentrate     tional outcome.
+on these two techniques, but other methods that are
+still in current use will also be described.             Correction of Penile Chordee
+    Regardless of the repair, there are three spe-
+cific components to the surgical correction of           Penile chordee can result from several factors
+hypospadias:                                             including ; abnormal tethering of the penile shaft
+                                                         skin on to the underlying structures, tethering
+●●   Correction of the penile chordee                    of the urethral plate to the corpora cavernosa
+●●   Reconstruction of the urethra (urethroplasty)       or atretic corpora spongiosum tissue extending
+212 Hypospadias
+
+
+
+
+                                                         Figure 16.4 Correction of intrinsic chordee by
+Figure 16.3 Causes of penile curvature associ-           plication on the dorsal aspect of the corpora,
+ated with hypospadias.                                   following mobilization of the overlying neuro-
+                                                         vascular bundles.
+from the abnormal meatus to the glans. Finally,
+chordee may be due to an intrinsic flexion defor-        Generally, a single-stage repair is appropriate
+mity of the corpora cavernosa (Figure 16.3).             for distal, mid shaft, and proximal hypospadias
+Correction of penile chordee should be addressed         without significant chordee. A two-stage repair is
+in the following order:                                  generally reserved for severe proximal or perineal
+ 1. Degloving the penis by fully mobilizing the          hypospadias with chordee and for “hypospadias
+    overlying skin. In most patients (80%), this         cripples.” Most surgeons now perform tubular-
+    will correct the chordee.                            ization of the urethral plate as their preferred
+ 2. Excision of the atretic and fibrous corpora          one-stage method.
+    spongiosum proximally and distally to the
+    abnormal meatus.                                     Tubularizing the urethral plate
+ 3. Dissection of the urethral plate, which is
+                                                         (Figure 16.5)
+    carefully elevated off the corpora cavernosa.
+    (Not all surgeons perform this step, opting          The most widely used single-stage repair is a
+    instead to go straight to a dorsal plication.)       Duplay-type tubularization incorporating a ver-
+                                                         tical incision in the urethral plate, as described
+In some patients ventral curvature of the penis
+                                                         by Snodgrass. This allows the urethral plate to be
+persists despite these steps, in which case it is nec-
+                                                         tubularized without tension. In addition, it has
+essary to plicate the dorsal aspect of the tunica
+                                                         been asserted that epithelialization of the ure-
+albuginea (Figure 16.4). Unfortunately, despite
+                                                         thral plate incision may contribute to the circum-
+dorsal plication there is a tendency for ventral
+                                                         ference of the neourethra.
+curvature to recur at puberty. If dorsal plication
+                                                            In this procedure, the urethral plate is marked
+is insufficient to correct the degree of ventral cur-
+                                                         and then deeply incised (Figure 16.5a, b); its
+vature or where the surgeon’s preference dictates,
+                                                         width is then assessed. The urethral plate is
+a more extensive corporal procedure (corporo-
+                                                         incised and then rolled into a tube (Figure 16.5d).
+plasty) may be indicated.
+                                                         Some surgeons favor a modification in which a
+                                                         free graft of preputial skin is inlaid into the inci-
+Urethroplasty                                            sion in the urethral plate in the hope of reducing
+                                                         the risk of contraction and stenosis of the neo-
+Reconstruction of the urethra can be performed           urethra (Figure 16.5b, c). If the urethral plate is
+in a single stage or in a two-stage procedure.           wide and sufficiently supple to be tubularized
+                                                          Specific surgical principles / Urethroplasty 213
+
+
+
+
+Figure 16.5 (a)–(f) Key steps in tubularized incised plate (Snodgrass) repair (see text for
+explanation).
+
+
+over an 8 Fr catheter, it can be rolled into a tube   Two-stage repair
+without the need for a urethral plate incision        (Figures 16.6 and 16.7)
+(Duplay procedure) (Once the neourethra is
+formed, a vascularized de-epithelialized pedicle      The type of severe hypospadias for which a two
+of tissue is placed over the anastomosis to reduce    stage repair is most appropriate is illustrated in
+fistula formation (Figure 16.5d, e). The glanulo-     Figure 16.6.
+plasty is performed by reapproximating the glans         The first stage of the operation involves
+wings in two layers. The skin is then reconfig-       correcting the chordee as described above
+ured, ensuring that there is adequate coverage on     (Figure 16.7a, b) followed by preparing the glans
+the ventral surface so that penile chordee does       and harvesting the free flap (Figure 16.7c). Once
+not recur (Figure 16.5f). A dripping stent can be     the chordee has been corrected, a midline ventral
+left draining for 7 days. The authors have found      incision is made from the most dorsal part of the
+that a stent is rarely needed in children under 12    new meatus on the glans to the current meatus.
+months of age.                                        Glans wings are created so that the glans opens
+214 Hypospadias
+
+
+
+                                                      involves tubularization of the graft into the
+                                                      neourethra (Figure 16.7f, g) and then placing a
+                                                      second vascularized layer over the anastomo-
+                                                      sis (Figure 16.7h). Once this is completed the
+                                                      glans is reconstructed and the penile skin closed
+                                                      (Figure 16.7i).
+                                                         Other techniques which are still in current
+                                                      usage are described below.
+
+                                                      Urethral repositioning
+                                                      The MAGPI procedure (Figure 16.8) is an acro-
+                                                      nym of “meatal advancement and glanuloplasty
+                                                      incorporated”. It is only suitable for cases in
+                                                      which the urethra is mobile – which can be con-
+                                                      firmed if simple traction can move the meatus to
+                                                      the tip of the glans. A vertical incision between
+                                                      the tip of the glans and the meatus is created
+                                                      (Figure 16.8a, b) and then closed transversely,
+                                                      thereby advancing the meatus. A circumferential
+                                                      incision is made in the skin below the corona and
+                                                      the meatus. The glanuloplasty is then performed
+                                                      in two layers (Figure 16.8c, d), and finally the
+Figure 16.6 Severe proximal hypospadias –             penis is circumcised and the skin closed.
+unsuited to single-stage repair.
+
+widely (“like a book”). The ideal material for the    Pedicle flaps
+flap should be easy to harvest, without leaving a     Two types of pedicle flap are commonly used,
+long-standing cosmetic defect. It should be supple    the meatal-based flap and the preputial flap.
+and non-hair bearing. The most commonly used          Both procedures utilize skin flaps which remain
+graft material is inner preputial skin. However,      attached at some point to the urethral plate.
+postauricular Wolfe skin grafts can also be used
+for primary repair. Buccal mucosa and bladder
+mucosa are less frequently used for standard two-     Meatal-based flap
+stage repairs but do have a role in “salvage” hypo-   (Mathieu procedure) (Figure 16.9)
+spadias repairs.
+   When the donor graft has been taken, the fat       The urethral plate is incised (Figure 16.9a) and
+and subepithelial tissue are removed to enhance       the glans flaps developed. A vascularized flap of
+graft revascularization (Figure 16.7c). The graft     proximal penile skin is created using the meatus
+is then placed into the glans and tacked with         as the base (Figure 16.9b). The flap is then placed
+absorbable sutures; “windows” are made in the         on to the urethral plate and both lateral edges
+graft to allow hematomas to escape and a few          are sutured to it. Adjacent subcutaneous tissue
+midline quilting sutures are placed to anchor         is used to cover (“waterproof”) the suture line
+the graft to on its base (Figure 16.7d, e). A firm    (Figure 16.9c). Once the neourethra is created,
+dressing is applied, with a catheter, which holds     the glanuloplasty is performed (Figure 16.9d). As
+the graft in place and minimizes hematoma for-        a rule, the maximum length of this flap should be
+mation. After 1 week the dressing and catheter        no more than three times the width of the base
+are removed. The second stage of the repair is        and in practice, this technique is unsuited for a
+usually performed after 6 months. This step           urethroplasty exceeding 1.5 cm.
+                                                        Specific surgical principles / Urethroplasty 215
+
+
+
+
+Figure 16.7 (a)–(d) Key steps in the two-stage repair (see text for explanation).
+216 Hypospadias
+
+
+
+
+Figure 16.7 (Continued) (e)–(h) Key steps in the two-stage repair (see text for explanation).
+                                      Specific surgical principles / Common Variants of Hypospadias 217
+
+
+
+                                                      divide the urethral plate in order to correct the
+                                                      chordee. In these rare cases, the preputial flap can
+                                                      be tubularized, thereby creating the neourethra
+                                                      alone. The lateral glans wings are then approxi-
+                                                      mated in two layers to recreate the glans, and the
+                                                      skin is closed (Figure 16.10e).
+                                                          The Koyanagi procedure and its variants are
+                                                      alternative procedures for severe proximal hypo-
+                                                      spadias. It aims at using the urethral plate and the
+                                                      neighboring strip of ventral tissues along with
+                                                      the inner aspect of the preputial hood, which is
+                                                      transferred ventrally with its pedicle. This large
+                                                      and well-vascularized material is freed from the
+                                                      ventral aspect of the corpus spongiosum down
+                                                      to the base of the penis. This allows the penis to
+                                                      straighten and to build an extended plate, which
+                                                      is subsequently tubularized.
+
+                                                      Covering the Penis
+                                                      When the urethra has been reconstructed, it
+                                                      is necessary to recreate the meatus, glans, and
+                                                      occasionally the foreskin. Glanuloplasty is per-
+                                                      formed by bringing the two wings of the glans
+                                                      around to cover the urethra; the glans is then
+                                                      closed in two layers. The distal end of the neo-
+                                                      urethra is sutured to the new meatus, thereby
+                                                      creating a slit-like opening. The residual inner
+Figure 16.7 (Continued) (i) Key steps in the          preputial skin adjacent to the coronal sulcus is
+two-stage repair (see text for explanation).          brought around the ventral side of the penis to
+                                                      create a circumferential mucosal “cuff” or “col-
+                                                      lar” surrounding the glans. If parental pref-
+Preputial flap (onlay island flap                     erence is for preservation of the foreskin, a
+procedure) (Figure 16.10)                             prepucioplasty may also be performed to con-
+                                                      struct a foreskin. Skin coverage is provided by
+The urethral plate is incised vertically using two    moving the excess skin from the dorsal side to
+parallel incisions. The penis is then degloved        the ventral side. There are no significant differ-
+back to its base using a circumferential subcor-      ences in complication or revision rates when
+onal incision. The glans flaps are then created       comparing hypospadias repair with circumci-
+and the proximal thin urethra is cut back until       sion or prepucioplasty.
+normal urethral tissue is found. A pedicle flap is
+then created out of the inner prepuce, as shown       Common Variants of Hypospadias
+in Figure 16.10a. The preputial flap is brought
+around the side of the penis to its ventral surface   Chordee without hypospadias
+and sutured to the urethral plate (Figure 16.10b,     (Figure 16.11)
+c). Once the neourethra has been created, the
+subcutaneous pedicle is anchored to the tunica        In most cases this is a misnomer since they do in
+albuginea lateral to the urethral anastomosis         fact represent a form of hypospadias in which the
+(Figure 16.10d). Occasionally, it is necessary to     distal penile urethra is flimsy, despite the presence
+218 Hypospadias
+
+
+
+
+Figure 16.8 Urethral repositioning, key steps in the MAGPI repair (see text for explanation).
+
+
+
+
+of a glanular meatus and circumferential prepuce.      Megameatus intact prepuce
+It may be possible to achieve good correction by       (Figure 16.12)
+degloving the shaft and excising chordee tissue
+while preserving an intact urethra. However, this      Because there is no external clue to the presence
+may not be possible if the urethra is flimsy and       of this variant it sometimes comes to light for
+cannot be preserved intact. In such cases it is nec-   the first time in a boy who is about to undergo
+essary to excise the abnormal urethral tissue back     circumcision for cultural or medical reasons.
+to healthy spongiosum-supported urethra and            In this situation a planned cultural circumci-
+proceed to perform a urethroplasty as if it were       sion should be completed. If the circumcision
+the corresponding degree of true hypospadias.          is being performed for medical reasons the
+                                    Specific surgical principles / Common Variants of Hypospadias 219
+
+
+
+
+Figure 16.9 Key steps in the perimeatal-based flap (Mathieu) repair (see text for explanation).
+220 Hypospadias
+
+
+
+
+Figure 16.10 Key steps in pedicle flap repair (see text for explanation).
+
+
+surgeon should ideally explain the findings to          using locally available skin may suffice, but where
+the parents and seek their guidance before pro-         there is extensive scarring and, particularly in the
+ceeding. If the parents opt for surgical correc-        presence of residual chordee, it is usually prefer-
+tion of the glanular defect, referral to a specialist   able to abandon the unhealthy existing neoure-
+is advisable.                                           thra and perform a substitution procedure with
+    “Salvage” or “redo” surgery often calls for inge-   an onlay or tubularized free graft. Postauricular
+nuity and familiarity with a number of different        skin is suitable, but buccal mucosa, harvested
+techniques. Where the neourethra is largely intact      from the lower lip (Figure 16.13) or cheek, is more
+and the surrounding skin is healthy, a procedure        widely used for this purpose.
+                                            General surgical principles / Hormone Administration 221
+
+
+
+
+                                                   Figure 16.13 Buccal mucosa graft – site on buc-
+Figure 16.11 Chordee without hypospadias.          cal aspect of the lower lip marked out prior to
+                                                   harvesting of the buccal skin graft for salvage
+                                                   repair.
+
+ GENERAL SURGICAL
+ PRINCIPLES                                        Hormone Administration
+                                                   Anatomic factors such as glans width and devel-
+Magnification                                      opment of the urethral plate have been shown
+Most surgeons now use standard operating           to correlate with surgical outcomes with a glans
+loupes, which are easy to use and provide magni-   width ≤14 mm being associated with an increased
+fication in the range 2.5–4.5×.                    risk of complications. Some surgeons administer
+
+
+
+
+Figure 16.12 Megameatus intact prepuce variant (a) normal external appearances before the
+­prepuce is retracted, (b) glanular anomaly revealed by retraction of the prepuce, deep glans
+groove with “fish mouth” megameatus.
+222 Hypospadias
+
+
+
+preoperative testosterone to increase penile          Urinary Drainage
+length, glans circumference, and tissue vascu-
+larity. However, due to paucity of literature and     The indications for postoperative urinary diver-
+insufficient evidence, we do not advocate its use.    sion depend upon the type of reconstruction
+                                                      and patient’s age. No stent is necessary in many
+Sutures                                               infants under 12 months of age undergoing sur-
+                                                      gery for distal hypospadias. Stenting can also be
+The suture material should be fine gauge,             avoided after the most minor type of repair.
+absorbable, and easy to use. We currently pre-           In general, however, postoperative drainage
+fer 7-0 or 6-0 polydioxanone (PDS): these fine        takes the form of a 6–8 Fr dripping stent. Use
+absorbable monofilament sutures provide excel-        of a standard Foley indwelling urinary catheter
+lent strength and are absorbed before suture          carries the concern that the deflated balloon
+tracts are formed.                                    might distend or disrupt the delicate suture lines
+                                                      of the anastomosis when the catheter is being
+Hemostasis                                            withdrawn.
+
+A bloodless operating field is essential for hypo-
+spadias surgery. It can be achieved by using one of
+                                                      Dressing
+the three following techniques:                       The dressing serves many purposes, which ide-
+                                                      ally include gentle compression of the penis to
+●● A tourniquet at the base of the penis. Care        reduce hemorrhage and edema, immobilization,
+   must be taken not to leave the tourniquet for      protecting the penis from contact and reducing
+   too long because of the theoretical risk of        postoperative pain. Many dressings are available
+   reperfusion injury.                                and are subject to preference of the surgeon. The
+●● Adrenaline 1:100 000 can be used, up to a
+                                                      dressings stay in place for between 2 and 7 days,
+   maximum dose of 10 mg/kg. Although there           depending on the complexity of the repair.
+   is a theoretical risk that excessive vasocon-
+   striction might compromise the vascularity
+   of skin flaps, there is no evidence that this
+   occurs in practice.                                 OUTCOME
+●● Bipolar diathermy is generally preferred, but
+
+   the safe use of modern monopolar diathermy         The results of hypospadias repair reflect the sever-
+   has been described. Diathermy may be inad-         ity of the original defect and the type of operation
+   equate to control bleeding from the glans.         performed.
+   It is currently our policy to use a tourniquet
+   followed by a compressive dressing at the end
+   of the operation.                                  Tubularization of the Urethral Plate
+                                                      The technique of tubularization, as originally
+Antibiotics                                           described by Duplay, has an overall secondary
+                                                      operation rate of around 10%, principally for ure-
+Practice varies with respect to the use of prophy-    thral fistula. It has the advantage of creating a slit-
+lactic antibiotics. Whilst some surgeons do not       like meatus, with a more normal and acceptable
+routinely use any covering antibiotic, others favor   cosmetic appearance. The functional and cos-
+a course of prophylactic antibiotic for the period    metic outcomes following the Snodgrass repair
+while the catheter or stent is in situ. Recent pub-   (tubularized incised plate, TIP ) appear to be at
+lished evidence suggests that prophylactic antibi-    least as good. Re-operation rates following correc-
+otic coverage may be unnecessary.                     tion of distal hypospadias are approximately 5%
+                                                                   Outcome / Psychosexual Outcome 223
+
+
+
+but rise to 50% for proximal hypospadias and 23%        Urethral Advancement
+following secondary repairs. Urethrocutaneous
+fistula is the commonest complication but the           Duckett reported his experience with the MAGPI
+incidence can be significantly reduced with tech-       procedure for the correction of glanular hypo-
+nical modifications such as the use of “water-          spadias in his series of over 1000 patients. Of
+proofing” flaps and two layer closure. Concerns         these, only 1.2% required a secondary procedure.
+have been expressed about the potential long-           Partial meatal regression is, however, a relatively
+term risk of stenosis as a consequence of scar-         common problem with this procedure and leads
+ring and contraction in the incised portion of the      to an inferior cosmetic result.
+urethral plate. However, emerging long-term data
+indicate that although urinary flow rates may be        Pedicle Flaps
+somewhat reduced, clinically significant stenosis
+is relatively rare and only a small percentage of       In the Mathieu repair distal strictures are rare
+patients will require dilatation.                       (1%) and fistulae occur in approximately 4% of
+                                                        cases. However, the meatus is often crescentic in
+                                                        appearance, giving a poor cosmetic result. Wide
+Two-Stage Repair                                        glans mobilization and a midline dorsal incision
+Bracka has reviewed his personal series of 600          of the urethral plate may reduce this problem.
+patients managed by two-stage repair. In the
+majority of cases the neourethra had been fash-         Preputial Flaps
+ioned from a free graft derived from inner pre-
+putial skin. The first-stage operation required         This method of repair is often reserved for the
+revision in 4% of patients for persistent chordee or    more complex cases of hypospadias: conse-
+to increase the area of meatal skin. The overall fis-   quently, the rate of complications is higher. There
+tula rate following the second procedure was 6%,        is wide variability in the published fistula rate,
+with “redo” or “salvage” repairs having a higher        from 4% to 69%.
+fistula rate of 10% (compared with 3% for primary
+procedures). A higher fistula rate was encountered      Psychosexual Outcome
+in patients operated on in the earlier part of the
+series before the use of a vascularized dartos flap     Sexual function following successful hypo-
+between neourethra and the skin to “waterproof”         spadias correction should be unaffected, with
+the suture line. Urethral stenosis occurred in 7%       normal erectile function and normal prospects
+of patients. This figure was attributable, in part,     of fertility, providing the patient does not have
+to balanitis xerotica obliterans. Long-term func-       coexisting undescended testes. Studies have
+tional outcomes in patients following a two-stage       found that the majority of men (80%) report sat-
+repair have recently been reported by a number of       isfactory sexual function, but they may be more
+centers. Up to 40% of patients report spraying of       apprehensive to seek out sexual contact. The
+the urinary stream and some described having to         literature on long-term psychosocial and psy-
+“milk” the penis following voiding to empty the         chosexual outcome of men who have undergone
+neourethra to avoid postvoid dribbling. In one          hypospadias surgery is generally reassuring, with
+study of the functional outcome in 43 adults fol-       >70% satisfied with the cosmetic appearance.
+lowing reconstruction with buccal mucosal grafts,       However, this figure is reduced by comparison
+seven (16%) had urinary symptoms, of whom two           with normal controls. There are only very limited
+had experienced severe urinary symptoms. In all,        data comparing psychosexual outcomes of men
+26% of patients described problems with urinary         who had undergone correction of their hypospa-
+spraying. This technique does, however, give an         dias in childhood with men whose hypospadias
+excellent cosmetic result.                              remained uncorrected.
+224 Hypospadias
+
+
+
+   Men who had no recollection of their surgery       common. Their incidence is determined by the
+had an improved body image and greater satis-         initial severity of the hypospadias, the choice of
+faction with their overall appearance when com-       procedure and the skill and experience of the
+pared with men who could remember having              surgeon.
+undergone hypospadias surgery. Awareness of
+the genitals may begin at 18 months, which is why     Fistula
+surgical correction is generally recommended
+before this age.                                      Fistulae are the most common complications
+                                                      following hypospadias surgery and can occur
+                                                      in up to 4–50% of patients. Some fistulae are
+                                                      immediately apparent following removal of the
+ COMPLICATIONS                                        catheter but others may not develop until many
+                                                      years after the repair. The location of a hypospa-
+Distal hypospadias repair has a quoted complica-      dias fistula varies, but it is often just proximal
+tion rate ranging from 5–10%. By contrast, com-       to the junction of the glans and penile shaft.
+plication rates following surgery for proximal        The occasional occurrence of large or multiple
+hypospadias can range from 15% to as high as          fistulae usually indicates that the original ure-
+90%. Even in high volume centers treating large       throplasty was unsatisfactory and will need to
+numbers of hypospadias patients this statistic        be repeated.
+holds true. For example, a recent study published         Before attempting to repair a fistula, it is
+from the Children’s Hospital of Philadelphia          imperative to exclude meatal and/or distal ure-
+reported a 45% complication rate following cor-       thral strictures since the presence of distal
+rection proximal hypospadias. Every subsequent        obstruction will predispose to recurrence of the
+redo urethroplasty is associated with a higher risk   fistula. Fistulae are sometimes associated with
+of complications.                                     urethral diverticula, which should be excised at
+                                                      the time of the fistula repair.
+                                                          Repair of hypospadias fistulae should not
+Early                                                 be dismissed lightly and some published series
+                                                      have reported a 50% recurrence rate after fistula
+Because of the vascularity of the penis, postoper-    closure. The timing of surgery is important and
+ative hemorrhage can often be a concern. For this     although early closure was favored in the past it
+reason, most surgeons favor the use of some form      is now recommended that an interval of at least
+of compressive dressing or bandage to reduce the      6 months should be allowed to elapse between
+risk of bleeding and hematoma formation and to        the original repair and fistula closure. Many
+alleviate postoperative edema. It is particularly     techniques have been described. Simple closure,
+important to minimize hematoma formation, as          consisting of freshening and then closing the
+this can act as a focus for infection and subse-      fistula edges and the overlying skin, is associ-
+quent fistula formation. Most complications fol-      ated with a high recurrence rate and is not rec-
+lowing hypospadias surgery arise within the first     ommended by the authors. A flap-based repair
+year, with a reported 64% of complications being      has also been described, in which the fistula is
+already present at the first postoperative visit.
+                                                      dissected down to the urethra and the urethral
+Complete dehiscence of the repair is fortunately
+                                                      defect closed by inserting absorbable sutures.
+rare, but when it does occur the subsequent sec-
+                                                      A flap of skin is then formed – from which a
+ondary or “salvage” repair is a daunting task.
+                                                      vascularized subcutaneous layer is created and
+                                                      placed over the urethral repair. Once the ure-
+Late                                                  thra is covered, the skin flap is advanced to
+                                                      close the skin defect. Although more complex,
+The long-term complications of hypospa-               this technique is more effective, with a 90% suc-
+dias surgery are well known and, sadly, all too       cess rate.
+                                                                         Complications / Urethrocele 225
+
+
+
+    In some cases, the fistula is very large and       Proximal stenosis is a serious complication
+represents a failure of the original urethroplasty.    which, if severe, often requires complete recon-
+Surgery which is limited to fistula closure in these   struction of the urethra. An obstructive pattern
+cases is generally doomed to failure, and a for-       can frequently be seen on urinary flowmetry after
+mal repeat urethroplasty is required to achieve        tubularized incised plate (TIP) urethroplasty but
+a satisfactory result. Whether is necessary to         this does not necessarily denote clinically signifi-
+use a urinary catheter following fistula repair        cant obstruction.
+is much debated and the reported success rates
+seem similar regardless of whether or not a cath-
+eter was used to divert the urine postoperatively.     Persistent Chordee
+Therefore, unless there is some doubt about post-
+operative voiding it is usually possible to perform    The persistence of penile chordee after hypospa-
+a fistula repair without leaving a urethral catheter   dias repair may be due to inadequate correction at
+for postoperative drainage of the bladder.             the time of the original repair. In rare cases, how-
+                                                       ever, it may be the consequence of postoperative
+                                                       fibrosis. In the correction of persistent chordee
+Meatal Stenosis                                        the first step is to deglove the penis completely to
+Meatal stenosis (<8 Fr caliber) can result from;       exclude skin tethering as the cause. If true chor-
+ischemia of glans flaps, an inadequately mobi-         dee is found to be present after this maneuver,
+lized glans wrap or extending the tubularization       dorsal plication of the tunica albuginea is usually
+of the neo urethra too far distally on the glans.      sufficient to correct it.
+It typically presents with difficulty voiding, a
+narrowed urinary stream or spraying. In some
+patients, however, it may present with urinary         Balanitis Xerotica Obliterans
+tract infections secondary to incomplete blad-         This rare complication caused by chronic inflam-
+der emptying due to obstructed voiding. Meatal         mation and fibrosis of the glans and meatus
+stenosis can be treated initially with gentle          results in scarring and meatal stenosis. Topical
+dilatation of the meatus. Although this can be         steroids help in some patients, but the major-
+accomplished as an outpatient procedure using a        ity requires a formal meatoplasty to correct the
+fine-tipped catheter in minor degrees of stenosis,     stenosis.
+dilatation under general anesthesia is required
+for moderate or severe degrees of stenosis. When
+dilatation alone will not suffice, formal mea-         Urethrocele
+totomy is generally successful – although pub-
+lished outcome data following this procedure are       This term refers to a dilated, “baggy” sec-
+limited.                                               tion of neourethra, often resulting from distal
+                                                       obstruction that gives rise to “back pressure”
+Urethral Stenosis                                      distension of the proximal neourethra. It may
+                                                       also be secondary to an absence or deficiency of
+Urethral stenosis has become a rare complication       supportive corpus spongiosum tissue. The vari-
+because modern procedures avoid a circular (cir-       ous presentations of a urethrocele include; poor
+cumferential) anastomosis. Although strictures         urinary stream, postvoid dribbling, urinary
+can occur at any point along the length of the ure-    tract infections, swelling of the ventral aspect
+throplasty they most commonly occur at the dis-        of the penis at the time of voiding and urethral
+tal and proximal ends of the neourethra. Distal        calculi secondary to stasis. Surgical treatment
+stenosis is often associated with a fistula and can    requires excision of the redundant urethral
+usually be treated with regular dilatation but in      tissue and treatment of any distal stenosis as
+severe cases a formal surgical repair is necessary.    necessary.
+226 Hypospadias
+
+
+
+                                                  FURTHER READING
+   KEY POINTS
+                                                  Baskin LS. Hypospadias. In: Stringer MD,
+  ●● Despite advances in technique, instru-          Oldham KT, Mouriquand PDE (eds), Pediatric
+     mentation and aftercare, the correc-            Surgery and Urology: Long-Term Outcomes.
+     tion of hypospadias remains one of the          Cambridge: Cambridge University Press,
+     most technically challenging aspects of         2006: 611–620.
+     pediatric urology.                           Bouty A, Ayers KL, Pask A, Heloury Y, Sinclair
+  ●● There is no place for the “occasional”          AH. The genetic and environmental fac-
+     hypospadias surgeon, even in the cor-           tors underlying hypospadias. Sex Dev.
+     rection of so-called “minor” hypospa-           2015;9(5):239–259.
+     dias. Surgeons should have a detailed        Bracka A. Hypospadias repair: the two-stage
+     understanding of the various concepts           alternative. Br J Urol. 1995;76 (Suppl
+     and surgical techniques and maintain            3):31–41.
+     a clinical workload that is sufficient to    Mouriquand PDE, Persad R, Sharma S.
+     obtain consistently good results.               Hypospadias repair: current principles and
+  ●● Preservation of the urethral plate is           procedures. Br J Urol. 1995;76(Suppl 3):9–22.
+     the keystone of modern single-stage          Rynja SP, de Jong TP, Bosch JL, de Kort LM.
+     procedures. However, there has been a           Functional, cosmetic, and psychosexual
+     recent revival of the two-stage free flap       results in adult men who underwent hypo-
+     technique for more complex cases.               spadias correction in childhood. J Pediatr
+  ●● Reporting of complications is evolving          Urol. 2011;7(5):504–515.
+     as definitions are changing and patients     Van der Horst HJR, de Wall LL. Hypospadias,
+     are being followed longer postopera-            all there is to know. Eur J Pediatr.
+     tively. This may lead to increases in           2017;176(4):435–441.
+     complication rates being published.          Wilcox D, Snodgrass W. Long-term outcome
+  ●● With improving functional results the           following hypospadias repair. World J Urol.
+     challenge is now to obtain the optimal          2006;24(3):240–243.
+     cosmetic result to provide patients
+     with a penis of normal appearance
+     regardless of the severity of the original
+     abnormality.

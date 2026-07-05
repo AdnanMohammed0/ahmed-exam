@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch25-Q01",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 1,
+    "stem": "A 3-year-old girl is found to have a thin greyish midline band of tissue partially covering the vaginal introitus during a well-child examination. Lateral traction on the labia majora reveals a translucent avascular line in the midline. The child is otherwise asymptomatic. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Imperforate hymen" },
+      { "id": "b", "text": "Labial adhesion" },
+      { "id": "c", "text": "Lichen sclerosus" },
+      { "id": "d", "text": "Transverse vaginal septum" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Labial adhesions (agglutination) present as a midline avascular band of tissue when lateral traction is applied to the labia majora, ranging from partial to complete occlusion of the introitus. They are most common between 3 months and 3 years of age and are often asymptomatic, discovered incidentally during routine examination.",
+    "topic": "Labial Adhesions"
+  },
+  {
+    "id": "ch25-Q02",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 2,
+    "stem": "An 8-year-old girl presents with intense genital itching and perianal discomfort. On examination, hypopigmented skin in a figure-of-eight pattern surrounding the vestibule and anus is noted, with thinning of the vulvar skin resembling parchment paper. What is the recommended first-line treatment?",
+    "options": [
+      { "id": "a", "text": "High-potency topical steroid ointment tapered over 2–3 months" },
+      { "id": "b", "text": "Topical estrogen cream applied twice daily for 2 weeks" },
+      { "id": "c", "text": "Oral amoxicillin for 7 days" },
+      { "id": "d", "text": "Surgical excision of affected skin" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Prepubertal lichen sclerosus is treated with a course of topical steroids over 2–3 months, starting with a high-potency steroid ointment (e.g., clobetasol propionate 0.05%) and then titrating down to a lower potency steroid. Surgery is reserved for symptomatic adhesions or scarring only.",
+    "topic": "Lichen Sclerosus"
+  },
+  {
+    "id": "ch25-Q03",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 3,
+    "stem": "A 5-year-old girl presents with vulvar redness, soreness, and a thin vaginal discharge. Her mother reports she has been wiping herself after bowel movements and occasionally uses bubble bath. What is the most likely cause of her symptoms?",
+    "options": [
+      { "id": "a", "text": "Candida albicans infection" },
+      { "id": "b", "text": "Chlamydia trachomatis infection" },
+      { "id": "c", "text": "Non-specific vulvovaginitis due to irritants and poor hygiene" },
+      { "id": "d", "text": "Lichen sclerosus" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The majority of vulvovaginitis in prepubertal girls is non-specific, caused by anatomical factors (thin vaginal mucosa, alkaline pH, close proximity to anus) and behavioral factors such as poor hand washing, incorrect wiping, and exposure to irritants like bubble bath. Yeast infection is rare in toilet-trained prepubertal girls due to the unestrogenized, alkaline vaginal environment.",
+    "topic": "Vulvovaginitis"
+  },
+  {
+    "id": "ch25-Q04",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 4,
+    "stem": "A 14-year-old girl presents with a 6-month history of cyclic lower abdominal pain and has never menstruated. On physical examination, a bulging bluish membrane is noted at the introitus. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome" },
+      { "id": "b", "text": "Imperforate hymen" },
+      { "id": "c", "text": "Transverse vaginal septum" },
+      { "id": "d", "text": "Complete androgen insensitivity syndrome" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Imperforate hymen typically presents in early adolescence with primary amenorrhea and cyclic abdominal pain due to hematometrocolpos. A bulging hymenal membrane at the perineum is a classic physical finding, distinguishing it from a transverse vaginal septum (no bulging at perineum) and MRKH (normal external genitalia with a blind-ending vagina).",
+    "topic": "Imperforate Hymen"
+  },
+  {
+    "id": "ch25-Q05",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 5,
+    "stem": "A 16-year-old girl presents with primary amenorrhea. She has normal breast development (Tanner stage V) and normal external genitalia with a blind-ending vaginal pouch. Pelvic MRI reveals absence of the uterus and upper vagina. Ovaries are present bilaterally. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Imperforate hymen" },
+      { "id": "b", "text": "Transverse vaginal septum" },
+      { "id": "c", "text": "Complete androgen insensitivity syndrome" },
+      { "id": "d", "text": "Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "MRKH syndrome (Müllerian agenesis) results from failed development of the Müllerian ducts, occurring in ~1 in 4,500 female births. It presents with primary amenorrhea in a phenotypically normal female with normal pubertal development, absent uterus, and underdeveloped upper vagina. Ovaries are present and functional, distinguishing it from CAIS (which has absent ovaries/testes with androgen insensitivity).",
+    "topic": "MRKH Syndrome"
+  },
+  {
+    "id": "ch25-Q06",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 6,
+    "stem": "A 13-year-old girl presents to the emergency department with acute onset of severe right lower quadrant pain, nausea, and vomiting. The pain started suddenly 3 hours ago. On examination, there is marked tenderness with rebound and guarding. Ultrasound shows an enlarged right adnexa with peripheral cysts and centralized edema. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Proceed to diagnostic laparoscopy with detorsion and ovarian preservation" },
+      { "id": "b", "text": "Schedule for salpingo-oophorectomy" },
+      { "id": "c", "text": "Observe with pain management and repeat ultrasound in 6 hours" },
+      { "id": "d", "text": "Start broad-spectrum antibiotics for pelvic inflammatory disease" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Ovarian torsion is a surgical emergency. The clinical presentation of acute pelvic pain, nausea, vomiting, and peritoneal signs with suggestive ultrasound findings warrants diagnostic laparoscopy. Ovarian preservation (detorsion) is recommended because the intraoperative appearance of the adnexa does not reliably predict irreversible ischemic damage. A low threshold for laparoscopy is essential.",
+    "topic": "Ovarian Torsion"
+  },
+  {
+    "id": "ch25-Q07",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 7,
+    "stem": "A 17-year-old girl expresses concern about the appearance of her labia minora, which she feels are enlarged. She reports occasional irritation during exercise but no pain. On measurement, the labia minora protrude 5 cm from the vestibule. According to the chapter, what width is generally considered hypertrophied?",
+    "options": [
+      { "id": "a", "text": "Greater than 3 cm" },
+      { "id": "b", "text": "Greater than 4 cm" },
+      { "id": "c", "text": "Greater than 5 cm" },
+      { "id": "d", "text": "Greater than 7 cm" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The width or protrusion of the labia minora in adolescent females can range from a few millimeters to several centimeters. In general, a width of greater than 5–6 cm is considered hypertrophied. Clinicians should first reassure patients about normal variation before considering any intervention.",
+    "topic": "Labial Hypertrophy"
+  },
+  {
+    "id": "ch25-Q08",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 8,
+    "stem": "A 15-year-old girl presents with primary amenorrhea and worsening cyclical pelvic pain over 8 months. On examination, there is no bulging hymen or vaginal mass visible at the perineum. Pelvic MRI shows a complete vaginal septum in the mid-vagina with hematocolpos above it. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Imperforate hymen" },
+      { "id": "b", "text": "Complete transverse vaginal septum" },
+      { "id": "c", "text": "Obstructed hemi-vagina" },
+      { "id": "d", "text": "Longitudinal vaginal septum" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A complete transverse vaginal septum presents similarly to imperforate hymen (primary amenorrhea, cyclical pain, hematocolpos), but crucially, no bulging hymen is visible on the perineum because the septum is located higher in the vagina. It results from failed fusion of the vaginal plate and Müllerian ducts and can occur anywhere along the vaginal length.",
+    "topic": "Transverse Vaginal Septum"
+  },
+  {
+    "id": "ch25-Q09",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 9,
+    "stem": "A 14-year-old girl presents with worsening dysmenorrhea beginning 6 months after menarche. She has regular periods. On bimanual examination, a lateral vaginal bulge is palpated. MRI reveals a didelphys uterus and an obstructed right hemi-vagina with ipsilateral renal agenesis. What is the most appropriate definitive treatment?",
+    "options": [
+      { "id": "a", "text": "Surgical resection of the obstructing vaginal septum" },
+      { "id": "b", "text": "Hysterectomy of the didelphys uterus" },
+      { "id": "c", "text": "Menstrual suppression with continuous oral contraceptives" },
+      { "id": "d", "text": "Vaginal dilation therapy" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "OHVIRA syndrome (Obstructed Hemi-Vagina with Ipsilateral Renal Anomaly) consists of didelphys uterus, obstructed hemi-vagina, and ipsilateral renal anomalies. Patients present with normal menarche but worsening dysmenorrhea. Definitive treatment is surgical resection of the obstructing septum. Hemi-hysterectomy may be needed if the septum is high or incompletely excised.",
+    "topic": "OHVIRA"
+  },
+  {
+    "id": "ch25-Q10",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 10,
+    "stem": "An ultrasound of a 17-year-old girl with pelvic pain reveals a complex cystic lesion containing sebaceous fluid, hair, and calcifications. The cyst is 6 cm in diameter. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Endometrioma" },
+      { "id": "b", "text": "Functional ovarian cyst" },
+      { "id": "c", "text": "Mucinous cystadenoma" },
+      { "id": "d", "text": "Mature cystic teratoma (dermoid cyst)" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Mature teratomas (dermoid cysts) are the most common germ cell tumor in adolescence and have characteristic ultrasound appearances due to the presence of sebaceous fluid, hair, and calcifications. They are bilateral in 10–15% of cases and are managed with ovarian cystectomy when large or symptomatic.",
+    "topic": "Mature Teratoma"
+  },
+  {
+    "id": "ch25-Q11",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 11,
+    "stem": "A 9-year-old girl with lichen sclerosus has completed a course of topical steroids with good resolution of symptoms. Her mother asks about the long-term outlook. What should the clinician advise regarding the natural history of prepubertal lichen sclerosus?",
+    "options": [
+      { "id": "a", "text": "It always resolves completely by menarche" },
+      { "id": "b", "text": "It is associated with a high risk of vulvar carcinoma in adolescence" },
+      { "id": "c", "text": "Many patients experience persistent signs or symptoms into adolescence" },
+      { "id": "d", "text": "It typically evolves into vulvar psoriasis" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Prepubertal lichen sclerosus was previously thought to resolve during puberty with endogenous estrogen production, but several reports have shown that many patients experience persistent signs or symptoms in adolescence. The risk of malignancy associated with prepubertal lichen sclerosus has not been established, unlike in postmenopausal women where there is an increased risk of vulvar squamous cell carcinoma.",
+    "topic": "Lichen Sclerosus"
+  },
+  {
+    "id": "ch25-Q12",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 12,
+    "stem": "A 4-year-old girl has recurrent episodes of vulvar redness and discharge. Her mother asks about preventive measures. According to the vulvar hygiene recommendations, which of the following should be advised?",
+    "options": [
+      { "id": "a", "text": "Use scented soap for thorough cleansing" },
+      { "id": "b", "text": "Wear plain white cotton underwear and use unscented detergent" },
+      { "id": "c", "text": "Apply topical antibiotic cream daily" },
+      { "id": "d", "text": "Use bubble baths to keep the area clean" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Vulvar hygiene recommendations include wearing plain white cotton underwear, using unscented detergent, avoiding irritants including bubble bath or scented soaps, changing quickly out of wet clothing, and wiping front to back after bowel movements. Non-medicated barrier cream can be applied, but antibiotic creams are not recommended for prevention.",
+    "topic": "Vulvovaginitis"
+  },
+  {
+    "id": "ch25-Q13",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 13,
+    "stem": "A 2-year-old girl is noted to have extensive labial adhesions with only a pinpoint opening. She has had two urinary tract infections in the past 6 months. What is the recommended first-line medical management?",
+    "options": [
+      { "id": "a", "text": "Topical estrogen applied twice daily for 2 weeks" },
+      { "id": "b", "text": "Immediate manual separation in the clinic" },
+      { "id": "c", "text": "Topical antifungal cream for 7 days" },
+      { "id": "d", "text": "Oral amoxicillin prophylaxis" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "For symptomatic labial adhesions, first-line treatment is topical estrogen applied twice daily for 2 weeks. A small pea-sized amount is applied to the adhesion line. Topical estrogen is well tolerated with minimal systemic effects. Manual separation or sharp dissection is reserved for cases refractory to medical management.",
+    "topic": "Labial Adhesions"
+  },
+  {
+    "id": "ch25-Q14",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 14,
+    "stem": "A 16-year-old girl requests labiaplasty because she is unhappy with the appearance of her labia minora. On examination, the labia minora protrude 3.5 cm from the vestibule and she has no functional symptoms. According to best practice guidelines, what is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Perform wedge resection labiaplasty" },
+      { "id": "b", "text": "Perform free edge amputation labiaplasty" },
+      { "id": "c", "text": "Refer for cognitive behavioral therapy" },
+      { "id": "d", "text": "Reassure and educate about normal anatomic variation; avoid surgery" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "In the United States and many European countries, female genital surgery in children is legally prohibited unless there are valid medical indications. Surgical intervention (labiaplasty) should not be performed for cosmetic reasons in patients under 18 years of age. Labiaplasty should only be considered for patients with labial enlargement outside the typical range (>5 cm) and whose functional symptoms are not relieved by supportive measures.",
+    "topic": "Labial Hypertrophy"
+  },
+  {
+    "id": "ch25-Q15",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 15,
+    "stem": "A 15-year-old girl reports difficulty removing tampons, noting that they occasionally get \"stuck\" and she has to tug to retrieve them. She has regular, painless menstruation. On examination, a band of hymenal tissue is noted dividing the vaginal orifice. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Imperforate hymen" },
+      { "id": "b", "text": "Septate hymen" },
+      { "id": "c", "text": "Microperforate hymen" },
+      { "id": "d", "text": "Cribiform hymen" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A septate hymen is the most common hymenal anomaly. Patients typically have normal menstruation but may report difficulty removing tampons, which remain stuck behind a hymenal band. The examination reveals a band of tissue dividing the hymenal opening, distinguishing it from microperforate or cribiform variants.",
+    "topic": "Hymenal Anomalies"
+  },
+  {
+    "id": "ch25-Q16",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 16,
+    "stem": "A 17-year-old phenotypically female patient presents with primary amenorrhea. She has Tanner stage V breast development. External genitalia appear normal with a blind-ending vaginal pouch. Chromosomal analysis reveals 46,XX and plasma testosterone is within normal female range. Pelvic MRI shows absent uterus. What is the definitive diagnosis?",
+    "options": [
+      { "id": "a", "text": "Complete androgen insensitivity syndrome" },
+      { "id": "b", "text": "5-alpha-reductase deficiency" },
+      { "id": "c", "text": "Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome" },
+      { "id": "d", "text": "Swyer syndrome" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "MRKH is confirmed by the combination of pelvic imaging showing absent uterus, normal ovaries, 46,XX karyotype, and normal female testosterone levels. This workup distinguishes MRKH from complete androgen insensitivity syndrome (CAIS), which would show 46,XY karyotype and elevated male-range testosterone in a phenotypic female.",
+    "topic": "MRKH Syndrome"
+  },
+  {
+    "id": "ch25-Q17",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 17,
+    "stem": "A 16-year-old girl experiences acute right lower quadrant pain during ovulation. Ultrasound reveals a 3 cm simple, thin-walled, unilocular cyst. She is hemodynamically stable and pain resolves with oral analgesics. Repeat ultrasound in 4 weeks shows complete resolution of the cyst. What was the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Functional ovarian cyst (follicular cyst)" },
+      { "id": "b", "text": "Mature teratoma" },
+      { "id": "c", "text": "Endometrioma" },
+      { "id": "d", "text": "Serous cystadenoma" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Functional ovarian cysts (follicular or corpus luteum cysts) arise during ovulation. Follicular cysts are simple, thin-walled cysts that typically resolve spontaneously within 2–8 weeks. Surgical intervention is not indicated. Hormonal contraception can be used to prevent recurrence if needed.",
+    "topic": "Functional Ovarian Cysts"
+  },
+  {
+    "id": "ch25-Q18",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 18,
+    "stem": "An adolescent girl presents with acute onset of severe left-sided pelvic pain and vomiting. Ultrasound shows an enlarged left ovary with a \"whirlpool\" sign of the vascular pedicle. Doppler demonstrates both arterial and venous blood flow within the ovary. What is the most appropriate next step?",
+    "options": [
+      { "id": "a", "text": "Reassure that blood flow rules out torsion" },
+      { "id": "b", "text": "Schedule elective cystectomy in 4–6 weeks" },
+      { "id": "c", "text": "Start gonadotropin-releasing hormone agonist" },
+      { "id": "d", "text": "Proceed to diagnostic laparoscopy" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The presence of arterial blood flow on Doppler does NOT rule out ovarian torsion. The diagnosis of torsion should be suspected based on clinical history and examination, and clinicians should have a low threshold for proceeding to diagnostic laparoscopy. Ultrasound findings such as enlarged adnexa and the \"whirlpool\" sign support the diagnosis but absence of Doppler flow abnormalities does not exclude it.",
+    "topic": "Ovarian Torsion"
+  },
+  {
+    "id": "ch25-Q19",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 19,
+    "stem": "A 7-year-old girl presents with genital itching and a superficial break in the perineal skin. On examination, there is a hypopigmented figure-of-eight pattern around the vestibule and anus with subepithelial hemorrhages. Which condition can this finding be mistaken for by those unfamiliar with it?",
+    "options": [
+      { "id": "a", "text": "Sexually transmitted infection" },
+      { "id": "b", "text": "Genital trauma or abuse" },
+      { "id": "c", "text": "Lichen planus" },
+      { "id": "d", "text": "Vulvar psoriasis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The appearances of genital ecchymosis and bleeding in prepubertal lichen sclerosus can sometimes raise concerns regarding genital trauma or abuse. The classic hypopigmented figure-of-eight pattern surrounding the vestibule and anus, with parchment-like skin, is diagnostic. Lichen sclerosus should be considered in the differential of perineal findings that might otherwise be attributed to trauma.",
+    "topic": "Lichen Sclerosus"
+  },
+  {
+    "id": "ch25-Q20",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 20,
+    "stem": "A 6-year-old girl with persistent vaginal discharge and odor has been treated with a course of oral amoxicillin without improvement. The discharge is now blood-tinged. What is the most appropriate next investigation?",
+    "options": [
+      { "id": "a", "text": "Vulvar biopsy" },
+      { "id": "b", "text": "Hormonal profile including estrogen level" },
+      { "id": "c", "text": "Vaginoscopy to look for a vaginal foreign body" },
+      { "id": "d", "text": "CT scan of the abdomen and pelvis" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Patients with foul-smelling, blood-tinged, or recurrent vaginal discharge that does not respond to typical treatments may need vaginoscopy to look for a possible vaginal foreign body. Vaginal foreign bodies are an important consideration in prepubertal girls with persistent or atypical discharge not responding to antibiotics.",
+    "topic": "Vulvovaginitis"
+  },
+  {
+    "id": "ch25-Q21",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 21,
+    "stem": "What is the most common age range for labial adhesions in girls?",
+    "options": [
+      { "id": "a", "text": "3 months to 3 years" },
+      { "id": "b", "text": "Birth to 6 months" },
+      { "id": "c", "text": "5 to 8 years" },
+      { "id": "d", "text": "10 to 14 years" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Labial adhesions are most common between 3 months and 3 years of age. They occur in response to vulvar irritation and low estrogen levels in this age group. The mucosal surfaces of the labia minora become inflamed and raw from irritation, then adhere together in the midline. Adhesions typically resolve spontaneously with the onset of endogenous estrogen production at puberty.",
+    "topic": "Labial Adhesions"
+  },
+  {
+    "id": "ch25-Q22",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 22,
+    "stem": "A 13-year-old girl presents with primary amenorrhea and a 4-month history of cyclic lower abdominal pain. She has an abdominal mass and on perineal inspection, a bulging, bluish membrane is seen at the introitus. What physical finding is most characteristic?",
+    "options": [
+      { "id": "a", "text": "A midline avascular band on lateral traction" },
+      { "id": "b", "text": "A bulging hymenal membrane" },
+      { "id": "c", "text": "A lateral vaginal wall bulge" },
+      { "id": "d", "text": "A vaginal septum dividing the canal" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Imperforate hymen presents with a bulging hymenal membrane at the perineum due to hematometrocolpos (accumulated menstrual blood behind the obstructed hymen). This is a key distinguishing feature from a transverse vaginal septum, where no bulging is visible at the perineum because the obstruction is higher in the vagina.",
+    "topic": "Imperforate Hymen"
+  },
+  {
+    "id": "ch25-Q23",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 23,
+    "stem": "A 19-year-old woman has regular periods but reports that she cannot use tampons and that her partner experiences discomfort during intercourse. On examination, a longitudinal band of tissue divides the vagina into two halves. The uterus is felt to be septate on bimanual examination. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Hysterectomy" },
+      { "id": "b", "text": "Vaginal dilation" },
+      { "id": "c", "text": "Menstrual suppression" },
+      { "id": "d", "text": "Resection of the longitudinal vaginal septum" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "A longitudinal vaginal septum is a non-obstructing anomaly resulting from failed fusion of the distal Müllerian ducts, typically associated with a didelphys or septate uterus. Symptomatic patients (unable to use tampons, dyspareunia, postcoital hemorrhage) should be offered septum resection. Asymptomatic patients do not require intervention.",
+    "topic": "Longitudinal Vaginal Septum"
+  },
+  {
+    "id": "ch25-Q24",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 24,
+    "stem": "A 17-year-old girl with known endometriosis has a 6 cm ovarian cyst found on surveillance ultrasound. The cyst appears complex with homogeneous low-level echoes and is multilocular. She reports persistent pelvic pain. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Hormonal suppression with oral contraceptives" },
+      { "id": "b", "text": "Expectant management with repeat ultrasound in 8 weeks" },
+      { "id": "c", "text": "Laparoscopic removal of the cyst" },
+      { "id": "d", "text": "Percutaneous drainage under ultrasound guidance" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Endometriomas do not resolve with hormonal management. Laparoscopic removal is indicated if the cyst is symptomatic or greater than 5 cm. On ultrasound, endometriomas appear as complex cystic lesions with homogeneous low-level echoes, and may be unilocular or multilocular.",
+    "topic": "Endometrioma"
+  },
+  {
+    "id": "ch25-Q25",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 25,
+    "stem": "A 16-year-old girl has a complex ovarian mass with both solid and cystic components. Tumor markers are ordered. Which combination of elevated tumor markers is most consistent with a malignant germ cell tumor?",
+    "options": [
+      { "id": "a", "text": "Alpha-fetoprotein (AFP) and lactate dehydrogenase (LDH)" },
+      { "id": "b", "text": "Cancer antigen 125 (CA-125) and inhibin" },
+      { "id": "c", "text": "Estradiol and progesterone" },
+      { "id": "d", "text": "Carcinoembryonic antigen (CEA) and CA 19-9" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Germ cell tumors, the most common ovarian malignancies in adolescence, are associated with elevated alpha-fetoprotein (AFP), lactate dehydrogenase (LDH), and human chorionic gonadotropin (HCG). Sex cord tumors are associated with inhibin A&B, estradiol, and testosterone. Epithelial tumors are associated with CA-125.",
+    "topic": "Ovarian Masses"
+  },
+  {
+    "id": "ch25-Q26",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 26,
+    "stem": "A 16-year-old girl is newly diagnosed with MRKH syndrome. What associated anomalies should be screened for?",
+    "options": [
+      { "id": "a", "text": "Cardiac anomalies and hearing loss" },
+      { "id": "b", "text": "Renal and skeletal anomalies" },
+      { "id": "c", "text": "Thyroid disease and diabetes mellitus" },
+      { "id": "d", "text": "Gastrointestinal malrotation and biliary atresia" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Associated renal and skeletal anomalies are common in MRKH syndrome. Screening should include a renal ultrasound scan and spinal X-ray. This reflects the embryologic relationship between the Müllerian ducts and the developing urinary tract and axial skeleton.",
+    "topic": "MRKH Syndrome"
+  },
+  {
+    "id": "ch25-Q27",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 27,
+    "stem": "A 16-year-old girl presents with bilateral labial enlargement. She reports discomfort during physical activity and difficulty with menstrual hygiene. On examination, both labia minora protrude approximately 6 cm from the vestibule. What functional symptoms are most commonly associated with labial hypertrophy?",
+    "options": [
+      { "id": "a", "text": "Urinary frequency, dysuria, and hematuria" },
+      { "id": "b", "text": "Primary amenorrhea and cyclic pain" },
+      { "id": "c", "text": "Vaginal discharge and pruritus" },
+      { "id": "d", "text": "Irritation, discomfort with movement, and interference with intercourse or hygiene" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Functional symptoms of labial hypertrophy include irritation, discomfort or pulling with movement, interference with intercourse, and difficulty with menstrual hygiene. Many patients, however, present primarily because of dissatisfaction with the appearance of their genitalia.",
+    "topic": "Labial Hypertrophy"
+  },
+  {
+    "id": "ch25-Q28",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 28,
+    "stem": "A 14-year-old girl undergoes resection of a thick mid-vaginal transverse septum. Post-operatively, what is recommended to prevent stenosis and recurrent obstruction?",
+    "options": [
+      { "id": "a", "text": "Long-term broad-spectrum antibiotics" },
+      { "id": "b", "text": "Monthly hymenal dilation in the clinic" },
+      { "id": "c", "text": "Post-operative vaginal dilation" },
+      { "id": "d", "text": "Placement of an intrauterine device" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Post-operative dilation is recommended after treatment of a transverse vaginal septum because of the higher risks of stenosis and recurrent obstruction. For this reason, the age and maturity of the patient should be considered before definitive surgical management. In contrast, post-operative dilation is not required after hymenectomy for imperforate hymen.",
+    "topic": "Transverse Vaginal Septum"
+  },
+  {
+    "id": "ch25-Q29",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 29,
+    "stem": "A 15-year-old girl presents with worsening dysmenorrhea 8 months after menarche. She has regular periods. Pelvic examination reveals a lateral vaginal wall bulge. MRI shows a didelphys uterus and an obstructed right hemi-vagina. What renal anomaly is most likely to be present?",
+    "options": [
+      { "id": "a", "text": "Ipsilateral renal agenesis" },
+      { "id": "b", "text": "Horseshoe kidney" },
+      { "id": "c", "text": "Crossed fused renal ectopia" },
+      { "id": "d", "text": "Bilateral renal dysplasia" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "OHVIRA syndrome (Obstructed Hemi-Vagina with Ipsilateral Renal Anomaly) characteristically includes a didelphys uterus, obstructed hemi-vagina, and ipsilateral renal anomaly (most commonly renal agenesis). The acronym OHVIRA itself highlights the association with ipsilateral renal anomalies.",
+    "topic": "OHVIRA"
+  },
+  {
+    "id": "ch25-Q30",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 30,
+    "stem": "During laparoscopic resection of a 7 cm dermoid cyst in a 17-year-old girl, the cyst ruptures and sebaceous contents spill into the peritoneal cavity. What is the most important immediate intraoperative measure to prevent a complication?",
+    "options": [
+      { "id": "a", "text": "Administer intravenous hydrocortisone" },
+      { "id": "b", "text": "Copious irrigation of the abdominal cavity and pelvis" },
+      { "id": "c", "text": "Place a drain in the pouch of Douglas" },
+      { "id": "d", "text": "Convert to laparotomy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "If dermoid cyst contents are spilled intraoperatively, the abdominal cavity and pelvis should be copiously irrigated to prevent chemical peritonitis. Dermoid cysts contain sebaceous fluid, hair, and other irritants that can cause a severe inflammatory reaction if left in the peritoneal cavity.",
+    "topic": "Mature Teratoma"
+  },
+  {
+    "id": "ch25-Q31",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 31,
+    "stem": "A 6-year-old girl is referred to a pediatric gynecologist with lichen sclerosus based on clinical findings. The referring physician requested a vulvar biopsy to confirm the diagnosis. What is the recommended approach to biopsy in prepubertal lichen sclerosus?",
+    "options": [
+      { "id": "a", "text": "Punch biopsy is mandatory before starting treatment" },
+      { "id": "b", "text": "Biopsy should be performed if topical steroids fail after 2 weeks" },
+      { "id": "c", "text": "Excisional biopsy of the affected area is recommended" },
+      { "id": "d", "text": "Vulvar biopsy is not routinely indicated; diagnosis is clinical" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Prepubertal lichen sclerosus can almost invariably be diagnosed on the basis of clinical history and examination of the external genitalia alone. Vulvar biopsy should not be routinely performed and is rarely indicated. This distinguishes it from adult lichen sclerosus where biopsy is more commonly considered.",
+    "topic": "Lichen Sclerosus"
+  },
+  {
+    "id": "ch25-Q32",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 32,
+    "stem": "A 5-year-old girl has had three episodes of vulvovaginitis in the past 6 months. Each episode was treated with oral amoxicillin with initial improvement, but symptoms recur. The current discharge is foul-smelling and blood-tinged. What should be suspected?",
+    "options": [
+      { "id": "a", "text": "Lichen sclerosus" },
+      { "id": "b", "text": "Candida overgrowth from antibiotics" },
+      { "id": "c", "text": "Vaginal foreign body" },
+      { "id": "d", "text": "Premature adrenarche" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Patients with foul-smelling, blood-tinged, or recurrent vaginal discharge which does not respond to typical treatments may have a vaginal foreign body and should undergo vaginoscopy. This is a classic clinical pearl in pediatric gynecology: persistent foul discharge unresponsive to antibiotics suggests a retained foreign body.",
+    "topic": "Vulvovaginitis"
+  },
+  {
+    "id": "ch25-Q33",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 33,
+    "stem": "After successful medical treatment of labial adhesions in a 2-year-old girl, the mother asks how to prevent recurrence. What should be recommended?",
+    "options": [
+      { "id": "a", "text": "Apply non-medicated barrier cream and maintain good vulvar hygiene" },
+      { "id": "b", "text": "Continue low-dose topical estrogen indefinitely" },
+      { "id": "c", "text": "Apply topical steroid twice weekly for maintenance" },
+      { "id": "d", "text": "Perform manual separation at home if adhesions recur" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "To prevent recurrence of labial adhesions, non-medicated barrier cream and vulvar hygiene are recommended. Recurrence is common after medical management, but barrier creams help maintain separation of the labial edges. Prolonged topical estrogen can cause side effects such as vulvar hyperpigmentation or breast budding.",
+    "topic": "Labial Adhesions"
+  },
+  {
+    "id": "ch25-Q34",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 34,
+    "stem": "A 14-year-old girl reports that she has normal monthly periods but finds it very difficult to insert tampons, experiencing pain with attempted insertion. On examination, there is a small pinpoint hymenal opening. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Imperforate hymen" },
+      { "id": "b", "text": "Microperforate hymen" },
+      { "id": "c", "text": "Septate hymen" },
+      { "id": "d", "text": "Cribiform hymen" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Microperforate hymen has a very small pinpoint opening, allowing normal menstruation but causing difficulty with tampon use. It is one of the partially occlusive hymenal anomalies (along with septate and cribiform), which are characterized by normal menstruation but potential difficulty with tampons.",
+    "topic": "Hymenal Anomalies"
+  },
+  {
+    "id": "ch25-Q35",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 35,
+    "stem": "A 17-year-old girl with MRKH syndrome desires creation of a functional vagina. She is motivated and has received counseling. What is the first-line treatment for vaginal agenesis in MRKH?",
+    "options": [
+      { "id": "a", "text": "Vecchietti procedure" },
+      { "id": "b", "text": "Bowel vaginoplasty" },
+      { "id": "c", "text": "McIndoe vaginoplasty with skin graft" },
+      { "id": "d", "text": "Vaginal dilation with serial dilators" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "First-line treatment for vaginal agenesis is vaginal dilation with serial dilators, which is successful in up to 90% of motivated patients. Surgery should only be considered when this is desired by the patient and after dilation has failed. The patient inserts a dilator for 20–30 minutes once to twice daily, with successful creation of a functional vagina usually requiring 6–12 months.",
+    "topic": "MRKH Syndrome"
+  },
+  {
+    "id": "ch25-Q36",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 36,
+    "stem": "An asymptomatic 15-year-old girl is found to have a 5 cm simple ovarian cyst on ultrasound performed for an unrelated reason. The cyst is unilocular and anechoic. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Immediate laparoscopic cystectomy" },
+      { "id": "b", "text": "CT-guided aspiration" },
+      { "id": "c", "text": "Observation with serial pelvic ultrasound" },
+      { "id": "d", "text": "Ovarian suppression with oral contraceptives" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Asymptomatic simple ovarian cysts less than 10 cm in diameter can safely be observed and followed with serial pelvic ultrasound scans. Surgical management (ovarian cystectomy) is indicated for symptomatic cysts and for those that are persistent and enlarging beyond 4–6 cm. This particular cyst is 5 cm but asymptomatic and simple in appearance.",
+    "topic": "Simple Ovarian Cysts"
+  },
+  {
+    "id": "ch25-Q37",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 37,
+    "stem": "A 12-year-old girl presents with sudden-onset severe lower abdominal pain and vomiting. An ultrasound is performed to evaluate for ovarian torsion. Which of the following ultrasound findings is most commonly associated with ovarian torsion in this age group?",
+    "options": [
+      { "id": "a", "text": "Enlarged adnexa with peripheral cysts and centralized edema" },
+      { "id": "b", "text": "Normal ovarian size with increased vascular flow" },
+      { "id": "c", "text": "Simple cyst with thin septations" },
+      { "id": "d", "text": "Solid mass with internal calcifications" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Ultrasound findings in ovarian torsion may include an enlarged adnexa, peripheral ovarian cysts with centralized edema, the \"whirlpool\" sign of the vascular pedicle, or absence of arterial blood flow on Doppler. However, the presence of arterial blood flow does NOT rule out torsion, and clinical assessment is paramount.",
+    "topic": "Ovarian Torsion"
+  },
+  {
+    "id": "ch25-Q38",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 38,
+    "stem": "An 8-year-old girl is diagnosed with lichen sclerosus. Her mother has a history of vitiligo. Which of the following conditions is known to be associated with lichen sclerosus, supporting an autoimmune mechanism?",
+    "options": [
+      { "id": "a", "text": "Type 1 diabetes mellitus" },
+      { "id": "b", "text": "Vitiligo, alopecia, and thyroiditis" },
+      { "id": "c", "text": "Celiac disease and rheumatoid arthritis" },
+      { "id": "d", "text": "Systemic lupus erythematosus and Sjögren syndrome" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Lichen sclerosus has been associated with conditions such as vitiligo, alopecia, and thyroiditis, suggesting an autoimmune mechanism contributes to the disease. The estimated incidence in prepubertal girls is approximately 1 in 900, and the exact pathogenesis is likely multifactorial.",
+    "topic": "Lichen Sclerosus"
+  },
+  {
+    "id": "ch25-Q39",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 39,
+    "stem": "A 4-year-old toilet-trained girl presents with vulvar itching and discharge. Her mother is concerned about a yeast infection. Why is vulvovaginal candidiasis uncommon in this age group?",
+    "options": [
+      { "id": "a", "text": "Prepubescent girls lack Candida receptors in the vagina" },
+      { "id": "b", "text": "The vaginal epithelium is thick and acidic" },
+      { "id": "c", "text": "Estrogen promotes anti-candidal immunity" },
+      { "id": "d", "text": "The unestrogenized, alkaline vaginal environment does not support Candida growth" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Yeast infection is rarely the cause of vulvovaginitis in toilet-trained prepubertal girls because the unestrogenized and alkaline environment of the prepubertal vagina does not permit the growth of Candida. This contrasts with the estrogenized, acidic vaginal environment of reproductive-age women, where Candida thrives.",
+    "topic": "Vulvovaginitis"
+  },
+  {
+    "id": "ch25-Q40",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 40,
+    "stem": "A newborn female is found to have multiple small openings in the hymenal membrane during the newborn examination. She is otherwise healthy. This finding is most consistent with which hymenal variant?",
+    "options": [
+      { "id": "a", "text": "Septate hymen" },
+      { "id": "b", "text": "Microperforate hymen" },
+      { "id": "c", "text": "Cribiform hymen" },
+      { "id": "d", "text": "Imperforate hymen" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "A cribiform hymen has multiple small openings (like a sieve). Along with septate and microperforate hymen, it is a partially occlusive anomaly. These are typically asymptomatic in infancy but may cause difficulty with tampon use or menstrual hygiene in adolescence. Asymptomatic cases do not require intervention in childhood.",
+    "topic": "Hymenal Anomalies"
+  },
+  {
+    "id": "ch25-Q41",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 41,
+    "stem": "A 15-year-old girl with primary amenorrhea and cyclical pain is found to have a transverse vaginal septum on pelvic examination. What imaging modality is especially important to determine the thickness of the septum before planning surgical resection?",
+    "options": [
+      { "id": "a", "text": "Magnetic resonance imaging (MRI)" },
+      { "id": "b", "text": "Hysterosalpingography" },
+      { "id": "c", "text": "Transabdominal ultrasound alone" },
+      { "id": "d", "text": "CT scan with intravenous contrast" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "It is especially important to determine the thickness of the septum with pelvic examination and MRI when planning surgery for a transverse vaginal septum. MRI provides the most accurate assessment of the septum thickness and the distance between the obstructed upper vagina and the perineum, which guides surgical approach.",
+    "topic": "Transverse Vaginal Septum"
+  },
+  {
+    "id": "ch25-Q42",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 42,
+    "stem": "A 2-year-old girl with labial adhesions is treated with topical estrogen cream. After 3 weeks of use, the mother notices some darkening of the vulvar skin and slight breast budding. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Immediately discontinue the cream and refer to endocrinology" },
+      { "id": "b", "text": "These are known side effects; use smaller amount and consider tapering" },
+      { "id": "c", "text": "Switch to oral estrogen for better control" },
+      { "id": "d", "text": "Perform an urgent pelvic ultrasound" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Side effects of prolonged topical estrogen use include vulvar hyperpigmentation and breast budding. Generally, topical estrogen is well tolerated with minimal systemic effects due to absorption. These side effects are reversible and should prompt a reduction in amount and duration of use rather than abrupt discontinuation in a patient who still needs treatment.",
+    "topic": "Labial Adhesions"
+  },
+  {
+    "id": "ch25-Q43",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 43,
+    "stem": "A 16-year-old girl is diagnosed with MRKH syndrome. After the diagnosis is explained, she becomes tearful and expresses concern about her ability to have children in the future. What is the most important aspect of her ongoing care?",
+    "options": [
+      { "id": "a", "text": "Immediate referral for in vitro fertilization" },
+      { "id": "b", "text": "Scheduling surgical vaginoplasty without delay" },
+      { "id": "c", "text": "Starting estrogen replacement therapy" },
+      { "id": "d", "text": "Emotional support, counseling, and contact with support groups" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The loss of fertility is particularly challenging for young patients with MRKH, and emotional support is perhaps the most important aspect of their care. All patients should be put in contact with support groups and offered counseling. Surgery should only be considered when desired by the patient, and vaginal dilation is the first-line treatment.",
+    "topic": "MRKH Syndrome"
+  },
+  {
+    "id": "ch25-Q44",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 44,
+    "stem": "In a case of OHVIRA syndrome where a high obstructing septum is noted, what surgical option may be required if the septum cannot be completely excised transvaginally?",
+    "options": [
+      { "id": "a", "text": "Total abdominal hysterectomy" },
+      { "id": "b", "text": "Vaginal dilation therapy" },
+      { "id": "c", "text": "Hemi-hysterectomy" },
+      { "id": "d", "text": "Laparoscopic ovarian cystectomy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "In OHVIRA, stenosis and re-obstruction are unlikely unless the septum is high or incompletely excised. In these cases, a hemi-hysterectomy may be indicated. Definitive treatment consists of surgical resection of the obstructing septum, but a hemi-hysterectomy is a salvage option for complex high septa.",
+    "topic": "OHVIRA"
+  },
+  {
+    "id": "ch25-Q45",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 45,
+    "stem": "A 17-year-old girl is found to have a mature teratoma on ultrasound. She is counseled about the risk of bilaterality. What percentage of mature teratomas are bilateral in adolescent patients?",
+    "options": [
+      { "id": "a", "text": "10–15%" },
+      { "id": "b", "text": "25–30%" },
+      { "id": "c", "text": "40–50%" },
+      { "id": "d", "text": "Less than 5%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Mature teratomas (dermoid cysts) are bilateral in 10–15% of cases. This is an important consideration during surgical planning, as both ovaries should be inspected at the time of surgery even if only one appears involved on preoperative imaging.",
+    "topic": "Mature Teratoma"
+  },
+  {
+    "id": "ch25-Q46",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 46,
+    "stem": "A 7-year-old girl with lichen sclerosus has completed 2 weeks of clobetasol propionate 0.05% twice daily and is now on once-daily application. According to the treatment protocol in the chapter, what should be the next step in the steroid taper?",
+    "options": [
+      { "id": "a", "text": "Stop steroids completely" },
+      { "id": "b", "text": "Switch to triamcinolone acetonide 0.1% twice daily for 2 weeks" },
+      { "id": "c", "text": "Continue clobetasol once daily indefinitely" },
+      { "id": "d", "text": "Start tacrolimus 0.1% ointment" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The treatment protocol for lichen sclerosus begins with clobetasol propionate 0.05% twice daily for 2 weeks, then once daily for 2 weeks, followed by triamcinolone acetonide 0.1% twice daily for 2 weeks, then once daily for 2 weeks, and then 1–2 times weekly for maintenance. This gradual taper minimizes recurrence while avoiding prolonged high-potency steroid use.",
+    "topic": "Lichen Sclerosus"
+  },
+  {
+    "id": "ch25-Q47",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 47,
+    "stem": "A 6-year-old girl with persistent vaginal discharge has been treated with two courses of oral antibiotics without improvement. Vaginoscopy is planned. How should an intravaginal culture specimen be obtained to minimize trauma?",
+    "options": [
+      { "id": "a", "text": "Using a speculum for direct visualization" },
+      { "id": "b", "text": "Collecting discharge from the introitus only" },
+      { "id": "c", "text": "Through a Foley catheter inserted into the vagina" },
+      { "id": "d", "text": "A small moistened swab inserted gently past the hymen without touching it" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "If an intravaginal specimen is needed, it should be obtained without touching the hymen. A small moistened swab can be inserted gently past the hymen to collect a specimen. This technique minimizes discomfort and trauma in the prepubertal child.",
+    "topic": "Vulvovaginitis"
+  },
+  {
+    "id": "ch25-Q48",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 48,
+    "stem": "A 15-year-old girl is distressed about the appearance of her labia and asks if she is \"normal.\" The clinician wishes to provide reassurance by showing examples of normal variation in female genital anatomy. Which resource is specifically recommended for this purpose?",
+    "options": [
+      { "id": "a", "text": "The American College of Obstetricians and Gynecologists patient education pamphlets" },
+      { "id": "b", "text": "PubMed literature review of labial dimensions" },
+      { "id": "c", "text": "The Labia Library website" },
+      { "id": "d", "text": "A textbook of gynecologic anatomy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The chapter specifically recommends using online resources such as The Labia Library (www.labialibrary.org.au) and Great Wall of Vagina (www.greatwallofvagina.co.uk) to demonstrate differences in normal anatomy. These resources can be very helpful in educating and reassuring patients about normal variation.",
+    "topic": "Labial Hypertrophy"
+  },
+  {
+    "id": "ch25-Q49",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 49,
+    "stem": "During laparoscopy for suspected ovarian torsion, the ovary appears dark, edematous, and hemorrhagic. What is the recommended surgical approach based on current evidence?",
+    "options": [
+      { "id": "a", "text": "Perform detorsion and preserve the ovary regardless of appearance" },
+      { "id": "b", "text": "Proceed with oophorectomy due to likely irreversible ischemia" },
+      { "id": "c", "text": "Perform detorsion only if Doppler flow is present" },
+      { "id": "d", "text": "Biopsy the ovary first to assess viability" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Because the intraoperative appearance of the adnexa is not a reliable predictor of irreversible ischemic damage, ovarian preservation (detorsion/untwisting) is the recommended management of acute ovarian torsion. Oophoropexy is only indicated for cases of recurrent ovarian torsion. Even a severely discolored ovary can recover function after detorsion.",
+    "topic": "Ovarian Torsion"
+  },
+  {
+    "id": "ch25-Q50",
+    "chapter": "Pediatric/Adolescent Gynecology",
+    "chapterSlug": "ch25_pediatric-adolescent-gynecology",
+    "chapterNumber": 25,
+    "questionNumber": 50,
+    "stem": "A 13-year-old girl has an asymptomatic 3.5 cm simple ovarian cyst detected incidentally on imaging for urinary symptoms. She is post-menarchal and has regular cycles. What is the most likely diagnosis and expected course?",
+    "options": [
+      { "id": "a", "text": "Mature teratoma requiring laparoscopic resection" },
+      { "id": "b", "text": "Functional ovarian cyst that will resolve spontaneously within 2–8 weeks" },
+      { "id": "c", "text": "Serous cystadenoma needing annual surveillance" },
+      { "id": "d", "text": "Paraovarian cyst requiring surgical excision" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Simple unilocular anechoic cysts in post-menarchal adolescents are almost always benign functional cysts (follicular or corpus luteum) that resolve spontaneously within 2–8 weeks. Surgical intervention is not indicated for asymptomatic simple cysts, especially when less than 4–6 cm. Follow-up ultrasound in 6–8 weeks to confirm resolution is appropriate.",
+    "topic": "Functional Ovarian Cysts"
+  }
+]

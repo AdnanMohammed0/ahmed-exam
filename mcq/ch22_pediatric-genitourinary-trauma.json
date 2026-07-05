@@ -1,0 +1,1452 @@
+﻿[
+    {
+        "id":  "ch22-Q01",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  1,
+        "stem":  "A 9-year-old boy is brought to the emergency department after a fall from playground monkey bars. He has flank tenderness and microscopic hematuria. Which organ is the most common site of injury within the genitourinary system in pediatric trauma?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Bladder"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Ureter"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Kidney"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Urethra"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "The kidney is the commonest site of injury in the genitourinary system in children. The majority result from blunt trauma and approximately 80% are accompanied by injuries to other organs.",
+        "topic":  "Renal trauma â€” epidemiology"
+    },
+    {
+        "id":  "ch22-Q02",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  2,
+        "stem":  "A 14-year-old male is involved in a motor vehicle collision and sustains a renal injury. Which of the following best describes the male-to-female ratio for pediatric renal trauma?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "1:1"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "3:1"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "4:1"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "2:1"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Males outnumber females by almost 2:1 in pediatric renal trauma, with the commonest causes being motor vehicle collisions, traffic accidents and falls.",
+        "topic":  "Renal trauma â€” epidemiology"
+    },
+    {
+        "id":  "ch22-Q03",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  3,
+        "stem":  "A 7-year-old child is brought in after a high-speed motor vehicle collision. Which of the following is the most common cause of serious renal injury in children?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Contact sports"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Straddle injuries"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Motor vehicle collisions"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Penetrating trauma"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Motor vehicle collisions, traffic accidents and falls are the commonest causes of serious renal injury in children. Contact sports are an uncommon cause of serious renal injury in this age group.",
+        "topic":  "Renal trauma â€” etiology"
+    },
+    {
+        "id":  "ch22-Q04",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  4,
+        "stem":  "Compared with adults, children are more susceptible to renal injury from blunt trauma for all of the following reasons EXCEPT:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "The kidney is proportionately larger"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Children have less retroperitoneal fat and musculature"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "The kidney is less well protected by the ribs"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Children have a higher prevalence of pre-existing renal anomalies"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "The kidney is more susceptible to blunt trauma in children because it is proportionately larger, less well protected by the ribs, and there is less retroperitoneal fat and musculature. While horseshoe kidneys are at higher risk, the general statement about higher prevalence of anomalies is not cited as a reason.",
+        "topic":  "Renal trauma â€” anatomy and susceptibility"
+    },
+    {
+        "id":  "ch22-Q05",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  5,
+        "stem":  "A 6-year-old with a known horseshoe kidney presents after a fall. Which of the following is true regarding this patient\u0027s risk of renal injury?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "The risk is the same as for a normal kidney"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Renal anomalies only increase risk in penetrating trauma"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Horseshoe and hydronephrotic kidneys are at particularly high risk of injury"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Horseshoe kidneys are at lower risk due to their fixed position"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Horseshoe kidneys and hydronephrotic kidneys are at particularly high risk of injury even in the absence of associated organ injuries.",
+        "topic":  "Renal trauma â€” pre-existing anomalies"
+    },
+    {
+        "id":  "ch22-Q06",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  6,
+        "stem":  "According to the AAST organ injury scale, which of the following best characterizes a grade I renal injury?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Laceration \u003e1 cm involving the collecting system"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Shattered kidney with multiple fragments"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Laceration \u003c1 cm without collecting system involvement"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Decreased uptake of contrast material or subcapsular hematoma"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Grade I injuries are defined by decreased uptake of contrast material or subcapsular hematoma. They are essentially renal contusions and account for 80% of renal trauma cases.",
+        "topic":  "Renal trauma â€” AAST grading"
+    },
+    {
+        "id":  "ch22-Q07",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  7,
+        "stem":  "In the AAST renal injury classification, the differentiation between grade II and grade III renal lacerations is based on which of the following criteria?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Presence of urinary extravasation"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Involvement of the renal hilum"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Hemodynamic stability of the patient"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Depth of laceration in centimeters"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Grade II and III injuries are tears in the renal parenchyma. Tears \u003c1 cm are considered grade II and \u003e1 cm as grade III. They are classified as minor if limited to the parenchyma without collecting system extension.",
+        "topic":  "Renal trauma â€” AAST grading"
+    },
+    {
+        "id":  "ch22-Q08",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  8,
+        "stem":  "A 12-year-old is found to have a grade IV renal laceration on CT after a snowmobile accident. Which of the following is a defining feature of a grade IV renal injury?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Involvement of the collecting system or hilar vessels"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Laceration limited to the renal parenchyma only"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Complete devascularization of the kidney"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Subcapsular hematoma without parenchymal tear"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Grade IV injuries are lacerations that involve the collecting system or hilar vessels. The hilar damage typically results from rapid deceleration causing shearing damage to the vessel wall, intramural haemorrhage, vascular occlusion, and clot formation.",
+        "topic":  "Renal trauma â€” grade IV injury"
+    },
+    {
+        "id":  "ch22-Q09",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  9,
+        "stem":  "Which of the following best describes a grade V renal injury according to the AAST classification?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "A parenchymal laceration between 1 and 2 cm"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "A renal contusion with subcapsular hematoma"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "A laceration involving the collecting system with contained extravasation"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "A shattered kidney or major hilar injury with devascularization"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Grade V injury is one in which the renal tissue is separated into multiple fragments (\u0027shattered kidney\u0027) or there is major hilar injury leading to devascularization. Massive bleeding and extravasation within Gerota\u0027s fascia is common.",
+        "topic":  "Renal trauma â€” grade V injury"
+    },
+    {
+        "id":  "ch22-Q10",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  10,
+        "stem":  "A 10-year-old with suspected renal trauma is being evaluated. Which imaging modality is considered the cornerstone for modern staging of blunt renal injuries?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Contrast-enhanced CT with delayed imaging"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Ultrasound with Doppler"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Magnetic resonance urography"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Plain abdominal radiograph"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Contrast-enhanced CT with delayed imaging is the cornerstone of modern staging of blunt renal injuries. The AAST organ injury scale has been widely adopted to characterize renal injuries and guide management.",
+        "topic":  "Renal trauma â€” imaging"
+    },
+    {
+        "id":  "ch22-Q11",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  11,
+        "stem":  "Ultrasound is used as a first-line investigation in a stable child with suspected renal trauma. What is the approximate sensitivity of ultrasonography for detecting grade III renal lacerations?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "60%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "40%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "95%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "80%"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "The accuracy of ultrasonography in detecting grade III renal lacerations is only 60% and is even lower for low-grade renal injuries. Any evidence of renal injury on ultrasound should prompt a CT scan.",
+        "topic":  "Renal trauma â€” ultrasound accuracy"
+    },
+    {
+        "id":  "ch22-Q12",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  12,
+        "stem":  "A 6-year-old with a grade II renal injury from a fall is being managed conservatively. Which of the following is the most appropriate component of conservative management?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Bed rest until hematocrit stabilizes and hematuria resolves"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Immediate surgical exploration"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Prophylactic ureteral stent placement"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Routine CT angiography every 48 hours"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Conservative management usually involves bed rest until hematocrit measurements have stabilized and hematuria has resolved. Monitoring of vital signs is imperative. Most blunt renal injuries (low grade I-III) can be managed non-operatively.",
+        "topic":  "Renal trauma â€” conservative management"
+    },
+    {
+        "id":  "ch22-Q13",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  13,
+        "stem":  "An 8-year-old with a grade IV renal injury develops hemodynamic instability with a pulsatile hematoma on CT. What is the most appropriate next step in management?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Selective angioembolization"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Immediate discharge with outpatient follow-up"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Intravenous antibiotics alone"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Continue observation in the pediatric intensive care unit"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Selective angioembolization may be effective in stopping bleeding of minor severity. Surgical intervention should be considered if angioembolization is unsuccessful or the child requires repeated blood transfusions.",
+        "topic":  "Renal trauma â€” intervention for hemorrhage"
+    },
+    {
+        "id":  "ch22-Q14",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  14,
+        "stem":  "A 5-year-old with a grade IV renal injury has a persistent, large urinary extravasation that fails to resolve with conservative measures. Which of the following is the most appropriate next step?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "High-dose steroid therapy"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Immediate nephrectomy"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Radiation therapy"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Percutaneous drainage of the urinoma"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "A minor degree of contained urinary extravasation may be managed conservatively, whereas larger or persistent collections may require percutaneous drainage.",
+        "topic":  "Renal trauma â€” urinary extravasation"
+    },
+    {
+        "id":  "ch22-Q15",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  15,
+        "stem":  "A 15-year-old with a grade IV renal injury is found to have a partial disruption of the ureteropelvic junction (UPJ). What is the preferred initial management?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Observation alone"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Ureteral stent placement"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Immediate open surgical repair"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Nephrectomy"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Partial disruption of the UPJ may be amenable to ureteral stent placement, whereas complete disruption may require either percutaneous drainage as a temporizing measure or immediate surgical repair.",
+        "topic":  "Renal trauma â€” UPJ disruption"
+    },
+    {
+        "id":  "ch22-Q16",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  16,
+        "stem":  "A 13-year-old is being followed up after a grade III renal injury managed conservatively. What is the approximate incidence of post-traumatic hypertension following renal trauma in children?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "25â€“30%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "10â€“15%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "40â€“50%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "1â€“2%"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "The risk of hypertension is likely higher when devascularized renal tissue is left in place. The available evidence indicates it is relatively rare, with an incidence of 1â€“2%. Blood pressure monitoring is generally advisable.",
+        "topic":  "Renal trauma â€” hypertension risk"
+    },
+    {
+        "id":  "ch22-Q17",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  17,
+        "stem":  "Following renal trauma, which of the following nuclear medicine studies is most helpful in monitoring functional recovery over time?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "99m Tc MAG3 or DMSA scan"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Iodine-123 whole body scan"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Indium-111 white cell scan"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "PET-CT"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Nuclear medicine studies such as 99m Tc MAG3 or 99m Tc DMSA are helpful in monitoring functional recovery over time and in guiding decisions on whether to perform reconstruction or nephrectomy in an injured kidney stabilized by nephrostomy drainage.",
+        "topic":  "Renal trauma â€” functional assessment"
+    },
+    {
+        "id":  "ch22-Q18",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  18,
+        "stem":  "A 10-year-old boy with a solitary kidney is recovering well after a grade II renal injury. The parents ask about restrictions on sports. Which of the following advice is most appropriate?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "The child should wear a protective vest at all times"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Only non-contact sports are permitted"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "The child must avoid all contact sports permanently"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "No restrictions are necessary as the risk is extremely low"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "The risk of injuring a solitary kidney, even during contact sports, is extremely low, so there is little justification for restricting normal activities and sports.",
+        "topic":  "Renal trauma â€” solitary kidney activity recommendations"
+    },
+    {
+        "id":  "ch22-Q19",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  19,
+        "stem":  "A 16-year-old undergoes ureteroscopy for stone disease and is later found to have a ureteral injury. What is the most common cause of ureteral injury in children?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Blunt abdominal trauma from motor vehicle collisions"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Penetrating trauma or iatrogenic injury during surgery"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Straddle injuries"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Sports-related injuries"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Injuries to the ureter are rare and usually result from penetrating trauma or iatrogenic damage â€” for example during ureteroscopy, tumor resection, or laparoscopy.",
+        "topic":  "Ureteral injury â€” etiology"
+    },
+    {
+        "id":  "ch22-Q20",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  20,
+        "stem":  "A 14-year-old is suspected of having a ureteral injury after a stab wound to the flank. Which of the following statements about hematuria in ureteral injury is correct?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Gross hematuria is not necessarily present even after significant ureteral injury"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Hematuria is the most sensitive indicator of ureteral injury"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Gross hematuria is always present"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Microscopic hematuria rules out ureteral injury"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Gross hematuria is not necessarily present even after a significant ureteral injury. A high index of suspicion must be maintained to avoid missing the diagnosis.",
+        "topic":  "Ureteral injury â€” hematuria"
+    },
+    {
+        "id":  "ch22-Q21",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  21,
+        "stem":  "Which imaging technique is most helpful for evaluating suspected ureteral injury in a pediatric patient?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Non-contrast CT"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Delayed CT imaging with contrast to visualize the entire collecting system"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Plain abdominal radiograph"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Voiding cystourethrogram"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Delayed CT imaging with use of contrast to visualize the entire collecting system is most helpful for evaluating ureteral injuries.",
+        "topic":  "Ureteral injury â€” imaging"
+    },
+    {
+        "id":  "ch22-Q22",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  22,
+        "stem":  "What is the key surgical principle when performing ureteral repair in a child?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Use of non-absorbable sutures"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Creation of a tension-free, spatulated anastomosis"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Minimal debridement of the ureteral edges"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Stenting is never required"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "The key principle of ureteral repair is the creation of a tension-free, spatulated anastomosis. Devitalized segments should be excised to ensure healthy ureteral tissue is used for the anastomosis.",
+        "topic":  "Ureteral injury â€” surgical principles"
+    },
+    {
+        "id":  "ch22-Q23",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  23,
+        "stem":  "A ureteral injury is discovered more than 1 week after the initial trauma. What is the preferred management approach?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Nephrectomy"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Observation alone"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Immediate primary repair"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Temporizing nephrostomy drainage with delayed definitive repair"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "When the diagnosis is delayed by \u003e1 week, a period of temporizing nephrostomy drainage is preferable, with definitive repair being delayed for a few months.",
+        "topic":  "Ureteral injury â€” delayed diagnosis"
+    },
+    {
+        "id":  "ch22-Q24",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  24,
+        "stem":  "A missed ureteral injury in a child is most likely to result in which of the following complications?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Priapism"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Urinary extravasation leading to urinoma or abscess formation"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Immediate hemodynamic collapse"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Acute renal failure within 24 hours"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "If a ureteral injury is not recognized or not correctly managed, the primary complication is urinary extravasation into the retroperitoneum resulting in urinoma or abscess formation.",
+        "topic":  "Ureteral injury â€” complications"
+    },
+    {
+        "id":  "ch22-Q25",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  25,
+        "stem":  "A 7-year-old is brought in after being struck by a car. He has hematuria and suprapubic tenderness. Pelvic X-ray reveals a pelvic fracture. Bladder injury is suspected. Which of the following injuries is most commonly associated with bladder trauma in children?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Renal artery thrombosis"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Scrotal hematoma"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Isolated ureteral injury"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Pelvic fractures"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Traumatic injuries to the bladder are usually associated with other severe injuries including pelvic fractures. Motor vehicle accidents are the leading cause of blunt pelvic trauma and bladder injury.",
+        "topic":  "Bladder injury â€” associated injuries"
+    },
+    {
+        "id":  "ch22-Q26",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  26,
+        "stem":  "Compared with an adult, the pediatric bladder is more vulnerable to trauma because:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "The bladder wall is thicker in children"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "It is located lower in the pelvis and better protected by the bony pelvis"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "It is located higher in the abdomen and less protected by the bony pelvis"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Children have a smaller bladder capacity"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Compared to an adult, the bladder in a child is located in a more vulnerable position which is higher in the abdomen and less protected by the bony pelvis.",
+        "topic":  "Bladder injury â€” anatomy"
+    },
+    {
+        "id":  "ch22-Q27",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  27,
+        "stem":  "An 8-year-old boy is brought to the emergency department after a motor vehicle collision. He has suprapubic pain, gross hematuria, and blood at the urethral meatus. Which of the following is the hallmark sign of bladder or urethral injury?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Blood at the urethral meatus"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Microscopic hematuria only"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Flank ecchymosis"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Costovertebral angle tenderness"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "The hallmark signs of bladder and urethral injury are suprapubic pain, tenderness, inability to urinate, gross hematuria, and blood at the urethral meatus.",
+        "topic":  "Bladder injury â€” clinical signs"
+    },
+    {
+        "id":  "ch22-Q28",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  28,
+        "stem":  "Indications for bladder imaging after trauma include which of the following?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Isolated scrotal hematoma"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "History of previous bladder surgery alone"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Gross hematuria and/or urinary retention with a pelvic fracture"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Microscopic hematuria without pelvic fracture"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Indications for bladder imaging include gross hematuria and/or urinary retention in conjunction with a pelvic fracture.",
+        "topic":  "Bladder injury â€” imaging indications"
+    },
+    {
+        "id":  "ch22-Q29",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  29,
+        "stem":  "CT cystography is used to evaluate suspected bladder injury. Which of the following is a disadvantage of this modality in children?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Requires general anesthesia"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Inability to detect extraperitoneal rupture"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Significant radiation exposure"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Low sensitivity for bladder rupture"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "CT cystography is sensitive and specific but involves significant radiation exposure and should be used judiciously.",
+        "topic":  "Bladder injury â€” CT cystography"
+    },
+    {
+        "id":  "ch22-Q30",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  30,
+        "stem":  "A 9-year-old presents with a pelvic fracture and free leakage of urine into the peritoneum on imaging. Which of the following is the most appropriate management?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Surgical intervention in the majority of cases"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Intraperitoneal drain placement"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Continuous catheter drainage alone"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Observation with no intervention"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Free leakage of urine into the peritoneum is indicative of an intraperitoneal injury for which surgical intervention is required in the majority of cases. Extraperitoneal perforation can usually be managed with catheter drainage.",
+        "topic":  "Bladder injury â€” intraperitoneal rupture"
+    },
+    {
+        "id":  "ch22-Q31",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  31,
+        "stem":  "A 6-year-old with an extraperitoneal bladder rupture is being managed with catheter drainage. Which of the following is a potential early complication of bladder injury?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Spontaneous resolution without any complications"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Immediate urethral stricture formation"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Persistent gross hematuria, clot retention, and pelvic abscess"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Testicular atrophy"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Early complications of bladder injury include persistent gross hematuria, clot retention, and pelvic abscess. Hematuria is typically self-limiting but may require intermittent or continuous irrigation.",
+        "topic":  "Bladder injury â€” complications"
+    },
+    {
+        "id":  "ch22-Q32",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  32,
+        "stem":  "Urethral injuries in children are generally confined to which gender?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Females"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Equally distributed between genders"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Males"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "More common in females due to shorter urethra"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Urethral injuries are generally confined to males and can result from either direct blunt trauma to the urethra or injuries associated with pelvic fracture.",
+        "topic":  "Urethral injury â€” epidemiology"
+    },
+    {
+        "id":  "ch22-Q33",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  33,
+        "stem":  "A 5-year-old boy sustains a pelvic fracture in a motor vehicle accident. Why is the posterior urethra at particular risk of injury in young boys compared with adult men?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "The prostate has not yet developed, offering less support"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "The bladder neck is weaker in children"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Boys have a narrower urethral diameter"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "The urethra is longer in boys"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "In adults, the posterior urethra is supported by the prostate, but in boys the prostate has not yet developed. When the pelvic ring is disrupted, shear forces can disrupt the pelvic floor and drag the membranous urethra apart from the bladder and prostate.",
+        "topic":  "Urethral injury â€” anatomy in children"
+    },
+    {
+        "id":  "ch22-Q34",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  34,
+        "stem":  "A 10-year-old boy falls onto a bicycle crossbar and sustains a straddle injury. Which of the following best describes the mechanism of injury in a straddle injury affecting the urethra?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "The bladder neck is directly lacerated"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "The urethra is stretched longitudinally"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "The urethra and corpus spongiosum are crushed against the pubic rami"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Shear forces disrupt the pelvic floor"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Straddle injuries typically result from falls on bicycles, playground equipment, bars, and fences. The mechanism of injury occurs when the urethra and surrounding corpus spongiosum are crushed against the pubic rami.",
+        "topic":  "Urethral injury â€” straddle injury mechanism"
+    },
+    {
+        "id":  "ch22-Q35",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  35,
+        "stem":  "Which imaging study is widely regarded as the best for visualizing the urethra in a child with suspected urethral injury?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Magnetic resonance imaging"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "CT with delayed imaging"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Retrograde urethrogram"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Ultrasound with Doppler"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "A retrograde urethrogram is widely regarded as the best imaging study for visualizing the urethra. Oblique views are necessary to look for posterior extravasation and demonstrate complete continuity of the urethra.",
+        "topic":  "Urethral injury â€” imaging"
+    },
+    {
+        "id":  "ch22-Q36",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  36,
+        "stem":  "A 12-year-old boy with suspected urethral injury has blood at the meatus and is unable to void. A retrograde urethrogram shows an intact urethra with only a small tear. What is the most appropriate next step?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Open surgical exploration"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "A Foley catheter may be placed into the bladder under radiographic guidance"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Immediate suprapubic tube placement"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Observation with no catheter"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "A Foley catheter may be placed into the bladder under radiographic guidance if the urethra is intact with only a small tear. If a catheter has been placed previously it should not be removed.",
+        "topic":  "Urethral injury â€” catheterization"
+    },
+    {
+        "id":  "ch22-Q37",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  37,
+        "stem":  "An 11-year-old boy sustains an isolated injury to the bulbar (anterior) urethra. What is the typical management approach?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Endoscopic realignment"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Immediate open urethroplasty"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Observation or urethral catheter drainage alone"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Suprapubic tube followed by delayed repair"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "The management of injuries to the bulbar or anterior urethra is typically straightforward and consists of either observation or urethral catheter drainage alone. The primary risk is the later development of a urethral stricture.",
+        "topic":  "Urethral injury â€” anterior urethra"
+    },
+    {
+        "id":  "ch22-Q38",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  38,
+        "stem":  "A 9-year-old boy sustains a posterior urethral injury with complete disruption. If a delayed repair strategy is employed, continuous suprapubic drainage should be maintained for at least how long before urethroplasty is attempted?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "6â€“8 weeks"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "1â€“2 weeks"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "3â€“4 weeks"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "12â€“16 weeks"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "If a delayed repair strategy is employed, continuous drainage should be maintained for at least 6â€“8 weeks before urethroplasty is attempted.",
+        "topic":  "Urethral injury â€” posterior urethra delayed repair"
+    },
+    {
+        "id":  "ch22-Q39",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  39,
+        "stem":  "A urethral injury that involves the bladder neck and/or prostate in a child requires immediate intervention to minimize the risk of all of the following long-term complications EXCEPT:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Stricture"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Incontinence"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Fistula"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Renal calculus formation"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Injuries involving the bladder neck and/or prostate require immediate intervention to minimize the risk of long-term complications such as stricture, incontinence, and fistula. Renal calculus formation is not specifically cited as a complication of these injuries.",
+        "topic":  "Urethral injury â€” bladder neck involvement"
+    },
+    {
+        "id":  "ch22-Q40",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  40,
+        "stem":  "A 6-year-old girl is involved in a severe motor vehicle collision and sustains a pelvic fracture with urethral injury. Why are traumatic injuries of the female urethra extremely rare compared with males?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Females have a stronger pelvic floor"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "The female urethra is made of denser tissue"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "The female urethra is shorter and more protected"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Females have a longer urethra"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Traumatic injuries of the female urethra are extremely rare because of the shorter length of the urethra and the more protected location. These injuries typically occur in conjunction with severe pelvic fractures and vaginal injury.",
+        "topic":  "Urethral injury â€” female"
+    },
+    {
+        "id":  "ch22-Q41",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  41,
+        "stem":  "In the neonatal period, penile injuries are most commonly related to which of the following?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Zipper injuries"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Circumcision"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Straddle injuries"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Animal bites"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "In the neonatal period, penile injuries are usually iatrogenic and related to circumcision.",
+        "topic":  "External genitalia â€” neonatal penile injury"
+    },
+    {
+        "id":  "ch22-Q42",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  42,
+        "stem":  "A 4-year-old uncircumcised boy presents with his foreskin trapped in a zipper. Which of the following is an appropriate first-line treatment?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Use of mineral oil to release the skin or dividing the zipper with bone cutters"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Application of topical steroid cream"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Surgical excision of the trapped skin"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Forcible pulling of the zipper"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Zipper injuries usually occur in uncircumcised boys and may be treated using mineral oil to release the trapped skin from the zipper or dividing the zipper with bone cutters.",
+        "topic":  "External genitalia â€” zipper injury"
+    },
+    {
+        "id":  "ch22-Q43",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  43,
+        "stem":  "A 12-year-old boy falls onto a bicycle crossbar and presents with scrotal pain and swelling. Testicular rupture is suspected. What is the mechanism by which a bicycle crossbar typically injures the testis?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Penetrating injury through the scrotal wall"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Torsion of the spermatic cord"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "The testis is compressed against the pubic ramus"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Avulsion of the epididymis"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "The testis may be injured as a result of a bicycle crossbar injury in which the testis is compressed against the pubic ramus, causing disruption of the tunica albuginea.",
+        "topic":  "External genitalia â€” testicular injury mechanism"
+    },
+    {
+        "id":  "ch22-Q44",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  44,
+        "stem":  "For evaluating suspected testicular injury after scrotal trauma, which imaging modality is considered excellent?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Retrograde urethrogram"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "X-ray"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "CT scan"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Ultrasound"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "In cases of scrotal trauma, ultrasound is an excellent investigation to assess any testicular injury.",
+        "topic":  "External genitalia â€” scrotal imaging"
+    },
+    {
+        "id":  "ch22-Q45",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  45,
+        "stem":  "A 12-year-old boy presents after a straddle injury with significant scrotal pain and hematoma. Ultrasound suggests testicular rupture with a tear in the tunica albuginea. What is the most appropriate management?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Early scrotal exploration"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Aspiration of the hematoma"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Observation with scrotal support and analgesia"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Antibiotics alone"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Early scrotal exploration should be undertaken if there is clinical or ultrasound evidence of testicular rupture or a significant tear in the tunica albuginea.",
+        "topic":  "External genitalia â€” testicular rupture"
+    },
+    {
+        "id":  "ch22-Q46",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  46,
+        "stem":  "A 14-year-old boy presents with high-flow priapism following perineal trauma from a bicycle accident. What is the most appropriate initial management approach?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Intracavernosal injection of phenylephrine"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Non-operative management with observation"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Radiation therapy"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Immediate surgical shunt procedure"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "High-flow priapism may be managed non-operatively because of the likelihood of spontaneous resolution within days to weeks after injury. If conservative measures fail, embolization with autologous clot is the preferred treatment.",
+        "topic":  "External genitalia â€” priapism"
+    },
+    {
+        "id":  "ch22-Q47",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  47,
+        "stem":  "A 7-year-old girl presents with a genital injury that appears inconsistent with the reported mechanism. What is the most important consideration in this scenario?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Immediate surgical repair of any visible injury"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "High suspicion of possible sexual abuse"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Application of topical antibiotics only"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Reassurance and discharge"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "A high index of suspicion of possible sexual abuse is required whenever a girl presents with a genital injury, particularly if the nature of the injury seems discordant with the history. Sexual abuse or assault is implicated in up to 25% of girls presenting with genital injuries.",
+        "topic":  "External genitalia â€” sexual abuse"
+    },
+    {
+        "id":  "ch22-Q48",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  48,
+        "stem":  "A 6-year-old girl sustains a significant vaginal straddle injury. After primary repair, what is the most important reason for long-term follow-up into puberty?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "To monitor for testicular development"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "To exclude possible vaginal stenosis or hematocolpos"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "To evaluate for urethral diverticulum"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "To assess renal function"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Follow-up into puberty is essential to exclude possible stenosis or hematocolpos, especially in patients with extensive urethrovaginal injuries. The most significant complication following vaginal trauma is stricture.",
+        "topic":  "External genitalia â€” vaginal trauma follow-up"
+    },
+    {
+        "id":  "ch22-Q49",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  49,
+        "stem":  "A 4-year-old boy presents with a dog bite to the penis. After initial assessment under anesthesia, which of the following adjunctive measures should be administered?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Hormonal therapy"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Broad-spectrum antibiotics and tetanus prophylaxis"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Chemotherapy"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Antiviral therapy"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Genital injuries caused by animal bites should be assessed under anesthesia to fully assess the extent of trauma. Broad-spectrum antibiotics and tetanus prophylaxis should be administered.",
+        "topic":  "External genitalia â€” animal bites"
+    },
+    {
+        "id":  "ch22-Q50",
+        "chapter":  "Pediatric Genitourinary Trauma",
+        "chapterSlug":  "ch22_pediatric-genitourinary-trauma",
+        "chapterNumber":  22,
+        "questionNumber":  50,
+        "stem":  "Excessive removal of penile skin due to neonatal circumcision has occurred. What is the most appropriate management in the majority of cases?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Penile amputation"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Conservative management"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Immediate complex reconstruction with free skin grafts"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Radiation therapy"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Excessive removal of penile skin due to neonatal circumcision can be managed conservatively in the majority of cases. Later reconstructive surgery (including free skin grafts) may occasionally be required if there has been extensive excision of penile shaft skin.",
+        "topic":  "External genitalia â€” circumcision injury"
+    }
+]

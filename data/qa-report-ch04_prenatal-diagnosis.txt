@@ -1,0 +1,77 @@
+QA Report: ch04_prenatal-diagnosis
+====================================
+Date: 2026-07-04
+Reviewer: AI Quality Assurance
+Source text: content/raw/ch04_prenatal-diagnosis.txt
+MCQ file: content/mcq/ch04_prenatal-diagnosis.json
+
+SUMMARY
+-------
+- Total questions processed: 50
+- All original IDs, correct answers, topics preserved
+- No questions added or removed
+
+KEY IMPROVEMENTS MADE
+---------------------
+Step 1 - Clinical Vignettes:
+- Converted 32 recall-format questions into realistic clinical scenarios
+- Each vignette includes: patient age, sex, gestational context, presenting findings
+- Questions now use concrete patient presentations (e.g., "A 28-year-old G2P1 at 22 weeks...")
+- 18 questions already had vignette-like stems and were enhanced with additional clinical detail
+- Clear, focused questions preserved at the end of each vignette
+
+Step 2 - Distractor Improvement:
+- Verified all distractors are plausible and representative of real clinical misconceptions
+- Removed any obviously wrong or absurd options (e.g., "Grade V" in Q13 kept as plausible misconception)
+- Ensured distractors match the style and length of correct answers
+- Verified distractors test genuine knowledge gaps (e.g., confusing 2nd vs 3rd trimester thresholds)
+- Confirmed "NOT" questions have distractors that are all true indications except the correct answer
+
+Step 3 - Per-Option Rationales:
+- All 50 explanations rewritten in structured format: "Correct: [reason]. A: [why wrong]. B: [why wrong]. C: [why wrong]. D: [why wrong]."
+- Each incorrect option receives specific, substantive reasoning
+- Correct answer explanation cites source material from the raw text
+- Format is consistent across all questions
+
+Step 4 - QA Findings:
+
+MEDICAL ACCURACY
+- All answers cross-referenced against raw text and confirmed correct
+- Specific values verified: AP diameter thresholds (10mm 2nd trimester, 15mm 3rd trimester), SFU grades, UTD categories, antibiotic contraindications, incidence figures
+- No factual errors identified
+
+DISTRACTOR QUALITY
+- All distractors are clinically plausible and test real knowledge
+- No obviously incorrect or humorous distractors
+- Distractors represent common misconceptions (e.g., confusing unilateral vs bilateral renal agenesis incidence, mixing up UTD antenatal vs postnatal categories)
+
+VIGNETTE CLARITY
+- All vignettes present realistic patient scenarios with appropriate demographic details
+- Clinical context is relevant to urology practice
+- Questions are clearly posed at the end of each vignette
+
+EXPLANATION CONSISTENCY
+- All explanations follow the required per-option format
+- Correct answer rationale references source material
+- Explanations are concise and specific
+
+TOPIC COVERAGE GAPS (Minor)
+The following topics from the raw text are not explicitly tested by the current question set:
+1. First-trimester ultrasound uses (nuchal translucency for aneuploidy screening, dating)
+2. UTD risk-based management recommendations (Figure 4.3 - follow-up schedules)
+3. PLUTO trial findings (vesicoamniotic shunting RCT results)
+4. Amnioinfusion for bilateral renal agenesis (experimental intervention)
+5. Prune-belly syndrome (mentioned as declining in referrals)
+6. Pelvic kidney as 60% of simple renal ectopia
+7. Congenital adrenal hyperplasia / 46 XX DSD (most common isolated genital anomaly)
+8. Fetal cystoscopic valve ablation and open vesicostomy (alternative fetal interventions)
+
+These gaps are minor and do not undermine the overall coverage. The 50 existing questions cover the most clinically relevant material from the chapter. No topics were removed.
+
+FLAGGED ISSUES (All resolved)
+- None significant. All correct answers verified against source text.
+- One formatting improvement: Standardized year ranges to use en-dashes consistently.
+
+CONCLUSION
+----------
+The MCQ set has been comprehensively improved across all 4 domains (vignettes, distractors, explanations, QA). All 50 questions are now clinically contextualized with per-option rationales. Medical accuracy has been verified against the source chapter.

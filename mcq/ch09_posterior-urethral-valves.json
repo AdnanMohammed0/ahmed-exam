@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch09-Q01",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 1,
+    "stem": "Posterior urethral valves are thought to originate from abnormal interaction between which embryological structures around the seventh week of gestation?",
+    "options": [
+      { "id": "a", "text": "Paramesonephric ducts and cloaca" },
+      { "id": "b", "text": "Müllerian ducts and urogenital sinus" },
+      { "id": "c", "text": "Mesonephric ducts and urogenital sinus" },
+      { "id": "d", "text": "Mesonephric ducts and metanephros" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "PUV are thought to originate from abnormal interaction between the mesonephric ducts and the urogenital sinus around the seventh week of gestation.",
+    "topic": "Embryology"
+  },
+  {
+    "id": "ch09-Q02",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 2,
+    "stem": "A newborn is diagnosed with posterior urethral valves. According to Young's classification, which type is most commonly encountered and accounts for approximately 95% of cases?",
+    "options": [
+      { "id": "a", "text": "Type III — a transverse perforated membrane in the bulbar urethra with no attachment to the verumontanum" },
+      { "id": "b", "text": "Type II — leaflets extending upward from the verumontanum to the anterior aspect of the posterior urethra" },
+      { "id": "c", "text": "Type I — leaflets attaching proximally to the verumontanum and distally to the anterior urethral wall" },
+      { "id": "d", "text": "Type IV — a complete diaphragmatic obstruction at the membranous urethra" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Young described Type I as the commonest (95%), consisting of co-apting leaflets attached proximally to the distal verumontanum and distally to the anterior urethral wall.",
+    "topic": "Anatomy and Classification"
+  },
+  {
+    "id": "ch09-Q03",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 3,
+    "stem": "Which of the following statements about Young Type II posterior urethral valves is correct?",
+    "options": [
+      { "id": "a", "text": "They are the second most common type, comprising approximately 5% of cases" },
+      { "id": "b", "text": "They consist of a transverse perforated membrane in the bulbar urethra" },
+      { "id": "c", "text": "It is unlikely they constitute a genuine pathological entity and they are generally regarded as non-obstructive mucosal folds of no clinical significance" },
+      { "id": "d", "text": "They require aggressive endoscopic resection to prevent renal deterioration" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Type II valves are described as leaflets extending upward from the verumontanum but it is unlikely they constitute a genuine pathological entity; they are generally regarded as non-obstructive mucosal folds of no clinical significance.",
+    "topic": "Anatomy and Classification"
+  },
+  {
+    "id": "ch09-Q04",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 4,
+    "stem": "Dewan and Ransley challenged Young's classification by proposing that posterior urethral valves represent a single anatomical configuration. What term did they introduce?",
+    "options": [
+      { "id": "a", "text": "Congenital obstructive posterior urethral membrane (COPUM)" },
+      { "id": "b", "text": "Congenital posterior urethral diaphragm (CPUD)" },
+      { "id": "c", "text": "Verumontanum-based obstructive membrane (VBOM)" },
+      { "id": "d", "text": "Urethral valve complex (UVC)" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Dewan and Ransley proposed the congenital obstructive posterior urethral membrane (COPUM) theory, describing an obliquely orientated membrane with a variably sized eccentric aperture.",
+    "topic": "Anatomy and Classification"
+  },
+  {
+    "id": "ch09-Q05",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 5,
+    "stem": "What is the approximate incidence of posterior urethral valves among live male births?",
+    "options": [
+      { "id": "a", "text": "1 in 1000–2000" },
+      { "id": "b", "text": "1 in 10000–15000" },
+      { "id": "c", "text": "1 in 4000–6000" },
+      { "id": "d", "text": "1 in 500–800" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Posterior urethral valves are confined to males, with an incidence of approximately 1 in 4000–6000 live births.",
+    "topic": "Epidemiology"
+  },
+  {
+    "id": "ch09-Q06",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 6,
+    "stem": "A routine prenatal ultrasound at 18 weeks reveals a male fetus with a distended bladder, bilateral hydronephrosis, and oligohydramnios. What is the earliest gestational age at which dilatation of the urinary tract secondary to PUV can be detected on ultrasonography?",
+    "options": [
+      { "id": "a", "text": "10 weeks" },
+      { "id": "b", "text": "24 weeks" },
+      { "id": "c", "text": "20 weeks" },
+      { "id": "d", "text": "14 weeks" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Dilatation of the fetal urinary tract secondary to PUV can be detected on ultrasonography as early as 14 weeks gestation.",
+    "topic": "Antenatal Diagnosis"
+  },
+  {
+    "id": "ch09-Q07",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 7,
+    "stem": "What is the 'keyhole sign' on prenatal ultrasound in the context of posterior urethral valves?",
+    "options": [
+      { "id": "a", "text": "Dilatation of the posterior urethra combined with a distended bladder" },
+      { "id": "b", "text": "Echogenic renal cortex with bilateral pelvicaliceal dilatation" },
+      { "id": "c", "text": "A cystic structure at the bladder base representing a dilated prostatic utricle" },
+      { "id": "d", "text": "Perinephric fluid collection indicating a urinoma" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The 'keyhole sign' refers to dilatation of the posterior urethra accompanying a distended bladder on ultrasound, which increases diagnostic certainty for PUV.",
+    "topic": "Antenatal Diagnosis"
+  },
+  {
+    "id": "ch09-Q08",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 8,
+    "stem": "A 28-week-gestation male fetus is found to have bilateral hydroureteronephrosis, bladder wall thickening, and oligohydramnios. Which ultrasound finding is the strongest predictor of poor postnatal renal function?",
+    "options": [
+      { "id": "a", "text": "Bilateral upper tract dilatation" },
+      { "id": "b", "text": "Persistently distended full bladder" },
+      { "id": "c", "text": "Echo-bright kidneys suggesting renal dysplasia" },
+      { "id": "d", "text": "Keyhole sign" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Echo-bright kidneys (renal dysplasia) are among the strongest prenatal predictors of poor functional outcome and early-onset renal failure in PUV.",
+    "topic": "Antenatal Diagnosis"
+  },
+  {
+    "id": "ch09-Q09",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 9,
+    "stem": "A newborn with severe oligohydramnios-related PUV has characteristic facial features and skeletal deformities. What is the term for this constellation of findings?",
+    "options": [
+      { "id": "a", "text": "Potter's syndrome" },
+      { "id": "b", "text": "VACTERL association" },
+      { "id": "c", "text": "Prune-belly syndrome" },
+      { "id": "d", "text": "Megacystis-microcolon-hypoperistalsis syndrome" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Severe oligohydramnios leads to Potter's syndrome (typical facies and skeletal moulding deformities), often resulting in early neonatal death due to pulmonary hypoplasia.",
+    "topic": "Antenatal Diagnosis"
+  },
+  {
+    "id": "ch09-Q10",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 10,
+    "stem": "Which of the following fetal urine biochemical markers has been studied as a possible predictor of renal function in fetuses with PUV, though its prognostic sensitivity is considered less reliable than detailed ultrasound?",
+    "options": [
+      { "id": "a", "text": "Fetal urine β2-microglobulin" },
+      { "id": "b", "text": "Fetal urine α-fetoprotein" },
+      { "id": "c", "text": "Fetal urine erythropoietin" },
+      { "id": "d", "text": "Fetal urine cystatin C" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Fetal urine constituents such as sodium, calcium, and β2-microglobulin have been studied as predictive markers, but their prognostic sensitivity is less reliable than detailed ultrasound evaluation.",
+    "topic": "Antenatal Diagnosis"
+  },
+  {
+    "id": "ch09-Q11",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 11,
+    "stem": "The PLUTO (Percutaneous shunting in Lower Urinary Tract Obstruction) trial was designed to evaluate vesicoamniotic shunting. What was the primary reason for its premature discontinuation?",
+    "options": [
+      { "id": "a", "text": "Unacceptable rates of shunt-related complications" },
+      { "id": "b", "text": "Improved outcomes with fetal cystoscopy making shunting obsolete" },
+      { "id": "c", "text": "Clear evidence of harm in the intervention group" },
+      { "id": "d", "text": "Inability to recruit sufficient numbers of subjects" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The PLUTO trial was discontinued because of inability to recruit sufficient numbers of subjects, and preliminary data did not appear to identify any significant benefit for renal function.",
+    "topic": "Fetal Intervention"
+  },
+  {
+    "id": "ch09-Q12",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 12,
+    "stem": "A meta-analysis of 10 published studies on vesicoamniotic shunting for fetal lower urinary tract obstruction showed which outcome?",
+    "options": [
+      { "id": "a", "text": "No difference in survival or renal function between shunted and non-shunted fetuses" },
+      { "id": "b", "text": "Worse renal outcomes in shunted fetuses due to delayed definitive treatment" },
+      { "id": "c", "text": "Improved renal function but no difference in overall survival" },
+      { "id": "d", "text": "Higher survival rate and higher percentage of infants with normal renal function at 6 months to 2 years in shunted fetuses" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The meta-analysis identified a higher survival rate in shunted fetuses and a higher percentage of infants with normal renal function at 6 months to 2 years, though results were difficult to assess critically due to differing selection criteria.",
+    "topic": "Fetal Intervention"
+  },
+  {
+    "id": "ch09-Q13",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 13,
+    "stem": "Fetal cystoscopy with intrauterine valve ablation has been reported as an alternative to vesicoamniotic shunting. Which statement best describes the current status of this approach?",
+    "options": [
+      { "id": "a", "text": "It is the standard of care for all fetuses with PUV diagnosed before 20 weeks" },
+      { "id": "b", "text": "It is contraindicated in the presence of oligohydramnios" },
+      { "id": "c", "text": "It has been proven superior to shunting in a large multicentre randomized trial" },
+      { "id": "d", "text": "Limited evidence suggests a higher early survival rate, but no long-term results are available" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Fetal cystoscopy has been used on a very limited scale; limited evidence suggests it may have a higher early survival rate, but no long-term results are available.",
+    "topic": "Fetal Intervention"
+  },
+  {
+    "id": "ch09-Q14",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 14,
+    "stem": "A fetus is diagnosed with PUV at 16 weeks with severe oligohydramnios and echo-bright kidneys. What is the most appropriate counselling regarding prenatal intervention?",
+    "options": [
+      { "id": "a", "text": "Fetal intervention should always be attempted before considering termination" },
+      { "id": "b", "text": "Vesicoamniotic shunting has proven benefit in this setting and should be offered" },
+      { "id": "c", "text": "Elective preterm delivery at 30 weeks will improve renal outcomes" },
+      { "id": "d", "text": "Termination is the most common form of prenatal intervention in this scenario because irreversible renal dysplasia is almost invariably present" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "When severe dilatation and oligohydramnios are detected early in pregnancy, decompression is of little benefit for renal function because irreversible renal dysplasia is almost invariably present; termination is the most common prenatal intervention in such cases.",
+    "topic": "Fetal Intervention"
+  },
+  {
+    "id": "ch09-Q15",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 15,
+    "stem": "What is the most common form of presentation for posterior urethral valves in the current era?",
+    "options": [
+      { "id": "a", "text": "Urinary tract infection with Gram-negative sepsis" },
+      { "id": "b", "text": "Failure to thrive and electrolyte disturbance" },
+      { "id": "c", "text": "Prenatal detection on routine ultrasound" },
+      { "id": "d", "text": "Diurnal enuresis in an older child" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "More than 80% of cases are now detected on prenatal ultrasound, making this the most common form of presentation in the current era.",
+    "topic": "Presentation"
+  },
+  {
+    "id": "ch09-Q16",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 16,
+    "stem": "A 2-day-old male newborn prenatally diagnosed with PUV has a palpable bladder and kidneys. Serum creatinine is measured. Which statement about interpreting this creatinine is correct?",
+    "options": [
+      { "id": "a", "text": "It reliably reflects the infant's own renal function from birth" },
+      { "id": "b", "text": "A normal level at 48 hours definitively rules out significant renal impairment" },
+      { "id": "c", "text": "It should be compared directly to the nadir creatinine expected at 6 months" },
+      { "id": "d", "text": "It reflects maternal renal function during the first 48 hours of life and only becomes reliable after a few days" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Serum creatinine levels in the first 48 hours of life reflect maternal renal function; it becomes a reliable measure of the infant's own renal function only after a few days of age.",
+    "topic": "Investigation"
+  },
+  {
+    "id": "ch09-Q17",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 17,
+    "stem": "Which imaging study provides the definitive postnatal diagnosis of posterior urethral valves?",
+    "options": [
+      { "id": "a", "text": "Renal ultrasonography with voiding views" },
+      { "id": "b", "text": "MAG3 renography" },
+      { "id": "c", "text": "Micturating cystourethrography (MCUG)" },
+      { "id": "d", "text": "DMSA scintigraphy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "MCUG provides the definitive diagnosis of posterior urethral valves, demonstrating the characteristic anatomical findings.",
+    "topic": "Investigation"
+  },
+  {
+    "id": "ch09-Q18",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 18,
+    "stem": "What proportion of boys with posterior urethral valves have vesicoureteric reflux at the time of initial evaluation?",
+    "options": [
+      { "id": "a", "text": "10–20%" },
+      { "id": "b", "text": "85–95%" },
+      { "id": "c", "text": "70–80%" },
+      { "id": "d", "text": "40–60%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "VUR is present in 40–60% of PUV cases at initial evaluation and is unilateral in approximately two-thirds of cases.",
+    "topic": "Investigation"
+  },
+  {
+    "id": "ch09-Q19",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 19,
+    "stem": "During endoscopic valve ablation, at which clock-face positions are the valve leaflets conventionally incised?",
+    "options": [
+      { "id": "a", "text": "3 and 9 o'clock" },
+      { "id": "b", "text": "4 and 8 o'clock" },
+      { "id": "c", "text": "2 and 10 o'clock" },
+      { "id": "d", "text": "5 and 7 o'clock" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The valve leaflets are conventionally incised at the 5 and 7 o'clock positions, with a further incision at 12 o'clock if required.",
+    "topic": "Treatment — Valve Ablation"
+  },
+  {
+    "id": "ch09-Q20",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 20,
+    "stem": "To minimize the risk of damage to surrounding tissues during endoscopic valve ablation, which instrument is preferred for incising the valve membrane?",
+    "options": [
+      { "id": "a", "text": "Cold knife blade" },
+      { "id": "b", "text": "Cutting diathermy loop" },
+      { "id": "c", "text": "Holmium laser" },
+      { "id": "d", "text": "Bugbee electrode" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The authors prefer a cold knife blade rather than a cutting diathermy loop to minimize the risk of damage to surrounding tissues during valve incision.",
+    "topic": "Treatment — Valve Ablation"
+  },
+  {
+    "id": "ch09-Q21",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 21,
+    "stem": "After endoscopic valve ablation, at what interval is follow-up cystoscopy recommended to ensure completeness of valve ablation?",
+    "options": [
+      { "id": "a", "text": "1–2 weeks" },
+      { "id": "b", "text": "1 year" },
+      { "id": "c", "text": "6 months" },
+      { "id": "d", "text": "6–12 weeks" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The authors favour a follow-up cystoscopy 6–12 weeks after valve ablation to ensure complete ablation of the valve.",
+    "topic": "Treatment — Valve Ablation"
+  },
+  {
+    "id": "ch09-Q22",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 22,
+    "stem": "Some paediatric urologists combine endoscopic valve ablation with which other procedure under the same anaesthetic to reduce UTI risk?",
+    "options": [
+      { "id": "a", "text": "Inguinal hernia repair" },
+      { "id": "b", "text": "Orchidopexy" },
+      { "id": "c", "text": "Circumcision" },
+      { "id": "d", "text": "Herniotomy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Some paediatric urologists combine valve ablation with circumcision performed under the same anaesthetic to reduce the risk of UTI.",
+    "topic": "Treatment — Valve Ablation"
+  },
+  {
+    "id": "ch09-Q23",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 23,
+    "stem": "In a neonate with PUV, after initial catheter decompression, over what period should plasma biochemistry be monitored to obtain the nadir creatinine, a reliable predictor of later functional outcome?",
+    "options": [
+      { "id": "a", "text": "24–48 hours" },
+      { "id": "b", "text": "3 months" },
+      { "id": "c", "text": "4–6 weeks" },
+      { "id": "d", "text": "7–21 days" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Plasma biochemistry should be monitored during the first 7–21 days to obtain the nadir creatinine, which serves as a reasonably reliable predictor of later functional outcome.",
+    "topic": "Treatment — Initial Management"
+  },
+  {
+    "id": "ch09-Q24",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 24,
+    "stem": "Primary cutaneous vesicostomy is indicated in which of the following scenarios for a boy with PUV?",
+    "options": [
+      { "id": "a", "text": "All patients with prenatally diagnosed PUV regardless of severity" },
+      { "id": "b", "text": "Boys with unilateral VUR and a normal contralateral kidney" },
+      { "id": "c", "text": "As a routine adjunct to all endoscopic valve ablations" },
+      { "id": "d", "text": "Boys with markedly impaired renal function and/or gross VUR when miniaturized instruments are unavailable" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Vesicostomy is indicated for boys with markedly impaired renal function and/or gross VUR, and remains a useful option when miniaturized instruments are unavailable.",
+    "topic": "Treatment — Urinary Diversion"
+  },
+  {
+    "id": "ch09-Q25",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 25,
+    "stem": "A vesicostomy stoma is created at the apex of the bladder primarily to:",
+    "options": [
+      { "id": "a", "text": "Facilitate later endoscopic valve ablation" },
+      { "id": "b", "text": "Minimise the risk of stomal prolapse" },
+      { "id": "c", "text": "Improve cosmetic appearance" },
+      { "id": "d", "text": "Reduce the risk of ascending infection" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The stoma is created at the apex of the bladder to minimise the risk of prolapse.",
+    "topic": "Treatment — Urinary Diversion"
+  },
+  {
+    "id": "ch09-Q26",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 26,
+    "stem": "Closure of a vesicostomy with subsequent valve ablation is typically performed at what age?",
+    "options": [
+      { "id": "a", "text": "2–4 months" },
+      { "id": "b", "text": "6–18 months" },
+      { "id": "c", "text": "2–3 years" },
+      { "id": "d", "text": "4–5 years" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Vesicostomy closure is undertaken after subsequent valve ablation at around 6–18 months of age, depending on the initial indication and level of renal function.",
+    "topic": "Treatment — Urinary Diversion"
+  },
+  {
+    "id": "ch09-Q27",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 27,
+    "stem": "Which of the following is an advantage of refluxing ureterostomy over supravesical diversion in PUV management?",
+    "options": [
+      { "id": "a", "text": "It completely defunctions the bladder, reducing storage pressures" },
+      { "id": "b", "text": "It avoids the need for subsequent valve ablation" },
+      { "id": "c", "text": "It maintains a pattern of bladder emptying and filling ('cycling')" },
+      { "id": "d", "text": "It is easier for parents to manage than a vesicostomy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Refluxing ureterostomy maintains a pattern of bladder emptying and filling ('cycling') and retains the potential for normal bladder emptying in the future, unlike supravesical diversion which defunctions the bladder.",
+    "topic": "Treatment — Urinary Diversion"
+  },
+  {
+    "id": "ch09-Q28",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 28,
+    "stem": "Supravesical diversion (bilateral end ureterostomies or pyelostomies) is rarely performed for PUV. Which of the following is NOT a reason for this?",
+    "options": [
+      { "id": "a", "text": "Defunctioning the bladder may adversely affect its development and later function" },
+      { "id": "b", "text": "Vesicostomy usually provides equally effective drainage" },
+      { "id": "c", "text": "Supravesical diversion provides superior preservation of long-term renal function" },
+      { "id": "d", "text": "Vesicostomy is easier for parents to manage" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Supravesical diversion is rarely performed because it defunctions the bladder (adversely affecting development), vesicostomy provides equally effective drainage, and vesicostomy is easier for parents to manage. There is no evidence that supravesical diversion provides superior renal preservation.",
+    "topic": "Treatment — Urinary Diversion"
+  },
+  {
+    "id": "ch09-Q29",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 29,
+    "stem": "The VURD (vesicoureteric reflux dysplasia) syndrome in posterior urethral valves is characterized by which of the following?",
+    "options": [
+      { "id": "a", "text": "Unilateral high-grade VUR with a non-functioning ipsilateral dysplastic kidney" },
+      { "id": "b", "text": "Bilateral high-grade VUR with preserved renal function bilaterally" },
+      { "id": "c", "text": "Bilateral renal dysplasia without VUR" },
+      { "id": "d", "text": "A large bladder diverticulum with contralateral VUR" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "VURD syndrome is the combination of unilateral high-grade VUR and a non-functioning or poorly functioning ipsilateral dysplastic kidney, believed to act as a 'safety valve' protecting the contralateral kidney.",
+    "topic": "Prognosis — Pop-off Mechanisms"
+  },
+  {
+    "id": "ch09-Q30",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 30,
+    "stem": "Which of the following is NOT recognized as a 'pop-off' mechanism that may confer renal protection in posterior urethral valves?",
+    "options": [
+      { "id": "a", "text": "Bilateral pelvicaliceal dilatation without reflux" },
+      { "id": "b", "text": "Unilateral high-grade vesicoureteric reflux" },
+      { "id": "c", "text": "Urinary ascites" },
+      { "id": "d", "text": "Large bladder diverticulum" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Recognized pop-off mechanisms include unilateral high-grade VUR (VURD syndrome), urinary ascites, perinephric urinoma, and large bladder diverticulum. Simple bilateral pelvicaliceal dilatation is not a pop-off mechanism.",
+    "topic": "Prognosis — Pop-off Mechanisms"
+  },
+  {
+    "id": "ch09-Q31",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 31,
+    "stem": "A 6-month-old boy with PUV is being assessed for prognosis. Which of the following is a postnatal predictor of poor renal function?",
+    "options": [
+      { "id": "a", "text": "Persistently elevated plasma creatinine at 6 months of age" },
+      { "id": "b", "text": "Presentation after 12 months of age" },
+      { "id": "c", "text": "Unilateral VUR with a normal contralateral kidney" },
+      { "id": "d", "text": "Late-presenting mild disease" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Postnatal predictors of poor renal function include presentation in the first 12 months of life (if not detected prenatally), persistently elevated creatinine at 6 months, proteinuria, bilateral VUR, and impaired continence at 5 years and upward.",
+    "topic": "Prognosis — Predictors"
+  },
+  {
+    "id": "ch09-Q32",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 32,
+    "stem": "Impaired continence at what age is considered a postnatal poor prognostic indicator for renal function in boys with PUV?",
+    "options": [
+      { "id": "a", "text": "3 years" },
+      { "id": "b", "text": "5 years" },
+      { "id": "c", "text": "7 years" },
+      { "id": "d", "text": "10 years" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Impaired continence at 5 years of age upwards is listed as a postnatal indicator of poor renal function in PUV.",
+    "topic": "Prognosis — Predictors"
+  },
+  {
+    "id": "ch09-Q33",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 33,
+    "stem": "Approximately what proportion of individuals with posterior urethral valves develop stage 5 chronic kidney disease (end-stage renal failure)?",
+    "options": [
+      { "id": "a", "text": "5%" },
+      { "id": "b", "text": "20%" },
+      { "id": "c", "text": "40%" },
+      { "id": "d", "text": "60%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Approximately one-third of individuals have significantly impaired renal function and approximately 20% develop stage 5 CKD (end-stage renal failure).",
+    "topic": "Prognosis — Renal Failure"
+  },
+  {
+    "id": "ch09-Q34",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 34,
+    "stem": "A 10-year-old boy with PUV has worsening upper tract dilatation. What is the most likely cause in mid-to-late childhood?",
+    "options": [
+      { "id": "a", "text": "Residual valvular obstruction requiring re-do ablation" },
+      { "id": "b", "text": "Urethral stricture from previous instrumentation" },
+      { "id": "c", "text": "High obligatory output of dilute urine from declining concentrating ability in early CKD" },
+      { "id": "d", "text": "Progressive bladder outlet obstruction from bladder neck hypertrophy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Persistent or increasing dilatation in mid-to-late childhood may occur in response to the high obligatory output of dilute urine when concentrating ability declines with early chronic renal failure (tubular defect).",
+    "topic": "Long-term Management"
+  },
+  {
+    "id": "ch09-Q35",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 35,
+    "stem": "According to the follow-up protocol for patients with PUV, at what age should video urodynamics be performed?",
+    "options": [
+      { "id": "a", "text": "At 5 years and repeated if any change in symptoms or increasing post-void residual" },
+      { "id": "b", "text": "At 1 year and repeated only if symptoms develop" },
+      { "id": "c", "text": "Annually from age 3 years" },
+      { "id": "d", "text": "Only at the time of transition to adult care" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The follow-up protocol recommends video urodynamics at age 5 years and repeated if any change in symptoms or increasing post-void residual volume occurs.",
+    "topic": "Long-term Management"
+  },
+  {
+    "id": "ch09-Q36",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 36,
+    "stem": "A 1-year-old boy with PUV after successful valve ablation undergoes urodynamics. What pattern of bladder dysfunction is typically seen at this stage?",
+    "options": [
+      { "id": "a", "text": "Normal bladder function with complete emptying" },
+      { "id": "b", "text": "Detrusor hypocontractility with large post-void residuals" },
+      { "id": "c", "text": "Detrusor overactivity with reduced functional capacity, preserved compliance, and biphasic voiding pressures" },
+      { "id": "d", "text": "Acontractile bladder requiring CIC" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "One year after valve ablation, urodynamics show reduced functional capacity, preserved compliance despite detrusor overactivity, and a biphasic/polyphasic detrusor pressure profile with incomplete emptying.",
+    "topic": "Bladder Dysfunction"
+  },
+  {
+    "id": "ch09-Q37",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 37,
+    "stem": "By age 5 years, bladder function in boys with PUV falls into three distinct urodynamic patterns. Which of the following is NOT one of these patterns?",
+    "options": [
+      { "id": "a", "text": "A largely normal voiding pattern" },
+      { "id": "b", "text": "A biphasic or polyphasic detrusor pressure profile with high voiding pressures and incomplete emptying" },
+      { "id": "c", "text": "Bladder decompensation ('myogenic failure')" },
+      { "id": "d", "text": "Detrusor-sphincter dyssynergia with high leak-point pressures" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The three patterns described are: (1) largely normal voiding, (2) biphasic/polyphasic detrusor profile with high pressures and incomplete emptying, and (3) evidence of bladder decompensation/myogenic failure. Detrusor-sphincter dyssynergia is not described as a distinct pattern.",
+    "topic": "Bladder Dysfunction"
+  },
+  {
+    "id": "ch09-Q38",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 38,
+    "stem": "Which sequence best describes the natural history of bladder dysfunction in PUV?",
+    "options": [
+      { "id": "a", "text": "Myogenic failure followed by detrusor overactivity" },
+      { "id": "b", "text": "Detrusor overactivity superseded by myogenic failure with increasing bladder capacity" },
+      { "id": "c", "text": "Normal urodynamics progressing directly to high-pressure storage" },
+      { "id": "d", "text": "Persistent detrusor overactivity throughout life without change" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Detrusor overactivity is typically superseded by a pattern of detrusor decompensation ('myogenic' failure) with weakening contractility and progressive increase in bladder capacity.",
+    "topic": "Bladder Dysfunction"
+  },
+  {
+    "id": "ch09-Q39",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 39,
+    "stem": "Obligatory polyuria in the early stages of chronic renal insufficiency in PUV patients contributes to bladder dysfunction by:",
+    "options": [
+      { "id": "a", "text": "Causing detrusor overactivity" },
+      { "id": "b", "text": "Leading to large residual volumes of poorly concentrated urine retained within the bladder" },
+      { "id": "c", "text": "Directly causing bladder wall fibrosis" },
+      { "id": "d", "text": "Reducing bladder compliance" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Obligatory polyuria in early CKD results in large residual volumes of poorly concentrated urine being retained within the bladder.",
+    "topic": "Bladder Dysfunction"
+  },
+  {
+    "id": "ch09-Q40",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 40,
+    "stem": "An 8-year-old boy with PUV has diurnal enuresis due to detrusor overactivity. Which medication is most likely to be beneficial?",
+    "options": [
+      { "id": "a", "text": "Desmopressin" },
+      { "id": "b", "text": "Oxybutynin" },
+      { "id": "c", "text": "Tamsulosin" },
+      { "id": "d", "text": "Furosemide" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Diurnal enuresis secondary to bladder dysfunction and detrusor overactivity often responds to anticholinergic/antispasmodic agents such as oxybutynin.",
+    "topic": "Bladder Dysfunction — Medical Management"
+  },
+  {
+    "id": "ch09-Q41",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 41,
+    "stem": "Why does clean intermittent catheterization (CIC) via the urethra often prove unacceptable to boys with posterior urethral valves?",
+    "options": [
+      { "id": "a", "text": "They have a normally sensate urethra and experience discomfort during catheterization" },
+      { "id": "b", "text": "The bladder neck is typically incompetent, making catheterization difficult" },
+      { "id": "c", "text": "Valve ablation renders the urethra too wide to retain the catheter" },
+      { "id": "d", "text": "They universally develop urethral strictures after valve ablation" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "In contrast to patients with neuropathic bladder, boys with PUV have a normally sensate urethra and experience discomfort during catheterisation. Secondary bladder neck hypertrophy also often makes catheter negotiation difficult.",
+    "topic": "Bladder Dysfunction — CIC"
+  },
+  {
+    "id": "ch09-Q42",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 42,
+    "stem": "For a boy with PUV who requires long-term intermittent catheterization, which surgical approach is most appropriate?",
+    "options": [
+      { "id": "a", "text": "Creation of a urethral stent" },
+      { "id": "b", "text": "Mitrofanoff continent catheterizable channel" },
+      { "id": "c", "text": "Suprapubic catheter insertion" },
+      { "id": "d", "text": "Vesicostomy revision" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Effective long-term intermittent catheterization in PUV patients is usually dependent on creation of a continent catheterizable (Mitrofanoff) channel, as urethral sensation makes self-catheterization difficult.",
+    "topic": "Bladder Dysfunction — CIC"
+  },
+  {
+    "id": "ch09-Q43",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 43,
+    "stem": "A 3-year-old boy with PUV and severe renal impairment is being prepared for renal transplantation. Which statement about augmentation cystoplasty in this setting is correct?",
+    "options": [
+      { "id": "a", "text": "It should be performed routinely before all transplantations in PUV patients" },
+      { "id": "b", "text": "It is best considered for boys under 3–4 years with severe impairment when transplantation is imminent" },
+      { "id": "c", "text": "It has been conclusively shown to preserve long-term renal function" },
+      { "id": "d", "text": "It avoids the need for clean intermittent catheterization" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Augmentation cystoplasty is best considered for boys under 3–4 years with severe renal impairment for whom renal transplantation is on the horizon, and is preferable to urinary diversion in this situation.",
+    "topic": "Bladder Dysfunction — Augmentation"
+  },
+  {
+    "id": "ch09-Q44",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 44,
+    "stem": "Ureterocystoplasty may be preferable to enterocystoplasty in PUV patients because it:",
+    "options": [
+      { "id": "a", "text": "Avoids long-term complications of enterocystoplasty such as mucus, stone formation, and metabolic disturbance" },
+      { "id": "b", "text": "Provides a larger capacity reservoir than enterocystoplasty" },
+      { "id": "c", "text": "Can be performed without requiring CIC" },
+      { "id": "d", "text": "Preserves the native ureteric anatomy" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Ureterocystoplasty avoids the long-term complications of enterocystoplasty (mucus, stone formation, metabolic disturbance) and is often applicable to PUV patients who have a dilated ureter associated with a non-functioning ipsilateral kidney.",
+    "topic": "Bladder Dysfunction — Augmentation"
+  },
+  {
+    "id": "ch09-Q45",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 45,
+    "stem": "Vesicoureteric reflux resolves in what proportion of PUV cases following successful valve ablation?",
+    "options": [
+      { "id": "a", "text": "10–15%" },
+      { "id": "b", "text": "30–60%" },
+      { "id": "c", "text": "70–85%" },
+      { "id": "d", "text": "90–100%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "VUR resolves in 30–60% of cases following valve ablation, though this is less likely in the presence of bladder dysfunction or a poorly functioning ipsilateral kidney.",
+    "topic": "Prognosis — Reflux Resolution"
+  },
+  {
+    "id": "ch09-Q46",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 46,
+    "stem": "A 3-year-old boy presents with poor urinary stream and recurrent UTIs. MCUG shows an anterior urethral valve. In what percentage of cases is this valve located at the bulbar urethra?",
+    "options": [
+      { "id": "a", "text": "40%" },
+      { "id": "b", "text": "25%" },
+      { "id": "c", "text": "60%" },
+      { "id": "d", "text": "80%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Anterior urethral valves are located at the bulbar urethra in 40% of cases, at the penoscrotal junction in 30%, and in the penile urethra in 30%.",
+    "topic": "Anterior Urethral Valves"
+  },
+  {
+    "id": "ch09-Q47",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 47,
+    "stem": "A 6-year-old boy has postmicturition dribbling from a wide-mouthed urethral diverticulum at the penoscrotal junction. What is the recommended initial treatment?",
+    "options": [
+      { "id": "a", "text": "Observation only, as most resolve spontaneously" },
+      { "id": "b", "text": "Endoscopic incision or resection of the obstructing lip" },
+      { "id": "c", "text": "Immediate open excision via a perineal approach" },
+      { "id": "d", "text": "Long-term antibiotic prophylaxis alone" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Treatment of urethral diverticulum is endoscopic incision or resection of the obstructing lip. If the diverticulum is large, open excision via a perineal approach may be necessary.",
+    "topic": "Urethral Diverticulum"
+  },
+  {
+    "id": "ch09-Q48",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 48,
+    "stem": "Megalourethra is characterized by marked dilatation of the penile urethra without evident obstruction and is most commonly associated with which condition?",
+    "options": [
+      { "id": "a", "text": "Posterior urethral valves" },
+      { "id": "b", "text": "Prune-belly syndrome" },
+      { "id": "c", "text": "Exstrophy-epispadias complex" },
+      { "id": "d", "text": "Anterior urethral valves" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Megalourethra often occurs in conjunction with other congenital abnormalities, particularly prune-belly syndrome.",
+    "topic": "Megalourethra"
+  },
+  {
+    "id": "ch09-Q49",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 49,
+    "stem": "A 10-year-old boy presents with acute, transient episodes of urinary retention. MCUG shows a filling defect at the bladder neck that prolapses into the posterior urethra. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Posterior urethral polyp" },
+      { "id": "b", "text": "Cowper's gland syringocoele" },
+      { "id": "c", "text": "Residual posterior urethral valve leaflet" },
+      { "id": "d", "text": "Cobb's collar" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Posterior urethral polyps arise from the verumontanum; larger polyps on an extended stalk can extend through the bladder neck to cause acute, transient urinary retention. Haematuria or urethral bleeding may also occur.",
+    "topic": "Posterior Urethral Polyps"
+  },
+  {
+    "id": "ch09-Q50",
+    "chapter": "Posterior Urethral Valves",
+    "chapterSlug": "ch09_posterior-urethral-valves",
+    "chapterNumber": 9,
+    "questionNumber": 50,
+    "stem": "An MCUG in a 7-year-old boy with voiding symptoms shows a short narrowed segment of urethra immediately distal to the urogenital membrane. Endoscopy reveals a soft, non-obstructing concentric ring. What is the significance of this finding?",
+    "options": [
+      { "id": "a", "text": "It is a congenital stricture requiring formal urethroplasty" },
+      { "id": "b", "text": "It is Cobb's collar, generally considered an incidental finding without clinical significance" },
+      { "id": "c", "text": "It represents a residual posterior urethral valve requiring immediate ablation" },
+      { "id": "d", "text": "It is a post-infectious stricture requiring endoscopic urethrotomy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Cobb's collar appears as a short narrowed segment distal to the urogenital membrane on MCUG and a soft concentric ring on endoscopy. It is generally believed to be an incidental finding without clinical significance in children.",
+    "topic": "Cobb's Collar"
+  }
+]

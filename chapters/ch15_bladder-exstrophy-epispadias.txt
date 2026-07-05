@@ -1,0 +1,670 @@
+                                                                                               15
+Bladder Exstrophy and Epispadias
+
+PETER CUCKOW and KEVIN CAO
+
+
+Topics covered
+
+Embryology and anatomy                                   Primary epispadias: Management and outcomes
+Bladder exstrophy: Management and outcomes               Other bladder conditions; diverticula and
+Cloacal exstrophy: Management and outcomes                  urachal remnants
+
+
+
+
+ INTRODUCTION                                            children born with this condition. Although the
+                                                         treatment of bladder exstrophy is provided in a
+                                                         greater number of centres in the Unites States there
+This chapter covers one of the most challenging
+                                                         is nevertheless a considerable degree of collabora-
+conditions in paediatric urology. As well as requir-
+                                                         tion and sharing of expertise between some of the
+ing complex reconstructive surgery to correct their
+                                                         major children’s hospitals. In addition to bladder
+severe bladder and genital abnormalities, children
+                                                         exstrophy, this chapter also considers some of the
+born with bladder exstrophy encounter continuing
+                                                         other congenital disorders of the bladder.
+problems throughout childhood and adolescence
+and face possible long-term risks of renal failure and
+infertility. The relative rarity of bladder exstrophy
+and related conditions previously made it difficult       EMBRYOLOGY AND ANATOMY
+for paediatric urologists to acquire adequate experi-
+ence in treating them because even major regional        Three distinct anomalies constitute the
+centres received only one or two new referrals a year.   exstrophy–epispadias complex (EEC): classic
+To overcome this problem, the United Kingdom             bladder exstrophy, epispadias and cloacal exstro-
+adopted a policy whereby the management of blad-         phy. They are thought to constitute a spectrum of
+der exstrophy is confined to two supraregional           abnormalities arising from failure of development
+centres. This has enabled paediatric urologists in       of the lower abdominal wall during early gestation.
+these two centres to acquire and maintain a high
+level of experience and specialist expertise. It has     Bladder Exstrophy
+also helped to facilitate the development and assess-
+ment of innovative approaches to the management          Similarities between the three anomalies com-
+of exstrophy aimed at improving the outcome for          prising the exstrophy–epispadias complex point
+
+                                                                                                         195
+196 Bladder Exstrophy and Epispadias
+
+
+
+to a similar embryological origin in the early
+stages of gestation. However, the precise mech-
+anism remains unclear. The cloacal ‘rupture’
+hypothesis proposes that a failure of integration
+of the mesodermal, endodermal and ectodermal
+components of the cloacal plate causes it to rup-
+ture – leading to exposure of the bladder plate
+and urethra. This is supported by animal mod-
+els in which surgical disruption of the membrane
+replicates the exstrophy morphology. The alter-
+native ‘wedge-effect’ hypothesis postulates that     Figure 15.2 Newborn female infant with bladder
+overgrowth of the cloacal membrane acts as a         exstrophy.
+mechanical wedge, which has the effect of sepa-
+rating the mesodermal components of the umbil-
+                                                     development of the lower anterior abdominal
+ical body wall. This explanation also has some
+                                                     wall and pelvic ring results in the anus being
+empirical support. Neither of these hypothetical
+                                                     located in a relatively anterior position. In
+models adequately explains the existence of ‘late
+                                                     females, the bladder component is identical to
+rupture’ and ‘covered’ variants of EEC anomalies.
+                                                     males and the clitoral corpora are separated with
+    Bladder exstrophy is characterised by an open
+                                                     a short urethral plate between the open bladder
+bladder plate and urethra occupying a triangu-
+                                                     and vagina (Figure 15.2).
+lar infra-umbilical space above an open pelvic
+ring with the rectus abdominis muscles lying
+on either side. In the male, the penile roots are    Cloacal Exstrophy
+attached to the lower border of the inferior pubic
+rami and the two corpora traverse the interven-      Cloacal exstrophy is a more severe embryologi-
+ing gap in the bony pelvis (the pubic diastasis)     cal variant, which is accompanied by defective
+to join each other to form a foreshortened penile    subdivision of the cloaca. Both the bladder and
+shaft. The exposed bladder mucosa lies in con-       bowel components of the anomaly are exterior-
+tinuity with the exposed urethral plate with the     ised, with a central area of bowel lying in the mid-
+openings of the ejaculatory ducts being located      line between two separated halves of the bladder.
+at a level equivalent to the verumontanum. The       There is extensive prolapse of the proximal colon
+exposed urethral plate extends over the dorsal       and ileum and one or two appendices. A second
+surface of the corpora and glans (Figure 15.1).      inferior opening corresponds to a rudimentary
+The testes are usually descended. Failure of         loop of distal hindgut. The anus is imperforate.
+
+                                                     Table 15.1 Worldwide incidence and sex
+                                                     distribution of the exstrophy–epispadias complex
+
+                                                                            Incidence per        Male to
+                                                                              live births      female ratio
+                                                     Bladder                  1:50 000               2:1
+                                                       exstrophy
+                                                     Primary                  1:120 000              5:1
+                                                       epispadias
+                                                     Cloacal                  1:300 000             0.6:1a
+                                                       exstrophy
+                                                     a   Because of the rarity of cloacal exstrophy and limita-
+Figure 15.1 Newborn male infant with bladder             tions in methodology there is considerable variation
+exstrophy.                                               in the published figures for incidence and sex ratio.
+                                                       Embryology and anatomy / Primary Epispadias 197
+
+
+
+                                                       exstrophy. In less severe forms of the anomaly
+                                                       the pelvic ring may be complete, with an appar-
+                                                       ently normal abdominal wall. The anus is sited
+                                                       normally and the scrotum also appears normal.
+                                                       A variable length of the urethra lies exposed
+                                                       on the dorsal aspect of the penis. According
+                                                       to the degree of severity of the epispadias, the
+                                                       urethra may open distally on the glans (glanu-
+                                                       lar epispadias), on the shaft (penile epispadias)
+Figure 15.3 Newborn male infant with cloacal           or proximally at the junction with the anterior
+exstrophy.                                             abdominal wall (pubic or penopubic epispadias)
+                                                       (Figure 15.4). Underlying deficiencies of the blad-
+                                                       der neck, proximal urethra and striated sphincter
+The sacrum is foreshortened and there is a high        complex give rise to varying degrees of urinary
+incidence of spinal dysraphism. The pubic dias-        incontinence – which is more severe in proximal
+tasis (gap between the anterior pubic rami) may        and penopubic cases. In severe forms of epispa-
+be so wide that the penile corpora are completely      dias, the posterior urethra merges with the blad-
+separated. In addition, the testes are often unde-     der neck, and the verumontanum is either located
+scended and absent from the scrotum or hemis-          at this level or within the bladder itself. The ure-
+crotum. Cloacal exstrophy is often accompanied         teric orifices often lie close together and can be
+by an exomphalos located above it (Figure 15.3).       normal or narrow in calibre, contrasting with the
+                                                       wide refluxing orifices seen in exstrophy.
+Primary Epispadias                                         In female primary epispadias, an abnormally
+                                                       wide section of urethra lies open and exposed
+The embryological origins are poorly under-            on its dorsal surface and the clitoris is divided
+stood. Primary penile epispadias is accompanied        (bifid). The urethra is short and wide, with a defi-
+by a variable degree of bony pelvic diastasis –        cient bladder neck, leading to severe stress-type
+although this is usually less severe than in bladder   incontinence in all patients (Figure 15.5).
+
+
+
+
+Figure 15.4 Male primary epispadias: (a) glanular; (b) penile; and (c) penopubic.
+198 Bladder Exstrophy and Epispadias
+
+
+
+
+Figure 15.5 Female primary epispadias.
+
+
+
+ ANTENATAL DIAGNOSIS                                     cord. The mucosa may be inflamed and polypoid,
+                                                         due to exposure in-utero or following delivery.
+                                                         The penile shaft is usually short and thick, with a
+Approximately, 50% of cases of bladder exstro-
+                                                         good sized glans. The scrotum is present in boys
+phy are now detected antenatally and in a further
+                                                         with the distinctive upwards direction of the
+20% of cases the diagnosis can be made retrospec-
+                                                         rugae and the testes are normally palpable.
+tively upon further review of the antenatal scans.
+                                                            Most affected infants are born at term and are
+Diagnostic features include; lack of urine in the
+                                                         usually otherwise well at birth. The incidence of
+fetal bladder, low-set umbilical cord, short, wide
+                                                         other congenital anomalies is low, with the excep-
+penis and bulging bladder plate. Maternal levels
+                                                         tion of inguinal herniae which are present in 80%
+of serum alpha feto protein (AFP) are elevated as
+                                                         of males and 15% of females.
+a result of exposure of bladder mucosa to amniotic
+fluid. The antenatal detection rate of cloacal exstro-
+phy is even higher because of the coexisting anom-       Neonatal Management
+alies. However, these sometimes lead to confusion
+                                                         and Primary Closure
+with abdominal wall defects such as gastroschisis.
+    Antenatal diagnosis provides an opportunity          Following delivery most newborns can be put to the
+for parents to consider termination of pregnancy,        breast normally. Vitamin K should be given (par-
+but counselling should take into account the             ticularly if surgery is planned within the first few
+improving outcomes of intervention, particularly         days) and the exposed bladder plate protected with
+in classic bladder exstrophy.                            plastic film inside the nappy. Antibiotics or intrave-
+                                                         nous access are not routinely required at this stage.
+                                                            Urgent transfer to the specialist centre is rarely
+                                                         indicated and it is preferable for the baby to remain
+ CLASSIC BLADDER EXSTROPHY                               with the mother in the first few days to establish
+                                                         breastfeeding and promote bonding. This enables
+Presentation and Clinical Features                       feeding to be established to help ensure better
+                                                         post-operative nutrition. The benefits of a slight
+Classic bladder exstrophy presents at birth with         delay outweigh any theoretical concerns regard-
+a visible bladder plate below a low-set umbilical        ing decreasing flexibility of the pelvis because, in
+                             Classic bladder exstrophy / Neonatal Management and Primary Closure 199
+
+
+
+practice, the abdomen and bladder can usually be       this stage any hernial sacs which are present can
+closed effectively without the need for osteotomies    be identified and ligated. Mobilisation of the
+in the first two to three weeks of life. A baseline    bladder plate is performed by extraperitoneal
+renal ultrasound scan is performed to evaluate the     dissection, which is then continued inferiorly on
+upper urinary tract prior to surgery. In premature     both sides of the proximal urethral plate down
+infants, a longer period of stabilisation is prefer-   to the level of the verumontanum. In girls, this
+able and it is not unreasonable to delay closure for   dissection is continued to just above the vaginal
+several weeks if medically indicated.                  opening. Following deeper dissection around the
+                                                       bladder neck, the bladder and proximal urethra
+Surgical technique (Figure 15.6)                       can be mobilised sufficiently to permit midline
+                                                       closure with interrupted 4/0 absorbable sutures.
+The surgery is performed under intravenous             The pelvic floor muscles are divided anterolat-
+antibiotic cover and whenever possible an epi-         erally to enable the urethral/bladder neck com-
+dural catheter is inserted at the outset to ensure     plex to be repositioned to lie behind the closed
+optimal postoperative analgesia. Following             abdominal wall. The ureteric catheters are
+catheterisation of the ureters the bladder plate is    brought out through the bladder to emerge lateral
+mobilised and dissected free of the skin and rec-      to the midline muscle and skin closure. The blad-
+tus muscles. Any large mucosal polyps are excised      der is drained via a silicone stent emerging from
+and the resulting mucosal defects repaired. At         the urethral opening. Unless the diastasis is wide,
+
+
+
+
+Figure 15.6 (a) Primary closure of a newborn male exstrophy. (b) Separation of the bladder plate.
+(c) Closure of bladder with ureteric catheters. (d) Appearance after abdominal wall closure with
+plaster cast (no longer used routinely).
+200 Bladder Exstrophy and Epispadias
+
+
+
+pressure applied to the iliac crests will bring the       Role of pelvic osteotomy
+soft tissues of the abdominal wall together in front
+of the bladder neck. However, this may not be suf-        The pelvis in newborn exstrophy patients is suf-
+ficient to bring the pubic rami completely together       ficiently flexible to allow closure of the bladder
+in the midline. The pubic rami are approximated           without osteotomy in 95% of cases. But where the
+as far as possible by use of interrupted horizontal       pubic diastasis is wide or when closure is delayed,
+mattress sutures of heavy-gauge polydioxanone             pelvic osteotomy is usually required to increase
+(PDS) and the rectus muscles are approximated             pelvic mobility and facilitate a tension-free clo-
+with interrupted absorbable sutures. During the           sure of the midline. The standard technique con-
+first few weeks of life it is nearly always possible to   sists of division of the bony pelvis between the
+achieve successful primary closure without any            anterior superior iliac spine and the greater sci-
+requirement for pelvic fixation.                          atic notch on both sides. The drawbacks include,
+    Feeding is recommenced postoperatively                prolonged operating time, increased blood loss
+and oral prophylactic antifungal and antibi-              and longer postoperative immobility. Osteotomy
+otic agents are continued. When all the cath-             is best reserved for revision cases and the correc-
+eters have been removed an ultrasound scan is             tion of cloacal exstrophy. Postoperative fixation
+performed prior to discharge from hospital to             of the bony pelvis in small infants can be effec-
+assess bladder emptying and the appearances of            tively achieved by the use of frog-leg plasters and
+the upper tracts.                                         mermaid dressings but a period of external fixa-
+    Complications (including wound breakdown              tion is mandatory in older children because of the
+and partial or complete bladder dehiscence) occur         greater density of their pelvic bones.
+in around 10% of cases. Factors predisposing to
+wound infection and dehiscence include pool-              Secondary Procedures for Continence
+ing of urine at the new urinary meatus, the use           and Genital Reconstruction
+of stents emerging through the midline closure,
+and retention of the umbilical stump (a focus             In girls, primary closure can occasionally be suffi-
+of potential infection). The risk of dehiscence           cient to impart continence and create a satisfactory
+is also increased by tissue ischaemia if the clo-         cosmetic appearance without the need for further
+sure has been performed under tension. Partial            surgery. In the overwhelming majority of exstro-
+dehiscence which does not involve exposure of             phy patients, however, additional procedures will
+the bladder can be allowed to heal by secondary           be required to achieve continence and to recon-
+intention. However, a more extensive dehiscence           struct functionally and cosmetically acceptable
+with exposure of the bladder plate or prolapse of         genitalia. Until further continence procedures are
+the bladder will require re-closure, for which pel-       performed, the low bladder outlet resistance leads
+vic osteotomies are usually indicated.                    to dribbling incontinence. Although urinary tract
+    In classic bladder exstrophy the ureters usu-         infections are uncommon, some paediatric urolo-
+ally enter the bladder without the oblique trans-         gists prescribe prophylactic antibiotics.
+mural tunnel that would normally confer an
+anti reflux mechanism. For this reason, some
+                                                          Continence Surgery
+degree of vesicoureteric reflux is almost invari-
+ably present following primary bladder closure.           There are three accepted surgical strategies for
+Any degree of outflow obstruction consequent              the management of bladder exstrophy.
+upon tight urethral closure can pose a risk of
+upper tract dilatation and renal damage – par-            Staged reconstruction
+ticularly if infection supervenes. Close ultra-
+sound surveillance is therefore essential to              Popularised by Jeffs and Gearhart, this is a well-
+detect possible upper tract dilatation and if this        established standard approach (now termed the
+does develop a period of intermittent catheteri-          ‘modern staged repair of bladder exstrophy’) in
+sation may be required.                                   which conventional bladder closure is performed
+                                                   Classic bladder exstrophy / Continence Outcomes 201
+
+
+
+in the neonatal period followed by correction of       (Figure 15.7a). The urethral plate is dissected off
+the epispadiac component at around 2 years of age      the corpora and the glans and tubularised over an
+and bladder neck reconstruction around the age         8 Fr stent. The bladder neck is delineated at a level
+of five. If continence is not achieved because of      between the verumontanum and the ureteric ori-
+inadequate bladder capacity, further bladder neck      fices and mucosal triangles are then removed on
+reconstructions may be undertaken – possibly           either side. The bladder neck and bladder are then
+in conjunction with augmentation enterocysto-          closed in sequence. The tubularised urethral plate
+plasty and a Mitrofanoff procedure.                    is relocated between the penile corpora, to come
+                                                       to lie in hypospadiac position where the muscles at
+Complete primary repair                                the base of the corpora are then wrapped around
+                                                       it with loose sutures in a position corresponding
+This strategy was devised by Mitchell with the         to the site of the physiological sphincter in nor-
+aim of creating continence by combining full           mal males just below the veromontanum. The
+anatomical reconstruction with the initial blad-       corporeal bodies are joined in the midline with
+der closure. In addition to mobilisation of the        external rotation to eliminate the dorsal chordee
+exposed bladder and urethral plate the penile          and to secure the position of the urethra below
+corpora are also extensively mobilised to facili-      them with the new urinary meatus being sited
+tate complete penile reconstruction during the         on the ventral surface of the reconstructed penis.
+same operation. This approach has been reported        Abdominal wall closure can be combined with an
+to give good results whilst requiring fewer surgi-     umbilicoplasty if required. The Kelly procedure
+cal procedures. However, the complete primary          can be completed with either a glans plasty pro-
+repair is a technically challenging operation in a     cedure to advance the urinary meatus on to the
+newborn infant and it is of particular importance      glans or, alternatively by two-stage distal urethral
+to safeguard the blood supply to the penis.            reconstruction (analogous to hypospadias repair),
+                                                       using posterior auricular skin grafts at some stage
+Kelly operation                                        in the following 12 months.
+                                                           In the senior author’s experience, the Kelly oper-
+This is the procedure of choice at Great Ormond        ation provides a superior penile cosmetic outcome
+Street Hospital for Children. After successful         to the conventional staged repair (Figure 15.7b).
+neonatal bladder closure, examination under                The Kelly procedure can also be performed in
+anaesthetic to assess the bladder and bladder out-     girls in whom the two components of the bifid cli-
+let is undertaken around 3 months later.               toris are mobilised, with their pudendal pedicles
+    The Kelly operation is then performed from         being preserved and the labia minora remain-
+around the age of 6 months onwards. The bladder        ing attached. Reconstruction of the bladder neck
+is reopened in the midline and both ureters are        and urethra is undertaken in a similar fashion to
+reimplanted using the Cohen technique. The soft        males. The mobilised clitoral corpora are brought
+tissues, including the urethra, penile corpora and     together in the midline to reconstruct the clitoris.
+pelvic floor, are then fully mobilised before recon-   Genital reconstruction can be successfully com-
+structing the bladder outlet, urethra, sphincter       pleted in a single stage in girls.
+and penis. Detachment of the penile corpora
+from the lower border of the inferior pubic rami       Continence Outcomes
+is combined with release of the pudendal pedicles,
+which lie beneath the pelvic floor muscles and run     Considerable controversy has surrounded the
+from the greater sciatic notch to the base of the      published continence rates following surgical
+penis in Alcock’s canal. Once the base of the penis    reconstruction of bladder exstrophy. Published
+is freely mobile the two corporeal bodies can be       results vary considerably and continence rates as
+brought together in the midline, thus eliminat-        high as 70% have been claimed by some groups.
+ing the effect of the pubic diastasis and greatly      Although the differences in reported continence
+increasing penile protrusion and apparent length       rates can be partly explained by differing selection
+202 Bladder Exstrophy and Epispadias
+
+
+
+
+                                                                   Figure 15.7 (a) The Kelly operation.
+                                                                   (I) From the right of the patient,
+                                                                   the penile corpora and urethral
+                                                                   plate are dissected and the blad-
+                                                                   der is held to the left, the base
+                                                                   of the corpus is separated from
+                                                                   the pubis and moved medially,
+                                                                   the pelvic floor has been released
+                                                                   and the pudendal pedicle is seen
+                                                                   (arrowed). (II) From below the
+                                                                   penis, the urethra has now been
+                                                                   detached, tubularised and brought
+                                                                   between the mobile corpora;
+                                                                   muscle is being wrapped around it.
+                                                                   (b) Kelly operation: postoperative
+                                                                   appearances.
+
+
+criteria for surgery they also reflect the tendency   operated between 1999 and 2014. Of these,
+for authors to assess their results according to      56 children were followed-up for at least 5 years
+their own definitions of what constitutes urinary
+continence. Moreover, authors do not always dif-      Table 15.2 Grading system for continence
+ferentiate between continence with spontaneous
+voiding and continence (or dry intervals) in chil-    Grade          Description
+dren being managed by clean intermittent cathe-       0              Dribbles urine all the time with
+terisation (CIC) following bladder augmentation.                       no control
+    Meaningful comparisons between surgi-
+                                                      I              Able to retain urine with a ‘dry
+cal results and functional outcomes can only be
+                                                                       interval’; some control but still
+obtained if a standardised definition of what con-
+                                                                       wearing protection
+stitutes ‘continence’ can be agreed and applied
+                                                      II             Sufficient dry intervals by day; in
+equally to all patients and treatment modalities.
+                                                                       underwear and not needing
+This does not exist at present. The senior author
+                                                                       protection; wet at night
+has proposed the simple grading system for con-
+                                                      III            Dry by day and night;
+tinence which is illustrated in Table 15.2. Using
+                                                                     no protection or accidents;
+this schema, the senior author has assessed the
+                                                                     ‘normal child’
+outcome of 101 patients (70 male and 31 female)
+                                           Cloacal exstrophy / Initial Presentation and Management 203
+
+
+
+and an additional 23 were followed-up over            failure in later adolescence. Intermittent cath-
+10 years. In the cohort who had been followed-        eterisation is indicated in such cases – either
+up for 10 years 81% of males achieved dryness by      via the urethra or via a Mitrofanoff catheteris-
+day (grade II) and 44% were dry at night (grade       able conduit (which is usually accompanied by
+III). Overall, 13% of males required bladder aug-     augmentation cystoplasty). Stone formation has
+mentation surgery. Sixty-seven percent of females     been reported to occur in up to 25% of patients.
+were dry by day (grade II) and 33% were dry by        The risk of malignancy in the reconstructed
+day and night (grade III). Bladder augmentation       exstrophy bladder has been estimated to be in
+was required in 33% of females. Our experience        the region of 4% after 30 years of follow-up.
+indicates that the Kelly procedure provides a             Males have normal sexual libido and 90% can
+relatively predictable degree of outflow resis-       achieve erections, although some require correc-
+tance and that continence is then dependent on        tive surgery for severe persistent dorsal chordee.
+the bladder’s ability to increase its capacity in     The majority can experience orgasm but may have
+response to this enhanced outflow resistance.         slow or retrograde ejaculation due to abnormali-
+Persisting incontinence may be due either to          ties of the proximal urethra. Fertility is reduced,
+inadequate outflow resistance and/or inadequate       probably as a result of disruption of the ejacula-
+bladder capacity. Some degree of spontaneous          tory ducts during bladder neck surgery or the
+improvement can usually be expected with fur-         consequences of episodes of epididymo-orchitis,
+ther growth – particularly around puberty. In         which occur in up to one-third of men. The fer-
+children with severe incontinence, however, it        tility rate in men with exstrophy is around 20%.
+is usually necessary to perform a repeat bladder      However, recent studies of quality of life scores in
+neck reconstruction in combination with ileocys-      relation to sexual function are comparable to the
+toplasty and the formation of a Mitrofanoff cath-     normal population.
+eterisable channel. Ideally this should be timed to       For females, surgery to the introitus may be
+enable the child to become continent by around        required to facilitate intercourse but the prospects
+the age of 6 years. Incontinence which is due to      for fertility are normal. Pregnancy is often com-
+poor outlet resistance can sometimes be reduced       plicated by vaginal prolapse although this may
+by cystoscopic injection of a bulking agent such      prove to be less problematic following contempo-
+as Deflux (dextranomer/hyaluronic acid copoly-        rary surgical procedures. Delivery by caesarean
+mer) into the region of the bladder outlet. If the    section is recommended and it is prudent to have
+incontinence persists despite this and similar        a urologist in attendance for patients who have
+measures the only remaining option may be sur-        previously undergone bladder augmentation.
+gical closure of the bladder neck.                        Unfortunately, there are some exstrophy
+                                                      patients who have a history of multiple failed oper-
+Late Outcomes                                         ations which is sometimes accompanied by loss of
+                                                      penile corpora and compromised renal function.
+Woodhouse has documented the late outcomes            For these patients, major and complex revisional
+of reconstructive surgery in exstrophy patients       surgery is required. (See also Chapter 24.)
+and although some of the findings relate to
+outdated forms of surgical management, such
+as ureterosigmoidostomy, they nevertheless
+highlight the importance of long-term follow-          CLOACAL EXSTROPHY
+up. Renal damage (due to a combination of
+lower tract obstruction, vesicoureteric reflux        Initial Presentation and Management
+and urinary infection) was identified in 25% of
+patients. Follow-up data indicate that patients       Cloacal exstrophy is more likely to be diagnosed
+who achieve continence following a tight blad-        prenatally than bladder exstrophy because of
+der neck procedure in childhood may be at             the associated anomalies, which are listed in
+increased risk of decompensation and detrusor         Table 15.3. Affected infants are frequently born
+204 Bladder Exstrophy and Epispadias
+
+
+
+Table 15.3 Associated anomalies in cloacal            spontaneously without the need for surgical
+exstrophy                                             intervention.
+                                                          Preoperative evaluation includes ultrasound
+                                       Cases
+                                                      scans of the urinary tract and spinal cord. Iliac
+Anomaly                             affected (%)
+                                                      pelvic osteotomies are invariably required because
+Renal anomalies                           7           of the delay in closure and the wider pelvic dias-
+Ectopic kidney, agenesis,                             tasis in these patients. Although osteotomies help
+  hydronephrosis                                      to facilitate tension-free closure of the abdominal
+Sacral agenesis                          60           wall this may not be achievable if the abdominal
+Spinal dysraphism                        50           contents cannot be accommodated within the
+Myelomeningocoele, lipoma,                            abdominal cavity. In this situation, a plastic silo
+  tethered cord                                       or mesh is attached over the upper abdomen to
+Orthopaedic deformity                    40           reduce tension and is then gradually reduced and
+Club foot, hip and pelvic                             removed over the following days. At operation,
+  deformity                                           the bladder/bowel plate is dissected free from the
+Small bowel defects                      65           skin and rectus muscles superolaterally and the
+Malrotation, duodenal atresia,                        abdominal cavity is entered. The proximal and
+  short gut                                           distal loops joining the midline bowel plate are
+Cyanotic heart disease                  <10           identified and separated from the two hemiblad-
+                                                      ders. A tubularised distal hindgut tube is created,
+                                                      which is usually brought out in the left iliac fossa
+prematurely and cloacal exstrophy may be only         as an end colostomy (in preference to an incon-
+one of many problems. Primary closure is usu-         tinent anal canal). The hemibladders are joined
+ally delayed, often for several months, while other   and closed prior to reconstruction of the bladder
+medical conditions affecting the gastrointestinal     outlet and proximal urethra (Figure 15.8).
+tract and cardiorespiratory systems are evalu-
+ated and managed. Pending surgery, the exposed        Gender of Rearing
+bladder/bowel plate is protected with plastic film
+and barrier creams are applied to the surround-       Historically, males with cloacal exstrophy were
+ing skin. In very low birth weight babies, enteral    often assigned to female gender because of the
+feeding is established with a target weight of        severity of their genital anomaly and difficulty in
+2.5–3 kg being set before closure is undertaken.      reconstructing a functioning penis. This approach
+If an exomphalos is present, this can usually be      is no longer generally practised in the UK because
+managed expectantly since it tends to contract        of greater understanding of the role of hormonal
+
+
+
+
+                                                                       Figure 15.8 Male cloacal
+                                                                       exstrophy, closed at three
+                                                                       months. Osteotomies enable
+                                                                       the bladder plates and
+                                                                       hemiphalli to be brought
+                                                                       together in the midline. In
+                                                                       addition, there has been an end
+                                                                       colostomy and umbilicoplasty.
+                                                                     Primary epispadias / Management 205
+
+
+
+factors responsible for male gender imprinting in         PRIMARY EPISPADIAS
+intrauterine life.
+                                                         Presentation
+Initial Outcomes
+                                                         Primary epispadias is rarely identified prena-
+Although prematurity, severe cardiac anomalies           tally but is usually detected at birth. In milder
+and complications relating to short bowel and            (glanular) forms of the anomaly, however, the pre-
+parenteral nutrition pose an increased risk of           puce is intact and the condition may not become
+early mortality, the majority of affected newborns       apparent until the prepuce becomes retractile.
+now survive into childhood. Careful surveillance             In girls, the diagnosis of primary epispadias is
+of the upper urinary tracts is important in safe-        often considerably delayed because most junior
+guarding long-term renal function. Magnetic              paediatricians are unaware of this rare anomaly
+resonance imaging (MRI) is used to assess the            and fail to identify it on routine neonatal exami-
+need for neurosurgical intervention for spinal           nation. The classic presentation is with a history
+dysraphism and orthopaedic input may also be             of dribbling or stress incontinence and failed
+required for the correction of any limb abnormal-        toilet training. The diagnosis is readily apparent
+ities. Colostomy complications occur in around           when examination is undertaken by someone
+50% of patients and it is occasionally necessary to      with knowledge of the appearances of the genita-
+remove the reconstructed hindgut and replace it          lia in this condition (Figure 15.5).
+with an ileostomy.
+
+Continence and Long-Term                                 Management
+Outcomes
+                                                         Males
+The combination of exstrophy and neuropathic
+dysfunction inevitably means that all patients will      The widely used Cantwell–Ransley epispadias
+require enterocystoplasty if they are to achieve         repair can be performed in the first year of life.
+continence and storage of urine at safe pressures.       In this operation the exposed urethral plate is left
+Augmentation of the bladder may be difficult if          attached distally to the glans but the entire length
+only a short length of small bowel is available and      of the exposed urethral plate is otherwise mobil-
+there is no usable appendix. Nevertheless, most          ised from the penile corporeal bodies before being
+children can be successfully managed with ileo-          tubularised and relocated to lie in a ventral posi-
+cystoplasty and Mitrofanoff or Monti procedure.          tion inferior to the corpora. Approximation of
+If there is insufficient small intestine, the alterna-   the two corpora in the midline then has the effect
+tives for augmentation include a patch of stomach        of eliminating the dorsal curvature (chordee) of
+or a hindgut segment. The more complex forms             the penis. A Heineke–Mikulicz type glans plasty
+of reconstruction carry the highest risk of failure      procedure is performed at the distal end of the
+and any coexisting renal insufficiency will also         tubularised urethral plate to create a more ven-
+contribute to greater overall morbidity.                 trally located meatus.
+    Some individuals with severe forms of cloa-             For patients with good penile length this opera-
+cal exstrophy will suffer lifelong urinary incon-        tion is usually successful in creating a terminal ure-
+tinence regardless of advances in reconstructive         thral orifice and achieving a satisfactory cosmetic
+surgery. Although male infants are now almost            outcome. Where the penis is smaller, the phallus
+invariably assigned male gender at birth they may        may appear shorter with a rather buried appear-
+be destined to encounter serious difficulties relat-     ance. In these patients, penile mobilisation pro-
+ing to sexual function in adulthood. Moreover,           vided by the Kelly operation enables its length to be
+the combination of reduced penile size and sur-          enhanced, particularly if there is a pubic diastasis.
+gical damage to vasa deferentia and ejaculatory             Epispadias is commonly associated with incon-
+mechanisms result in high rates of infertility.          tinence due to sphincter weakness and deficiency
+206 Bladder Exstrophy and Epispadias
+
+
+
+of the bladder neck. Although it is not possible to    Other Bladder Disorders
+reliably assess continence in infants who are still
+in nappies, some indication can be provided by         Bladder diverticulum
+the penile anatomy (severity of epispadias) and
+the cystoscopic findings. The Cantwell–Ransley         A diverticulum is an outpouching or ‘herniation’
+repair is indicated in boys with more distal epi-      of the bladder lining, which protrudes through
+spadias if the penis is of good size, the verumonta-   the bladder wall into the peri vesical space.
+num is distal to the bladder neck and they appear      Diverticula can be classified as primary or sec-
+to void without dribbling. For those with more         ondary. Primary bladder diverticula are con-
+severe primary epispadias the Kelly procedure is       genital abnormalities of the bladder, which occur
+more appropriate. The technical aspects are the        mainly in boys. Connective tissue disorders
+same as those employed in bladder exstrophy.           such as Ehlers Danlos syndrome and Menke’s
+                                                       syndrome are also associated with bladder
+                                                       diverticula – as is Williams syndrome. Primary
+Outcome                                                paraureteric diverticula are located adjacent to
+                                                       a ureteric orifice and may be accompanied by
+The long-term outcome for sexual function is           VUR. Secondary bladder diverticula of vary-
+usually good with normal fertility unless there        ing size develop as a consequence of exposure of
+have been urethral complications or epididymo-         the bladder wall to grossly elevated intravesical
+orchitis. However, ejaculation may be slow or          pressure. Small diverticula are termed ‘saccules’.
+even retrograde. Patients who have only under-         Conditions giving rise to severe outflow obstruc-
+gone penile reconstruction (the majority) will         tion, such as posterior urethral valves, syringocele
+require additional bladder neck/sphincter sur-         and urethral strictures are often accompanied by
+gery if their continence is impaired. Injection of a   secondary diverticula – as are functional bladder
+bulking agent into the bladder neck may improve        disorders causing grossly elevated intravesical
+continence in the short term but the benefit is not    pressure, such as neuropathic bladder and severe
+sustained. The surgical options then comprise a        dysfunctional voiding with detrusor-sphincter
+bladder neck repair or implantation of an arti-        dyssynergia (Hinman syndrome).
+ficial urinary sphincter. In some patients it may
+be necessary to progress to bladder augmenta-
+tion and a Mitrofanoff conduit. Although the           Diagnosis
+Kelly operation offers enhanced penile length, it      Small, secondary diverticula are generally identi-
+remains unclear whether the sphincteric recon-         fied as asymptomatic findings on bladder ultra-
+struction included in the procedure will lead to       sound or MCUG during routine evaluation of
+improved continence in due course.                     urological conditions, such as posterior urethral
+                                                       valves. Primary diverticula are usually diagnosed
+                                                       when they are identified on an ultrasound scan
+Girls
+                                                       performed during initial investigation of children
+Since the majority of girls with epispadias are        (mainly boys) presenting with voiding symptoms
+incontinent, reconstructive surgery must be            or urinary tract infection.
+directed at treating the incontinence as well as
+correcting the genital abnormality. Good results       Management
+have been reported following distal urethral
+reconstruction, but more proximal bladder neck         Secondary diverticula rarely require treat-
+surgery may also be required. The Kelly proce-         ment and tend to resolve or reduce in size after
+dure offers the prospect of a favourable progno-       appropriate treatment of outflow obstruction or
+sis for continence combined with a satisfactory        bladder dysfunction. By contrast, surgical inter-
+external cosmetic outcome. There should be a few       vention is often indicated for large congenital
+implications for sexual function or fertility.         primary diverticula, particularly when they are
+                                                                 Primary epispadias / Urachal Anomalies 207
+
+
+
+located in the region of the bladder neck and give       Investigation and management
+rise to obstructed voiding. Diverticulectomy is
+also indicated for a large diverticulum with a           Depending on the presentation, this may involve
+narrow communication to the bladder lumen                ultrasound, MCUG and magnetic resonance
+in which stasis of urine poses a risk of infection,      imaging (MRI). Additional contrast studies
+stone formation and possible late malignancy.            (sinography) may also be required to delineate
+Surgery (which can be performed by either                the anatomy. Management is aimed initially at
+an open or laparoscopic approach) consists of            treating any infection with antibiotics and sur-
+removing the diverticulum and repairing the              gical drainage if necessary. Once infection has
+defect in the bladder wall.                              been eradicated and the anatomy has been estab-
+                                                         lished, treatment usually consists of surgical exci-
+                                                         sion. Asymptomatic cysts should also be excised
+                                                         because of the documented long-term risk of
+Urachal Anomalies
+                                                         adenocarcinoma.
+The urachus (communication between the blad-
+der and amniotic cavity) normally closes around
+the 12th week of gestation to leave a fibrous cord           KEY POINTS
+(median umbilical ligament).
+    A number of abnormalities can result from               ●● The exstrophy–epispadias complex
+incomplete or aberrant closure.                                encompasses a group of rare anomalies,
+    In around 10% of cases, the urachus remains                which occur more commonly in males.
+open along its entire length to constitute a patent         ●● Cloacal exstrophy is usually detected
+
+urachus. This may occur in conjunction with                    antenatally, as are more than half of all
+congenital abnormalities of the bladder, such as               cases of bladder exstrophy. Epispadias,
+prune-belly syndrome or as an isolated anom-                   however, is almost invariably diag-
+aly. Typically, a patent urachus presents in the               nosed at birth.
+neonatal period with oozing of clear fluid from             ●● Most infants with uncomplicated or
+
+the umbilicus or periumbilical infection and/or                classic bladder exstrophy are otherwise
+granulation tissue.                                            healthy, and surgical correction can be
+    Urachal sinus accounts for approximately 50%               undertaken safely within the first few
+of cases. In this variant, the portion of urachus that         days or weeks of life. The cosmetic and
+was connected to the bladder closes normally but               functional results obtained with the
+the rest of the urachus remains patent and in com-             one-stage Kelly operation may prove
+munication with the umbilicus. Presenting fea-                 to be superior to those achieved with
+tures may include; purulent umbilical discharge,               conventional staged repair.
+fever, lower abdominal pain and tenderness.                 ●● Late morbidity is common in exstrophy
+
+    Urachal cysts account for approximately 30%                patients and may include incontinence,
+of cases. Both ends of the urachus close normally              sexual dysfunction and renal impair-
+but a central section remains patent to leave                  ment. It is hoped that newer techniques
+an isolated, non-communicating cystic cavity.                  will offer better long-term results.
+Urachal cysts present at a later stage in childhood         ●● Cloacal exstrophy is often associ-
+
+than other urachal abnormalities – typically as                ated with prematurity or other
+a lower abdominal mass, which may be compli-                   medical problems, which take prior-
+cated by infection. Very rarely a blind-ending                 ity over early surgical correction.
+length of patent urachus remains in communica-                 Reconstruction presents a formidable
+tion with the bladder to create a non-obstructive              challenge. Although it is usually pos-
+diverticulum, which is discovered as an inciden-               sible to create a urinary reservoir, most
+tal finding on an ultrasound scan or micturating               patients are left with a permanent
+cystourethrogram (MCUG).
+208 Bladder Exstrophy and Epispadias
+
+
+
+                                               Kelly JH, Eraklis AJ. A procedure for lengthen-
+      colostomy. It may be necessary to con-       ing the phallus in boys with exstrophy of the
+      sider gender reassignment in severely        bladder. J Pediatr Surg. 1971;6:645–649.
+      affected males.                          Siffel C, Correa A, Amar E, et al. Bladder
+   ●● Primary epispadias is commonly               exstrophy: an epidemiologic study from the
+      associated with incontinence due to          international clearinghouse for birth defects
+      deficiency of the bladder neck and           surveillance and research and an overview
+      sphincter complex.                           of the literature. Am J Med Genet C Semin
+                                                   Med Genet. 2011;0(4):321–332.
+                                               Woodhouse CRJ. Exstrophy and epispadias.
+FURTHER READING                                    In: Long-Term Paediatric Urology. London:
+                                                   Blackwell, 1991:127–150.
+Gearhart J P, Jeffs RD. Exstrophy–epispadias   Woodhouse CRJ. Genitoplasty in exstrophy
+  complex and bladder anomalies. In:               and epispadias. In: Stringer MD, Oldham
+  Walsh PC, Retik AB, Vaughan ED, Wein             KT, Mouriquand PDE (eds), Paediatric
+  AJ (eds), Campbell’s Textbook of Urology,        Surgery and Urology: Long-Term Outcomes.
+  7th Edition. Philadelphia: WB Saunders,          Cambridge: Cambridge University Press,
+  1998: 1939–1990.                                 2006:583–594.

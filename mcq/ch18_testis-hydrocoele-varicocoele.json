@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch18-Q01",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 1,
+    "stem": "A term newborn is noted to have an empty scrotum on routine examination. Which of the following best describes the incidence of congenital undescended testis in term infants?",
+    "options": [
+      { "id": "a", "text": "0.5–1%" },
+      { "id": "b", "text": "1.5–3%" },
+      { "id": "c", "text": "5–10%" },
+      { "id": "d", "text": "15–20%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The incidence of undescended testis in term infants is 1.5–3%. In premature infants it is up to 30%. Spontaneous descent can occur during the first few months due to mini-puberty.",
+    "topic": "Undescended testis — epidemiology"
+  },
+  {
+    "id": "ch18-Q02",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 2,
+    "stem": "A 4-month-old infant with a known undescended testis is brought for follow-up. The testis previously noted to be absent from the scrotum is now palpable at the scrotal base. This is most likely due to which physiological phenomenon?",
+    "options": [
+      { "id": "a", "text": "Activation of the hypothalamic–pituitary–gonadal axis in early infancy" },
+      { "id": "b", "text": "Regression of the gubernaculum" },
+      { "id": "c", "text": "Increased intra-abdominal pressure from crying" },
+      { "id": "d", "text": "Maturation of the cremasteric reflex" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Spontaneous descent occurs in response to 'mini-puberty' — high levels of circulating testosterone driven by pituitary gonadotrophins in the early postnatal period.",
+    "topic": "Undescended testis — mini-puberty"
+  },
+  {
+    "id": "ch18-Q03",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 3,
+    "stem": "A paediatric urologist is counselling the parents of a 6-month-old boy with bilateral undescended testes. By what age would spontaneous descent no longer be expected?",
+    "options": [
+      { "id": "a", "text": "3 months" },
+      { "id": "b", "text": "6 months" },
+      { "id": "c", "text": "12 months" },
+      { "id": "d", "text": "2 years" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Spontaneous descent does not occur after 6 months of age. Beyond this point a 'wait and watch' strategy is not justified, and orchidopexy is recommended.",
+    "topic": "Undescended testis — timing of spontaneous descent"
+  },
+  {
+    "id": "ch18-Q04",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 4,
+    "stem": "At what age does gonocyte transformation into adult dark (Ad) spermatogonia normally occur in the human testis?",
+    "options": [
+      { "id": "a", "text": "In utero during the second trimester" },
+      { "id": "b", "text": "Between 3 and 9 months of age" },
+      { "id": "c", "text": "Between 2 and 3 years of age" },
+      { "id": "d", "text": "At puberty" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Gonocytes transform into Ad spermatogonia between 3 and 9 months of age in response to the surge of gonadotrophins and testosterone during mini-puberty.",
+    "topic": "Undescended testis — germ cell development"
+  },
+  {
+    "id": "ch18-Q05",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 5,
+    "stem": "In undescended testes, impaired gonocyte transformation leads to which of the following consequences?",
+    "options": [
+      { "id": "a", "text": "Increased Leydig cell hyperplasia" },
+      { "id": "b", "text": "A diminished pool of adult stem cells for spermatogenesis and persistence of neonatal gonocytes" },
+      { "id": "c", "text": "Accelerated Sertoli cell maturation" },
+      { "id": "d", "text": "Increased production of anti-Müllerian hormone" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "In UDT, gonocyte transformation into Ad spermatogonia is impaired, reducing the stem cell pool for spermatogenesis. Redundant gonocytes that would normally undergo apoptosis persist, increasing malignancy risk.",
+    "topic": "Undescended testis — pathophysiology of infertility"
+  },
+  {
+    "id": "ch18-Q06",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 6,
+    "stem": "A 7-year-old boy is referred for a possible undescended testis. On examination the testis can be brought fully to the floor of the scrotum without tension and remains there. What is the most appropriate diagnosis?",
+    "options": [
+      { "id": "a", "text": "Low inguinal undescended testis" },
+      { "id": "b", "text": "Retractile testis" },
+      { "id": "c", "text": "Ascending testis" },
+      { "id": "d", "text": "Ectopic testis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A retractile testis is defined as one that, regardless of its initial position, can be brought fully to the floor of the scrotum without tension. This is a normal variant common between 3 and 7 years.",
+    "topic": "Retractile testis"
+  },
+  {
+    "id": "ch18-Q07",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 7,
+    "stem": "Which of the following is the most appropriate management for a boy with a genuinely retractile testis?",
+    "options": [
+      { "id": "a", "text": "Immediate orchidopexy" },
+      { "id": "b", "text": "Annual review until the testis is no longer retractile and has reverted to a normal scrotal position" },
+      { "id": "c", "text": "Hormonal treatment with HCG" },
+      { "id": "d", "text": "Laparoscopic assessment" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Retractile testes should be followed annually as some progress to become ascending testes. If the testis remains retractile or reverts to a normal position, no surgery is needed.",
+    "topic": "Retractile testis — management"
+  },
+  {
+    "id": "ch18-Q08",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 8,
+    "stem": "A 10-year-old boy who had a normally descended testis in infancy now has a testis fixed in the upper scrotum that cannot be manipulated to the scrotal base. This is most consistent with which condition?",
+    "options": [
+      { "id": "a", "text": "Congenital undescended testis" },
+      { "id": "b", "text": "Retractile testis" },
+      { "id": "c", "text": "Ascending testis (acquired UDT)" },
+      { "id": "d", "text": "Ectopic testis" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "An ascending (acquired) UDT is one that was previously scrotal but has adopted a fixed elevated position. It occurs due to failure of spermatic cord elongation or tethering by a patent processus vaginalis remnant.",
+    "topic": "Ascending testis"
+  },
+  {
+    "id": "ch18-Q09",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 9,
+    "stem": "Which of the following is the most widely accepted explanation for the phenomenon of ascending testis?",
+    "options": [
+      { "id": "a", "text": "Progressive atrophy of the gubernaculum" },
+      { "id": "b", "text": "Failure of the spermatic cord to elongate proportionally with growth, or tethering by a processus vaginalis remnant" },
+      { "id": "c", "text": "Acquired cremasteric muscle hypertrophy" },
+      { "id": "d", "text": "Obliteration of the vas deferens" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The distance from the internal ring to the scrotum doubles from infancy to puberty. Failure of this elongation or tethering by a patent processus vaginalis remnant causes secondary ascent.",
+    "topic": "Ascending testis — aetiology"
+  },
+  {
+    "id": "ch18-Q10",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 10,
+    "stem": "What proportion of boys with ascending testes are reported to have passed through a retractile phase?",
+    "options": [
+      { "id": "a", "text": "1–5%" },
+      { "id": "b", "text": "10–30%" },
+      { "id": "c", "text": "50–60%" },
+      { "id": "d", "text": "80–90%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "In 10–30% of cases, the ascending testis has passed through a retractile phase. This highlights the need for follow-up of boys with retractile testes.",
+    "topic": "Ascending testis — retractile phase"
+  },
+  {
+    "id": "ch18-Q11",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 11,
+    "stem": "A 2-year-old boy is found to have a palpable undescended testis in the inguinal canal. What is the currently recommended age range for elective orchidopexy?",
+    "options": [
+      { "id": "a", "text": "3–6 months" },
+      { "id": "b", "text": "6–12 months" },
+      { "id": "c", "text": "2–3 years" },
+      { "id": "d", "text": "5–6 years" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Current guidelines recommend orchidopexy between 6 and 12 months of age. Earlier surgery may improve germ cell transformation, testicular growth, and reduce malignancy risk.",
+    "topic": "Orchidopexy — optimal timing"
+  },
+  {
+    "id": "ch18-Q12",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 12,
+    "stem": "Which of the following is the most common reason that an intra-abdominal testis cannot be brought to the scrotum during orchidopexy?",
+    "options": [
+      { "id": "a", "text": "A short vas deferens" },
+      { "id": "b", "text": "Inadequate length of the testicular blood vessels" },
+      { "id": "c", "text": "Adhesions from a patent processus vaginalis" },
+      { "id": "d", "text": "Hypertrophy of the gubernaculum" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The difficulty in bringing an intra-abdominal testis to the scrotum usually arises from inadequate length of the testicular blood vessels, not the vas deferens.",
+    "topic": "Orchidopexy — Fowler–Stephens rationale"
+  },
+  {
+    "id": "ch18-Q13",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 13,
+    "stem": "During a Fowler–Stephens orchidopexy for an intra-abdominal testis, after ligation of the testicular vessels, the blood supply to the testis is maintained by which of the following?",
+    "options": [
+      { "id": "a", "text": "The cremasteric artery" },
+      { "id": "b", "text": "The artery to the vas deferens" },
+      { "id": "c", "text": "The inferior epigastric artery" },
+      { "id": "d", "text": "The pudendal artery" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "During the Fowler–Stephens procedure, following ligation of the testicular vessels, the blood supply is provided by collateral vessels surrounding the vas deferens (the artery to the vas).",
+    "topic": "Orchidopexy — Fowler–Stephens collaterals"
+  },
+  {
+    "id": "ch18-Q14",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 14,
+    "stem": "What is the recommended interval between the first and second stages of a staged Fowler–Stephens orchidopexy?",
+    "options": [
+      { "id": "a", "text": "2 weeks" },
+      { "id": "b", "text": "6 weeks" },
+      { "id": "c", "text": "6 months" },
+      { "id": "d", "text": "12 months" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The second stage is undertaken approximately 6 months after the first, by which time a more substantial collateral blood supply has developed in response to occlusion of the testicular vessels.",
+    "topic": "Orchidopexy — Fowler–Stephens staging"
+  },
+  {
+    "id": "ch18-Q15",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 15,
+    "stem": "In microvascular orchidopexy, the testicular vessels are anastomosed to which recipient vessels?",
+    "options": [
+      { "id": "a", "text": "The femoral artery and vein" },
+      { "id": "b", "text": "The inferior epigastric vessels" },
+      { "id": "c", "text": "The superficial circumflex iliac vessels" },
+      { "id": "d", "text": "The external pudendal vessels" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "In microvascular orchidopexy, the testicular vessels are anastomosed to the inferior epigastric vessels in the inguinal canal. This is an option for intra-abdominal testes, especially when the vas is too short for a Fowler–Stephens procedure.",
+    "topic": "Orchidopexy — microvascular technique"
+  },
+  {
+    "id": "ch18-Q16",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 16,
+    "stem": "A 9-month-old boy undergoes inguinal orchidopexy for a palpable undescended testis. The surgeon isolates and divides the patent processus vaginalis from the cord structures. What is the single most important step in this procedure?",
+    "options": [
+      { "id": "a", "text": "Ligation of the testicular artery" },
+      { "id": "b", "text": "Complete mobilisation of the cord structures back to the internal inguinal ring" },
+      { "id": "c", "text": "Biopsy of the contralateral testis" },
+      { "id": "d", "text": "Fixation of the testis to the scrotal septum" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The crucial step in standard inguinal orchidopexy is isolating the processus vaginalis from the cord structures to allow complete mobilisation back to the internal ring, which provides adequate length.",
+    "topic": "Orchidopexy — surgical principles"
+  },
+  {
+    "id": "ch18-Q17",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 17,
+    "stem": "What is the reported success rate of single-stage open inguinal orchidopexy for a palpable undescended testis?",
+    "options": [
+      { "id": "a", "text": "Approximately 70%" },
+      { "id": "b", "text": "Approximately 85%" },
+      { "id": "c", "text": "In excess of 95%" },
+      { "id": "d", "text": "In excess of 99%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Published outcome data indicate that single-stage open inguinal orchidopexy has a success rate in excess of 95% for palpable undescended testes.",
+    "topic": "Orchidopexy — success rates"
+  },
+  {
+    "id": "ch18-Q18",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 18,
+    "stem": "Which of the following is the most frequently cited figure for the risk of testicular atrophy following orchidopexy before 2 years of age?",
+    "options": [
+      { "id": "a", "text": "<1%" },
+      { "id": "b", "text": "1–2%" },
+      { "id": "c", "text": "5%" },
+      { "id": "d", "text": "10–15%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Comparative studies have found the atrophy rate to be approximately 5% in boys undergoing orchidopexy under 2 years of age. Some series have reported rates as low as 1.4%.",
+    "topic": "Orchidopexy — atrophy risk"
+  },
+  {
+    "id": "ch18-Q19",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 19,
+    "stem": "A 6-month-old boy is found to have bilateral impalpable testes and proximal hypospadias. Which of the following should be considered most strongly?",
+    "options": [
+      { "id": "a", "text": "Bilateral testicular torsion in utero" },
+      { "id": "b", "text": "An underlying disorder of sex development (DSD)" },
+      { "id": "c", "text": "Prader–Willi syndrome" },
+      { "id": "d", "text": "Klinefelter syndrome" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The combination of bilateral impalpable testes and hypospadias should always raise the possibility of an underlying DSD, notably 46XX DSD due to congenital adrenal hyperplasia.",
+    "topic": "Undescended testis — DSD association"
+  },
+  {
+    "id": "ch18-Q20",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 20,
+    "stem": "What proportion of undescended testes are impalpable on clinical examination?",
+    "options": [
+      { "id": "a", "text": "1–2%" },
+      { "id": "b", "text": "5–8%" },
+      { "id": "c", "text": "10–15%" },
+      { "id": "d", "text": "25–30%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Approximately 10–15% of undescended testes are impalpable. An impalpable testis may be intra-abdominal, atrophic following intrauterine torsion, or concealed within the inguinal canal.",
+    "topic": "Impalpable testis — incidence"
+  },
+  {
+    "id": "ch18-Q21",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 21,
+    "stem": "A 14-month-old boy with an impalpable left testis is scheduled for surgery. Which investigation is considered the first choice for evaluating an impalpable testis?",
+    "options": [
+      { "id": "a", "text": "Ultrasound of the abdomen and inguinal region" },
+      { "id": "b", "text": "Magnetic resonance imaging (MRI)" },
+      { "id": "c", "text": "Laparoscopy" },
+      { "id": "d", "text": "HCG stimulation test" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Laparoscopy is the investigation of first choice for impalpable testes. It is highly reliable and provides positive guidance for further management. Ultrasound and MRI are unreliable in this setting.",
+    "topic": "Impalpable testis — investigation of choice"
+  },
+  {
+    "id": "ch18-Q22",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 22,
+    "stem": "At laparoscopy for an impalpable testis, the vas and vessels are seen to end blindly together at or above the internal ring. This finding is most likely the result of which event?",
+    "options": [
+      { "id": "a", "text": "Intrauterine testicular torsion" },
+      { "id": "b", "text": "Failure of migration of the gubernaculum" },
+      { "id": "c", "text": "Congenital absence of the Wolffian duct" },
+      { "id": "d", "text": "Iatrogenic injury during prior surgery" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A 'vanished testis' with blind-ending vas and vessels at or above the internal ring is usually thought to result from intrauterine torsion. No further exploration is required in this situation.",
+    "topic": "Impalpable testis — vanished testis"
+  },
+  {
+    "id": "ch18-Q23",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 23,
+    "stem": "During laparoscopy for an impalpable testis, a testis is seen lying adjacent to the internal inguinal ring. What is the most appropriate next step?",
+    "options": [
+      { "id": "a", "text": "Proceed to Fowler–Stephens orchidopexy" },
+      { "id": "b", "text": "Perform a single-stage orchidopexy via conventional or preperitoneal approach" },
+      { "id": "c", "text": "Perform microvascular orchidopexy" },
+      { "id": "d", "text": "Perform orchidectomy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Testes adjacent to the internal ring are usually amenable to a single-stage orchidopexy using a conventional or preperitoneal approach.",
+    "topic": "Laparoscopy — algorithm for impalpable testis"
+  },
+  {
+    "id": "ch18-Q24",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 24,
+    "stem": "A 7-year-old boy presents with a painless groin swelling that becomes larger by the evening and smaller in the morning. Transillumination is positive. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Indirect inguinal hernia" },
+      { "id": "b", "text": "Communicating hydrocoele" },
+      { "id": "c", "text": "Encysted hydrocoele of the cord" },
+      { "id": "d", "text": "Non-communicating hydrocoele" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A communicating hydrocoele typically presents as a painless scrotal swelling that varies in size throughout the day — small in the morning and larger later in the day as fluid accumulates via the patent processus vaginalis.",
+    "topic": "Hydrocoele — presentation"
+  },
+  {
+    "id": "ch18-Q25",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 25,
+    "stem": "What is the underlying aetiology common to both indirect inguinal hernias and communicating hydrocoeles in children?",
+    "options": [
+      { "id": "a", "text": "Weakness of the posterior wall of the inguinal canal" },
+      { "id": "b", "text": "Failure of closure of the processus vaginalis" },
+      { "id": "c", "text": "Increased intra-abdominal pressure from coughing" },
+      { "id": "d", "text": "Abnormal insertion of the gubernaculum" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Both conditions share a common aetiology: failure of closure of the patent processus vaginalis following descent of the testis. The two differ mainly in the diameter of the processus.",
+    "topic": "Hydrocoele — aetiology"
+  },
+  {
+    "id": "ch18-Q26",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 26,
+    "stem": "A newborn male is noted to have a left communicating hydrocoele. What percentage of such hydrocoeles in infants would be expected to resolve spontaneously without intervention?",
+    "options": [
+      { "id": "a", "text": "Approximately 25%" },
+      { "id": "b", "text": "Approximately 50%" },
+      { "id": "c", "text": "Approximately 75%" },
+      { "id": "d", "text": "More than 90%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "More than 90% of communicating hydrocoeles in infants resolve spontaneously following spontaneous closure of the patent processus vaginalis.",
+    "topic": "Hydrocoele — spontaneous resolution"
+  },
+  {
+    "id": "ch18-Q27",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 27,
+    "stem": "Surgical intervention is typically indicated for a congenital communicating hydrocoele that persists beyond what age?",
+    "options": [
+      { "id": "a", "text": "6 months" },
+      { "id": "b", "text": "1 year" },
+      { "id": "c", "text": "2 years" },
+      { "id": "d", "text": "5 years" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Surgical intervention is indicated for congenital hydrocoeles that persist beyond 2 years of age, and for hydrocoeles presenting for the first time in later childhood.",
+    "topic": "Hydrocoele — indications for surgery"
+  },
+  {
+    "id": "ch18-Q28",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 28,
+    "stem": "An 8-year-old boy presents with an acute painful groin swelling. Ultrasound reveals a cystic structure within the spermatic cord separate from the testis. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Incarcerated inguinal hernia" },
+      { "id": "b", "text": "Encysted hydrocoele of the cord" },
+      { "id": "c", "text": "Testicular torsion" },
+      { "id": "d", "text": "Varicocoele" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "An encysted hydrocoele of the cord presents as a cystic swelling within the spermatic cord, separate from the testis. It can mimic an irreducible hernia and ultrasound is helpful in diagnosis.",
+    "topic": "Hydrocoele — encysted hydrocoele of the cord"
+  },
+  {
+    "id": "ch18-Q29",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 29,
+    "stem": "A 14-year-old boy presents with a 1-year history of a gradually enlarging right scrotal swelling that is non-tender and does not change in size throughout the day. Transillumination is strongly positive. Ultrasound shows fluid surrounding the testis. Which type of hydrocoele is most likely?",
+    "options": [
+      { "id": "a", "text": "Communicating hydrocoele" },
+      { "id": "b", "text": "Non-communicating (adult-type) hydrocoele" },
+      { "id": "c", "text": "Encysted hydrocoele of the cord" },
+      { "id": "d", "text": "Hydrocoele secondary to testicular tumour" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Non-communicating hydrocoeles are rare in boys and occur mainly around or after puberty. They present as a gradually enlarging, non-tender scrotal swelling that does not vary in size, unlike communicating hydrocoeles.",
+    "topic": "Hydrocoele — non-communicating type"
+  },
+  {
+    "id": "ch18-Q30",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 30,
+    "stem": "Which of the following is the most common approximate incidence of varicocoele in adolescent males aged 15–19 years?",
+    "options": [
+      { "id": "a", "text": "1%" },
+      { "id": "b", "text": "7%" },
+      { "id": "c", "text": "14%" },
+      { "id": "d", "text": "30%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Population-based studies show a prevalence of 14.1% in boys aged 15–19 years. The prevalence increases with age: 0.8% at 2–6 years, 1% at 7–10 years, and 7.8% at 11–14 years.",
+    "topic": "Varicocoele — epidemiology"
+  },
+  {
+    "id": "ch18-Q31",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 31,
+    "stem": "Why are more than 90% of varicocoeles left-sided?",
+    "options": [
+      { "id": "a", "text": "The left testicular vein is longer and drains into the renal vein at a right angle" },
+      { "id": "b", "text": "The left testicular artery compresses the left testicular vein" },
+      { "id": "c", "text": "The left spermatic cord is anatomically shorter" },
+      { "id": "d", "text": "The left cremasteric reflex is more active" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The left testicular vein drains into the left renal vein, whereas the right testicular vein drains directly into the vena cava. The longer, right-angled drainage of the left vein creates higher hydrostatic pressure, predisposing to valvular incompetence.",
+    "topic": "Varicocoele — left-sided predominance"
+  },
+  {
+    "id": "ch18-Q32",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 32,
+    "stem": "A 16-year-old boy is found on examination to have a left varicocoele that is palpable only during a Valsalva manoeuvre and is not visible at rest. How would this be classified according to the Dubin and Amelar system?",
+    "options": [
+      { "id": "a", "text": "Subclinical" },
+      { "id": "b", "text": "Grade I" },
+      { "id": "c", "text": "Grade II" },
+      { "id": "d", "text": "Grade III" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Grade I varicocoele is palpable only on Valsalva manoeuvre. Grade II is palpable at rest but not visible. Grade III is visible and palpable at rest.",
+    "topic": "Varicocoele — grading"
+  },
+  {
+    "id": "ch18-Q33",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 33,
+    "stem": "An adolescent male presents with a left-sided scrotal swelling described as feeling like a 'bag of worms'. This is characteristic of which condition?",
+    "options": [
+      { "id": "a", "text": "Communicating hydrocoele" },
+      { "id": "b", "text": "Indirect inguinal hernia" },
+      { "id": "c", "text": "Varicocoele" },
+      { "id": "d", "text": "Epididymal cyst" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "A varicocoele is classically described as a 'bag of worms' feeling within the scrotum, representing the tortuous, dilated veins of the pampiniform plexus.",
+    "topic": "Varicocoele — clinical features"
+  },
+  {
+    "id": "ch18-Q34",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 34,
+    "stem": "When examining a patient for a varicocoele, the patient should be examined in which of the following positions?",
+    "options": [
+      { "id": "a", "text": "Supine only" },
+      { "id": "b", "text": "Standing only" },
+      { "id": "c", "text": "Both supine and standing, with a Valsalva manoeuvre" },
+      { "id": "d", "text": "Lithotomy position" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The patient should be examined both lying and, more importantly, standing. The patient should also be asked to perform a Valsalva manoeuvre during examination.",
+    "topic": "Varicocoele — examination technique"
+  },
+  {
+    "id": "ch18-Q35",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 35,
+    "stem": "A 14-year-old boy with a left grade III varicocoele is found to have a >20% difference in testicular volumes. Which of the following is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Reassurance and annual follow-up only" },
+      { "id": "b", "text": "Semen analysis and consider surgical intervention" },
+      { "id": "c", "text": "HCG stimulation test" },
+      { "id": "d", "text": "Testicular biopsy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The current tendency is to advise intervention for larger grade III lesions, particularly with testicular asymmetry >20%. From mid-teens, the decision can be guided by semen analysis.",
+    "topic": "Varicocoele — indications for treatment"
+  },
+  {
+    "id": "ch18-Q36",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 36,
+    "stem": "In a child with a newly diagnosed varicocoele, which investigation should be performed to exclude a secondary cause?",
+    "options": [
+      { "id": "a", "text": "Serum tumour markers" },
+      { "id": "b", "text": "Abdominal ultrasound scan" },
+      { "id": "c", "text": "MR venography" },
+      { "id": "d", "text": "CT scan of the chest" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Scrotal ultrasound for varicocoele assessment should be combined with an abdominal scan to exclude a renal tumour, which can cause venous obstruction and secondary varicocoele (though this accounts for <1% of cases in childhood).",
+    "topic": "Varicocoele — secondary causes"
+  },
+  {
+    "id": "ch18-Q37",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 37,
+    "stem": "Which of the following is a recognised advantage of lymphatic preservation during varicocoele surgery?",
+    "options": [
+      { "id": "a", "text": "Reduced risk of testicular atrophy" },
+      { "id": "b", "text": "Reduced incidence of postoperative hydrocoele" },
+      { "id": "c", "text": "Improved fertility outcomes" },
+      { "id": "d", "text": "Lower risk of recurrence" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Preserving lymphatics during varicocoele surgery minimises the incidence of postoperative hydrocoele. Methylene blue injection into the scrotum can help demonstrate lymphatics.",
+    "topic": "Varicocoele — lymphatic preservation"
+  },
+  {
+    "id": "ch18-Q38",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 38,
+    "stem": "A 13-year-old boy is diagnosed with a right-sided varicocoele. Which of the following additional findings should raise particular concern about a possible retroperitoneal mass?",
+    "options": [
+      { "id": "a", "text": "Bilateral varicocoeles" },
+      { "id": "b", "text": "Right-sided varicocoele alone" },
+      { "id": "c", "text": "A varicocoele that disappears when supine" },
+      { "id": "d", "text": "A grade I varicocoele" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "While >90% of varicocoeles are left-sided, an isolated right-sided varicocoele should raise suspicion of retroperitoneal pathology such as a tumour causing venous obstruction.",
+    "topic": "Varicocoele — right-sided concern"
+  },
+  {
+    "id": "ch18-Q39",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 39,
+    "stem": "Which of the following best describes the effect of a varicocoele on testicular temperature?",
+    "options": [
+      { "id": "a", "text": "It decreases scrotal temperature by increasing venous return" },
+      { "id": "b", "text": "It increases scrotal temperature, reducing the normal temperature differential needed for spermatogenesis" },
+      { "id": "c", "text": "It has no effect on scrotal temperature" },
+      { "id": "d", "text": "It causes intermittent temperature spikes only during exercise" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A varicocoele causes an increase in temperature of the scrotal contents, reducing the normal temperature differential (2–3°C below core body temperature) necessary for normal spermatogenesis.",
+    "topic": "Varicocoele — thermopathy"
+  },
+  {
+    "id": "ch18-Q40",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 40,
+    "stem": "In the Palomo technique for varicocoele repair, which of the following structures are ligated?",
+    "options": [
+      { "id": "a", "text": "The testicular veins only" },
+      { "id": "b", "text": "The testicular artery, vein and lymphatics en bloc" },
+      { "id": "c", "text": "The vas deferens and its artery" },
+      { "id": "d", "text": "The cremasteric artery only" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Palomo's original description involves ligation and division of the testicular artery, vein and lymphatics together en bloc via a high retroperitoneal approach. Many surgeons now ligate only the veins.",
+    "topic": "Varicocoele — Palomo technique"
+  },
+  {
+    "id": "ch18-Q41",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 41,
+    "stem": "A 6-year-old boy presents with acute onset right hemi-scrotal pain, nausea, and vomiting. The right testis is swollen, tender, and lies horizontally with an absent cremasteric reflex. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Acute epididymitis" },
+      { "id": "b", "text": "Torsion of the testicular appendix" },
+      { "id": "c", "text": "Testicular torsion" },
+      { "id": "d", "text": "Incarcerated inguinal hernia" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Acute testicular torsion presents with sudden onset severe scrotal pain, often with nausea/vomiting. The testis is swollen, tender, and may lie horizontally. The cremasteric reflex is typically absent. This is a surgical emergency.",
+    "topic": "Testicular torsion — presentation"
+  },
+  {
+    "id": "ch18-Q42",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 42,
+    "stem": "A 10-year-old boy presents with 3 days of mild left scrotal pain. On examination, there is a small, tender nodule at the upper pole of the testis with a 'blue dot' visible through the scrotal skin. The testis itself is not swollen and has a normal lie. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Testicular torsion" },
+      { "id": "b", "text": "Torsion of the appendix testis (hydatid of Morgagni)" },
+      { "id": "c", "text": "Acute epididymitis" },
+      { "id": "d", "text": "Varicocoele thrombosis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Torsion of the testicular appendix typically presents with subacute onset of mild to moderate pain. A pathognomonic 'blue dot' sign may be visible at the upper pole of the testis. The testis itself is usually normal.",
+    "topic": "Torsion of testicular appendix"
+  },
+  {
+    "id": "ch18-Q43",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 43,
+    "stem": "Which of the following is the most common congenital anomaly in males?",
+    "options": [
+      { "id": "a", "text": "Hypospadias" },
+      { "id": "b", "text": "Undescended testis" },
+      { "id": "c", "text": "Inguinal hernia" },
+      { "id": "d", "text": "Hydrocoele" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Undescended testis is the commonest congenital anomaly in males, with a reported incidence of 1.5–3% in term infants and up to 30% in premature infants.",
+    "topic": "Undescended testis — epidemiology"
+  },
+  {
+    "id": "ch18-Q44",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 44,
+    "stem": "Which of the following statements regarding testicular microcalcification in children and adolescents is correct?",
+    "options": [
+      { "id": "a", "text": "It is an absolute indication for testicular biopsy" },
+      { "id": "b", "text": "It requires lifelong annual ultrasound surveillance in all cases" },
+      { "id": "c", "text": "In asymptomatic individuals without other risk factors it is usually an incidental finding and surveillance is not required" },
+      { "id": "d", "text": "It is pathognomonic of testicular malignancy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The weight of evidence indicates that asymptomatic testicular microcalcification is an incidental finding in most individuals. Prolonged ultrasound surveillance is not required unless other risk factors are present. Testicular biopsy is not indicated in adolescents.",
+    "topic": "Testicular microcalcification"
+  },
+  {
+    "id": "ch18-Q45",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 45,
+    "stem": "A man with a history of bilateral undescended testes treated with orchidopexy in childhood seeks counselling about fertility. Based on published data, what approximate paternity rate would he be counselled to expect?",
+    "options": [
+      { "id": "a", "text": "80–90%" },
+      { "id": "b", "text": "45–65%" },
+      { "id": "c", "text": "25–30%" },
+      { "id": "d", "text": "10–15%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Paternity rates for men with a history of bilateral UDT range from 45–65% in published series, compared to 80–90% for unilateral UDT. Semen analysis is normal in only 25–30% of men with bilateral UDT.",
+    "topic": "Undescended testis — fertility outcomes"
+  },
+  {
+    "id": "ch18-Q46",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 46,
+    "stem": "A cohort study examines testicular cancer risk in men with a history of orchidopexy. Compared to the general population, the relative risk of testicular cancer in men who underwent orchidopexy after 13 years of age is closest to which value?",
+    "options": [
+      { "id": "a", "text": "1.2" },
+      { "id": "b", "text": "2.3" },
+      { "id": "c", "text": "5.4" },
+      { "id": "d", "text": "10.0" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "In a Swedish study, men who had orchidopexy after 13 years of age had a risk of testicular cancer 5.4 times higher than the normal population, compared to 2.3 times higher in those operated under age 13.",
+    "topic": "Undescended testis — malignancy risk"
+  },
+  {
+    "id": "ch18-Q47",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 47,
+    "stem": "A 3-year-old boy presents with an empty right hemi-scrotum and a visible swelling in the perineum just lateral to the scrotum. What is this finding most consistent with?",
+    "options": [
+      { "id": "a", "text": "Right retractile testis" },
+      { "id": "b", "text": "Right ascending testis" },
+      { "id": "c", "text": "Right ectopic testis" },
+      { "id": "d", "text": "Right atrophic testis" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "An ectopic testis lies outside the normal line of descent. The most common ectopic location is the perineum, lateral to the scrotum. Other ectopic sites include the thigh and crossed ectopia (contralateral hemiscrotum).",
+    "topic": "Ectopic testis"
+  },
+  {
+    "id": "ch18-Q48",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 48,
+    "stem": "In an infant, which clinical feature helps distinguish an inguinal hernia (which requires prompt surgery) from a communicating hydrocoele (which may be observed)?",
+    "options": [
+      { "id": "a", "text": "Transillumination is positive in hernia but negative in hydrocoele" },
+      { "id": "b", "text": "A hernia is reducible whereas a hydrocoele is not" },
+      { "id": "c", "text": "A hydrocoele transilluminates but this does not reliably distinguish the two" },
+      { "id": "d", "text": "Hernias present at birth whereas hydrocoeles present only after 2 years" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Transillumination does not reliably distinguish between the two in infants because a hernia will also transilluminate. While hernias are typically reducible and hydrocoeles are not, the key distinction is clinical context.",
+    "topic": "Hydrocoele vs. hernia"
+  },
+  {
+    "id": "ch18-Q49",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 49,
+    "stem": "At what age do primary spermatocytes first appear in the human testis?",
+    "options": [
+      { "id": "a", "text": "At birth" },
+      { "id": "b", "text": "Around 5–6 years of age" },
+      { "id": "c", "text": "At puberty" },
+      { "id": "d", "text": "During the second decade of life" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Ad spermatogonia proliferate and mature into primary spermatocytes at around 5–6 years of age. These primary spermatocytes remain quiescent until puberty, when they undergo meiotic division.",
+    "topic": "Testis — germ cell development"
+  },
+  {
+    "id": "ch18-Q50",
+    "chapter": "Testis, Hydrocoele, Varicocoele",
+    "chapterSlug": "ch18_testis-hydrocoele-varicocoele",
+    "chapterNumber": 18,
+    "questionNumber": 50,
+    "stem": "A 6-month-old boy is undergoing inguinal orchidopexy. During the procedure, the surgeon finds the inguinal canal is empty despite the testis having been palpable preoperatively. A patent processus vaginalis is present and opened. There is an 'emergent' testis entering the mouth of the processus through the internal ring. What is the most appropriate next step?",
+    "options": [
+      { "id": "a", "text": "Convert to a laparoscopic procedure" },
+      { "id": "b", "text": "Perform a Fowler–Stephens orchidopexy" },
+      { "id": "c", "text": "Carefully dissect to mobilise the vessels and vas, followed by a standard single-stage orchidopexy" },
+      { "id": "d", "text": "Close the inguinal canal and schedule a two-stage procedure" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "If an 'emergent' testis is found entering the mouth of the processus through the internal ring, careful dissection to mobilise the vessels and vas (usually covered by friable peritoneum) is required. A standard single-stage orchidopexy is usually achievable.",
+    "topic": "Orchidopexy — emergent testis"
+  }
+]

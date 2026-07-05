@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch05-Q01",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 1,
+    "stem": "A 9-month-old boy is brought to the emergency department with fever and vomiting. According to the age-related incidence data in the chapter, what is the approximate incidence of urinary tract infection in boys under 1 year of age?",
+    "options": [
+      { "id": "a", "text": "1.0%" },
+      { "id": "b", "text": "2.2%" },
+      { "id": "c", "text": "3.6%" },
+      { "id": "d", "text": "13.7%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: Table 5.1 shows the incidence of UTI in boys under 1 year is 1.0%. This rises with age: 2.2% by 3 years, 2.8% by 7 years, 3.6% by 16 years, and a lifetime incidence of 13.7%. A: 2.2% is the incidence in boys under 3 years, not under 1 year. B: 3.6% is the cumulative incidence by age 16 years. C: 13.7% is the lifetime incidence for boys, not the rate in the first year. Clinical Pearl: In the first 12 months of life, UTIs occur more commonly in boys; after 3 years of age, girls predominate markedly.",
+    "topic": "Epidemiology"
+  },
+  {
+    "id": "ch05-Q02",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 2,
+    "stem": "A 5-year-old girl presents with her second episode of febrile UTI. Her mother asks what the lifetime likelihood of UTI is for females. What figure should be quoted from the chapter's epidemiological data?",
+    "options": [
+      { "id": "a", "text": "2.1%" },
+      { "id": "b", "text": "8.2%" },
+      { "id": "c", "text": "11.3%" },
+      { "id": "d", "text": "53.1%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: Table 5.1 reports the lifetime incidence of UTI in girls is 53.1%, compared with 13.7% in boys, highlighting the marked female predominance beyond infancy. A: 2.1% is the cumulative incidence in girls under 3 years. B: 8.2% is the cumulative incidence in girls under 7 years. C: 11.3% is the cumulative incidence in girls under 16 years. Clinical Pearl: By age 16, 11.3% of girls will have had at least one UTI, and over a lifetime more than half of all women will experience a UTI.",
+    "topic": "Epidemiology"
+  },
+  {
+    "id": "ch05-Q03",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 3,
+    "stem": "A trainee reading a 1960s paediatric textbook sees UTI incidence listed at 0.02% for boys and 0.04% for girls. Compared with current estimates, by what factor has the recognised incidence increased?",
+    "options": [
+      { "id": "a", "text": "5-fold" },
+      { "id": "b", "text": "10-fold" },
+      { "id": "c", "text": "20-fold" },
+      { "id": "d", "text": "50-fold" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: The chapter states that current estimates of UTI incidence have increased 20-fold from the 1960s figures of 0.02% (boys) and 0.04% (girls), attributed to greater awareness and the availability of sensitive dipstick reagent strips. A: 5-fold would correspond to 0.1% in boys and 0.2% in girls, which is far below current estimates. B: 10-fold would give 0.2% in boys and 0.4% in girls, still too low. D: 50-fold would overestimate the change described in the chapter. Clinical Pearl: The true incidence of UTI in children is far higher than historically thought; many mild lower-tract infections previously went undetected.",
+    "topic": "Epidemiology"
+  },
+  {
+    "id": "ch05-Q04",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 4,
+    "stem": "A 3-year-old girl with dysuria and frequency has a urine culture growing a Gram-negative rod. Which organism is responsible for approximately 85% of UTIs in children?",
+    "options": [
+      { "id": "a", "text": "Proteus vulgaris" },
+      { "id": "b", "text": "Klebsiella pneumoniae" },
+      { "id": "c", "text": "Enterococcus faecalis" },
+      { "id": "d", "text": "Escherichia coli" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: Escherichia coli is responsible for around 85% of UTIs. Fimbriated forms adhere to urothelial receptors, making them particularly effective colonisers of the urinary tract. A: Proteus vulgaris is a less common cause; its presence should raise suspicion for urinary tract calculi. B: Klebsiella pneumoniae is encountered less frequently than E. coli. C: Enterococcus faecalis is a Gram-positive organism that can cause UTI but accounts for a small minority of cases. Clinical Pearl: P-fimbriated E. coli are especially potent because of their enhanced adherence properties.",
+    "topic": "Infecting organisms"
+  },
+  {
+    "id": "ch05-Q05",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 5,
+    "stem": "A 4-year-old girl with recurrent febrile UTIs is found to have P-fimbriated Escherichia coli on urine culture. What is the clinical significance of P-fimbriae?",
+    "options": [
+      { "id": "a", "text": "They enhance bacterial adherence to urothelial receptors, increasing colonisation" },
+      { "id": "b", "text": "They confer resistance to beta-lactam antibiotics" },
+      { "id": "c", "text": "They enable the organism to survive in acidic urine" },
+      { "id": "d", "text": "They protect the bacterium from neutrophil phagocytosis" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: P-fimbriated E. coli are particularly potent pathogens because their fimbriae adhere to specific receptors on the urothelial surface, facilitating colonisation of the urinary tract. B: Antibiotic resistance is mediated by beta-lactamase enzymes, not fimbriae. C: Acid tolerance is not a known function of P-fimbriae; E. coli is not particularly acidophilic. D: Anti-phagocytic properties are associated with capsules (e.g., polysaccharide capsules), not fimbriae. Clinical Pearl: The ability of fimbriated E. coli to adhere to urothelial receptors is a key virulence factor distinguishing pathogenic from non-pathogenic strains.",
+    "topic": "E. coli virulence"
+  },
+  {
+    "id": "ch05-Q06",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 6,
+    "stem": "A 6-month-old girl presents with her first febrile UTI. Her parents ask how bacteria entered her urinary tract. What is the most common route of infection in children?",
+    "options": [
+      { "id": "a", "text": "Haematogenous spread from a distant focus" },
+      { "id": "b", "text": "Ascending infection from perineal or preputial colonisation" },
+      { "id": "c", "text": "Direct transmission from vesico-intestinal fistulae" },
+      { "id": "d", "text": "Lymphatic spread from the gastrointestinal tract" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: The overwhelming majority of UTIs are ascending infections — bacteria that have colonised the perineum or preputial sac gain access to the lower tract via the urethra. A: Haematogenous spread occurs occasionally but is rare in paediatric UTI. C: Direct fistulous transmission is limited to children with specific anatomic anomalies such as vesico-intestinal or genito-urinary fistulae. D: Lymphatic spread from the GI tract is not a recognised route for UTI. Clinical Pearl: Perineal colonisation with enteric organisms precedes ascending urethral infection; this explains the female predominance after infancy due to the short female urethra.",
+    "topic": "Pathogenesis"
+  },
+  {
+    "id": "ch05-Q07",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 7,
+    "stem": "Recent research has challenged the traditional view of UTI pathogenesis. In a child with recurrent UTI, where does bacterial replication predominantly occur?",
+    "options": [
+      { "id": "a", "text": "Within the bladder lumen" },
+      { "id": "b", "text": "On the urothelial surface" },
+      { "id": "c", "text": "At an intracellular level within urothelial cells" },
+      { "id": "d", "text": "Within the renal interstitium" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: The chapter states that the concept of organisms multiplying within bladder urine is largely inaccurate. Research has shown bacterial replication occurs predominantly at an intracellular level, with organisms shed into the urine from infected urothelial cells. A: Multiplication within the bladder lumen is the traditional but now disproven concept. B: The urothelial surface is the site of adherence, not the primary site of replication. D: The renal interstitium is involved in pyelonephritis but is not the predominant site of bacterial replication overall. Clinical Pearl: Intracellular bacterial replication within urothelial cells explains why some UTIs are difficult to eradicate and why short antibiotic courses may fail.",
+    "topic": "Pathogenesis"
+  },
+  {
+    "id": "ch05-Q08",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 8,
+    "stem": "A 2-week-old premature infant develops a fever. The neonatal team is concerned about UTI. Which of the following host factors increases this infant's susceptibility to urinary tract infection?",
+    "options": [
+      { "id": "a", "text": "Breastfeeding" },
+      { "id": "b", "text": "Being a blood group secretor" },
+      { "id": "c", "text": "Prematurity" },
+      { "id": "d", "text": "Intact immunoglobulin A secretion" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: Premature infants are identified in the chapter as being at greater risk of UTI. A: Breastfeeding confers some protection, not susceptibility. B: Blood group secretor status is linked to resistance to UTI, not susceptibility. D: Intact IgA secretion is a protective host factor; deficient IgA secretion increases susceptibility. Clinical Pearl: Both IgA secretion and blood group secretor status are linked to resistance to UTI, whereas the presence of a foreskin and prematurity increase risk.",
+    "topic": "Host factors"
+  },
+  {
+    "id": "ch05-Q09",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 9,
+    "stem": "A 4-month-old exclusively breastfed infant is being evaluated for recurrent UTIs. The paediatrician notes that one feeding practice may offer some protection. Which feeding method is mentioned in the chapter as conferring protection against UTI in infants?",
+    "options": [
+      { "id": "a", "text": "Breastfeeding" },
+      { "id": "b", "text": "Formula feeding with iron-fortified milk" },
+      { "id": "c", "text": "Early introduction of solid foods" },
+      { "id": "d", "text": "Supplemental water feeding" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: The chapter notes that although premature infants are at greater risk, breastfeeding appears to confer some protection against UTI. B: Iron-fortified formula is not mentioned as protective; some studies suggest iron may promote bacterial growth. C: Early introduction of solids is not discussed in relation to UTI risk. D: Supplemental water feeding does not confer UTI protection. Clinical Pearl: Breastfeeding is one of several host factors linked to resistance against UTI, although the mechanism is not fully understood.",
+    "topic": "Host factors"
+  },
+  {
+    "id": "ch05-Q10",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 10,
+    "stem": "A newborn male is diagnosed with posterior urethral valves. The parents ask whether circumcision would reduce UTI risk. According to the chapter, circumcision in boys with underlying urological abnormalities is associated with which benefit?",
+    "options": [
+      { "id": "a", "text": "Eliminates the need for antibiotic prophylaxis" },
+      { "id": "b", "text": "Reduces the risk of UTI" },
+      { "id": "c", "text": "Prevents progression of renal dysplasia" },
+      { "id": "d", "text": "Improves voiding pressures" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: The chapter states there is growing evidence that circumcision reduces the risk of UTI in boys with underlying urological abnormalities such as posterior urethral valves and high-grade VUR. A: Circumcision may reduce risk but does not eliminate the need for prophylaxis in high-risk cases. C: Circumcision does not alter the natural history of renal dysplasia. D: Voiding pressures are determined by bladder and urethral function, not by foreskin status. Clinical Pearl: Routine neonatal circumcision is not cost-effective for preventing UTI in boys with normal urinary tracts, but it is of benefit in those with underlying anomalies.",
+    "topic": "Host factors"
+  },
+  {
+    "id": "ch05-Q11",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 11,
+    "stem": "A 7-year-old girl presents with her third episode of lower UTI in 12 months. Renal ultrasound shows a normal urinary tract. Which predisposing factor is most likely to be identified on further assessment?",
+    "options": [
+      { "id": "a", "text": "Grade I vesicoureteric reflux" },
+      { "id": "b", "text": "A duplicated collecting system" },
+      { "id": "c", "text": "Dysfunctional voiding" },
+      { "id": "d", "text": "Ureteropelvic junction obstruction" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: The chapter emphasises that dysfunctional voiding (characterised by infrequent toileting and impaired bladder emptying, particularly in girls) is far more common than anatomical abnormalities as a predisposing cause of UTIs. A: Grade I VUR is an anatomical finding but is much less common than dysfunctional voiding. B: Duplicated systems are congenital anomalies that may predispose to UTI but are less prevalent. D: UPJ obstruction typically presents with antenatal hydronephrosis or flank pain, not recurrent lower UTIs in a school-age girl. Clinical Pearl: Dysfunctional voiding is the most important factor predisposing to lower tract UTI in girls with normal urinary tracts; management should focus on improving voiding function.",
+    "topic": "Host factors"
+  },
+  {
+    "id": "ch05-Q12",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 12,
+    "stem": "An 8-year-old boy with a UTI grows Proteus vulgaris on culture. Which underlying condition should be specifically suspected given the organism isolated?",
+    "options": [
+      { "id": "a", "text": "Posterior urethral valves" },
+      { "id": "b", "text": "Neuropathic bladder" },
+      { "id": "c", "text": "Renal abscess" },
+      { "id": "d", "text": "Urinary tract calculi" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: The chapter advises that urinary tract calculi should be suspected whenever the infecting agent is Proteus. Stones may be present in the upper tract without constitutional symptoms. A: Posterior urethral valves typically present with poor urinary stream, not specifically with Proteus infection. B: Neuropathic bladder predisposes to UTI generally but is not specifically linked to Proteus. C: Renal abscess may cause persistent bacteraemia but is not specifically associated with Proteus. Clinical Pearl: Proteus vulgaris produces urease, which splits urea into ammonia, alkalinising the urine and promoting struvite stone formation.",
+    "topic": "Infecting organisms"
+  },
+  {
+    "id": "ch05-Q13",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 13,
+    "stem": "A 5-year-old girl with culture-proven UTI presents with visible blood in her urine. Her mother is concerned about the severity of infection. What is the most common cause of haematuria in childhood UTI?",
+    "options": [
+      { "id": "a", "text": "Haemorrhagic cystitis" },
+      { "id": "b", "text": "Pyelonephritis with renal abscess" },
+      { "id": "c", "text": "Urethral trauma from catheterisation" },
+      { "id": "d", "text": "Coagulopathy unmasked by infection" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: The chapter states that haematuria is not a guide to the severity or site of infection, and haemorrhagic cystitis is the commonest cause. B: Pyelonephritis with renal abscess is a severe complication but a less common cause of haematuria. C: Urethral trauma is iatrogenic and occurs only if catheterisation has been performed. D: Coagulopathy is not typically unmasked by UTI and is an uncommon cause of haematuria in children. Clinical Pearl: Postmicturition bleeding due to urethritis may mimic haematuria in some boys; true haematuria without infection should prompt evaluation for glomerular disease or structural lesions.",
+    "topic": "Clinical features"
+  },
+  {
+    "id": "ch05-Q14",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 14,
+    "stem": "A 3-year-old boy presents with a swollen, tender left scrotum and is found to have epididymo-orchitis with a concurrent UTI. What is the most important implication of this presentation?",
+    "options": [
+      { "id": "a", "text": "It is a common self-limiting variant of childhood UTI" },
+      { "id": "b", "text": "It should arouse suspicion of a predisposing anatomical abnormality" },
+      { "id": "c", "text": "It indicates haematogenous spread of infection" },
+      { "id": "d", "text": "It is typically caused by Pseudomonas aeruginosa" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: The chapter states that epididymo-orchitis is an occasional presentation of UTI in boys of all ages and should arouse suspicion of a predisposing abnormality, such as urethral obstruction distal to the ejaculatory ducts or a duplication anomaly with ectopic ureter draining into an ejaculatory duct. A: It is not self-limiting; it indicates potential underlying pathology requiring investigation. C: The route remains ascending, not haematogenous. D: Pseudomonas is not the typical causative organism in this context. Clinical Pearl: Epididymo-orchitis in a prepubertal boy with UTI warrants investigation for an anatomical anomaly such as an ectopic ureter or obstructive urethral lesion.",
+    "topic": "Clinical features"
+  },
+  {
+    "id": "ch05-Q15",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 15,
+    "stem": "A 6-year-old toilet-trained girl presents with dysuria and frequency. A reliable urine sample is needed for culture. Which method of urine collection yields the most reliable results in this child?",
+    "options": [
+      { "id": "a", "text": "Adhesive collection bag" },
+      { "id": "b", "text": "Absorbent urine collection pad" },
+      { "id": "c", "text": "Clean-catch midstream sample" },
+      { "id": "d", "text": "Suprapubic needle aspiration" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: A midstream urine (MSU) sample yields the most reliable results, and toilet-trained children can usually cooperate with this method. A: Adhesive bags are used in young infants, not toilet-trained children, and are prone to contamination. B: Absorbent pads have high contamination rates. D: Suprapubic aspiration is an invasive method reserved for sick infants when an urgent diagnosis is needed. Clinical Pearl: In toilet-trained children, the clean-catch MSU remains the gold standard for urine culture; bag and pad specimens are unreliable for culture due to contamination.",
+    "topic": "Urine collection"
+  },
+  {
+    "id": "ch05-Q16",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 16,
+    "stem": "A 6-week-old infant presents with a temperature of 39.2°C, lethargy, and poor feeding. An urgent diagnosis of UTI is required. Which urine collection method is ideal in this scenario?",
+    "options": [
+      { "id": "a", "text": "Adhesive collection bag" },
+      { "id": "b", "text": "Urethral catheterisation" },
+      { "id": "c", "text": "Absorbent pad within the nappy" },
+      { "id": "d", "text": "Suprapubic needle aspiration" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: Suprapubic needle aspiration is the ideal method for sick infants requiring urgent diagnosis. It should be performed under ultrasound guidance once bladder urine is confirmed. A: Adhesive bags are the simplest method but unreliable for urgent diagnosis due to contamination risk. B: Urethral catheterisation is described as distressing and rarely appropriate for urine collection. C: Absorbent pads have high contamination rates and are not suitable when urgent diagnosis is needed. Clinical Pearl: In a sick infant, the urgency of diagnosis justifies obtaining a reliable sample by suprapubic aspiration; if a sample cannot be obtained, empiric antibiotics may be started.",
+    "topic": "Urine collection"
+  },
+  {
+    "id": "ch05-Q17",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 17,
+    "stem": "A 4-month-old afebrile infant needs a urine specimen for possible UTI. A nurse suggests using an adhesive collection bag. Under which conditions are bag specimens considered reliable?",
+    "options": [
+      { "id": "a", "text": "Appropriate contamination precautions are taken and the specimen is sent promptly for culture" },
+      { "id": "b", "text": "The bag is left in place for no more than 30 minutes" },
+      { "id": "c", "text": "The infant is pre-hydrated with intravenous fluids" },
+      { "id": "d", "text": "The perineum is sterilised with chlorhexidine beforehand" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: The chapter notes that adhesive collection bag specimens may be useful for screening, but current guidelines (NICE, AAP) state bag specimens have high contamination rates and are not reliable for culture. A negative result is useful, but a positive result must be confirmed by catheter or SPA. B: The duration the bag is in place is not specified as a reliability criterion. C: Pre-hydration with IV fluids is not mentioned; adequate hydration is standard. D: Sterilisation with chlorhexidine is not specifically recommended; cleansing is part of standard precautions but the key is avoiding contamination and prompt processing. Clinical Pearl: Bag specimens are the simplest method in the very young but contamination is common; a negative result from a bag is useful, but a positive result must be confirmed by a more reliable method.",
+    "topic": "Urine collection"
+  },
+  {
+    "id": "ch05-Q18",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 18,
+    "stem": "A paediatric nurse collects urine from a nappy using an absorbent pad for a 3-month-old with possible UTI. What is the main limitation of this collection method?",
+    "options": [
+      { "id": "a", "text": "The procedure requires ultrasound guidance" },
+      { "id": "b", "text": "Contamination is common" },
+      { "id": "c", "text": "Only small volumes can be aspirated" },
+      { "id": "d", "text": "The pad must be changed every 15 minutes" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: The chapter states that with absorbent pads, contamination is common. Cotton wool balls may also be used but are even less reliable. A: Ultrasound guidance is required for suprapubic aspiration, not for pad collection. C: Volume is not cited as a limitation; the pad can absorb sufficient urine. D: There is no specified 15-minute change requirement. Clinical Pearl: Absorbent pads are a non-invasive alternative but their high contamination rate limits diagnostic reliability; a positive culture from a pad specimen should be interpreted with caution.",
+    "topic": "Urine collection"
+  },
+  {
+    "id": "ch05-Q19",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 19,
+    "stem": "A junior doctor suggests urethral catheterisation to obtain a urine sample from a febrile 8-month-old infant. What does the chapter state about the role of urethral catheterisation for urine collection in paediatric UTI?",
+    "options": [
+      { "id": "a", "text": "It is the preferred method for routine culture in infants" },
+      { "id": "b", "text": "It is the gold standard for diagnosing UTI in toilet-trained children" },
+      { "id": "c", "text": "It is rarely appropriate for this purpose" },
+      { "id": "d", "text": "It is indicated when a child is unwilling to provide a clean-catch specimen" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: The chapter explicitly states that urethral catheterisation is distressing and is rarely appropriate for urine collection. Suprapubic aspiration is the invasive method of choice when a reliable sample is needed. A: Catheterisation is not the preferred method; suprapubic aspiration is preferred in infants. B: MSU, not catheterisation, is the gold standard for toilet-trained children. D: Unwillingness to provide a clean-catch does not justify catheterisation; non-invasive methods should be used first. Clinical Pearl: Urethral catheterisation should be reserved for therapeutic purposes (e.g., draining an obstructed bladder) rather than diagnostic urine collection in children.",
+    "topic": "Urine collection"
+  },
+  {
+    "id": "ch05-Q20",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 20,
+    "stem": "A urine specimen is collected from a child in the emergency department at 6 PM. The laboratory closes at 8 PM. To minimise the risk of a false-positive culture from contaminating organisms, within what time frame should the specimen ideally be cultured?",
+    "options": [
+      { "id": "a", "text": "1 hour" },
+      { "id": "b", "text": "2 hours" },
+      { "id": "c", "text": "3 hours" },
+      { "id": "d", "text": "4 hours" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: The chapter states that once collected, the specimen should ideally be cultured within 4 hours to minimise contaminating organisms multiplying and yielding a false-positive result. A: 1 hour is unnecessarily stringent; 4 hours is the stated window. B: 2 hours is shorter than the recommended window. C: 3 hours is also within the acceptable window but 4 hours is the stated maximum. Clinical Pearl: If same-day processing is not feasible, the specimen can be refrigerated at +4.0°C for up to 24 hours or transferred to a boric acid preservative vessel.",
+    "topic": "Urine storage and transport"
+  },
+  {
+    "id": "ch05-Q21",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 21,
+    "stem": "A urine specimen collected from a child at 9 PM cannot be cultured immediately. According to the chapter, which storage method is recommended to preserve the specimen for accurate culture?",
+    "options": [
+      { "id": "a", "text": "Refrigeration at +4.0°C for up to 24 hours or transfer to a boric acid preservative vessel" },
+      { "id": "b", "text": "Storage at room temperature with the lid tightly sealed" },
+      { "id": "c", "text": "Freezing at -20°C until batch processing is available" },
+      { "id": "d", "text": "Addition of normal saline and incubation at 37°C" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: The chapter advises that if immediate culture is not feasible within 4 hours, the sample can be refrigerated for up to 24 hours at +4.0°C or transferred to a container with boric acid preservative. B: Room temperature storage allows bacterial proliferation, causing false-positive results. C: Freezing at -20°C would lyse cells and damage bacteria, compromising culture accuracy. D: Adding saline and incubating would promote bacterial growth, defeating the purpose. Clinical Pearl: Boric acid preservative tubes are commercially available for primary care settings where prompt laboratory transport is not always possible.",
+    "topic": "Urine storage and transport"
+  },
+  {
+    "id": "ch05-Q22",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 22,
+    "stem": "A 4-year-old girl presents with dysuria and frequency. Urine dipstick shows both leucocyte esterase and nitrite positive. According to NICE guidelines, what is the recommended course of action?",
+    "options": [
+      { "id": "a", "text": "Send urine for culture but withhold antibiotics pending sensitivity results" },
+      { "id": "b", "text": "Regard it as definite evidence of UTI and commence antibiotic treatment" },
+      { "id": "c", "text": "Repeat the dipstick test on a fresh sample before any decision" },
+      { "id": "d", "text": "Obtain a suprapubic aspirate for confirmation before treating" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: The NICE guidelines state that when both leucocyte esterase and nitrite are positive, this is definite evidence of UTI and antibiotic treatment should be commenced. A: Withholding treatment for culture results is not recommended when both markers are positive. C: Repeating the dipstick is unnecessary when both are positive; treatment should start. D: Suprapubic aspiration is reserved for sick infants, not for diagnostic confirmation in this scenario. Clinical Pearl: The combination of positive leucocyte esterase and nitrite has high specificity for UTI; antibiotic treatment can be started without awaiting culture in these cases.",
+    "topic": "Diagnosis"
+  },
+  {
+    "id": "ch05-Q23",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 23,
+    "stem": "An 8-year-old boy with abdominal pain has a urine dipstick showing both leucocyte esterase negative and nitrite negative. What does this result indicate according to NICE guidelines?",
+    "options": [
+      { "id": "a", "text": "Presumptive evidence of UTI requiring culture confirmation" },
+      { "id": "b", "text": "Definite UTI requiring immediate intravenous antibiotics" },
+      { "id": "c", "text": "A negative result; antibiotic treatment should not be started and culture is unnecessary" },
+      { "id": "d", "text": "Possible UTI if the child has additional symptoms such as loin pain" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: The chapter states that when both leucocyte esterase and nitrite are negative, this is a negative result. Antibiotic treatment should not be started, and urine microscopy and culture are not necessary. A: Presumptive evidence of UTI requires nitrite positive alone, not both negative. B: A negative result rules out UTI with high confidence; intravenous antibiotics are not indicated. D: Even with additional symptoms, a negative dipstick makes UTI unlikely; other causes should be sought. Clinical Pearl: The high negative predictive value of a combined negative leucocyte esterase and nitrite dipstick allows UTI to be safely excluded, avoiding unnecessary culture and treatment.",
+    "topic": "Diagnosis"
+  },
+  {
+    "id": "ch05-Q24",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 24,
+    "stem": "A urine specimen from a febrile 2-year-old is sent for microscopy. The fresh uncentrifuged sample shows 12 white blood cells per mm³. Does this constitute significant pyuria?",
+    "options": [
+      { "id": "a", "text": "No, >5 WBC per mm³ is the threshold for significance" },
+      { "id": "b", "text": "No, significance requires >10 WBC per high-powered field" },
+      { "id": "c", "text": "No, >50 WBC per mm³ is required" },
+      { "id": "d", "text": "Yes, >10 WBC per mm³ defines significant pyuria" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: The chapter defines significant pyuria as >10 WBC/mm³ on a fresh uncentrifuged sample. Twelve WBC/mm³ therefore exceeds this threshold. A: >5 WBC per mm³ is not the stated threshold. B: >10 WBC per high-powered field is a different measurement method; the chapter uses absolute values per mm³. C: >50 WBC per mm³ is an incorrect, overly high threshold. Clinical Pearl: Urine microscopy on a fresh uncentrifuged sample enables prompt diagnosis and treatment without awaiting culture results.",
+    "topic": "Diagnosis"
+  },
+  {
+    "id": "ch05-Q25",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 25,
+    "stem": "On urine microscopy of a fresh sample from a 5-year-old with suspected UTI, motile bacteria are seen. What concentration of motile bacteria is deemed significant according to the chapter?",
+    "options": [
+      { "id": "a", "text": "10³ bacteria per ml (approximately 1 organism per high-powered field)" },
+      { "id": "b", "text": "10⁵ bacteria per ml (approximately 5 organisms per high-powered field)" },
+      { "id": "c", "text": "10⁷ bacteria per ml (approximately 8 organisms per high-powered field)" },
+      { "id": "d", "text": "10⁹ bacteria per ml (approximately 50 organisms per high-powered field)" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: The chapter states the significant concentration is 10⁷ bacteria per ml, corresponding to eight organisms per high-powered field. A: 10³ per ml is too low and would indicate insignificant bacteriuria. B: 10⁵ per ml is the threshold for culture (CFU/mL), not microscopy. D: 10⁹ per ml is an unrealistically high concentration. Clinical Pearl: Microscopic bacteriuria (10⁷/mL) and culture threshold (10⁵ CFU/mL) are different; microscopy provides an immediate result while culture confirms and identifies the organism.",
+    "topic": "Diagnosis"
+  },
+  {
+    "id": "ch05-Q26",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 26,
+    "stem": "A clean-catch midstream urine specimen from a 6-year-old girl grows a pure growth of Escherichia coli. What colony count constitutes the criterion for bacteriological diagnosis of UTI from an uncontaminated MSU sample?",
+    "options": [
+      { "id": "a", "text": ">10³ CFU/mL" },
+      { "id": "b", "text": ">10⁴ CFU/mL" },
+      { "id": "c", "text": ">10⁵ CFU/mL" },
+      { "id": "d", "text": ">10⁶ CFU/mL" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: The criterion for bacteriological diagnosis of UTI in an uncontaminated MSU sample is a pure growth of >10⁵ colony-forming units (CFU) per mL. A: >10³ CFU/mL is the threshold for suprapubic Gram-positive organisms, not MSU. B: >10⁴ CFU/mL is below the standard MSU threshold. D: >10⁶ CFU/mL is above the standard threshold and would miss many true infections. Clinical Pearl: A lower threshold applies for suprapubic aspiration specimens — any growth of a Gram-negative organism is significant, as is >500–1000 Gram-positive organisms.",
+    "topic": "Diagnosis"
+  },
+  {
+    "id": "ch05-Q27",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 27,
+    "stem": "A febrile 3-month-old infant undergoes suprapubic aspiration. The urine culture grows 200 CFU/mL of a Gram-negative rod. What is the correct interpretation of this result?",
+    "options": [
+      { "id": "a", "text": "This is below the threshold for significance; repeat the sample" },
+      { "id": "b", "text": "It indicates contamination; no treatment is needed" },
+      { "id": "c", "text": "Any growth of a Gram-negative organism from suprapubic aspiration is significant" },
+      { "id": "d", "text": "Growth must exceed 10⁵ CFU/mL to be significant in any specimen type" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: The chapter explains that in a suprapubic aspiration specimen, any growth of a Gram-negative organism is significant, as is a growth of >500–1000 Gram-positive organisms. A: The 200 CFU/mL exceeds the zero-threshold for Gram-negative organisms from this collection method. B: Suprapubic aspiration bypasses the perineum, so contamination is far less likely; this is a true infection. D: The 10⁵ CFU/mL threshold applies to MSU specimens only. Clinical Pearl: Different collection methods have different diagnostic thresholds; suprapubic aspiration is the gold standard for infants because any bacterial growth is clinically relevant.",
+    "topic": "Diagnosis"
+  },
+  {
+    "id": "ch05-Q28",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 28,
+    "stem": "A 7-year-old boy presents with fever (39.5°C), vomiting, and malaise. Urinalysis is positive for leucocyte esterase and nitrite. Which clinical feature is the most reliable indicator that this is an upper tract infection (pyelonephritis) rather than cystitis?",
+    "options": [
+      { "id": "a", "text": "Dysuria" },
+      { "id": "b", "text": "Secondary enuresis" },
+      { "id": "c", "text": "Suprapubic pain" },
+      { "id": "d", "text": "Fever" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: The chapter emphasises that fever is the most reliable clinical feature of upper tract UTI, and it is doubtful whether pyelonephritis ever occurs without fever. Any temperature >38°C is suspicious. A: Dysuria is a hallmark of lower tract infection (cystitis), not pyelonephritis. B: Secondary enuresis is associated with cystitis, not upper tract infection. C: Suprapubic pain is comparatively rare even in cystitis and is not a reliable indicator of upper tract involvement. Clinical Pearl: Differentiating upper from lower UTI is crucial — pyelonephritis carries a risk of renal scarring and requires more aggressive investigation and treatment.",
+    "topic": "Clinical features"
+  },
+  {
+    "id": "ch05-Q29",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 29,
+    "stem": "An 8-year-old girl complains of pain on passing urine, needing to urinate frequently, and has started wetting the bed after being dry for years. She is afebrile and feels generally well. These features are most consistent with which condition?",
+    "options": [
+      { "id": "a", "text": "Lower urinary tract infection (cystitis)" },
+      { "id": "b", "text": "Upper urinary tract infection (pyelonephritis)" },
+      { "id": "c", "text": "Asymptomatic bacteriuria" },
+      { "id": "d", "text": "Acute appendicitis" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: The chapter describes cystitis as typically causing dysuria (almost universal), urinary frequency, and secondary enuresis, with no fever or malaise. B: Pyelonephritis would present with fever, vomiting, and malaise — all absent here. C: Asymptomatic bacteriuria by definition lacks urinary symptoms. D: Acute appendicitis typically presents with abdominal pain, fever, and anorexia, not dysuria and enuresis. Clinical Pearl: The absence of fever is a key discriminator between cystitis and pyelonephritis; children with cystitis can often continue attending school.",
+    "topic": "Clinical features"
+  },
+  {
+    "id": "ch05-Q30",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 30,
+    "stem": "A 6-year-old boy presents with a 2-day history of fever (39.5°C), vomiting, and vague abdominal pain. On examination, he has right costovertebral angle tenderness. Urinalysis is positive for leucocyte esterase and nitrite. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Acute appendicitis" },
+      { "id": "b", "text": "Acute pyelonephritis" },
+      { "id": "c", "text": "Acute cystitis" },
+      { "id": "d", "text": "Viral gastroenteritis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: High fever, vomiting, malaise, costovertebral angle tenderness, and positive dipstick are classic for pyelonephritis. The chapter identifies fever as the most reliable feature of upper tract UTI. A: In appendicitis, pain is typically more localised to the right lower quadrant, the temperature is usually lower, and urinalysis is negative. C: Cystitis presents without fever or systemic symptoms. D: Viral gastroenteritis would present with diarrhoea and absence of costovertebral angle tenderness and positive urinalysis. Clinical Pearl: The triad of fever, abdominal/loin pain, and dysuria in pyelonephritis can be mimicked by acute appendicitis; costovertebral angle tenderness and positive urinalysis help differentiate.",
+    "topic": "Clinical features"
+  },
+  {
+    "id": "ch05-Q31",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 31,
+    "stem": "A 3-week-old neonate presents with jaundice, poor feeding, and failure to regain birth weight. Vital signs show temperature 37.8°C. What investigation should be included in the initial workup based on this presentation?",
+    "options": [
+      { "id": "a", "text": "Liver biopsy" },
+      { "id": "b", "text": "Upper gastrointestinal contrast study" },
+      { "id": "c", "text": "Urine dipstick testing and culture" },
+      { "id": "d", "text": "Metabolic screening alone" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: The chapter lists prolonged jaundice in neonates and failure to thrive as less common presentations of UTI. A dipstick urine test should always be performed in infants with unexplained febrile illness or these atypical presentations. A: Liver biopsy would be premature; UTI must be excluded first as a reversible cause of neonatal jaundice. B: An upper GI study is indicated for suspected malrotation or obstruction, not for jaundice and poor feeding. D: Metabolic screening is a separate investigation; UTI is a more common and treatable cause. Clinical Pearl: UTI should be considered in any jaundiced neonate with poor feeding, as prompt treatment can reverse the jaundice and prevent renal scarring.",
+    "topic": "Clinical features"
+  },
+  {
+    "id": "ch05-Q32",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 32,
+    "stem": "A 7-year-old girl is found to have significant bacterial counts on urine culture during a school screening but has no urinary symptoms. Asymptomatic bacteriuria (ABU) is predominantly a condition of which patient group?",
+    "options": [
+      { "id": "a", "text": "Infant boys under 6 months" },
+      { "id": "b", "text": "Toddlers aged 1–3 years" },
+      { "id": "c", "text": "Adolescent boys with phimosis" },
+      { "id": "d", "text": "School-age girls" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: The chapter states that ABU is predominantly a condition of school-age girls who have significant bacteriuria but no symptoms of lower tract UTI. A: Infant boys are at higher risk of symptomatic UTI, not ABU. B: Toddlers are more likely to present with symptomatic infection. C: Adolescent boys with phimosis may have an increased risk of symptomatic UTI but not ABU. Clinical Pearl: ABU does not require treatment in children with normal urinary tracts, as it does not pose a risk of renal scarring and the bacterial strains are of lower virulence.",
+    "topic": "Classification"
+  },
+  {
+    "id": "ch05-Q33",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 33,
+    "stem": "A 6-year-old girl is referred for asymptomatic bacteriuria found on routine urinalysis. Her renal ultrasound is normal. Which statement about asymptomatic bacteriuria is correct?",
+    "options": [
+      { "id": "a", "text": "It does not pose a risk of renal scarring in a child with an anatomically normal urinary tract" },
+      { "id": "b", "text": "It always requires antibiotic treatment to prevent progression to pyelonephritis" },
+      { "id": "c", "text": "The bacterial strains are typically more virulent than those causing symptomatic UTI" },
+      { "id": "d", "text": "It is more common in boys than girls" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: The chapter states that ABU does not pose a risk of renal scarring in a child with an anatomically normal urinary tract. B: Treatment is not required; ABU in normal tracts is benign and treatment may select for resistant organisms. C: The bacterial strains in ABU are of lower virulence, not higher. D: ABU is predominantly a condition of school-age girls. Clinical Pearl: There is overlap between ABU and clinically significant infection; girls with ABU may subsequently (or previously) experience symptomatic UTIs, so clinical vigilance is warranted even if treatment is not indicated.",
+    "topic": "Classification"
+  },
+  {
+    "id": "ch05-Q34",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 34,
+    "stem": "A 4-year-old girl undergoes renal ultrasound after her first febrile UTI. The ultrasound is reported as normal. What is the main limitation of ultrasonography as an investigation following childhood UTI?",
+    "options": [
+      { "id": "a", "text": "It requires exposure to ionising radiation" },
+      { "id": "b", "text": "It has poor sensitivity for detecting renal scarring and mild to moderate VUR" },
+      { "id": "c", "text": "It cannot be performed without sedation in young children" },
+      { "id": "d", "text": "It is more expensive than DMSA scintigraphy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: The chapter emphasises that a main limitation of ultrasonography is its poor sensitivity for detecting renal scarring and mild to moderate VUR, with a false-negative rate of 25–50% for grade III VUR. A: Ultrasound uses no ionising radiation, which is one of its advantages. C: Ultrasound can usually be performed without sedation in children. D: Ultrasound is less expensive than DMSA, not more expensive. Clinical Pearl: A normal ultrasound does not rule out significant pathology; further imaging may be indicated based on clinical features, age, and infection severity.",
+    "topic": "Imaging"
+  },
+  {
+    "id": "ch05-Q35",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 35,
+    "stem": "A 2-year-old with a febrile UTI has a normal renal ultrasound. The clinician is concerned about possible vesicoureteric reflux. What is the reported false-negative rate of ultrasonography for detecting grade III VUR?",
+    "options": [
+      { "id": "a", "text": "5–10%" },
+      { "id": "b", "text": "15–20%" },
+      { "id": "c", "text": "25–50%" },
+      { "id": "d", "text": "60–75%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: The chapter reports that ultrasonography has a false-negative rate of 25–50% for grade III VUR and fails to identify renal scarring in 15–45% of cases. A: 5–10% is too low and would underestimate the limitation. B: 15–20% corresponds to the scarring detection failure rate, not VUR. D: 60–75% is excessively high and not stated in the chapter. Clinical Pearl: The poor sensitivity of ultrasound for VUR means that a normal scan does not exclude significant reflux; further imaging decisions should consider clinical risk factors.",
+    "topic": "Imaging"
+  },
+  {
+    "id": "ch05-Q36",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 36,
+    "stem": "A 5-year-old with recurrent febrile UTIs is being investigated for possible renal scarring. Which imaging modality is described in the chapter as the most sensitive test for detecting renal scarring and assessing differential renal function?",
+    "options": [
+      { "id": "a", "text": "Renal ultrasonography" },
+      { "id": "b", "text": "Micturating cystourethrography (MCUG)" },
+      { "id": "c", "text": "Intravenous urography (IVU)" },
+      { "id": "d", "text": "Tc-99m DMSA scintigraphy" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: DMSA scintigraphy is identified as the most sensitive test for renal scarring and assessment of differential function. Its disadvantages include being relatively expensive, time-consuming, and requiring IV cannulation. A: Ultrasound is the ideal initial screening test but has poor sensitivity for scarring. B: MCUG is the most reliable test for detecting reflux, not scarring. C: IVU is rarely used in children due to radiation and the availability of better alternatives. Clinical Pearl: DMSA is performed 4–6 months after an acute UTI to assess for permanent renal parenchymal damage; early DMSA during acute infection may show inflammatory changes that resolve.",
+    "topic": "Imaging"
+  },
+  {
+    "id": "ch05-Q37",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 37,
+    "stem": "A 3-year-old boy with recurrent UTIs and a family history of VUR requires investigation for vesicoureteric reflux. Which investigation is described as the most reliable test for detecting VUR in children?",
+    "options": [
+      { "id": "a", "text": "Contrast micturating cystourethrography (MCUG)" },
+      { "id": "b", "text": "Indirect radionuclide cystography (IRC)" },
+      { "id": "c", "text": "Renal ultrasonography with Doppler" },
+      { "id": "d", "text": "Tc-99m MAG3 renography" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: MCUG is described as the most reliable test for detecting reflux and also excludes urethral and other bladder pathology. However, it requires urethral catheterisation and radiation exposure. B: IRC avoids catheterisation but has poor sensitivity for low-grade reflux and requires a cooperative, toilet-trained child. C: Ultrasound has poor sensitivity for VUR detection. D: MAG3 renography is used for assessing upper tract obstruction, not primarily for VUR detection. Clinical Pearl: The choice between MCUG and IRC depends on clinical circumstances — MCUG provides better anatomical detail, while IRC avoids catheterisation.",
+    "topic": "Imaging"
+  },
+  {
+    "id": "ch05-Q38",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 38,
+    "stem": "A 9-month-old girl presents with her first episode of uncomplicated lower UTI, which responds well to oral antibiotics. The parents ask about further investigations. According to NICE guidelines, in which scenario may routine renal ultrasonography be omitted?",
+    "options": [
+      { "id": "a", "text": "All children under 6 months of age with a first UTI" },
+      { "id": "b", "text": "A child aged over 6 months with a single uncomplicated UTI" },
+      { "id": "c", "text": "Any child with recurrent febrile UTIs" },
+      { "id": "d", "text": "Children with a family history of VUR" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: The NICE guidelines controversially state that an ultrasound is not routinely indicated in a child aged over 6 months who has experienced only a single uncomplicated UTI. A: Infants under 6 months warrant investigation. C: Recurrent febrile UTIs are an indication for further imaging. D: Family history of VUR is an indication for further investigation (Table 5.6). Clinical Pearl: European and North American guidelines differ from NICE, recommending ultrasound for all children with UTI. Clinicians should be aware of these differing international recommendations.",
+    "topic": "Imaging"
+  },
+  {
+    "id": "ch05-Q39",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 39,
+    "stem": "A 2-year-old boy with pyelonephritis is being treated with intravenous antibiotics. After 60 hours, he remains febrile. Which clinical feature from the chapter's list indicates the need for further investigation?",
+    "options": [
+      { "id": "a", "text": "Age over 5 years at first presentation" },
+      { "id": "b", "text": "Infection with Escherichia coli" },
+      { "id": "c", "text": "Failure to respond to suitable antibiotics within 48 hours" },
+      { "id": "d", "text": "Mild dysuria without fever" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: Table 5.6 lists failure to respond to treatment with suitable antibiotics within 48 hours as a feature meriting further investigation. A: Older age at first presentation is not a risk factor; younger age is a stronger indicator for investigation. B: E. coli is the most common organism; infection with non-E. coli organisms is a feature meriting investigation. D: Dysuria without fever suggests cystitis, which does not indicate further investigation unless recurrent. Clinical Pearl: Other features requiring investigation include infection with organisms other than E. coli, family history of VUR, poor urinary stream, palpable bladder mass, and raised creatinine.",
+    "topic": "Investigation"
+  },
+  {
+    "id": "ch05-Q40",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 40,
+    "stem": "A 9-year-old girl has had three episodes of cystitis in the past year. According to the definitions in the chapter, does this meet the threshold for recurrent infection?",
+    "options": [
+      { "id": "a", "text": "No, recurrence requires at least four episodes of cystitis" },
+      { "id": "b", "text": "No, recurrence requires at least one episode of pyelonephritis" },
+      { "id": "c", "text": "No, recurrence is defined only by episodes of febrile UTI" },
+      { "id": "d", "text": "Yes, three or more episodes of cystitis constitutes recurrent infection" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: The chapter defines recurrent infection as three or more episodes of cystitis, or two or more episodes of pyelonephritis, or one episode of pyelonephritis plus one or more episodes of cystitis. A: Four episodes is not required; three is the threshold for cystitis. B: An episode of pyelonephritis is not required; three cystitis episodes suffice. C: Recurrence can be defined by cystitis episodes alone. Clinical Pearl: Children meeting the definition of recurrent UTI warrant further investigation to identify underlying predisposing factors such as dysfunctional voiding or VUR.",
+    "topic": "Investigation"
+  },
+  {
+    "id": "ch05-Q41",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 41,
+    "stem": "A 3-year-old child with a febrile UTI has a normal renal ultrasound. The paediatric team discusses the 'top-down' approach to further imaging. In this approach, which investigation is performed first?",
+    "options": [
+      { "id": "a", "text": "DMSA scan" },
+      { "id": "b", "text": "MCUG" },
+      { "id": "c", "text": "Renal ultrasound" },
+      { "id": "d", "text": "MAG3 renography" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: In the 'top-down' approach, DMSA is performed first. If normal, it is assumed that even if VUR is present, it is not clinically significant and MCUG is not warranted. B: MCUG is performed first in the 'bottom-up' approach, not the top-down. C: Ultrasound is the initial screening investigation in both approaches; the question is about the next step. D: MAG3 renography is used for suspected obstruction, not for the top-down approach. Clinical Pearl: The 'bottom-up' approach starts with MCUG; if negative, no DMSA is performed. The choice between strategies depends on clinical context and guideline preferences.",
+    "topic": "Imaging"
+  },
+  {
+    "id": "ch05-Q42",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 42,
+    "stem": "A 2-year-old child with a febrile UTI has a normal renal ultrasound. Using the 'bottom-up' approach to further imaging, what is the next step?",
+    "options": [
+      { "id": "a", "text": "Perform a DMSA scan" },
+      { "id": "b", "text": "Perform an MCUG" },
+      { "id": "c", "text": "Repeat the ultrasound in 6 weeks" },
+      { "id": "d", "text": "No further imaging is required" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: In the 'bottom-up' approach, MCUG is performed as the next investigation after ultrasound. If negative (no evidence of VUR), no DMSA scan is performed. A: DMSA is the first investigation in the 'top-down' approach, not bottom-up. C: Repeating ultrasound provides no additional information regarding VUR. D: Further imaging is indicated given the febrile UTI; the question is which approach to use. Clinical Pearl: The 'bottom-up' approach avoids DMSA if MCUG is normal, reducing costs and the need for IV cannulation, but may miss subtle renal scarring.",
+    "topic": "Imaging"
+  },
+  {
+    "id": "ch05-Q43",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 43,
+    "stem": "A 6-week-old infant with suspected pyelonephritis (fever 39.0°C, lethargy, vomiting) requires hospital admission. What first-line intravenous antibiotic regimen does the chapter recommend for this scenario?",
+    "options": [
+      { "id": "a", "text": "Amoxicillin and gentamicin" },
+      { "id": "b", "text": "Vancomycin and metronidazole" },
+      { "id": "c", "text": "Cefotaxime or ceftriaxone" },
+      { "id": "d", "text": "Ciprofloxacin" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: For infants under 3 months and older children with presumed pyelonephritis, treatment usually consists of an intravenous antibiotic such as cefotaxime or ceftriaxone for 2–4 days followed by an oral antibiotic for a total of 10 days. A: Amoxicillin and gentamicin is a potential regimen but cefotaxime/ceftriaxone is cited as first-line. B: Vancomycin and metronidazole are used for resistant Gram-positive and anaerobic infections, not first-line UTI. D: Ciprofloxacin is generally reserved for specific indications in children due to concerns about arthropathy. Clinical Pearl: If gentamicin is used, blood levels must be monitored due to its narrow therapeutic window and risk of ototoxicity and nephrotoxicity.",
+    "topic": "Management"
+  },
+  {
+    "id": "ch05-Q44",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 44,
+    "stem": "A 4-year-old girl presents with dysuria and frequency but is afebrile and systemically well. What is the first-line treatment recommendation from the chapter for afebrile lower UTI in children over 3 months of age?",
+    "options": [
+      { "id": "a", "text": "Intravenous ceftriaxone for 48 hours" },
+      { "id": "b", "text": "Intramuscular gentamicin once daily" },
+      { "id": "c", "text": "Surgical drainage of the bladder" },
+      { "id": "d", "text": "A short (3-day) course of oral antibiotics" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: The chapter states that oral antibiotics are first-line for afebrile lower UTI in children over 3 months. Many clinicians favour a short (3-day) course with agents such as trimethoprim, cephalosporin, nitrofurantoin, or amoxicillin. A: Intravenous antibiotics are reserved for infants under 3 months and children with pyelonephritis. B: Intramuscular gentamicin is not first-line for uncomplicated lower UTI. C: Surgical drainage is indicated only for obstruction with pyonephrosis or bladder outlet obstruction. Clinical Pearl: The antibiotic should be switched to a more appropriate alternative if sensitivities indicate resistance.",
+    "topic": "Management"
+  },
+  {
+    "id": "ch05-Q45",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 45,
+    "stem": "A 5-week-old infant with pyelonephritis is started on intravenous gentamicin. What specific precaution does the chapter recommend when an aminoglycoside is used in paediatric UTI treatment?",
+    "options": [
+      { "id": "a", "text": "Blood levels must be monitored" },
+      { "id": "b", "text": "It should be given as a single intramuscular dose only" },
+      { "id": "c", "text": "Oral probiotics must be co-administered" },
+      { "id": "d", "text": "Creatinine clearance must exceed 90 mL/min" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: The chapter states that if an aminoglycoside such as gentamicin is used, it is important to monitor blood levels due to the narrow therapeutic window and risk of ototoxicity and nephrotoxicity. B: Gentamicin is typically dosed once daily intravenously, not as a single intramuscular dose. C: Probiotics are not required for safe gentamicin administration. D: While renal function should be assessed, a specific creatinine clearance threshold of 90 mL/min is not stated as a prerequisite. Clinical Pearl: Aminoglycoside levels (trough and peak) should be monitored; vestibular and cochlear toxicity can be irreversible.",
+    "topic": "Management"
+  },
+  {
+    "id": "ch05-Q46",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 46,
+    "stem": "A 9-year-old girl has had four UTIs in the past 18 months. Urodynamic assessment confirms dysfunctional voiding with infrequent toileting and impaired bladder emptying. What is the cornerstone of management according to the chapter?",
+    "options": [
+      { "id": "a", "text": "Low-dose antibiotic prophylaxis indefinitely" },
+      { "id": "b", "text": "Establishing a routine of regular and complete voiding" },
+      { "id": "c", "text": "Endoscopic injection of dextranomer/hyaluronic acid" },
+      { "id": "d", "text": "Ureteral reimplantation surgery" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: The chapter states that treatment for dysfunctional voiding aims to establish regular and complete voiding, combined with breaking the 'holding back' cycle, particularly in children with habitual constipation. A: Antibiotic prophylaxis may help break the cycle of infection but is not the cornerstone — addressing the underlying voiding dysfunction is primary. C: Endoscopic injection is used for treating VUR, not dysfunctional voiding. D: Ureteral reimplantation is surgical treatment for VUR, not indicated for dysfunctional voiding. Clinical Pearl: Dysfunctional voiding is the most important predisposing factor for recurrent UTI in girls with normal urinary tracts; non-surgical behavioural modification is the mainstay of treatment.",
+    "topic": "Management"
+  },
+  {
+    "id": "ch05-Q47",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 47,
+    "stem": "A mother of a 7-year-old girl with recurrent UTIs asks about alternative therapies. According to the chapter, what are the three most important conservative measures for managing recurrent UTIs?",
+    "options": [
+      { "id": "a", "text": "Cranberry juice, vitamin C supplementation, and bed rest" },
+      { "id": "b", "text": "Topical oestrogen cream, pelvic floor exercises, and bladder training" },
+      { "id": "c", "text": "Increased fluid intake, treatment of constipation, and treatment of voiding dysfunction" },
+      { "id": "d", "text": "Probiotic yoghurts, reduced sugar intake, and daily bathing" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Correct: The chapter emphasises that the three most important measures are increased fluid intake, treatment of constipation, and most importantly, treatment of voiding dysfunction to improve bladder emptying. A: Cranberry juice lacks evidence in children; vitamin C and bed rest are not highlighted. B: Pelvic floor exercises are not mentioned; dysfunction involves ineffective emptying, not pelvic floor weakness. D: Probiotic yoghurts may be anecdotally beneficial but are not among the three core measures. Clinical Pearl: Even when alternative therapies are tried, parents should not neglect the three fundamental measures — increased fluids, constipation management, and voiding optimisation.",
+    "topic": "Management"
+  },
+  {
+    "id": "ch05-Q48",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 48,
+    "stem": "A mother asks whether cranberry juice can help prevent UTIs in her 8-year-old daughter who has had two episodes of cystitis. What does the chapter state about the evidence for cranberry juice as prophylaxis in children?",
+    "options": [
+      { "id": "a", "text": "It reduces UTI recurrence by 50% compared with placebo" },
+      { "id": "b", "text": "It is as effective as low-dose antibiotic prophylaxis" },
+      { "id": "c", "text": "It is effective in boys but not in girls" },
+      { "id": "d", "text": "Evidence of effectiveness in children is lacking, although some benefit has been shown in adult women" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Correct: The chapter states cranberry juice has become popular as a prophylactic measure but evidence of effectiveness in children is lacking, though some benefit has been shown in adult women. A: A 50% reduction is not supported by evidence in children. B: It has not been shown to be equivalent to antibiotic prophylaxis. C: There is no evidence of sex-specific efficacy. Clinical Pearl: Parents opting for alternative therapies should be counselled that these should complement, not replace, the three core measures: increased fluid intake, constipation treatment, and voiding dysfunction management.",
+    "topic": "Management"
+  },
+  {
+    "id": "ch05-Q49",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 49,
+    "stem": "A mother asks about probiotic yoghurts for preventing UTIs in her 6-year-old daughter with recurrent cystitis. What is the chapter's position on this intervention?",
+    "options": [
+      { "id": "a", "text": "They are anecdotally beneficial in some children" },
+      { "id": "b", "text": "They have been proven effective in large randomised controlled trials" },
+      { "id": "c", "text": "They are contraindicated due to risk of fungal UTI" },
+      { "id": "d", "text": "They are only effective when combined with antibiotic prophylaxis" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Correct: The chapter notes that probiotic yoghurts have increased in popularity and, anecdotally, do seem beneficial in some children. However, the evidence is not robust. B: Randomised controlled trial evidence is lacking in children. C: Probiotics are not contraindicated in immunocompetent children, though fungal UTI is a theoretical risk in the immunocompromised. D: There is no evidence that efficacy depends on concurrent antibiotic use. Clinical Pearl: Probiotic yoghurts should not replace the three most important measures: increased fluid intake, constipation treatment, and voiding dysfunction treatment.",
+    "topic": "Management"
+  },
+  {
+    "id": "ch05-Q50",
+    "chapter": "Urinary Tract Infection",
+    "chapterSlug": "ch05_urinary-tract-infection",
+    "chapterNumber": 5,
+    "questionNumber": 50,
+    "stem": "A 4-year-old girl with cystitis is to be treated with a short-course oral antibiotic regimen. Which of the following agents is mentioned in the chapter as appropriate for this indication?",
+    "options": [
+      { "id": "a", "text": "Ciprofloxacin" },
+      { "id": "b", "text": "Trimethoprim" },
+      { "id": "c", "text": "Co-trimoxazole" },
+      { "id": "d", "text": "Tetracycline" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Correct: The chapter lists trimethoprim, cephalosporin, nitrofurantoin, and amoxicillin as agents suitable for a short (3-day) course for afebrile lower UTI in children over 3 months. A: Ciprofloxacin is not listed for first-line short-course treatment in children. C: Co-trimoxazole is not specifically mentioned; trimethoprim alone is the cited agent. D: Tetracycline is contraindicated in children under 8 years due to dental staining. Clinical Pearl: The antibiotic should be switched if sensitivities from the MSU culture indicate resistance; local antibiograms should guide empirical choices.",
+    "topic": "Management"
+  }
+]

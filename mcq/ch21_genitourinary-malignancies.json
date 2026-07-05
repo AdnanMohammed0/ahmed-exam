@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch21-Q01",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 1,
+    "stem": "A 3-year-old boy presents with a palpable abdominal mass discovered during a well-child visit. An abdominal ultrasound reveals a solid renal mass. Which of the following is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Clear cell sarcoma of the kidney" },
+      { "id": "b", "text": "Renal cell carcinoma" },
+      { "id": "c", "text": "Congenital mesoblastic nephroma" },
+      { "id": "d", "text": "Wilms tumour" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Wilms tumour (nephroblastoma) is the most common primary renal malignancy in children, accounting for >90% of renal malignancies in childhood, with a peak age of diagnosis at 3–5 years.",
+    "topic": "Wilms tumour — epidemiology"
+  },
+  {
+    "id": "ch21-Q02",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 2,
+    "stem": "A 4-year-old girl with a newly diagnosed renal mass undergoes coagulation screening. What is the approximate risk of acquired Von Willebrand disease associated with Wilms tumour?",
+    "options": [
+      { "id": "a", "text": "1–2%" },
+      { "id": "b", "text": "10–15%" },
+      { "id": "c", "text": "20–25%" },
+      { "id": "d", "text": "4–8%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "There is a 4–8% risk of acquired Von Willebrand disease associated with Wilms tumour, therefore coagulation screening should be performed before any intervention.",
+    "topic": "Wilms tumour — initial evaluation"
+  },
+  {
+    "id": "ch21-Q03",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 3,
+    "stem": "A 2-year-old with an abdominal mass has an elevated urinary vanillylmandelic acid (VMA) and homovanillic acid (HVA). This finding is most suggestive of which diagnosis?",
+    "options": [
+      { "id": "a", "text": "Wilms tumour" },
+      { "id": "b", "text": "Renal cell carcinoma" },
+      { "id": "c", "text": "Congenital mesoblastic nephroma" },
+      { "id": "d", "text": "Neuroblastoma" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Elevated urinary VMA and HVA are catecholamine metabolites classically associated with neuroblastoma. Although not typically of renal origin, neuroblastoma is part of the differential for a retroperitoneal mass and can be ruled out with these markers.",
+    "topic": "Neuroblastoma — tumour markers"
+  },
+  {
+    "id": "ch21-Q04",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 4,
+    "stem": "Which of the following is the most common presenting symptom of a renal tumour in a child?",
+    "options": [
+      { "id": "a", "text": "Palpable abdominal mass" },
+      { "id": "b", "text": "Gross hematuria" },
+      { "id": "c", "text": "Hypertension" },
+      { "id": "d", "text": "Lower extremity edema" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The most common presenting symptom of a renal tumour in a child is a palpable abdominal mass. Hematuria (10%), hypertension, and lower extremity edema are less common presenting features.",
+    "topic": "Wilms tumour — presentation"
+  },
+  {
+    "id": "ch21-Q05",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 5,
+    "stem": "A 5-year-old child with a renal mass undergoes a CT scan that reveals a contralateral kidney lesion. In the COG staging system for Wilms tumour, bilateral disease at presentation is classified as which stage?",
+    "options": [
+      { "id": "a", "text": "Stage II" },
+      { "id": "b", "text": "Stage III" },
+      { "id": "c", "text": "Stage IV" },
+      { "id": "d", "text": "Stage V" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Bilateral Wilms tumours at presentation are classified as Stage V in the COG staging system. Stage IV refers to distant metastatic disease, while Stage III involves incomplete resection or positive nodes.",
+    "topic": "Wilms tumour — staging"
+  },
+  {
+    "id": "ch21-Q06",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 6,
+    "stem": "A 3-year-old child undergoes radical nephrectomy for a unilateral Wilms tumour. Pathology shows tumour extending beyond the kidney but completely resected with no evidence of local or distant spread. What is the COG stage?",
+    "options": [
+      { "id": "a", "text": "Stage I" },
+      { "id": "b", "text": "Stage III" },
+      { "id": "c", "text": "Stage IV" },
+      { "id": "d", "text": "Stage II" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Stage II Wilms tumour is defined as tumour spread beyond the kidney that is completely resected macro- and microscopically with no evidence of local or distant spread.",
+    "topic": "Wilms tumour — staging"
+  },
+  {
+    "id": "ch21-Q07",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 7,
+    "stem": "Which two chemotherapeutic agents form the backbone of chemotherapy for Wilms tumour in North America?",
+    "options": [
+      { "id": "a", "text": "Cisplatin and etoposide" },
+      { "id": "b", "text": "Cyclophosphamide and doxorubicin" },
+      { "id": "c", "text": "Bleomycin and etoposide" },
+      { "id": "d", "text": "Vincristine and actinomycin" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The backbone of Wilms tumour chemotherapy is dual-agent vincristine and actinomycin (VA). Doxorubicin and radiation are added for stage III or IV disease, while cyclophosphamide, etoposide, and carboplatin are reserved for unfavourable histology.",
+    "topic": "Wilms tumour — chemotherapy"
+  },
+  {
+    "id": "ch21-Q08",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 8,
+    "stem": "A 4-year-old child with Stage III favourable-histology Wilms tumour is being treated. In addition to vincristine and actinomycin, which additional agent is indicated?",
+    "options": [
+      { "id": "a", "text": "Doxorubicin" },
+      { "id": "b", "text": "Cisplatin" },
+      { "id": "c", "text": "Paclitaxel" },
+      { "id": "d", "text": "Methotrexate" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Patients meeting Stage III or IV criteria receive additional doxorubicin chemotherapy as well as radiation. Cyclophosphamide, etoposide, and carboplatin are reserved for those with unfavourable histology.",
+    "topic": "Wilms tumour — chemotherapy"
+  },
+  {
+    "id": "ch21-Q09",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 9,
+    "stem": "Which of the following histological features defines unfavourable histology in Wilms tumour and is associated with resistance to chemotherapy?",
+    "options": [
+      { "id": "a", "text": "Triphasic appearance" },
+      { "id": "b", "text": "Schiller-Duval bodies" },
+      { "id": "c", "text": "Anaplasia" },
+      { "id": "d", "text": "Reinke crystals" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Unfavourable histology in Wilms tumour is defined by the presence of anaplasia, which is associated with a poorer prognosis and resistance to chemotherapy. Only about 10% of WTs have unfavourable histology but they account for the majority of deaths.",
+    "topic": "Wilms tumour — histology"
+  },
+  {
+    "id": "ch21-Q10",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 10,
+    "stem": "Loss of heterozygosity (LOH) on which chromosomes has been shown by the COG to be predictive of worse overall survival in favourable-histology Wilms tumours?",
+    "options": [
+      { "id": "a", "text": "Chromosomes 11p and 13q" },
+      { "id": "b", "text": "Chromosomes 2 and 13" },
+      { "id": "c", "text": "Chromosomes 7 and 17" },
+      { "id": "d", "text": "Chromosomes 1p and 16q" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "LOH of chromosomes 1p and 16q is associated with a poorer outcome in favourable-histology Wilms tumours and indicates a requirement for additional and more prolonged chemotherapy.",
+    "topic": "Wilms tumour — molecular biology"
+  },
+  {
+    "id": "ch21-Q11",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 11,
+    "stem": "A newborn is found on prenatal ultrasound to have a renal mass. After birth, imaging confirms a solid renal tumour. At 4 weeks of age, a nephrectomy is performed and histology shows a tumour composed of classic and cellular subtypes. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Congenital mesoblastic nephroma" },
+      { "id": "b", "text": "Wilms tumour" },
+      { "id": "c", "text": "Renal cell carcinoma" },
+      { "id": "d", "text": "Clear cell sarcoma of the kidney" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Congenital mesoblastic nephroma (CMN) is the most common renal tumour in the first 6 months of life and is detected on prenatal ultrasound in up to 15% of cases. Classic and cellular are two of the three histologic subtypes (classic, cellular, mixed).",
+    "topic": "Congenital mesoblastic nephroma — epidemiology"
+  },
+  {
+    "id": "ch21-Q12",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 12,
+    "stem": "Which histologic subtype of congenital mesoblastic nephroma is associated with a more aggressive natural history?",
+    "options": [
+      { "id": "a", "text": "Classic" },
+      { "id": "b", "text": "Mixed" },
+      { "id": "c", "text": "Cellular" },
+      { "id": "d", "text": "Botryoid" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Among the three CMN subtypes (classic, cellular, and mixed), the cellular subtype is prone to a more aggressive natural history and carries a higher risk of recurrence.",
+    "topic": "Congenital mesoblastic nephroma — histology"
+  },
+  {
+    "id": "ch21-Q13",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 13,
+    "stem": "A 15-year-old Afro-Caribbean boy presents with gross hematuria and a right renal mass on ultrasound. CT confirms a solid lesion. He has sickle cell trait. Which renal malignancy should be strongly considered?",
+    "options": [
+      { "id": "a", "text": "Wilms tumour" },
+      { "id": "b", "text": "Renal medullary carcinoma" },
+      { "id": "c", "text": "Congenital mesoblastic nephroma" },
+      { "id": "d", "text": "Clear cell sarcoma" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Renal medullary carcinoma is a variant of RCC associated with sickle cell trait and disease. RCC is the most common renal tumour in the second decade of life, accounting for >50% of renal malignancies in this age group, and is more common in Afro-Caribbean patients.",
+    "topic": "Renal cell carcinoma — epidemiology"
+  },
+  {
+    "id": "ch21-Q14",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 14,
+    "stem": "In children and young adults under 30 years of age with renal cell carcinoma, which genetic translocation is found in >50% of cases?",
+    "options": [
+      { "id": "a", "text": "PAX3–FOXO1 translocation" },
+      { "id": "b", "text": "N-myc amplification" },
+      { "id": "c", "text": "WT1 deletion on chromosome 11p" },
+      { "id": "d", "text": "TFE3 gene translocation on the X chromosome" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "In children and adults under 30 years, RCC is associated with a translocation of the TFE3 gene on the X chromosome in >50% of cases. This variant carries a worse prognosis.",
+    "topic": "Renal cell carcinoma — molecular biology"
+  },
+  {
+    "id": "ch21-Q15",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 15,
+    "stem": "Unlike Wilms tumour, renal cell carcinoma in children is primarily managed by which treatment modality?",
+    "options": [
+      { "id": "a", "text": "Upfront chemotherapy" },
+      { "id": "b", "text": "Radiation therapy" },
+      { "id": "c", "text": "Immunotherapy alone" },
+      { "id": "d", "text": "Surgery" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Unlike WT, RCC is primarily a surgical disease. Adjuvant therapy is reserved for advanced tumours with unresectable disease. Complete surgical resection leads to significantly improved overall survival.",
+    "topic": "Renal cell carcinoma — management"
+  },
+  {
+    "id": "ch21-Q16",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 16,
+    "stem": "What is the approximate 5-year overall survival for a child with Stage IV renal cell carcinoma?",
+    "options": [
+      { "id": "a", "text": "65%" },
+      { "id": "b", "text": "40%" },
+      { "id": "c", "text": "85%" },
+      { "id": "d", "text": "14%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Stage I and II RCC have 80–90% 5-year overall survival, which decreases dramatically to only 14% for Stage IV disease. Trials of chemotherapy and immunotherapy are in progress to improve survival.",
+    "topic": "Renal cell carcinoma — prognosis"
+  },
+  {
+    "id": "ch21-Q17",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 17,
+    "stem": "A child with aniridia is found to have a Wilms tumour. This combination, along with genitourinary anomalies and mental retardation, is characteristic of which syndrome?",
+    "options": [
+      { "id": "a", "text": "Beckwith-Weidemann syndrome" },
+      { "id": "b", "text": "WAGR syndrome" },
+      { "id": "c", "text": "Denys-Drash syndrome" },
+      { "id": "d", "text": "Perlman syndrome" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "WAGR syndrome (Wilms tumour, Aniridia, GU anomalies, mental retardation) is associated with an 11p13 deletion involving the WT1 gene and carries a 30–50% risk of Wilms tumour.",
+    "topic": "Wilms tumour — predisposition syndromes"
+  },
+  {
+    "id": "ch21-Q18",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 18,
+    "stem": "A child with Beckwith-Weidemann syndrome is being followed for Wilms tumour surveillance. At what intervals should abdominal ultrasound screening be performed?",
+    "options": [
+      { "id": "a", "text": "Monthly until 2 years of age" },
+      { "id": "b", "text": "Yearly until adulthood" },
+      { "id": "c", "text": "3–4 monthly until 8–10 years of age" },
+      { "id": "d", "text": "Only if symptoms develop" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Children with syndromes predisposing to Wilms tumour should be monitored with abdominal ultrasound at 3–4 monthly intervals until 8–10 years of age. Surveillance has not been shown to increase survival but may minimize treatment morbidity through earlier intervention.",
+    "topic": "Wilms tumour — surveillance"
+  },
+  {
+    "id": "ch21-Q19",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 19,
+    "stem": "According to the COG approach to Wilms tumour, what is the minimum number of retroperitoneal lymph nodes that should be sampled during nephrectomy?",
+    "options": [
+      { "id": "a", "text": "7–10" },
+      { "id": "b", "text": "3–5" },
+      { "id": "c", "text": "5–7" },
+      { "id": "d", "text": "10–15" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Sampling of a minimum of 7–10 retroperitoneal lymph nodes is essential to permit accurate staging and guide subsequent management.",
+    "topic": "Wilms tumour — surgery"
+  },
+  {
+    "id": "ch21-Q20",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 20,
+    "stem": "A 2-year-old with a right Wilms tumour has a tumour thrombus extending into the intrahepatic IVC above the hepatic veins. What is the most appropriate initial management?",
+    "options": [
+      { "id": "a", "text": "Preoperative chemotherapy followed by delayed nephrectomy" },
+      { "id": "b", "text": "Immediate radical nephrectomy with caval thrombectomy" },
+      { "id": "c", "text": "Radiation therapy alone" },
+      { "id": "d", "text": "Nephron-sparing surgery" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Exceptions to upfront nephrectomy in COG protocols include bilateral tumours, tumours too locally advanced for initial resection, and those with IVC thrombus extending above the hepatic veins. These patients receive preoperative chemotherapy to minimize surgical morbidity.",
+    "topic": "Wilms tumour — management exceptions"
+  },
+  {
+    "id": "ch21-Q21",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 21,
+    "stem": "The SIOP protocol for Wilms tumour differs from the COG approach in which of the following ways?",
+    "options": [
+      { "id": "a", "text": "SIOP uses primary radiation therapy before surgery" },
+      { "id": "b", "text": "SIOP uses upfront chemotherapy before delayed nephrectomy" },
+      { "id": "c", "text": "SIOP does not use lymph node sampling" },
+      { "id": "d", "text": "SIOP avoids chemotherapy for Stage I disease" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The SIOP approach consists of upfront chemotherapy prior to delayed nephrectomy, whereas COG recommends primary radical nephrectomy followed by chemotherapy. Despite these differences, overall survival rates are remarkably similar.",
+    "topic": "Wilms tumour — SIOP vs COG"
+  },
+  {
+    "id": "ch21-Q22",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 22,
+    "stem": "During a radical nephrectomy for Wilms tumour, the surgeon notes intraoperative tumour capsule rupture. How does this affect staging?",
+    "options": [
+      { "id": "a", "text": "It does not change the stage" },
+      { "id": "b", "text": "It converts the histology to unfavourable" },
+      { "id": "c", "text": "It upgrades the tumour to Stage III" },
+      { "id": "d", "text": "It upgrades the tumour to Stage IV" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Intraoperative tumour spillage is one of the criteria for Stage III Wilms tumour, along with preoperative biopsy or chemotherapy, incomplete resection, and positive lymph node involvement.",
+    "topic": "Wilms tumour — staging"
+  },
+  {
+    "id": "ch21-Q23",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 23,
+    "stem": "Which of the following is the most common soft-tissue sarcoma in children?",
+    "options": [
+      { "id": "a", "text": "Rhabdomyosarcoma" },
+      { "id": "b", "text": "Osteosarcoma" },
+      { "id": "c", "text": "Ewing sarcoma" },
+      { "id": "d", "text": "Leiomyosarcoma" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Rhabdomyosarcoma (RMS) is the most common soft-tissue sarcoma in children, arising from undifferentiated skeletal muscle precursors. It has an incidence of approximately 4 per 1 million children.",
+    "topic": "Rhabdomyosarcoma — epidemiology"
+  },
+  {
+    "id": "ch21-Q24",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 24,
+    "stem": "Which of the following is the most common genitourinary site of rhabdomyosarcoma in children?",
+    "options": [
+      { "id": "a", "text": "Paratesticular" },
+      { "id": "b", "text": "Vaginal" },
+      { "id": "c", "text": "Uterine" },
+      { "id": "d", "text": "Bladder/prostate" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The most common GU sites of RMS are bladder/prostate and paratesticular. Bladder/prostate RMS is an unfavourable site, while paratesticular is a favourable site.",
+    "topic": "Rhabdomyosarcoma — sites"
+  },
+  {
+    "id": "ch21-Q25",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 25,
+    "stem": "Which histological type of rhabdomyosarcoma accounts for up to 90% of genitourinary cases and is associated with more favourable prognosis?",
+    "options": [
+      { "id": "a", "text": "Alveolar" },
+      { "id": "b", "text": "Embryonal" },
+      { "id": "c", "text": "Pleomorphic" },
+      { "id": "d", "text": "Spindle cell" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Embryonal RMS (EMRS) accounts for 60% of all RMS and up to 90% of GU RMS. It is associated with higher overall survival (80% 5-year EFS) compared to the more aggressive alveolar subtype.",
+    "topic": "Rhabdomyosarcoma — histology"
+  },
+  {
+    "id": "ch21-Q26",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 26,
+    "stem": "The botryoid variant of rhabdomyosarcoma is most commonly seen in which location?",
+    "options": [
+      { "id": "a", "text": "Bladder/prostate" },
+      { "id": "b", "text": "Paratesticular" },
+      { "id": "c", "text": "Vaginal" },
+      { "id": "d", "text": "Retroperitoneal" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The botryoid variant is a subtype of embryonal RMS commonly seen in vaginal RMS. It has a grape-like gross appearance and is associated with favourable prognosis.",
+    "topic": "Rhabdomyosarcoma — botryoid variant"
+  },
+  {
+    "id": "ch21-Q27",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 27,
+    "stem": "The PAX3/PAX7–FOXO1 fusion status in rhabdomyosarcoma is most closely associated with which histological subtype?",
+    "options": [
+      { "id": "a", "text": "Embryonal" },
+      { "id": "b", "text": "Alveolar" },
+      { "id": "c", "text": "Botryoid" },
+      { "id": "d", "text": "Spindle cell" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Up to 80% of tumours displaying alveolar histology are PAX/FOXO1 fusion positive. Fusion-negative alveolar tumours behave almost identically to the less aggressive embryonal type.",
+    "topic": "Rhabdomyosarcoma — molecular biology"
+  },
+  {
+    "id": "ch21-Q28",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 28,
+    "stem": "Which of the following is the standard first-line chemotherapy regimen for rhabdomyosarcoma?",
+    "options": [
+      { "id": "a", "text": "Vincristine, actinomycin, and cyclophosphamide (VAC)" },
+      { "id": "b", "text": "Bleomycin, etoposide, and cisplatin (BEP)" },
+      { "id": "c", "text": "Vincristine and actinomycin alone" },
+      { "id": "d", "text": "Cyclophosphamide, doxorubicin, and vincristine" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "VAC (vincristine, actinomycin, cyclophosphamide) is the standard chemotherapy regimen for RMS. Numerous alternative agents have been evaluated but none have been shown to offer superior survival to VAC, which is approximately 80%.",
+    "topic": "Rhabdomyosarcoma — chemotherapy"
+  },
+  {
+    "id": "ch21-Q29",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 29,
+    "stem": "A child with bladder/prostate rhabdomyosarcoma completes chemoradiation therapy. Follow-up imaging shows a residual mass. Biopsy reveals mature rhabdomyoblasts without malignant features. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Radical cystoprostatectomy" },
+      { "id": "b", "text": "Additional chemotherapy" },
+      { "id": "c", "text": "No additional treatment" },
+      { "id": "d", "text": "External beam radiation boost" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Residual tumour seen on follow-up imaging after chemoradiation may consist of cells that have differentiated into mature rhabdomyoblasts which do not require additional treatment.",
+    "topic": "Rhabdomyosarcoma — post-treatment assessment"
+  },
+  {
+    "id": "ch21-Q30",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 30,
+    "stem": "A 12-year-old boy undergoes radical inguinal orchiectomy for paratesticular rhabdomyosarcoma. Staging reveals no suspicious lymphadenopathy on imaging. What is the next step regarding retroperitoneal lymph node dissection (RPLND)?",
+    "options": [
+      { "id": "a", "text": "Ipsilateral RPLND should be performed" },
+      { "id": "b", "text": "No RPLND is needed" },
+      { "id": "c", "text": "Bilateral RPLND is indicated" },
+      { "id": "d", "text": "RPLND is only needed if nodes are >4 cm" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Regardless of the presence or absence of lymphadenopathy, ipsilateral RPLND should be performed in all patients aged 10 and over because of the much higher incidence of occult lymph node involvement.",
+    "topic": "Paratesticular RMS — RPLND"
+  },
+  {
+    "id": "ch21-Q31",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 31,
+    "stem": "A 4-year-old boy with paratesticular rhabdomyosarcoma retrospectively had his orchiectomy performed via a transcrotal approach rather than an inguinal approach. Which additional treatment is likely indicated?",
+    "options": [
+      { "id": "a", "text": "No additional treatment needed" },
+      { "id": "b", "text": "Radiation therapy" },
+      { "id": "c", "text": "High-dose chemotherapy with stem cell rescue" },
+      { "id": "d", "text": "Scrotal exploration and washout" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Radiation therapy for paratesticular RMS is reserved for patients with locally advanced disease, confirmed lymph node involvement, and those whose orchiectomy was performed via a transcrotal approach.",
+    "topic": "Paratesticular RMS — radiotherapy"
+  },
+  {
+    "id": "ch21-Q32",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 32,
+    "stem": "A 3-year-old girl presents with a vaginal mass. Biopsy shows embryonal rhabdomyosarcoma of botryoid subtype. According to site classification, vaginal RMS is considered which type of site?",
+    "options": [
+      { "id": "a", "text": "Favourable" },
+      { "id": "b", "text": "Unfavourable" },
+      { "id": "c", "text": "Intermediate" },
+      { "id": "d", "text": "Not classified" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Vaginal/uterine RMS is classified as a favourable site. Other favourable GU sites include paratesticular, penile, and vulvar. Unfavourable GU sites include bladder/prostate, retroperitoneal, and urachal.",
+    "topic": "Rhabdomyosarcoma — site classification"
+  },
+  {
+    "id": "ch21-Q33",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 33,
+    "stem": "For vaginal/uterine rhabdomyosarcoma, which treatment modality offers similar survival to external beam radiation therapy but with fewer short- and long-term side effects?",
+    "options": [
+      { "id": "a", "text": "Intensity-modulated radiation therapy" },
+      { "id": "b", "text": "Brachytherapy" },
+      { "id": "c", "text": "Proton beam therapy" },
+      { "id": "d", "text": "Stereotactic radiosurgery" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Brachytherapy offers similar survival outcomes to external beam radiation therapy for gynaecological RMS but with fewer short- and long-term radiation side effects.",
+    "topic": "Vaginal/uterine RMS — radiotherapy"
+  },
+  {
+    "id": "ch21-Q34",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 34,
+    "stem": "Bladder/prostate rhabdomyosarcoma can never be classified as Stage 1 in the IRS staging system because of which factor?",
+    "options": [
+      { "id": "a", "text": "It is always >5 cm at diagnosis" },
+      { "id": "b", "text": "It arises in an unfavourable site" },
+      { "id": "c", "text": "It is always metastatic at presentation" },
+      { "id": "d", "text": "It only occurs in adolescents" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Bladder/prostate RMS is an unfavourable site. Stage 1 is reserved for favourable sites regardless of size, node status, or metastasis.",
+    "topic": "Rhabdomyosarcoma — staging"
+  },
+  {
+    "id": "ch21-Q35",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 35,
+    "stem": "A 7-month-old male infant presents with a painless scrotal mass. Scrotal ultrasound shows a heterogeneous intratesticular lesion. Serum AFP is elevated. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Leydig cell tumour" },
+      { "id": "b", "text": "Yolk-sac tumour" },
+      { "id": "c", "text": "Teratoma" },
+      { "id": "d", "text": "Epidermoid cyst" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Yolk-sac tumour (YST) is the most common malignant testicular tumour in children and is almost universally associated with elevated AFP. However, AFP may not be reliable in the first 8 months due to physiological elevation.",
+    "topic": "Testicular tumours — yolk-sac tumour"
+  },
+  {
+    "id": "ch21-Q36",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 36,
+    "stem": "Which histologic finding is pathognomonic for Leydig cell tumours of the testis?",
+    "options": [
+      { "id": "a", "text": "Schiller-Duval bodies" },
+      { "id": "b", "text": "Psammoma bodies" },
+      { "id": "c", "text": "Reinke crystals" },
+      { "id": "d", "text": "Call-Exner bodies" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Reinke crystals are pathognomonic for Leydig cell tumours on histology. Schiller-Duval bodies are characteristic of yolk-sac tumours.",
+    "topic": "Testicular tumours — Leydig cell tumour"
+  },
+  {
+    "id": "ch21-Q37",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 37,
+    "stem": "A 4-year-old boy presents with precocious puberty. Scrotal ultrasound reveals a small testicular mass. Serum testosterone is elevated. Which testicular tumour is most likely?",
+    "options": [
+      { "id": "a", "text": "Leydig cell tumour" },
+      { "id": "b", "text": "Sertoli cell tumour" },
+      { "id": "c", "text": "Yolk-sac tumour" },
+      { "id": "d", "text": "Teratoma" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Leydig cell tumours are associated with elevations in serum testosterone, which can lead to precocious puberty. They are the most common stromal tumour in childhood.",
+    "topic": "Testicular tumours — Leydig cell tumour"
+  },
+  {
+    "id": "ch21-Q38",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 38,
+    "stem": "Which of the following prepubertal testicular tumours is most likely to be benign and can be managed with partial orchiectomy and intraoperative frozen section?",
+    "options": [
+      { "id": "a", "text": "Yolk-sac tumour" },
+      { "id": "b", "text": "Leydig cell tumour" },
+      { "id": "c", "text": "Teratoma" },
+      { "id": "d", "text": "Epidermoid cyst" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Leydig and Sertoli cell tumours in children are universally benign. Because of their benign nature, they can be managed initially by testicular-sparing surgery (partial orchiectomy) with intraoperative frozen section.",
+    "topic": "Testicular tumours — stromal tumours"
+  },
+  {
+    "id": "ch21-Q39",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 39,
+    "stem": "A 2-year-old boy with a history of an undescended testis presents with a painless scrotal mass. Scrotal ultrasound shows a testicular lesion. Which tumour marker is most specific for yolk-sac tumours?",
+    "options": [
+      { "id": "a", "text": "Beta-human chorionic gonadotropin (β-hCG)" },
+      { "id": "b", "text": "Alpha-fetoprotein (AFP)" },
+      { "id": "c", "text": "Lactate dehydrogenase (LDH)" },
+      { "id": "d", "text": "Inhibin B" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Yolk-sac tumours are almost universally associated with elevated levels of AFP. However, AFP may not be a reliable tumour marker in the first 8 months of life because of physiological elevation.",
+    "topic": "Testicular tumours — tumour markers"
+  },
+  {
+    "id": "ch21-Q40",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 40,
+    "stem": "A 3-year-old boy undergoes radical orchiectomy for Stage I yolk-sac tumour. What is the recommended postoperative management?",
+    "options": [
+      { "id": "a", "text": "Adjuvant chemotherapy with BEP" },
+      { "id": "b", "text": "Immediate RPLND" },
+      { "id": "c", "text": "Monitoring serum AFP and imaging at increasing intervals" },
+      { "id": "d", "text": "Adjuvant radiation to the retroperitoneum" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Ninety percent of YSTs present as Stage I disease and are managed by radical orchiectomy followed by monitoring serum AFP levels and chest/abdominal imaging at increasing intervals.",
+    "topic": "Testicular tumours — yolk-sac tumour management"
+  },
+  {
+    "id": "ch21-Q41",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 41,
+    "stem": "Which chemotherapy regimen is used for advanced (Stage II–IV) or recurrent yolk-sac tumours in children?",
+    "options": [
+      { "id": "a", "text": "Vincristine, actinomycin, cyclophosphamide (VAC)" },
+      { "id": "b", "text": "Bleomycin, etoposide, cisplatin (BEP)" },
+      { "id": "c", "text": "Vincristine, doxorubicin, cyclophosphamide" },
+      { "id": "d", "text": "Etoposide, carboplatin, ifosfamide" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Patients who present with Stage II–IV yolk-sac tumour (or Stage I patients who recur after orchiectomy) are treated with bleomycin, etoposide, and cisplatin (BEP) chemotherapy.",
+    "topic": "Testicular tumours — chemotherapy"
+  },
+  {
+    "id": "ch21-Q42",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 42,
+    "stem": "A newborn male is found to have a testicular mass at birth. Scrotal ultrasound confirms a solid intratesticular lesion. After radical orchiectomy, pathology shows a juvenile granulosa cell tumour. What additional work-up is indicated?",
+    "options": [
+      { "id": "a", "text": "Serum AFP and β-hCG monitoring" },
+      { "id": "b", "text": "PET-CT scan" },
+      { "id": "c", "text": "Karyotype analysis" },
+      { "id": "d", "text": "Bone marrow biopsy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Juvenile granulosa cell tumours (JGCT) are benign tumours almost exclusively seen in the first year of life. They are often associated with Y-chromosomal abnormalities, so a karyotype should be performed.",
+    "topic": "Testicular tumours — JGCT"
+  },
+  {
+    "id": "ch21-Q43",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 43,
+    "stem": "Which of the following is a risk factor for rhabdomyosarcoma?",
+    "options": [
+      { "id": "a", "text": "Birth weight >4.0 kg" },
+      { "id": "b", "text": "Advanced paternal age" },
+      { "id": "c", "text": "Maternal smoking during pregnancy" },
+      { "id": "d", "text": "Premature birth" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Risk factors for the development of RMS include advanced maternal age (not paternal), birth weight >4.0 kg, and several syndromic conditions including Li-Fraumeni syndrome, DICER-1, Costello syndrome, neurofibromatosis, and MEN type 2A.",
+    "topic": "Rhabdomyosarcoma — risk factors"
+  },
+  {
+    "id": "ch21-Q44",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 44,
+    "stem": "A 6-year-old boy presents with fever and a rapidly enlarging neck mass. Urinary catecholamines are elevated. Which imaging finding would most strongly support a diagnosis of neuroblastoma over Wilms tumour?",
+    "options": [
+      { "id": "a", "text": "A solid renal mass with contralateral kidney involvement" },
+      { "id": "b", "text": "Tumour thrombus extending into the renal vein" },
+      { "id": "c", "text": "A suprarenal mass crossing the midline with calcifications" },
+      { "id": "d", "text": "Cystic lesions within a renal mass" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Neuroblastoma typically arises from the adrenal medulla or sympathetic chain and often presents as a suprarenal mass that may cross the midline, frequently with calcifications.",
+    "topic": "Neuroblastoma — presentation"
+  },
+  {
+    "id": "ch21-Q45",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 45,
+    "stem": "During a Wilms tumour nephrectomy, after ligating the renal vein, the surgeon should perform which additional step regardless of preoperative imaging findings?",
+    "options": [
+      { "id": "a", "text": "Administer a dose of vincristine directly into the renal artery" },
+      { "id": "b", "text": "Perform an intraoperative ultrasound of the liver" },
+      { "id": "c", "text": "Biopsy the contralateral kidney" },
+      { "id": "d", "text": "Palpate the renal vein to confirm absence of tumour thrombus" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Before ligating the renal vein, careful palpation of the vessel should be performed to confirm the absence of tumour thrombus, regardless of whether preoperative imaging was negative.",
+    "topic": "Wilms tumour — surgical technique"
+  },
+  {
+    "id": "ch21-Q46",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 46,
+    "stem": "Which of the following prepubertal testicular tumours is the most common benign testicular tumour?",
+    "options": [
+      { "id": "a", "text": "Leydig cell tumour" },
+      { "id": "b", "text": "Teratoma" },
+      { "id": "c", "text": "Epidermoid cyst" },
+      { "id": "d", "text": "Juvenile granulosa cell tumour" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Teratomas are the most common benign testicular tumour in prepubertal children. They consist of all three germ-cell layers: endoderm, ectoderm, and mesoderm.",
+    "topic": "Testicular tumours — teratoma"
+  },
+  {
+    "id": "ch21-Q47",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 47,
+    "stem": "A 10-year-old boy with a testicular mass has normal serum tumour markers and a 1.5 cm unifocal lesion on ultrasound. The surgeon plans a partial orchiectomy with frozen section. What is the rationale for this approach?",
+    "options": [
+      { "id": "a", "text": "Radical orchiectomy has higher complication rates in this age group" },
+      { "id": "b", "text": "Chemotherapy is more effective after partial orchiectomy" },
+      { "id": "c", "text": "Most prepubertal testicular tumours are benign and testicular preservation is achievable" },
+      { "id": "d", "text": "Frozen section cannot be interpreted after radical orchiectomy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Up to 75% of prepubertal testicular tumours have little or no malignant potential. In patients with small (<2 cm), unifocal tumors and normal markers, partial orchiectomy with intraoperative frozen section is a reasonable approach to preserve testicular tissue.",
+    "topic": "Testicular tumours — partial orchiectomy"
+  },
+  {
+    "id": "ch21-Q48",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 48,
+    "stem": "A 6-year-old with Wilms tumour has LOH of chromosomes 1p and 16q. According to COG risk stratification, this finding indicates:",
+    "options": [
+      { "id": "a", "text": "No change in prognosis or treatment" },
+      { "id": "b", "text": "A more favourable prognosis requiring less chemotherapy" },
+      { "id": "c", "text": "The tumour is likely to be bilateral" },
+      { "id": "d", "text": "A poorer outcome with need for more prolonged chemotherapy" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "LOH of chromosomes 1p and 16q is associated with a poorer outcome and a requirement for additional and more prolonged chemotherapy in favourable-histology Wilms tumours.",
+    "topic": "Wilms tumour — molecular risk stratification"
+  },
+  {
+    "id": "ch21-Q49",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 49,
+    "stem": "What percentage of genitourinary rhabdomyosarcomas are of the embryonal histological type?",
+    "options": [
+      { "id": "a", "text": "Up to 50%" },
+      { "id": "b", "text": "Up to 70%" },
+      { "id": "c", "text": "Up to 90%" },
+      { "id": "d", "text": "Up to 100%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Embryonal RMS accounts for 60% of all RMS in children but up to 90% of genitourinary RMS specifically.",
+    "topic": "Rhabdomyosarcoma — histology"
+  },
+  {
+    "id": "ch21-Q50",
+    "chapter": "Genitourinary Malignancies",
+    "chapterSlug": "ch21_genitourinary-malignancies",
+    "chapterNumber": 21,
+    "questionNumber": 50,
+    "stem": "A child with Denys-Drash syndrome is diagnosed with a Wilms tumour. Which of the following features is most commonly associated with this syndrome?",
+    "options": [
+      { "id": "a", "text": "XY DSD, hypospadias, and renal failure" },
+      { "id": "b", "text": "Aniridia and mental retardation" },
+      { "id": "c", "text": "Macroglossia and hemihypertrophy" },
+      { "id": "d", "text": "Prenatal overgrowth and high infant mortality" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Denys-Drash syndrome is associated with WT1 mutation and features XY DSD, hypospadias, UDT, and renal failure. It carries a 50–90% risk of Wilms tumour.",
+    "topic": "Wilms tumour — predisposition syndromes"
+  }
+]

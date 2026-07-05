@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch01-Q01",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 1,
+    "stem": "A 12-year-old girl is undergoing evaluation for delayed puberty. Which statement regarding oogenesis is correct?",
+    "options": [
+      { "id": "a", "text": "Primary oocytes have been in a dormant phase since fetal life at prophase of the first meiotic division" },
+      { "id": "b", "text": "Oogenesis begins at puberty with the formation of primary oocytes" },
+      { "id": "c", "text": "Primary oocytes complete the first meiotic division before birth" },
+      { "id": "d", "text": "Oocytes are continuously produced from germinal epithelium throughout reproductive life" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: In females, gametogenesis commences during fetal life but does not progress beyond prophase of the first meiotic division. Primary oocytes then enter a dormant phase until the onset of puberty, when a small number resume the long-arrested meiotic division under the influence of FSH and LH.\n\n[B] is wrong because: Primary oocytes are formed during fetal life, not at puberty. Oogenesis actually begins during fetal development and arrests at prophase I.\n\n[C] is wrong because: Primary oocytes do not complete the first meiotic division before birth. They remain arrested at prophase I from fetal life until puberty.\n\n[D] is wrong because: Oocytes are not produced continuously throughout reproductive life. Females are born with a finite pool of primary oocytes that progressively diminishes with age; no new oocytes are formed after birth.\n\nTeaching point: Oogenesis begins in fetal life, arrests at prophase I, and resumes at puberty — a woman is born with her lifetime supply of oocytes.",
+    "topic": "Gametogenesis"
+  },
+  {
+    "id": "ch01-Q02",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 2,
+    "stem": "A couple undergoing IVF is counselled about the fertilisation process. The embryologist explains that when a spermatozoon penetrates the zona pellucida of the oocyte, which of the following events is triggered?",
+    "options": [
+      { "id": "a", "text": "Completion of the first meiotic division of the oocyte" },
+      { "id": "b", "text": "A second meiotic division to create a definitive oocyte" },
+      { "id": "c", "text": "Release of follicle-stimulating hormone from the maternal pituitary" },
+      { "id": "d", "text": "Implantation of the blastocyst into the endometrium" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Penetration of the protective zona pellucida by a spermatozoon triggers a second meiotic division to create a definitive oocyte. This is the final maturation step that prepares the oocyte for fusion with the sperm nucleus.\n\n[A] is wrong because: The first meiotic division occurs prior to ovulation under the influence of FSH and LH, not at the time of sperm penetration. The oocyte is already at metaphase II when fertilisation occurs.\n\n[C] is wrong because: FSH release from the pituitary occurs during the follicular phase of the ovarian cycle to stimulate follicle development, not in response to sperm penetration of the oocyte.\n\n[D] is wrong because: Implantation of the blastocyst into the endometrium occurs at 5-6 days after fertilisation, not at the moment of sperm penetration of the zona pellucida.\n\nTeaching point: Sperm penetration triggers the second meiotic division of the oocyte, completing the final step of oogenesis at the moment of fertilisation.",
+    "topic": "Fertilisation"
+  },
+  {
+    "id": "ch01-Q03",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 3,
+    "stem": "A female infant is born with dysmorphic features, including a flat facial profile, upslanting palpebral fissures and a single palmar crease. Karyotyping confirms a chromosomal abnormality compatible with longer-term survival into adult life. Which trisomy is most likely?",
+    "options": [
+      { "id": "a", "text": "Trisomy 13 (Patau syndrome)" },
+      { "id": "b", "text": "Trisomy 18 (Edward syndrome)" },
+      { "id": "c", "text": "Trisomy 21 (Down syndrome)" },
+      { "id": "d", "text": "Trisomy 16" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: The clinical features described (flat facial profile, upslanting palpebral fissures, single palmar crease) are classic for Down syndrome. Trisomy 21 is the only trisomy that is compatible with longer-term survival into adult life.\n\n[A] is wrong because: Trisomy 13 (Patau syndrome) is compatible with survival but typically results in death within the first year of life due to severe neurological and cardiac defects. It also has distinct features such as cleft lip/palate and polydactyly.\n\n[B] is wrong because: Trisomy 18 (Edward syndrome) is compatible with survival beyond birth but most infants die within the first year. Features include rocker-bottom feet, clenched hands, and severe intellectual disability.\n\n[D] is wrong because: Trisomy 16 invariably results in spontaneous abortion and is not compatible with survival to term. It is one of the most common chromosomal causes of first-trimester miscarriage.\n\nTeaching point: While trisomies 13, 18, and 21 are all survivable to birth, only trisomy 21 (Down syndrome) is compatible with long-term survival into adult life.",
+    "topic": "Chromosomal abnormalities"
+  },
+  {
+    "id": "ch01-Q04",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 4,
+    "stem": "A 38-year-old woman delivers a baby with dysmorphic features including a flat facial profile, upslanting palpebral fissures, and a single palmar crease. Karyotyping confirms trisomy 21. The parents ask the geneticist what went wrong during development. The geneticist explains that the most common mechanism leading to this condition is non-disjunction during gametogenesis. Non-disjunction refers to failure of which of the following processes?",
+    "options": [
+      { "id": "a", "text": "Failure of a pair of chromosomes to separate during meiotic division" },
+      { "id": "b", "text": "Attachment of a chromosome or piece of a chromosome to another chromosome" },
+      { "id": "c", "text": "Deletion of the short arm of a chromosome during mitotic division" },
+      { "id": "d", "text": "Unequal crossing over between homologous chromosomes during meiosis" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: Non-disjunction is specifically defined as the failure of a pair of chromosomes to separate during meiotic division. This can occur during either the first or second meiotic division and leads to gametes with an abnormal number of chromosomes.\n\n[B] is wrong because: Attachment of a chromosome or piece of a chromosome to another chromosome describes translocation, not non-disjunction. Translocations can also cause trisomies but by a different mechanism.\n\n[C] is wrong because: Deletion of the short arm of a chromosome describes a structural chromosomal deletion, not a segregation error. Deletions can occur during mitotic or meiotic divisions but are not non-disjunction.\n\n[D] is wrong because: Unequal crossing over between homologous chromosomes describes a recombination error that can lead to duplications or deletions of genetic material, not the failure of chromosome separation that defines non-disjunction.\n\nTeaching point: Non-disjunction is a meiotic segregation error in which paired chromosomes fail to separate, leading to trisomy or monosomy in the resulting zygote.",
+    "topic": "Chromosomal abnormalities"
+  },
+  {
+    "id": "ch01-Q05",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 5,
+    "stem": "A first-trimester miscarriage is investigated. Chromosomal analysis of the products of conception reveals a single copy of an autosome without its paired counterpart. This finding of complete monosomy is most likely to have resulted in:",
+    "options": [
+      { "id": "a", "text": "Mosaicism confined to the placenta" },
+      { "id": "b", "text": "Survival with mild phenotypic abnormalities" },
+      { "id": "c", "text": "Development of Turner syndrome" },
+      { "id": "d", "text": "Spontaneous abortion of the embryo" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Absence of an entire autosome (complete monosomy) invariably leads to spontaneous abortion of the embryo. Autosomal monosomy is not compatible with survival because the loss of essential genetic material from even a single autosome is lethal.\n\n[A] is wrong because: Mosaicism confined to the placenta refers to a situation where some cells are trisomic and others are normal, limited to the placenta. Complete monosomy of an autosome throughout all cells would not result in mosaicism.\n\n[B] is wrong because: Complete autosomal monosomy is not compatible with survival. Some partial monosomic states (where only part of a chromosome is missing) can be compatible with survival, but complete monosomy of an autosome is lethal.\n\n[C] is wrong because: Turner syndrome (45X) involves monosomy of a sex chromosome, not an autosome. Major structural abnormalities of the sex chromosomes are compatible with survival, unlike autosomal monosomy.\n\nTeaching point: Complete autosomal monosomy is invariably lethal and results in spontaneous abortion, whereas sex chromosome monosomy (45X, Turner syndrome) is compatible with survival.",
+    "topic": "Monosomy"
+  },
+  {
+    "id": "ch01-Q06",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 6,
+    "stem": "A 14-year-old girl is referred for short stature and webbed neck. Karyotyping reveals 45X/46XX mosaicism. The paediatric endocrinologist explains that this mosaic form accounts for a substantial minority of Turner syndrome cases. When counselling the family about prognosis, which of the following is true regarding patients with mosaic Turner syndrome compared with those with complete 45X monosomy?",
+    "options": [
+      { "id": "a", "text": "They have a higher risk of coarctation of the aorta" },
+      { "id": "b", "text": "They typically have a milder phenotypic presentation" },
+      { "id": "c", "text": "They require urgent gonadoblastoma screening" },
+      { "id": "d", "text": "They have a shorter life expectancy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Approximately 30% of Turner syndrome cases occur in mosaic form (45X/46XX). Mosaic Turner syndrome typically presents with a milder phenotype than complete monosomy 45X, including less severe short stature, fewer cardiovascular anomalies, and a higher likelihood of spontaneous menstruation and fertility.\n\n[A] is wrong because: Patients with complete 45X monosomy have a higher risk of coarctation of the aorta and other cardiovascular anomalies. Mosaic Turner syndrome generally has a lower risk of such anomalies.\n\n[C] is wrong because: Urgent gonadoblastoma screening is indicated in patients with Y-chromosome material (e.g., 45X/46XY mixed gonadal dysgenesis), not in 45X/46XX mosaic Turner syndrome.\n\n[D] is wrong because: Patients with mosaic Turner syndrome do not have a shorter life expectancy compared with complete 45X monosomy. In fact, the milder phenotype associated with mosaicism is associated with better overall outcomes.\n\nTeaching point: Mosaic Turner syndrome (45X/46XX) accounts for ~30% of cases and typically presents with a milder phenotype than complete 45X monosomy, which accounts for ~50% of cases.",
+    "topic": "Sex chromosome abnormalities"
+  },
+  {
+    "id": "ch01-Q07",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 7,
+    "stem": "A newborn with ambiguous genitalia undergoes urgent karyotyping, which reveals 45X/46XY mosaicism. Which of the following conditions is most likely responsible for this karyotype finding?",
+    "options": [
+      { "id": "a", "text": "Klinefelter syndrome" },
+      { "id": "b", "text": "Mixed gonadal dysgenesis" },
+      { "id": "c", "text": "Turner syndrome" },
+      { "id": "d", "text": "Persistent Müllerian duct syndrome" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: 45X/46XY mosaicism is known as mixed gonadal dysgenesis. This condition typically presents with ambiguous genitalia in a newborn and is associated with a streaked gonad on one side and a dysgenetic testis on the other.\n\n[A] is wrong because: Klinefelter syndrome has a karyotype of 47XXY, not 45X/46XY. It typically presents with tall stature, small testes, and infertility in adolescence or adulthood.\n\n[C] is wrong because: Turner syndrome is associated with 45X (complete monosomy) or 45X/46XX mosaicism, not 45X/46XY. Turner syndrome presents with short stature, webbed neck, and ovarian dysgenesis.\n\n[D] is wrong because: Persistent Müllerian duct syndrome is typically a 46,XY condition with normal male karyotype. It results from deficient AMH production or action, not from a sex chromosome mosaicism.\n\nTeaching point: 45X/46XY mosaicism defines mixed gonadal dysgenesis, a common cause of ambiguous genitalia in newborns with a 46,XY cell line.",
+    "topic": "Sex chromosome abnormalities"
+  },
+  {
+    "id": "ch01-Q08",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 8,
+    "stem": "A child being evaluated for a suspected chromosomal abnormality is found to have two genetically distinct cell lines that both originated from the same zygote. This finding is best described as which of the following?",
+    "options": [
+      { "id": "a", "text": "Chimerism resulting from fusion of two zygotes" },
+      { "id": "b", "text": "Mosaicism arising from a post-zygotic mitotic error" },
+      { "id": "c", "text": "Trisomy resulting from meiotic non-disjunction" },
+      { "id": "d", "text": "Uniparental disomy from chromosome loss and duplication" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Mosaicism is defined as the presence of two genetically distinct cell lines derived from the same zygote. This typically arises when a chromosomal abnormality occurs during the early mitotic divisions of the zygote, producing a mixture of normal and abnormal cells.\n\n[A] is wrong because: Chimerism results from the fusion of two different zygotes, producing cell lines from two distinct fertilisations. This is different from mosaicism, where both cell lines originate from the same zygote.\n\n[C] is wrong because: Trisomy resulting from meiotic non-disjunction would affect all cells of the body, not just a subset. Mosaicism specifically describes the presence of a mixture of genetically different cell populations.\n\n[D] is wrong because: Uniparental disomy refers to inheritance of both copies of a chromosome from one parent, not the presence of two genetically distinct cell lines from the same zygote.\n\nTeaching point: Mosaicism arises from a post-zygotic (mitotic) error, producing two genetically distinct cell populations from a single zygote — this is distinct from chimerism, which involves fusion of two zygotes.",
+    "topic": "Mosaicism"
+  },
+  {
+    "id": "ch01-Q09",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 9,
+    "stem": "A newborn presents with bilateral flank masses and respiratory distress. Ultrasound shows massively enlarged, echogenic kidneys with poor corticomedullary differentiation. The parents are consanguineous. Which inherited condition is most likely?",
+    "options": [
+      { "id": "a", "text": "Autosomal dominant polycystic kidney disease" },
+      { "id": "b", "text": "Autosomal recessive polycystic kidney disease" },
+      { "id": "c", "text": "Renal coloboma syndrome" },
+      { "id": "d", "text": "Multicystic dysplastic kidney disease" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Autosomal recessive polycystic kidney disease (ARPKD) commonly presents in the newborn period with massively enlarged, echogenic kidneys and respiratory distress (due to pulmonary hypoplasia from oligohydramnios). Consanguinity increases the likelihood of autosomal recessive conditions.\n\n[A] is wrong because: ADPKD typically presents in adulthood (third to fifth decade) with gradual development of renal cysts and progression to end-stage renal disease. It is not typically a neonatal presentation.\n\n[C] is wrong because: Renal coloboma syndrome is a rare autosomal dominant condition characterised by renal hypoplasia and colobomas, not massively enlarged echogenic kidneys in a newborn.\n\n[D] is wrong because: Multicystic dysplastic kidney disease is typically a unilateral, non-hereditary condition characterised by multiple non-communicating cysts. It does not usually present with bilateral flank masses in a newborn.\n\nTeaching point: ARPKD is the classic neonatal cystic kidney disease presenting with massive bilateral renal enlargement and respiratory distress; consanguinity should raise suspicion for autosomal recessive inheritance.",
+    "topic": "Single gene mutations"
+  },
+  {
+    "id": "ch01-Q10",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 10,
+    "stem": "A 35-year-old man is found to have bilateral renal cysts during a health screen. His father and paternal grandfather both had end-stage renal disease in their fifties. Which inheritance pattern is most consistent with this presentation?",
+    "options": [
+      { "id": "a", "text": "Autosomal dominant" },
+      { "id": "b", "text": "Autosomal recessive" },
+      { "id": "c", "text": "X-linked recessive" },
+      { "id": "d", "text": "Mitochondrial" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: ADPKD is an autosomal dominant condition characterised by adult-onset renal cyst formation and progression to ESRD typically in the fifth or sixth decade. The vertical transmission through three generations (grandfather → father → son) with male-to-male transmission is classic for autosomal dominant inheritance.\n\n[B] is wrong because: Autosomal recessive conditions require both parents to be carriers and typically present in childhood. Vertical transmission through three generations with affected individuals in each is not consistent with autosomal recessive inheritance.\n\n[C] is wrong because: X-linked recessive inheritance would not show male-to-male transmission (an affected father cannot pass an X-linked condition to his son). The grandfather-to-father-to-son pattern seen here excludes X-linked inheritance.\n\n[D] is wrong because: Mitochondrial inheritance is passed exclusively through the maternal line. This pedigree shows paternal transmission, which is not consistent with mitochondrial inheritance.\n\nTeaching point: Vertical transmission through multiple generations with male-to-male transmission is the hallmark of autosomal dominant inheritance, as seen in ADPKD.",
+    "topic": "Single gene mutations"
+  },
+  {
+    "id": "ch01-Q11",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 11,
+    "stem": "A 14-year-old boy presents with delayed puberty and anosmia. His mother's brother had similar features. X-linked Kallmann syndrome is characterised by which pattern of inheritance?",
+    "options": [
+      { "id": "a", "text": "Autosomal dominant" },
+      { "id": "b", "text": "Autosomal recessive" },
+      { "id": "c", "text": "Mitochondrial" },
+      { "id": "d", "text": "X-linked recessive" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: X-linked Kallmann syndrome is caused by mutations in the KAL1 gene and shows X-linked recessive inheritance. The family history of a maternal uncle being affected is classic for X-linked inheritance — the mother is a carrier who passed the mutation to her son.\n\n[A] is wrong because: Autosomal dominant inheritance would typically show affected individuals in multiple generations with male-to-male transmission possible, and would not show the skip-generation pattern through a carrier mother seen here.\n\n[B] is wrong because: Autosomal recessive inheritance would require both parents to be carriers and would typically affect siblings rather than showing the uncle-nephew pattern through the maternal line.\n\n[C] is wrong because: Mitochondrial inheritance is exclusively maternal and affects both sexes. An affected mother would pass it to all her children, but affected males do not transmit the condition.\n\nTeaching point: X-linked Kallmann syndrome combines hypogonadotropic hypogonadism (delayed puberty) with anosmia; the pedigree pattern of an affected male with a carrier mother and affected maternal uncle is characteristic of X-linked recessive inheritance.",
+    "topic": "Single gene mutations"
+  },
+  {
+    "id": "ch01-Q12",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 12,
+    "stem": "A paediatric urologist is counselling a family in which two siblings have vesicoureteric reflux and the father also had reflux as a child. Despite extensive genetic testing, no single-gene mutation is identified. What is the most likely explanation for the familial clustering of this condition?",
+    "options": [
+      { "id": "a", "text": "Undiagnosed environmental toxin exposure during pregnancy" },
+      { "id": "b", "text": "X-linked recessive inheritance with incomplete penetrance" },
+      { "id": "c", "text": "Interaction of multiple genes (multifactorial inheritance)" },
+      { "id": "d", "text": "De novo mitochondrial DNA mutations" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Common paediatric urological conditions with strong familial tendencies such as VUR, upper tract duplication, and hypospadias are more likely to result from the interaction of multiple genes (polygenic or multifactorial inheritance) than from a single-gene mutation. The absence of a detectable single-gene mutation despite extensive testing supports this.\n\n[A] is wrong because: While environmental factors may modify gene expression during embryological development, the familial clustering across multiple generations without a known environmental exposure makes exclusive environmental causation unlikely.\n\n[B] is wrong because: The pedigree shows father-to-child transmission (including to a daughter if applicable), which is not consistent with X-linked recessive inheritance. X-linked conditions cannot pass from father to son.\n\n[D] is wrong because: Mitochondrial DNA mutations follow maternal inheritance and affect all offspring of an affected mother. The presence of affected individuals in multiple generations with male transmission is not consistent with mitochondrial inheritance.\n\nTeaching point: The most common urological conditions encountered in paediatric urology (VUR, duplication anomalies, hypospadias) are sporadic or polygenic/multifactorial, not monogenic disorders.",
+    "topic": "Multifactorial inheritance"
+  },
+  {
+    "id": "ch01-Q13",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 13,
+    "stem": "A paediatric pathologist is examining a specimen from a 6-week spontaneous abortion. Microscopic examination reveals a vestigial cord-like structure in the cephalad region of the intermediate mesoderm. The trainee asks about this structure's significance. The attending pathologist explains that the pronephros:",
+    "options": [
+      { "id": "a", "text": "It matures into the definitive adult kidney" },
+      { "id": "b", "text": "It regresses rapidly and serves no known function" },
+      { "id": "c", "text": "It gives rise to the gonad" },
+      { "id": "d", "text": "It forms the mesonephric duct" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The vestigial cord-like structure noted in the cephalad intermediate mesoderm is the pronephros, which is the most cephalad of the three sequential kidney precursors. It regresses rapidly without serving any known function in the human embryo. It is a vestigial structure that reflects the evolutionary development of the kidney.\n\n[A] is wrong because: The definitive adult kidney (metanephros) develops from the most caudal region, not from the pronephros. The pronephros regresses entirely before the metanephros forms.\n\n[C] is wrong because: The gonad develops from the genital ridge, which is formed by interaction between primordial germ cells and surrounding mesenchyme, not from the pronephros.\n\n[D] is wrong because: The mesonephric duct forms from condensations of mesenchyme lying lateral to the mesonephros, not from the pronephros. The pronephros is a separate structure in the cephalad region.\n\nTeaching point: Three sequential kidney precursors appear: pronephros (cephalad, non-functional, regresses), mesonephros (mid-zone, transient excretory role), and metanephros (caudal, definitive kidney).",
+    "topic": "Upper urinary tract"
+  },
+  {
+    "id": "ch01-Q14",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 14,
+    "stem": "A male patient is being evaluated for infertility. On testicular biopsy, remnants of embryological structures are noted. Which of the following structures in the adult male is derived from the mesonephric tubules of the embryo?",
+    "options": [
+      { "id": "a", "text": "Vas deferens" },
+      { "id": "b", "text": "Seminal vesicles" },
+      { "id": "c", "text": "Rete testis" },
+      { "id": "d", "text": "Efferent ductules of the testis" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: The mesonephric tubules in the male embryo persist as the efferent ductules of the testis. These tubules establish a communication between the rete testis and the mesonephric duct, which forms the epididymis.\n\n[A] is wrong because: The vas deferens is derived from the mesonephric duct (Wolffian duct), not from the mesonephric tubules. The mesonephric tubules and mesonephric duct are distinct embryological structures.\n\n[B] is wrong because: The seminal vesicles develop as outpouchings from the mesonephric duct under the influence of testosterone, not from the mesonephric tubules.\n\n[C] is wrong because: The rete testis is derived from the primitive gonadal cords within the testis, not from the mesonephric tubules. The rete testis connects the seminiferous tubules to the efferent ductules.\n\nTeaching point: The mesonephric tubules persist in the male exclusively as the efferent ductules of the testis; all other male genital duct structures (epididymis, vas deferens, seminal vesicles) derive from the mesonephric duct.",
+    "topic": "Upper urinary tract"
+  },
+  {
+    "id": "ch01-Q15",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 15,
+    "stem": "A first-trimester ultrasound screening programme is evaluating fetal renal development. At approximately 6 weeks gestation, the sonographer expects to see evidence of the first stage of ureteric bud formation. The radiologist explains that the ureteric bud first appears as a protrusion from the mesonephric duct. At approximately which gestational day does this event occur?",
+    "options": [
+      { "id": "a", "text": "28 days" },
+      { "id": "b", "text": "32 days" },
+      { "id": "c", "text": "35 days" },
+      { "id": "d", "text": "42 days" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: The ureteric bud develops as a protrusion from the mesonephric duct at approximately 28 days of gestation. This is the first morphologically identifiable step in the formation of the definitive kidney.\n\n[B] is wrong because: 32 days is the time when the ureteric bud penetrates the metanephric mesenchyme, not when it first appears. The bud develops at 28 days and advances before penetrating at 32 days.\n\n[C] is wrong because: 35 days is not a recognised landmark in ureteric bud development. The key milestones are emergence at 28 days and penetration at 32 days.\n\n[D] is wrong because: 42 days is too late. By this time, the ureteric bud has already penetrated the metanephric mesenchyme and initiated the process of branching morphogenesis.\n\nTeaching point: The ureteric bud emerges at day 28 from the mesonephric duct and penetrates the metanephric mesenchyme at day 32 — these are two distinct sequential milestones.",
+    "topic": "Ureteric bud development"
+  },
+  {
+    "id": "ch01-Q16",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 16,
+    "stem": "A foetal medicine specialist is counselling a couple whose fetus has been diagnosed with unilateral renal agenesis. The specialist explains that the process of nephrogenesis depends on the ureteric bud penetrating the metanephric mesenchyme to initiate reciprocal inductive interaction. At approximately which gestational day does this penetration normally occur?",
+    "options": [
+      { "id": "a", "text": "21 days" },
+      { "id": "b", "text": "28 days" },
+      { "id": "c", "text": "32 days" },
+      { "id": "d", "text": "40 days" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: The ureteric bud penetrates the metanephric mesenchyme at approximately 32 days of gestation. This invasion initiates the reciprocal inductive interaction between the two tissues that drives nephron formation.\n\n[A] is wrong because: At 21 days, the embryo is at an earlier stage of development; the intermediate mesoderm is still differentiating and the pronephros may be forming. The metanephros is not yet established at this point.\n\n[B] is wrong because: 28 days is when the ureteric bud first emerges from the mesonephric duct, not when it penetrates the metanephric mesenchyme. Penetration occurs approximately 4 days later.\n\n[D] is wrong because: 40 days is too late; by this time the ureteric bud has already penetrated the metanephros and is undergoing active branching morphogenesis to form the collecting system.\n\nTeaching point: The ureteric bud emerges at day 28 and penetrates the metanephric mesenchyme at day 32 — this sequence of timed events is essential for normal nephrogenesis.",
+    "topic": "Ureteric bud development"
+  },
+  {
+    "id": "ch01-Q17",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 17,
+    "stem": "A researcher is studying how nephrons form in a transgenic mouse model. She observes that two distinct embryonic tissues interact reciprocally to induce nephron formation. Which pair of tissues is involved in this reciprocal inductive interaction?",
+    "options": [
+      { "id": "a", "text": "Pronephros and mesonephric mesenchyme" },
+      { "id": "b", "text": "Ureteric bud and metanephric mesenchyme" },
+      { "id": "c", "text": "Mesonephric duct and cloacal endoderm" },
+      { "id": "d", "text": "Urogenital sinus and coelomic epithelium" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Nephron formation occurs through reciprocal inductive interaction between the ureteric bud and the metanephric mesenchyme (metanephros). The ureteric bud induces the metanephric mesenchyme to form nephrons, while the mesenchyme induces the bud to branch and form the collecting system.\n\n[A] is wrong because: The pronephros is a vestigial structure that regresses rapidly. It does not participate in a reciprocal inductive interaction to form nephrons in the definitive kidney.\n\n[C] is wrong because: The mesonephric duct and cloaca are involved in lower urinary tract development, not in nephron induction. The mesonephric duct gives rise to the ureteric bud, but the critical inductive interaction is between the bud and the metanephros.\n\n[D] is wrong because: The urogenital sinus and coelomic epithelium are involved in development of the bladder, urethra, and genitalia, not in nephron formation within the kidney.\n\nTeaching point: The reciprocal induction between the ureteric bud and metanephric mesenchyme is the central mechanism of nephrogenesis — a classic example of epithelial-mesenchymal interaction.",
+    "topic": "Nephrogenesis"
+  },
+  {
+    "id": "ch01-Q18",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 18,
+    "stem": "A 5-year-old child with recurrent UTIs undergoes imaging that reveals a duplicated collecting system. Understanding the embryological origin of the collecting ducts is important for interpreting such anomalies. The collecting ducts of the kidney are derived from which embryological structure?",
+    "options": [
+      { "id": "a", "text": "Ureteric bud" },
+      { "id": "b", "text": "Metanephric mesenchyme" },
+      { "id": "c", "text": "Mesonephros" },
+      { "id": "d", "text": "Pronephros" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: Sequential budding and branching of the ureteric bud gives rise to the renal pelvis, major calices, minor calices, and collecting ducts. The entire collecting system is derived from the ureteric bud epithelium.\n\n[B] is wrong because: The metanephric mesenchyme gives rise to the glomeruli, convoluted tubules, and loop of Henle — the nephron proper — not the collecting ducts. This division between collecting system (ureteric bud) and nephron (metanephric mesenchyme) is fundamental to understanding renal development.\n\n[C] is wrong because: The mesonephros is a transient intermediate kidney that functions until about 10 weeks and does not contribute to the definitive collecting system of the metanephros.\n\n[D] is wrong because: The pronephros is the most cephalad and most primitive kidney precursor. It regresses rapidly without contributing to any definitive renal structures.\n\nTeaching point: The ureteric bud forms the collecting system (pelvis, calices, collecting ducts); the metanephric mesenchyme forms the nephrons (glomerulus, proximal tubule, loop of Henle).",
+    "topic": "Ureteric bud derivatives"
+  },
+  {
+    "id": "ch01-Q19",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 19,
+    "stem": "A pathology specimen from a neonatal post-mortem is examined under the microscope. The trainee is asked to identify the embryological origin of the glomeruli and convoluted tubules of the nephron. These structures arise from which embryonic tissue?",
+    "options": [
+      { "id": "a", "text": "Ureteric bud epithelium" },
+      { "id": "b", "text": "Mesonephric mesenchyme" },
+      { "id": "c", "text": "Pronephric mesoderm" },
+      { "id": "d", "text": "Metanephric mesenchyme" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: The metanephric mesenchyme gives rise to the glomeruli, convoluted tubules (proximal and distal), and the loop of Henle. These constitute the functional nephron unit of the kidney.\n\n[A] is wrong because: The ureteric bud epithelium gives rise to the collecting system (pelvis, calices, collecting ducts), not the glomeruli or tubules. The ureteric bud and metanephric mesenchyme have distinct developmental fates.\n\n[B] is wrong because: The mesonephros (mid-zone kidney precursor) forms transient tubules that regress in females or form efferent ductules in males. It does not contribute nephrons to the definitive metanephric kidney.\n\n[C] is wrong because: The pronephros is a vestigial structure in the cephalad region that regresses without forming any functional components of the definitive kidney.\n\nTeaching point: The metanephric mesenchyme differentiates into the nephron proper (glomerulus and tubules), while the ureteric bud derivatives form the collecting system — two distinct lineages that must interact for normal kidney formation.",
+    "topic": "Metanephric mesenchyme derivatives"
+  },
+  {
+    "id": "ch01-Q20",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 20,
+    "stem": "A neonatologist is counselling the parents of an infant born at 30 weeks gestation about the implications of prematurity for long-term renal function. The doctor explains that nephrogenesis ceases at a specific gestational age. At which week of gestation does nephrogenesis normally cease in the human fetus?",
+    "options": [
+      { "id": "a", "text": "32 weeks" },
+      { "id": "b", "text": "34 weeks" },
+      { "id": "c", "text": "36 weeks" },
+      { "id": "d", "text": "40 weeks" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: In humans, the process of nephrogenesis ceases at 36 weeks of gestation. The total number of nephrons remains fixed thereafter at approximately 1 million per kidney. Infants born before this time have a lower total nephron endowment.\n\n[A] is wrong because: At 32 weeks, nephrogenesis is still ongoing; new generations of nephrons continue to be added to the cortex until 36 weeks. The cortex and medulla are already discernible by 15 weeks.\n\n[B] is wrong because: 34 weeks is still before the completion of nephrogenesis. Nephron formation continues actively between 34 and 36 weeks.\n\n[D] is wrong because: 40 weeks is full term; nephrogenesis has already ceased by 36 weeks. No new nephrons are formed after 36 weeks regardless of whether the infant is born at term or post-term.\n\nTeaching point: Nephrogenesis ceases at 36 weeks — preterm infants born before this milestone have reduced nephron numbers, which may have long-term implications for renal function and blood pressure regulation.",
+    "topic": "Nephrogenesis"
+  },
+  {
+    "id": "ch01-Q21",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 21,
+    "stem": "Compared with a term infant, a preterm infant born at 28 weeks gestation is at increased risk for long-term renal impairment because:",
+    "options": [
+      { "id": "a", "text": "Nephrogenesis accelerates abnormally after preterm birth" },
+      { "id": "b", "text": "Total nephron numbers are reduced in preterm and low-birth-weight infants" },
+      { "id": "c", "text": "The metanephros has not yet formed at 28 weeks" },
+      { "id": "d", "text": "Glomerular filtration ceases after preterm delivery" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Nephron numbers are reduced in the kidneys of preterm and low-birth-weight infants. Since nephrogenesis continues until 36 weeks, infants born at 28 weeks miss approximately 8 weeks of nephron formation, resulting in a lower total nephron endowment.\n\n[A] is wrong because: Nephrogenesis does not accelerate after preterm birth; instead, the normal process of nephron formation is disrupted or curtailed by premature delivery and the extrauterine environment.\n\n[C] is wrong because: The metanephros forms at around 28 days and is well-established by 28 weeks. The issue is not the presence of the metanephros but the loss of continued nephrogenesis that would normally occur between 28 and 36 weeks.\n\n[D] is wrong because: Glomerular filtration continues after preterm delivery, albeit at a level appropriate for gestational maturity. The kidneys do not cease filtration after preterm birth.\n\nTeaching point: Preterm infants miss the final 8 weeks of nephrogenesis (which ends at 36 weeks), resulting in reduced nephron endowment and potential long-term cardiovascular and renal consequences.",
+    "topic": "Nephrogenesis"
+  },
+  {
+    "id": "ch01-Q22",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 22,
+    "stem": "A research study investigates a growth factor expressed in the metanephric mesenchyme that signals through the RET receptor to regulate ureteric bud branching. Which gene encodes this growth factor?",
+    "options": [
+      { "id": "a", "text": "WT1 (Wilms tumour suppressor gene)" },
+      { "id": "b", "text": "SOX9" },
+      { "id": "c", "text": "AMH (anti-Müllerian hormone)" },
+      { "id": "d", "text": "GDNF (glial cell line-derived neurotrophic factor)" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: The gene encoding glial cell line-derived neurotrophic factor (GDNF) is expressed in the metanephric mesenchyme and signals through the RET receptor on the ureteric bud. This GDNF-RET signalling pathway is critical for ureteric bud branching morphogenesis.\n\n[A] is wrong because: WT1 is a tumour suppressor gene that plays a key role in kidney development but is not the ligand for the RET receptor. WT1 mutations cause Wilms tumour and Denys-Drash syndrome.\n\n[B] is wrong because: SOX9 is a transcription factor involved in testicular development (downstream of SRY), not a growth factor that signals through RET to regulate ureteric bud branching.\n\n[C] is wrong because: AMH (anti-Müllerian hormone) is secreted by Sertoli cells of the testis and is involved in regression of paramesonephric ducts and testicular descent, not in ureteric bud branching via the RET receptor.\n\nTeaching point: GDNF-RET signalling is the primary molecular pathway regulating ureteric bud branching and nephron induction; disruption causes renal agenesis or dysplasia.",
+    "topic": "Molecular regulation of nephrogenesis"
+  },
+  {
+    "id": "ch01-Q23",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 23,
+    "stem": "A newborn with ambiguous genitalia is found to have normal serum testosterone levels but markedly reduced dihydrotestosterone levels. Which enzyme deficiency is most likely responsible?",
+    "options": [
+      { "id": "a", "text": "5-alpha reductase type 2" },
+      { "id": "b", "text": "21-hydroxylase" },
+      { "id": "c", "text": "11-beta hydroxylase" },
+      { "id": "d", "text": "Aromatase" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: 5-alpha reductase type 2 converts testosterone to its more potent derivative, dihydrotestosterone, which is essential for virilisation of the external genitalia. Deficiency results in undervirilised external genitalia despite normal testosterone levels.\n\n[B] is wrong because: 21-hydroxylase deficiency causes congenital adrenal hyperplasia, characterised by cortisol deficiency, aldosterone deficiency (salt-wasting form), and excess androgen production. It would present with elevated, not reduced, androgen levels.\n\n[C] is wrong because: 11-beta hydroxylase deficiency is another form of congenital adrenal hyperplasia that causes hypertension and virilisation due to accumulation of androgenic precursors, not reduced DHT with normal testosterone.\n\n[D] is wrong because: Aromatase converts androgens to oestrogens. Aromatase deficiency would cause elevated androgen levels and virilisation, not the combination of normal testosterone and low DHT seen here.\n\nTeaching point: 5-alpha reductase deficiency presents with 46,XY DSD — normal testosterone, low DHT, undervirilised external genitalia — because DHT is required for external genital development while Wolffian structures (testosterone-dependent) are normal.",
+    "topic": "External genitalia development"
+  },
+  {
+    "id": "ch01-Q24",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 24,
+    "stem": "A 4-year-old child undergoes nephrectomy for hypertension. Microscopy reveals disordered renal architecture, primitive undifferentiated tubules, small cysts and foci of cartilage. This histology is characteristic of which condition?",
+    "options": [
+      { "id": "a", "text": "Renal hypoplasia" },
+      { "id": "b", "text": "Multicystic dysplastic kidney" },
+      { "id": "c", "text": "Renal dysplasia" },
+      { "id": "d", "text": "Post-infectious glomerulonephritis" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: The histological hallmarks of renal dysplasia include disordered renal architecture, immature primitive undifferentiated tubules, small cysts, and the inappropriate (metaplastic) presence of cartilage and fibromuscular tissue. These features result from faulty interaction between the ureteric bud and metanephric tissue.\n\n[A] is wrong because: A hypoplastic kidney is reduced in size but retains normal internal architecture with an appropriate number of nephrons for its size. It does not show primitive tubules, cysts, or cartilage on histology.\n\n[B] is wrong because: While multicystic dysplastic kidney (MCDK) is a severe form of renal dysplasia, the histology described is specifically characteristic of renal dysplasia in general, not MCDK alone. MCDK is a clinical-radiological diagnosis.\n\n[D] is wrong because: Post-infectious glomerulonephritis is an acquired inflammatory condition characterised by glomerular hypercellularity and immune complex deposition, not disordered architecture, primitive tubules, or metaplastic cartilage.\n\nTeaching point: The presence of cartilage in the kidney is pathognomonic of renal dysplasia and reflects abnormal metaplasia during faulty nephrogenesis.",
+    "topic": "Renal dysplasia"
+  },
+  {
+    "id": "ch01-Q25",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 25,
+    "stem": "An abdominal ultrasound performed for an unrelated indication reveals a small right kidney. The left kidney is normal in size. A nuclear medicine scan shows reduced function on the right but normal cortical architecture. The radiologist describes this as a hypoplastic kidney. Which of the following best defines a hypoplastic kidney?",
+    "options": [
+      { "id": "a", "text": "A kidney with cystic changes and evidence of cartilage on histology" },
+      { "id": "b", "text": "A small kidney with normal internal architecture but reduced nephron numbers" },
+      { "id": "c", "text": "A completely absent kidney with compensatory hypertrophy of the contralateral kidney" },
+      { "id": "d", "text": "A kidney with a duplicated collecting system and impaired drainage" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: A hypoplastic kidney is reduced in size but retains normal internal architecture, albeit with fewer nephrons. This distinguishes it from renal dysplasia, which shows disordered architecture and metaplastic changes.\n\n[A] is wrong because: Cystic changes and cartilage on histology are features of renal dysplasia, not hypoplasia. Dysplasia results from abnormal differentiation, while hypoplasia results from reduced nephron endowment with normal differentiation.\n\n[C] is wrong because: A completely absent kidney describes renal agenesis, not hypoplasia. Contralateral compensatory hypertrophy can occur with either agenesis or severe hypoplasia but is not part of the definition.\n\n[D] is wrong because: A duplicated collecting system describes a duplication anomaly of the ureter, which is a separate embryological entity from renal hypoplasia. Duplication does not necessarily imply reduced kidney size or nephron numbers.\n\nTeaching point: Renal hypoplasia = small kidney with normal architecture but fewer nephrons; renal dysplasia = abnormal architecture with metaplastic elements such as cartilage.",
+    "topic": "Renal hypoplasia"
+  },
+  {
+    "id": "ch01-Q26",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 26,
+    "stem": "A 7-year-old boy undergoing abdominal ultrasound is found to have an isthmus of renal tissue connecting the lower poles of both kidneys across the midline. During which period of gestation did this anomaly most likely arise?",
+    "options": [
+      { "id": "a", "text": "4th to 5th weeks" },
+      { "id": "b", "text": "5th to 6th weeks" },
+      { "id": "c", "text": "6th to 7th weeks" },
+      { "id": "d", "text": "6th to 10th weeks" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Horseshoe kidney is an abnormality of renal ascent and fusion that dates from the sixth to tenth weeks of gestation, when the embryonic kidney is ascending on the posterior abdominal wall before adopting its definitive position.\n\n[A] is wrong because: Between 4 and 5 weeks, the ureteric bud has just emerged (day 28) and is penetrating the metanephric mesenchyme (day 32). Renal ascent has not yet begun at this stage.\n\n[B] is wrong because: 5 to 6 weeks is early in the ascent period. While the metanephros is present, the major events of renal ascent and fusion occur between 6 and 10 weeks.\n\n[C] is wrong because: 6 to 7 weeks is part of the critical period but too narrow. The full window for ascent and fusion anomalies extends from the 6th to the 10th week.\n\nTeaching point: Anomalies of renal ascent and fusion (horseshoe kidney, pelvic kidney, crossed fused ectopia) originate between the 6th and 10th weeks of gestation.",
+    "topic": "Renal ascent and fusion anomalies"
+  },
+  {
+    "id": "ch01-Q27",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 27,
+    "stem": "An asymptomatic 5-year-old has a palpable mass in the left lower quadrant. Ultrasound shows a kidney in the left iliac fossa with normal parenchyma and architecture; the right kidney is normally positioned. What is the most likely explanation?",
+    "options": [
+      { "id": "a", "text": "Failure of left renal ascent during the 6th to 10th weeks" },
+      { "id": "b", "text": "Horseshoe kidney with predominantly left-sided tissue" },
+      { "id": "c", "text": "Crossed fused renal ectopia with the left kidney crossing to the right" },
+      { "id": "d", "text": "Left renal agenesis with intestinal loops mimicking a kidney" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: A pelvic kidney results from failure of normal renal ascent during the 6th to 10th weeks of gestation. The kidney is normally formed but lies in an ectopic iliac or pelvic position. The presence of a normally positioned right kidney confirms a unilateral ascent anomaly.\n\n[B] is wrong because: Horseshoe kidney involves midline fusion of the lower poles of both kidneys with an isthmus connecting them. The ultrasound clearly shows a single left iliac fossa kidney with a normal right kidney, not a fused horseshoe configuration.\n\n[C] is wrong because: Crossed fused renal ectopia would place both kidneys on the same side of the midline with one fused to the other. The finding of a normally positioned right kidney makes this diagnosis unlikely.\n\n[D] is wrong because: Left renal agenesis would show absence of the left kidney, not a kidney in the left iliac fossa. Ultrasound clearly identifies renal parenchyma, ruling out bowel loops.\n\nTeaching point: Pelvic kidney results from failed ascent (6-10 weeks); the kidney is morphologically normal but ectopically positioned in the pelvis or iliac fossa.",
+    "topic": "Renal ascent and fusion anomalies"
+  },
+  {
+    "id": "ch01-Q28",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 28,
+    "stem": "A pregnant woman presents with oligohydramnios at 22 weeks gestation. Her fetus has evidence of bilateral renal impairment. The foetomaternal specialist explains that in a normal pregnancy, the fetal kidneys begin excreting urine into the amniotic cavity at approximately which week of gestation?",
+    "options": [
+      { "id": "a", "text": "6 weeks" },
+      { "id": "b", "text": "8 weeks" },
+      { "id": "c", "text": "9 weeks" },
+      { "id": "d", "text": "12 weeks" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: In a normal pregnancy, the fetal kidneys excrete urine into the amniotic cavity from around the ninth week of gestation onwards. This urine becomes a major constituent of the amniotic fluid, which is critical for normal lung development and fetal protection.\n\n[A] is wrong because: At 6 weeks, the metanephros is still in early development and the ureteric bud is just establishing contact with the metanephric mesenchyme. Urine production has not yet begun.\n\n[B] is wrong because: At 8 weeks, the kidney is developing but has not yet commenced urine excretion. The onset of urine production occurs at approximately 9 weeks.\n\n[D] is wrong because: 12 weeks is too late; urine production has already been ongoing for approximately 3 weeks by this point. Oligohydramnios detected at 10 weeks could already reflect impaired fetal renal function.\n\nTeaching point: Fetal urine production begins at 9 weeks and becomes the primary contributor to amniotic fluid volume; impaired renal function leads to oligohydramnios and the Potter sequence.",
+    "topic": "Fetal renal function"
+  },
+  {
+    "id": "ch01-Q29",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 29,
+    "stem": "A medical student is asked about fetal renal physiology during a viva examination. She correctly identifies that the homeostatic function normally performed by the kidneys in postnatal life is predominantly fulfilled by which structure during fetal life?",
+    "options": [
+      { "id": "a", "text": "Fetal liver" },
+      { "id": "b", "text": "Placenta" },
+      { "id": "c", "text": "Fetal lungs" },
+      { "id": "d", "text": "Amniotic membrane" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The placenta effectively dialyses the fetus until birth, fulfilling the homeostatic role (electrolyte balance, waste removal) that is normally played by the kidneys after birth. The fetal kidneys primarily produce urine for amniotic fluid rather than for homeostasis.\n\n[A] is wrong because: While the fetal liver performs many metabolic functions, it does not fulfil the filtering and electrolyte-balancing roles of the kidneys. The placenta, not the liver, handles fetal waste excretion.\n\n[C] is wrong because: The fetal lungs are filled with amniotic fluid and do not participate in gas exchange or homeostasis during fetal life. They are developing for postnatal function.\n\n[D] is wrong because: The amniotic membrane is a protective sac that contains the amniotic fluid but has no homeostatic or excretory function. It is not involved in dialysis of fetal blood.\n\nTeaching point: The placenta serves as the fetal kidney for homeostasis; the fetal kidneys primarily produce urine for amniotic fluid, which is essential for lung development and fetal protection.",
+    "topic": "Fetal renal function"
+  },
+  {
+    "id": "ch01-Q30",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 30,
+    "stem": "A stillborn infant is noted to have pulmonary hypoplasia, low-set ears, a flattened nose and limb deformities. The mother had severely decreased amniotic fluid volume during pregnancy. This sequence of findings is most likely attributable to:",
+    "options": [
+      { "id": "a", "text": "Maternal diabetes mellitus" },
+      { "id": "b", "text": "Congenital diaphragmatic hernia" },
+      { "id": "c", "text": "Neural tube defect" },
+      { "id": "d", "text": "Oligohydramnios secondary to fetal renal impairment" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Reduced amniotic fluid volume (oligohydramnios) is associated with pulmonary hypoplasia, moulding deformities (Potter facies: low-set ears, flattened nose), and limb deformities. The combination of oligohydramnios with these features is the classic Potter sequence, most commonly caused by fetal renal impairment.\n\n[A] is wrong because: Maternal diabetes mellitus can cause macrosomia, congenital heart defects, and neural tube defects but does not produce the specific Potter sequence of pulmonary hypoplasia, facial deformities, and limb abnormalities with oligohydramnios.\n\n[B] is wrong because: Congenital diaphragmatic hernia causes pulmonary hypoplasia due to compression of the developing lung by herniated abdominal contents, but it is not associated with oligohydramnios or the characteristic facial and limb deformities described.\n\n[C] is wrong because: Neural tube defects (e.g., spina bifida, anencephaly) can be associated with polyhydramnios (excess amniotic fluid), not oligohydramnios, and do not produce Potter facies.\n\nTeaching point: The Potter sequence — oligohydramnios, pulmonary hypoplasia, Potter facies, and limb deformities — results from fetal renal impairment that reduces urine output into the amniotic cavity.",
+    "topic": "Fetal renal function"
+  },
+  {
+    "id": "ch01-Q31",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 31,
+    "stem": "A newborn female with a persistent cloacal malformation undergoes surgical reconstruction. The paediatric urologist notes confluence of the urethra, vagina, and rectum into a single common channel. During counselling, the surgeon explains that the embryological error leading to this malformation resulted from failure of the cloaca to subdivide during which period of gestation?",
+    "options": [
+      { "id": "a", "text": "4th and 7th weeks" },
+      { "id": "b", "text": "3rd and 5th weeks" },
+      { "id": "c", "text": "6th and 9th weeks" },
+      { "id": "d", "text": "8th and 12th weeks" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: In a newborn with persistent cloacal malformation, confluence of the urethra, vagina, and rectum into a single common channel results from failure of normal cloacal subdivision. Between the fourth and seventh weeks of gestation, the cloaca normally subdivides to form the urogenital sinus anteriorly and the anorectal canal posteriorly. Disruption during this critical window leads to persistent cloacal malformations.\n\n[B] is wrong because: Between 3 and 5 weeks, the cloaca exists as a single cavity but the process of subdivision has not yet begun. The critical window for subdivision is 4-7 weeks.\n\n[C] is wrong because: By 6 to 9 weeks, the subdivision should already be complete. The process begins at 4 weeks and is normally complete by 7 weeks.\n\n[D] is wrong because: 8 to 12 weeks is too late. The cloaca has already been fully subdivided into the urogenital sinus and anorectal canal by 7 weeks.\n\nTeaching point: The cloaca subdivides between the 4th and 7th weeks — this is the critical window for cloacal malformations, including persistent cloaca.",
+    "topic": "Lower urinary tract"
+  },
+  {
+    "id": "ch01-Q32",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 32,
+    "stem": "A paediatric urology trainee reads an article about the embryology of the lower urinary tract and learns that the traditional explanation for cloacal subdivision has been updated. According to recent studies, subdivision of the cloaca occurs primarily as which type of process?",
+    "options": [
+      { "id": "a", "text": "Active descent of the urorectal septum (Tourneux fold)" },
+      { "id": "b", "text": "Lateral ingrowth of Rathke folds from the side walls of the cloaca" },
+      { "id": "c", "text": "A predominantly passive process of spatial realignment and differential growth" },
+      { "id": "d", "text": "Programmed cell death of the intervening cloacal membrane" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: The traditional explanation of active descent of the urorectal septum (Tourneux fold) aided by lateral ingrowth of Rathke folds has been largely refuted. Recent studies demonstrate that cloacal subdivision is a predominantly passive process resulting from spatial realignment, differential dorsoventral growth, and unfolding of the caudal body axis.\n\n[A] is wrong because: Active descent of the urorectal septum (Tourneux fold) is the traditional but now largely refuted explanation. Modern studies show that the process is primarily passive, not active.\n\n[B] is wrong because: Lateral ingrowth of Rathke folds from the side walls of the cloaca was another component of the traditional model that has not been supported by contemporary evidence.\n\n[D] is wrong because: Programmed cell death (apoptosis) of the cloacal membrane is involved in the formation of the urogenital and anal openings, but it is not the primary mechanism for subdivision of the cloaca into two compartments.\n\nTeaching point: The long-held Tourneux-Rathke model of active septation has been replaced by the modern understanding that cloacal subdivision is a passive process driven by differential growth and spatial realignment.",
+    "topic": "Lower urinary tract"
+  },
+  {
+    "id": "ch01-Q33",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 33,
+    "stem": "A newborn female passes meconium and urine through a single perineal orifice. Which diagnosis is most consistent with this finding?",
+    "options": [
+      { "id": "a", "text": "Bladder exstrophy" },
+      { "id": "b", "text": "Persistent cloacal malformation" },
+      { "id": "c", "text": "Epispadias" },
+      { "id": "d", "text": "Urogenital sinus malformation" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Persistent cloacal malformations are characterised by confluence of the urethra, vagina, and rectum to form a common channel with a single opening on the perineum. This is the female equivalent of high anorectal malformations in males and originates from abnormal cloacal subdivision between 4 and 7 weeks.\n\n[A] is wrong because: Bladder exstrophy presents with the bladder mucosa exposed on the lower abdominal wall with separate urethral and anal openings, not a single perineal orifice.\n\n[C] is wrong because: Epispadias involves a dorsal urethral opening in males or a cleft clitoris with bifid urethra in females, but it does not involve a common channel for urine, stool, and vaginal secretions.\n\n[D] is wrong because: Urogenital sinus malformation involves confluence of the urethra and vagina but the rectum has a separate normal opening. In persistent cloaca, all three structures (urethra, vagina, rectum) converge.\n\nTeaching point: Persistent cloaca (common channel for urethra, vagina, and rectum) is the defining feature of cloacal malformations in females, originating from failed subdivision of the cloaca at 4-7 weeks.",
+    "topic": "Lower urinary tract"
+  },
+  {
+    "id": "ch01-Q34",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 34,
+    "stem": "A prenatal ultrasound at 20 weeks reveals complete duplication of the left upper urinary tract. The parents ask what causes this condition. The most accurate embryological explanation is which of the following?",
+    "options": [
+      { "id": "a", "text": "Premature branching of a single ureteric bud before penetrating the metanephros" },
+      { "id": "b", "text": "A bifid ureteric bud that splits before reaching the metanephric mesenchyme" },
+      { "id": "c", "text": "Duplication of the metanephric mesenchyme inducing two separate ureteric buds" },
+      { "id": "d", "text": "Development of two separate ureteric buds on the mesonephric duct" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Complete upper tract duplication occurs when two (rather than one) ureteric buds develop on the mesonephric duct. Each bud induces a separate renal moiety, and each has its own ureter draining into the urinary tract at different levels.\n\n[A] is wrong because: Premature branching of a single ureteric bud before penetrating the metanephros would describe a different mechanism — this would result in incomplete duplication (bifid ureter) where the two ureters join before entering the bladder.\n\n[B] is wrong because: A bifid ureteric bud gives rise to incomplete ureteric duplication (a Y-shaped ureter), not complete duplication. In complete duplication, there are two entirely separate ureteric buds from the outset.\n\n[C] is wrong because: The metanephric mesenchyme does not induce ureteric bud formation; rather, the ureteric bud induces the mesenchyme. Duplication anomalies arise from abnormalities of the ureteric bud itself, not the mesenchyme.\n\nTeaching point: Complete ureteric duplication = two separate ureteric buds; incomplete duplication (bifid ureter) = a single but branched ureteric bud. This distinction has major clinical implications for ureteric anatomy (Meyer-Weigart law).",
+    "topic": "Ureteric duplication"
+  },
+  {
+    "id": "ch01-Q35",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 35,
+    "stem": "A 3-year-old with recurrent UTIs is found to have complete left-sided ureteric duplication. According to the Meyer-Weigart law, the upper pole ureter enters the urinary tract:",
+    "options": [
+      { "id": "a", "text": "In a more caudal (inferior) position than the lower pole ureter" },
+      { "id": "b", "text": "In a more cranial (superior) position than the lower pole ureter" },
+      { "id": "c", "text": "At the same anatomical level as the lower pole ureter" },
+      { "id": "d", "text": "Into the contralateral side of the bladder" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: The Meyer-Weigart law describes the paradoxical anatomy of complete ureteric duplication: the upper pole ureter enters the urinary tract in a more caudal (inferior) position than the lower pole ureter. This is because the upper pole ureter is carried caudally as the mesonephric duct descends.\n\n[B] is wrong because: The upper pole ureter does not enter in a more cranial position. Its insertion is paradoxically more caudal (inferior and medial) in the bladder or ectopically into the urethra.\n\n[C] is wrong because: The upper and lower pole ureters do not enter at the same level. In complete duplication, they have separate orifices at different locations in the bladder/urethra.\n\n[D] is wrong because: The upper pole ureter remains ipsilateral; it does not cross to the contralateral side. A contralateral insertion would be a different anomaly entirely.\n\nTeaching point: The Meyer-Weigart law states the Weigart-Meyer rule: upper pole ureter inserts more caudal/medial (ectopic), lower pole ureter inserts more cranial/lateral (often with reflux) — the key to understanding duplicated ureter anatomy.",
+    "topic": "Meyer-Weigart law"
+  },
+  {
+    "id": "ch01-Q36",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 36,
+    "stem": "A paediatric urologist is repairing a complete duplicated ureter in a 4-year-old child. The anatomy confirms the Meyer-Weigart law. Which embryological mechanism best explains why the upper pole ureter inserts more caudally than the lower pole ureter in complete duplication?",
+    "options": [
+      { "id": "a", "text": "Abnormal ascent of the kidney pulls the upper pole ureter superiorly during the 6th to 10th weeks" },
+      { "id": "b", "text": "Failure of the upper pole ureteric bud to branch from the mesonephric duct at the correct time" },
+      { "id": "c", "text": "The mesonephric duct descends towards the posterior urethra, taking the upper pole ureter with it" },
+      { "id": "d", "text": "The lower pole ureter migrates cranially with the mesonephric duct while the upper pole remains fixed" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: The mesonephric duct descends towards the developing posterior urethra, carrying the upper pole ureter with it. Meanwhile, the lower pole ureter remains anchored on the trigonal region of the bladder. This differential movement explains the paradoxical insertion pattern.\n\n[A] is wrong because: Renal ascent does not pull the ureters superiorly; rather, the upper pole ureter is carried caudally by the descending mesonephric duct, not superiorly.\n\n[B] is wrong because: In complete duplication, two ureteric buds do form; the issue is their relative positioning on the mesonephric duct and the subsequent differential migration of their insertions.\n\n[D] is wrong because: The lower pole ureter does not migrate cranially; it remains anchored on the trigone. It is the upper pole ureter that is carried caudally by the descending mesonephric duct.\n\nTeaching point: The Meyer-Weigart law is explained by the caudal descent of the mesonephric duct carrying the upper pole ureter while the lower pole ureter remains fixed on the trigone — the key developmental basis for ectopic upper pole ureters.",
+    "topic": "Meyer-Weigart law"
+  },
+  {
+    "id": "ch01-Q37",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 37,
+    "stem": "A newborn is being evaluated for suspected gonadal dysgenesis. The developmental biologist explains the embryological origin of the gonads. Primordial germ cells, which initiate differentiation of the gonads, originate from which structure?",
+    "options": [
+      { "id": "a", "text": "Genital ridge mesenchyme" },
+      { "id": "b", "text": "Coelomic epithelium of the posterior body wall" },
+      { "id": "c", "text": "Mesonephric duct epithelium" },
+      { "id": "d", "text": "Yolk sac endoderm" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Differentiation and development of the gonads and genital tracts is initiated by the migration of primordial germ cells from the yolk sac, across the coelomic cavity, and into primitive mesenchyme on the posterior wall of the embryo.\n\n[A] is wrong because: The genital ridge is formed by reciprocal induction between germ cells and surrounding mesenchyme after the germ cells arrive; it is not the source of the germ cells themselves.\n\n[B] is wrong because: The coelomic epithelium contributes to the paramesonephric ducts and other structures, but primordial germ cells originate from the yolk sac, not the coelomic epithelium.\n\n[C] is wrong because: The mesonephric duct gives rise to the epididymis, vas deferens, and seminal vesicles in males, but it is not the source of primordial germ cells.\n\nTeaching point: Primordial germ cells originate from the yolk sac and migrate to the genital ridge to initiate gonadal development — this extragonadal origin is clinically important in understanding germ cell tumours.",
+    "topic": "Gonadal development"
+  },
+  {
+    "id": "ch01-Q38",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 38,
+    "stem": "A 16-year-old girl with primary amenorrhoea is diagnosed with Müllerian agenesis (Mayer-Rokitansky-Kuster-Hauser syndrome). A trainee asks about the embryological origin of the paramesonephric (Müllerian) ducts. These develop from which of the following?",
+    "options": [
+      { "id": "a", "text": "Mesonephric duct epithelium" },
+      { "id": "b", "text": "Condensations of coelomic epithelium lying lateral to the mesonephric ducts" },
+      { "id": "c", "text": "Primordial germ cells after migration from the yolk sac" },
+      { "id": "d", "text": "The urogenital sinus epithelium" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The paramesonephric (Müllerian) ducts develop as condensations of coelomic epithelium lying lateral to the mesonephric ducts. At 6 weeks, these precursors are identical in both sexes.\n\n[A] is wrong because: The mesonephric duct (Wolffian duct) is a separate embryological structure that gives rise to male internal genitalia. The paramesonephric ducts develop from coelomic epithelium, not from the mesonephric duct itself.\n\n[C] is wrong because: Primordial germ cells migrate from the yolk sac to form the gonads (ovaries or testes), not the paramesonephric ducts. The ducts develop from coelomic epithelium.\n\n[D] is wrong because: The urogenital sinus contributes to the lower vagina, bladder, and prostate, but the paramesonephric ducts develop from coelomic epithelium adjacent to the mesonephric ducts.\n\nTeaching point: Paramesonephric (Müllerian) ducts = coelomic epithelium origin, form female internal genitalia; Mesonephric (Wolffian) ducts = form male internal genitalia.",
+    "topic": "Genital tract development"
+  },
+  {
+    "id": "ch01-Q39",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 39,
+    "stem": "A newborn with ambiguous genitalia is being evaluated by a paediatric endocrinologist. The parents ask why the genitalia did not develop normally. The endocrinologist explains that the reproductive tract precursors are initially identical in both sexes until the SRY gene on the Y chromosome initiates male differentiation. After which gestational week do the male and female reproductive tracts begin to diverge?",
+    "options": [
+      { "id": "a", "text": "4 weeks" },
+      { "id": "b", "text": "5 weeks" },
+      { "id": "c", "text": "6 weeks" },
+      { "id": "d", "text": "8 weeks" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: At 6 weeks of gestation, the structures representing the precursors of the reproductive tract are identical in males and females. After this point, the SRY gene on the Y chromosome initiates male differentiation.\n\n[A] is wrong because: At 4 weeks, the intermediate mesoderm is still undergoing early differentiation and the paramesonephric ducts have not yet formed. The genital ridge is just beginning to develop.\n\n[B] is wrong because: At 5 weeks, the gonadal ridges are forming but the paramesonephric ducts have not yet fully developed. The undifferentiated stage persists until 6 weeks.\n\n[D] is wrong because: By 8 weeks, male differentiation is already underway in XY embryos — the testis is forming and AMH is being secreted. The window of identical precursors closes at 6 weeks.\n\nTeaching point: The indifferent stage of reproductive tract development lasts until 6 weeks; beyond this point, SRY-driven male differentiation diverges from the female pathway.",
+    "topic": "Genital tract development"
+  },
+  {
+    "id": "ch01-Q40",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 40,
+    "stem": "A 46,XX individual is found to have testicular tissue and a male phenotype. Genetic testing reveals translocation of genetic material from the Y chromosome. The testis-determining gene (SRY) is normally located on which part of the Y chromosome?",
+    "options": [
+      { "id": "a", "text": "Short arm of the Y chromosome" },
+      { "id": "b", "text": "Long arm of the Y chromosome" },
+      { "id": "c", "text": "Centromeric region of the Y chromosome" },
+      { "id": "d", "text": "Pseudoautosomal region of the Y chromosome" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: The testis-determining gene SRY is located on the short arm of the Y chromosome (Yp11.3). It encodes a transcription factor that promotes upregulation of SOX9, initiating the cascade of male sexual differentiation.\n\n[B] is wrong because: The long arm of the Y chromosome contains genes involved in spermatogenesis (AZF regions) but not the SRY gene. Deletions of the long arm cause azoospermia but do not affect testicular determination.\n\n[C] is wrong because: The centromeric region of the Y chromosome is primarily structural and does not contain the SRY gene. SRY is specifically located on the short arm.\n\n[D] is wrong because: The pseudoautosomal regions are shared between the X and Y chromosomes and undergo recombination during male meiosis. SRY is located outside these regions on the Y-specific portion of the short arm.\n\nTeaching point: SRY is located on the short arm of the Y chromosome; translocation of SRY to an X chromosome can cause 46,XX testicular DSD (de la Chapelle syndrome).",
+    "topic": "SRY gene"
+  },
+  {
+    "id": "ch01-Q41",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 41,
+    "stem": "A 16-year-old girl presents with primary amenorrhoea. Imaging reveals absence of the uterus and upper vagina but normal ovaries. This condition (Mayer-Rokitansky-Kuster-Hauser syndrome) results from failure of paramesonephric duct development. In normal female development, the paramesonephric ducts persist to give rise to the fallopian tubes and uterus primarily because of which factor?",
+    "options": [
+      { "id": "a", "text": "Active oestrogen secretion by the fetal ovary from 8 weeks onwards" },
+      { "id": "b", "text": "The presence of the SRY gene on the X chromosome" },
+      { "id": "c", "text": "The absence of anti-Müllerian hormone (AMH)" },
+      { "id": "d", "text": "Degradation of the mesonephric ducts by testosterone" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: In the absence of exposure to anti-Müllerian hormone (AMH), the paramesonephric ducts in females persist and differentiate into the fallopian tubes, uterus, and upper vagina. AMH is normally secreted by Sertoli cells of the male testis from the seventh week onwards.\n\n[A] is wrong because: Oestrogen secretion by the fetal ovary is not the primary factor. The paramesonephric ducts persist by default in the absence of AMH, without requiring active oestrogen signalling.\n\n[B] is wrong because: The SRY gene is located on the Y chromosome and is absent in females. SRY is responsible for initiating male differentiation, not for female development.\n\n[D] is wrong because: Degradation of the mesonephric ducts in females occurs spontaneously (not by testosterone, as females do not produce significant testosterone). The mesonephric ducts regress due to the absence of testosterone stimulation.\n\nTeaching point: The female reproductive tract develops by default — the paramesonephric ducts persist because there is no AMH to cause their regression.",
+    "topic": "Female internal genitalia"
+  },
+  {
+    "id": "ch01-Q42",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 42,
+    "stem": "A genetics researcher is studying ovarian development and identifies a gene on the X chromosome that actively promotes ovarian differentiation while inhibiting SRY expression. Which gene is this?",
+    "options": [
+      { "id": "a", "text": "WT1 (Wilms tumour suppressor gene)" },
+      { "id": "b", "text": "DAX1 (NR0B1) ovarian promoting factor gene" },
+      { "id": "c", "text": "SOX9" },
+      { "id": "d", "text": "AMH (anti-Müllerian hormone)" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The DAX1 (NR0B1) gene is an ovarian promoting factor encoded on the X chromosome. It acts in conjunction with other genes to actively promote ovarian development and inhibit expression of the SRY gene, demonstrating that ovarian development is not a purely passive default process.\n\n[A] is wrong because: WT1 is a tumour suppressor gene involved in kidney and gonad development but is not located on the X chromosome and does not primarily function to promote ovarian differentiation or inhibit SRY.\n\n[C] is wrong because: SOX9 is a transcription factor downstream of SRY that promotes testicular development and Sertoli cell differentiation. It is located on chromosome 17, not the X chromosome.\n\n[D] is wrong because: AMH (anti-Müllerian hormone) is produced by Sertoli cells and causes regression of Müllerian structures in males. It is not an ovarian promoting factor and is located on chromosome 19.\n\nTeaching point: DAX1 is an active ovarian determinant on the X chromosome — ovarian development is not purely passive but involves active promotion and SRY inhibition.",
+    "topic": "Ovarian development"
+  },
+  {
+    "id": "ch01-Q43",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 43,
+    "stem": "A 14-year-old girl undergoes MRI for investigation of cyclical abdominal pain. She is found to have a unicornuate uterus (hemiuterus). Understanding normal uterine development, the uterus is formed from which of the following embryological structures?",
+    "options": [
+      { "id": "a", "text": "Fused caudal extremities of the paramesonephric ducts" },
+      { "id": "b", "text": "Paired mesonephric ducts" },
+      { "id": "c", "text": "Urogenital sinus" },
+      { "id": "d", "text": "Sinuvaginal bulbs" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: At around the tenth week, the caudal extremities of the paramesonephric ducts fuse in the midline and attach to the urogenital sinus. Over the ensuing weeks, these fused ducts form the uterus. Failure of fusion results in uterine anomalies such as unicornuate or bicornuate uterus.\n\n[B] is wrong because: The mesonephric ducts (Wolffian ducts) regress in females and give rise to male internal genital structures under the influence of testosterone. They do not contribute to uterine formation.\n\n[C] is wrong because: The urogenital sinus contributes to the development of the lower vagina, bladder, and urethra, not the uterus. The uterus is derived from the fused paramesonephric ducts.\n\n[D] is wrong because: The sinuvaginal bulbs form from the junction of the fused paramesonephric ducts and the urogenital sinus and contribute to vaginal development, not uterine development.\n\nTeaching point: The uterus originates from fusion of the caudal paramesonephric (Müllerian) ducts at 10 weeks; failed fusion produces anomalies ranging from arcuate to bicornuate to unicornuate uterus.",
+    "topic": "Female internal genitalia"
+  },
+  {
+    "id": "ch01-Q44",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 44,
+    "stem": "A 16-year-old girl is diagnosed with distal vaginal agenesis. The surgeon reviewing her case considers the embryological origins of the vagina. The lower third of the vagina and the introitus are derived from which structures?",
+    "options": [
+      { "id": "a", "text": "Paramesonephric ducts only" },
+      { "id": "b", "text": "Mesonephric duct remnants" },
+      { "id": "c", "text": "Urogenital sinus and ectoderm" },
+      { "id": "d", "text": "The ureteric bud and metanephros" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: The lower third of the vagina and the introitus are derived from the urogenital sinus (endodermally derived sinuvaginal bulbs) and ectoderm, respectively. The upper two-thirds of the vagina are of paramesonephric origin.\n\n[A] is wrong because: The paramesonephric ducts contribute to the upper two-thirds of the vagina, not the lower third. The lower vagina has a different embryological origin from the urogenital sinus.\n\n[B] is wrong because: Mesonephric duct remnants (Gartner's cysts, epioophoron, paroophoron) are vestigial structures in females and do not contribute to vaginal development.\n\n[D] is wrong because: The ureteric bud and metanephros are involved in kidney development, not vaginal formation. The vagina develops from paramesonephric ducts (upper) and urogenital sinus (lower).\n\nTeaching point: The vagina has a dual embryological origin: upper two-thirds from paramesonephric ducts, lower third from urogenital sinus, and introitus from ectoderm.",
+    "topic": "Female internal genitalia"
+  },
+  {
+    "id": "ch01-Q45",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 45,
+    "stem": "A 2-year-old phenotypic male with bilaterally impalpable testes undergoes laparoscopy and is found to have persistent Müllerian duct structures (uterus and fallopian tubes). This persistent Müllerian duct syndrome is associated with deficient secretion or action of AMH. Anti-Müllerian hormone is normally secreted by which cells of the fetal testis?",
+    "options": [
+      { "id": "a", "text": "Leydig cells" },
+      { "id": "b", "text": "Spermatogonia" },
+      { "id": "c", "text": "Peritubular myoid cells" },
+      { "id": "d", "text": "Sertoli cells" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: AMH (also called Müllerian Inhibitory Substance) is secreted by the Sertoli cells of the fetal testis from the seventh week onwards. Its primary role is to cause regression of the paramesonephric (Müllerian) ducts.\n\n[A] is wrong because: Leydig cells are stimulated by AMH to secrete testosterone from the ninth week, but they are not the source of AMH itself. Leydig cells produce testosterone in response to human chorionic gonadotropin and LH.\n\n[B] is wrong because: Spermatogonia are germ cell precursors that appear later in development and are not involved in hormone secretion during fetal life. They reside within the seminiferous tubules but do not secrete AMH.\n\n[C] is wrong because: Peritubular myoid cells are contractile cells surrounding the seminiferous tubules that function in sperm transport but do not secrete AMH. Sertoli cells are the exclusive source of AMH.\n\nTeaching point: AMH is produced exclusively by Sertoli cells of the fetal testis; persistent Müllerian duct syndrome results from deficient AMH production (Sertoli cell dysfunction) or AMH receptor defects.",
+    "topic": "Male internal genitalia"
+  },
+  {
+    "id": "ch01-Q46",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 46,
+    "stem": "A 2-year-old phenotypic male with bilaterally impalpable testes undergoes diagnostic laparoscopy and is found to have persistent Müllerian duct structures. Further hormonal evaluation reveals deficient AMH production. The paediatric endocrinologist explains that in normal male development, Sertoli cells secrete AMH from the 7th week, while Leydig cells begin producing testosterone under hCG stimulation from which week onwards?",
+    "options": [
+      { "id": "a", "text": "7th week" },
+      { "id": "b", "text": "9th week" },
+      { "id": "c", "text": "12th week" },
+      { "id": "d", "text": "16th week" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Leydig cells of the fetal testis begin producing testosterone from the ninth week onwards under stimulation by human chorionic gonadotropin (hCG). This testosterone then drives differentiation of the mesonephric ducts into the epididymis, vas deferens, ejaculatory ducts, and seminal vesicles.\n\n[A] is wrong because: The 7th week is when Sertoli cells begin secreting AMH, not when Leydig cells begin testosterone production. AMH secretion precedes the onset of testosterone secretion.\n\n[C] is wrong because: By 12 weeks, testosterone production is already well-established. The process begins at 9 weeks, and by 12 weeks the male internal genitalia are actively differentiating.\n\n[D] is wrong because: 16 weeks is too late. By this time, the male genital tract is already well-differentiated. The critical window for testosterone-driven differentiation is between 9 and 15 weeks.\n\nTeaching point: AMH secretion begins at 7 weeks (Sertoli cells), testosterone secretion begins at 9 weeks (Leydig cells under hCG), and external genital formation is complete by 15 weeks — a tightly regulated timeline.",
+    "topic": "Male internal genitalia"
+  },
+  {
+    "id": "ch01-Q47",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 47,
+    "stem": "A medical student is asked about prostate development during a paediatric urology attachment regarding a boy with a prostate anomaly. The prostate gland develops between 12 and 19 weeks from buds emerging from which embryological structure?",
+    "options": [
+      { "id": "a", "text": "Mesonephric ducts" },
+      { "id": "b", "text": "Paramesonephric ducts" },
+      { "id": "c", "text": "Urogenital sinus" },
+      { "id": "d", "text": "Metanephric mesenchyme" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: The prostate gland develops from buds that emerge from the urogenital sinus between 12 and 19 weeks. These buds undergo branching morphogenesis to form the ducts and glandular acini, while the capsule and stroma derive from surrounding mesenchyme.\n\n[A] is wrong because: The mesonephric ducts give rise to the epididymis, vas deferens, seminal vesicles, and ejaculatory ducts under testosterone stimulation, not the prostate. The prostate has a separate origin from the urogenital sinus.\n\n[B] is wrong because: The paramesonephric ducts regress in males under the influence of AMH. In females they form the uterus and fallopian tubes. They do not contribute to prostatic development.\n\n[D] is wrong because: The metanephric mesenchyme is involved in nephron formation in the kidney, not in prostate development. The prostate develops from endodermal urogenital sinus and surrounding mesenchyme.\n\nTeaching point: The prostate arises from the urogenital sinus (endoderm), not from the mesonephric or paramesonephric ducts — development is highly dependent on androgenic stimulation.",
+    "topic": "Male internal genitalia"
+  },
+  {
+    "id": "ch01-Q48",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 48,
+    "stem": "A newborn with proximal hypospadias is being evaluated before surgical repair. The paediatric urologist explains to the parents that the hypospadias resulted from incomplete closure of the urethral groove during embryological development. In normal male development, formation of the penile urethra is complete by which gestational week?",
+    "options": [
+      { "id": "a", "text": "15 weeks" },
+      { "id": "b", "text": "12 weeks" },
+      { "id": "c", "text": "18 weeks" },
+      { "id": "d", "text": "20 weeks" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: In normal male development, formation of the penile urethra is complete by 15 weeks of gestation. The process has been likened to a zipper, with the lateral margins of the urethral groove being drawn together in a proximal-to-distal direction. The terminal portion of the urethra is formed by in-growth of ectoderm from the tip of the glans.\n\n[B] is wrong because: At 12 weeks, the male external genitalia are just beginning to differentiate from the undifferentiated state. The urethral plate is advancing onto the genital tubercle but the urethra is not yet formed.\n\n[C] is wrong because: 18 weeks is too late. By this time, the penile urethra has already been complete for approximately 3 weeks and further growth is primarily of size rather than structural formation.\n\n[D] is wrong because: 20 weeks is well beyond the completion of urethral formation. The critical window for urethral development closes at 15 weeks.\n\nTeaching point: The male external genitalia begin differentiating at 12 weeks and the penile urethra is fully formed by 15 weeks — hypospadias results from incomplete closure of the urethral groove during this window.",
+    "topic": "External genitalia"
+  },
+  {
+    "id": "ch01-Q49",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 49,
+    "stem": "A full-term infant has bilaterally impalpable testes. Assuming no anatomical obstruction, the second (inguinoscrotal) stage of testicular descent is dependent on which of the following?",
+    "options": [
+      { "id": "a", "text": "Anti-Müllerian hormone" },
+      { "id": "b", "text": "Oestrogen" },
+      { "id": "c", "text": "Follicle-stimulating hormone" },
+      { "id": "d", "text": "Testosterone" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: The second stage of testicular descent is testosterone-dependent and occurs around 25-30 weeks, when the gubernaculum draws the testis through the inguinal canal into its final scrotal position.\n\n[A] is wrong because: AMH initiates the first stage of testicular descent by stimulating contraction of the gubernaculum and anchoring the testis in the inguinal region. It is not responsible for the second stage through the inguinal canal.\n\n[B] is wrong because: Oestrogen is not involved in testicular descent. It is primarily a female hormone involved in female reproductive tract development and function.\n\n[C] is wrong because: FSH acts on the testes to stimulate spermatogenesis and Sertoli cell function but does not directly mediate testicular descent. The descent process is primarily androgen-driven.\n\nTeaching point: Testicular descent occurs in two hormonally distinct stages: Stage 1 (AMH-dependent, transabdominal) and Stage 2 (testosterone-dependent, inguinoscrotal at 25-30 weeks).",
+    "topic": "Testicular descent"
+  },
+  {
+    "id": "ch01-Q50",
+    "chapter": "Embryology",
+    "chapterSlug": "ch01_embryology",
+    "chapterNumber": 1,
+    "questionNumber": 50,
+    "stem": "A 6-month-old infant presents with a painless scrotal swelling that transilluminates and varies in size throughout the day. This most likely results from:",
+    "options": [
+      { "id": "a", "text": "Failure of testicular descent (cryptorchidism)" },
+      { "id": "b", "text": "Persistent patency of the processus vaginalis" },
+      { "id": "c", "text": "Torsion of the testicular appendage" },
+      { "id": "d", "text": "Testicular tumour" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: A communicating hydrocele results from persistent patency of the processus vaginalis, which normally closes spontaneously before birth or in the first few weeks of life. The swelling varies in size because peritoneal fluid can pass through the patent processus into the scrotum and back.\n\n[A] is wrong because: Cryptorchidism presents with an empty scrotum, not a scrotal swelling. The testis is not palpable in the scrotum, and there is no transilluminating fluid collection.\n\n[C] is wrong because: Torsion of the testicular appendage presents with acute onset of scrotal pain and a characteristic blue-dot sign at the upper pole of the testis, not a painless transilluminating swelling that varies in size.\n\n[D] is wrong because: A testicular tumour typically presents as a firm, non-tender, non-transilluminating mass that does not vary in size. Testicular tumours in infants are rare and do not transilluminate.\n\nTeaching point: A communicating hydrocele (patent processus vaginalis) is a painless, transilluminating, size-varying scrotal swelling — distinct from an inguinal hernia, which contains bowel and does not transilluminate.",
+    "topic": "Testicular descent"
+  }
+]

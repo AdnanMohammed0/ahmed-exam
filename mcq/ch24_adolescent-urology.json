@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch24-Q01",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 1,
+    "stem": "A 17-year-old male with a history of posterior urethral valves (PUV) resected in infancy is transitioning to adult care. His current GFR is 45 mL/min/1.73 m². According to historical data, what is his approximate risk of progressing to end-stage renal failure within the next 16 years?",
+    "options": [
+      { "id": "a", "text": "Substantial risk, with most patients reaching ESRF within this timeframe" },
+      { "id": "b", "text": "Minimal risk, as GFR above 40 mL/min/1.73 m² carries no significant risk" },
+      { "id": "c", "text": "Moderate risk, but only if proteinuria is also present" },
+      { "id": "d", "text": "No risk, provided he remains normotensive" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Historical data indicate that patients reaching adolescence with a GFR below 40 mL/min/1.73 m² are at substantial risk of progressing to end-stage renal failure within 16 years. This patient's GFR of 45 mL/min is near this threshold, and the downward trajectory can be delayed with rigorous control of proteinuria and blood pressure using ACE inhibitors, but the risk remains substantial.",
+    "topic": "Renal function"
+  },
+  {
+    "id": "ch24-Q02",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 2,
+    "stem": "A 19-year-old woman with a history of childhood ureteric reimplantation for vesicoureteric reflux is now pregnant. Which of the following best describes her risk of urinary tract infection during pregnancy compared to other groups?",
+    "options": [
+      { "id": "a", "text": "She is at lower risk than women with persistent untreated reflux" },
+      { "id": "b", "text": "She is at greater risk of urinary infection in pregnancy than any other group" },
+      { "id": "c", "text": "Her risk is equivalent to that of the general obstetric population" },
+      { "id": "d", "text": "She is at increased risk only if she has bilateral reflux nephropathy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Studies have reported that women who have previously undergone ureteric reimplantation are at greater risk of urinary infection in pregnancy than any other group. The reason is unclear but may relate to the original severity of reflux or an unexplained consequence of the reimplantation procedure itself.",
+    "topic": "Vesicoureteric reflux"
+  },
+  {
+    "id": "ch24-Q03",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 3,
+    "stem": "Which of the following is the most important factor in determining whether an adult with a history of vesicoureteric reflux (VUR) that has resolved in childhood requires lifelong follow-up?",
+    "options": [
+      { "id": "a", "text": "The presence of reflux nephropathy (renal scarring)" },
+      { "id": "b", "text": "The severity of the original VUR grade" },
+      { "id": "c", "text": "A history of breakthrough UTIs during childhood" },
+      { "id": "d", "text": "The age at which reflux resolved" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Adults whose VUR has ceased or been corrected in childhood but who have reflux nephropathy (renal scarring) require lifelong follow-up. By age 18, 11% with unilateral scarring and 18% with bilateral scarring have developed hypertension, rising to 23% at 27 years. If renal damage reduces GFR below 40 mL/min/1.73 m², eventual renal failure may be inevitable.",
+    "topic": "Vesicoureteric reflux"
+  },
+  {
+    "id": "ch24-Q04",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 4,
+    "stem": "A 22-year-old woman with persistent vesicoureteric reflux since childhood is asymptomatic. Which management approach is most appropriate?",
+    "options": [
+      { "id": "a", "text": "No intervention is required as she is asymptomatic" },
+      { "id": "b", "text": "Endoscopic treatment or surgical reimplantation is reasonable to protect against pyelonephritic scarring in future pregnancy" },
+      { "id": "c", "text": "Lifelong continuous antibiotic prophylaxis is mandatory" },
+      { "id": "d", "text": "Nephrectomy of the refluxing renal unit is indicated" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "In asymptomatic females with persistent reflux, it is reasonable to recommend either endoscopic treatment or surgical reimplantation because their kidneys may still be at risk of developing pyelonephritic scarring during pregnancy. In asymptomatic males there is generally no indication for surgery in the absence of bladder outflow obstruction.",
+    "topic": "Vesicoureteric reflux"
+  },
+  {
+    "id": "ch24-Q05",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 5,
+    "stem": "In a long-term follow-up study of patients with bladder exstrophy who underwent ureterosigmoidostomy with a mean follow-up of 24 years, which of the following was reported?",
+    "options": [
+      { "id": "a", "text": "Daytime continence rate of 97% and stable renal function in 87% of patients" },
+      { "id": "b", "text": "Daytime continence rate of 50% and progressive renal decline in most patients" },
+      { "id": "c", "text": "Universal metabolic alkalosis requiring supplementation" },
+      { "id": "d", "text": "Universal loss of sexual function with no reported pregnancies" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "In one long-term follow-up study of ureterosigmoidostomy with follow-up of 24 years, 97% of patients were continent by day and 87% had stable renal function. However, 40% had disturbances of acid-base balance requiring alkaline supplements. Sexual function was impaired in all patients, but 40% of men achieved paternity and the women gave birth to six healthy children.",
+    "topic": "Bladder exstrophy"
+  },
+  {
+    "id": "ch24-Q06",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 6,
+    "stem": "What is the reported continence rate following bladder neck closure combined with formation of a continent catheterisable stoma in patients with bladder exstrophy?",
+    "options": [
+      { "id": "a", "text": "Approximately 50%" },
+      { "id": "b", "text": "Approximately 75%" },
+      { "id": "c", "text": "Approximately 93%" },
+      { "id": "d", "text": "Approximately 99%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "A continence rate of 93% was reported in patients with bladder exstrophy who had undergone bladder neck closure combined with formation of a continent catheterisable stoma. This approach often requires bladder augmentation or subtotal substitution cystoplasty with intestinal segments.",
+    "topic": "Bladder exstrophy"
+  },
+  {
+    "id": "ch24-Q07",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 7,
+    "stem": "In bladder exstrophy, the reported incidence of bladder cancer in long-term follow-up from the authors' unit was 4 out of 61 patients at a mean age of 41 years. How does this compare to the normal population?",
+    "options": [
+      { "id": "a", "text": "694 times greater than the normal population" },
+      { "id": "b", "text": "Approximately 10 times greater than the normal population" },
+      { "id": "c", "text": "No significant difference from the normal population" },
+      { "id": "d", "text": "Lower than the normal population due to urinary diversion" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Bladder exstrophy is associated with a significantly higher incidence of malignancy. In a study from the authors' unit, 4 out of 61 patients developed bladder cancer at a mean age of 41 years — an incidence 694 times greater than that of the normal population. Most reported cases occurred in bladders defunctioned by urinary diversion in childhood.",
+    "topic": "Bladder exstrophy"
+  },
+  {
+    "id": "ch24-Q08",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 8,
+    "stem": "A 30-year-old man with bladder exstrophy presents with concerns about penile length and curvature. What is the most appropriate first step in evaluating his penile deformity?",
+    "options": [
+      { "id": "a", "text": "Referral for psychiatric evaluation of body dysmorphic disorder" },
+      { "id": "b", "text": "Artificial erection test with saline injection into the corporal bodies" },
+      { "id": "c", "text": "Immediate surgical penile disassembly" },
+      { "id": "d", "text": "Magnetic resonance imaging of the pelvis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "In adults with bladder exstrophy, the extent of the penile deformity is evaluated by an artificial erection test in which saline is injected into the corporal bodies. Minor defects may be corrected by a ventral Nesbit's procedure, whereas severe deformity requires more extensive correction such as penile disassembly with rotation of the corpora.",
+    "topic": "Bladder exstrophy"
+  },
+  {
+    "id": "ch24-Q09",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 9,
+    "stem": "What is the approximate incidence of uterine prolapse (procidentia) in women with bladder exstrophy?",
+    "options": [
+      { "id": "a", "text": "Up to 10%" },
+      { "id": "b", "text": "Up to 25%" },
+      { "id": "c", "text": "Up to 50%" },
+      { "id": "d", "text": "Up to 75%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Troublesome uterine prolapse (procidentia) occurs in up to 50% of women with bladder exstrophy. Despite this, fertility is unaffected, and women can have normal sexual function. Labioplasty can improve cosmetic appearance.",
+    "topic": "Bladder exstrophy"
+  },
+  {
+    "id": "ch24-Q10",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 10,
+    "stem": "According to the 2006 Chicago Consensus Document, what concern was raised regarding clitoral surgery performed in childhood for disorders of sex differentiation?",
+    "options": [
+      { "id": "a", "text": "Risk of impaired clitoral sensation" },
+      { "id": "b", "text": "Risk of complete clitoral necrosis" },
+      { "id": "c", "text": "Risk of clitoral regrowth" },
+      { "id": "d", "text": "Risk of malignant transformation" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The 2006 Chicago Consensus Document noted that clitoral surgery in childhood carries a risk of impaired sensation. It advocated a two-stage approach, particularly with regard to vaginoplasty. Studies have shown many young women who underwent vaginoplasty in childhood later required further vaginal surgery for normal comfortable intercourse.",
+    "topic": "Female genital reconstruction"
+  },
+  {
+    "id": "ch24-Q11",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 11,
+    "stem": "What percentage of women who undergo clitoral surgery in childhood for virilised genitalia are reported to require further surgical revision?",
+    "options": [
+      { "id": "a", "text": "Approximately 5%" },
+      { "id": "b", "text": "Approximately 15%" },
+      { "id": "c", "text": "Approximately 25%" },
+      { "id": "d", "text": "Approximately 50%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Further surgical revision is required in around 25% of women after clitoral surgery in childhood. This figure may be lower in the future because of changes in surgical techniques for feminising genitoplasty. Continuity of follow-up from childhood into early adulthood in a specialist adolescent gynaecology centre is essential.",
+    "topic": "Female genital reconstruction"
+  },
+  {
+    "id": "ch24-Q12",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 12,
+    "stem": "A 28-year-old man who underwent hypospadias repair in childhood is dissatisfied with the cosmetic outcome. Which aspects of the result are most commonly the focus of patient dissatisfaction?",
+    "options": [
+      { "id": "a", "text": "Urinary stream strength and post-void dribbling" },
+      { "id": "b", "text": "Penile and glans size, penile curvature, scarring and absence of a normal prepuce" },
+      { "id": "c", "text": "Recurrent urethral strictures and fistula formation" },
+      { "id": "d", "text": "Reduced ejaculatory volume and pain during ejaculation" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Patients' dissatisfaction tends to centre on aspects of hypospadias that are the most difficult to correct: size of the penis and glans, penile curvature, scarring, and the absence of a normal prepuce. Surgeons tend to view their own results more favourably than patients, and up to 50% of men may experience a poor functional or cosmetic outcome, especially with proximal hypospadias.",
+    "topic": "Hypospadias"
+  },
+  {
+    "id": "ch24-Q13",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 13,
+    "stem": "Regarding sexual satisfaction outcomes in men who have undergone hypospadias repair, which of the following is accurate?",
+    "options": [
+      { "id": "a", "text": "Over 95% of men report normal sexual satisfaction with no differences from controls" },
+      { "id": "b", "text": "Overall sexual satisfaction averaging 80% has been reported, but men are more inhibited in seeking sexual contact" },
+      { "id": "c", "text": "Sexual satisfaction is universally poor regardless of surgical technique" },
+      { "id": "d", "text": "Sexual satisfaction correlates directly with uroflowmetry results" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "An overall sexual satisfaction rate averaging 80% has been reported in different studies, although what constitutes sexual satisfaction is not always clearly defined. Men who have undergone surgical correction of hypospadias are more inhibited in seeking sexual contact. The presence of gross persistent abnormalities, especially chordee, may preclude normal intercourse.",
+    "topic": "Hypospadias"
+  },
+  {
+    "id": "ch24-Q14",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 14,
+    "stem": "A 20-year-old man with a history of penoscrotal hypospadias corrected in childhood is concerned about fertility. Which statement best describes the fertility outcomes in such patients?",
+    "options": [
+      { "id": "a", "text": "Fertility is universally normal with paternity rates equivalent to the general population" },
+      { "id": "b", "text": "Ejaculation is possible but poor, and infertility is common" },
+      { "id": "c", "text": "Infertility is inevitable and all patients should be offered sperm banking" },
+      { "id": "d", "text": "Fertility is normal if chordee has been adequately corrected" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Intercourse is possible following repair of penoscrotal or perineal hypospadias, but ejaculation is poor and infertility is common. Reduced semen quality has been reported in up to 50% of men with a history of hypospadias, although this does not appear to be accompanied by a corresponding decrease in paternity rates for less severe forms.",
+    "topic": "Hypospadias"
+  },
+  {
+    "id": "ch24-Q15",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 15,
+    "stem": "In patients with posterior urethral valves, which of the following is a recognised pattern of persistent bladder dysfunction despite successful valve resection?",
+    "options": [
+      { "id": "a", "text": "Detrusor-sphincter dyssynergia with high-pressure voiding" },
+      { "id": "b", "text": "Poor compliance, detrusor overactivity and reduced functional capacity" },
+      { "id": "c", "text": "Persistent vesicoureteric reflux in all cases" },
+      { "id": "d", "text": "Neurogenic bladder with areflexic detrusor" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Differing patterns of bladder dysfunction may persist despite successful relief of obstruction by valve resection. These include poor compliance, detrusor overactivity and reduced functional capacity — collectively termed the 'valve bladder'. In adults, the pattern may evolve to chronic retention, often with high pressure.",
+    "topic": "Posterior urethral valves"
+  },
+  {
+    "id": "ch24-Q16",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 16,
+    "stem": "According to a 1988 study, what was the reported incidence of renal failure at 30 years in patients with posterior urethral valves?",
+    "options": [
+      { "id": "a", "text": "23%" },
+      { "id": "b", "text": "30%" },
+      { "id": "c", "text": "43%" },
+      { "id": "d", "text": "65%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "A study published in 1988 reported the incidence of renal failure in PUV patients as 23% at 10 years, 30% at 16 years and 43% at 30 years. More recent data show no real change in recent decades, with 10-15% requiring renal replacement therapy and a 20-40% incidence of renal impairment.",
+    "topic": "Posterior urethral valves"
+  },
+  {
+    "id": "ch24-Q17",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 17,
+    "stem": "In a 15-year-old boy with a history of PUV, why may normal plasma creatinine at the beginning of puberty not guarantee normal creatinine at the end of puberty?",
+    "options": [
+      { "id": "a", "text": "Increasing muscle mass at puberty places an increased load on renal reserve" },
+      { "id": "b", "text": "Creatinine assays become less accurate during adolescence" },
+      { "id": "c", "text": "The remaining nephrons undergo accelerated apoptosis at puberty" },
+      { "id": "d", "text": "Testosterone directly inhibits glomerular filtration" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Increasing muscle mass at the time of puberty places an increased load on the renal reserve, with the result that normal levels of plasma creatinine at the beginning of puberty do not guarantee that the plasma creatinine will still be normal at the end of puberty. This underscores the importance of ongoing surveillance during the adolescent period.",
+    "topic": "Posterior urethral valves"
+  },
+  {
+    "id": "ch24-Q18",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 18,
+    "stem": "Which of the following is NOT recognised as a significant prognostic factor indicating poor long-term renal outcome in patients with posterior urethral valves?",
+    "options": [
+      { "id": "a", "text": "Diagnosis before the age of 1 year" },
+      { "id": "b", "text": "Diurnal incontinence persisting after 5 years of age" },
+      { "id": "c", "text": "Unilateral reflux" },
+      { "id": "d", "text": "Polyuria" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Significant prognostic factors for poor long-term outcome in PUV include: diagnosis before age 1 year (including prenatal diagnosis), diurnal incontinence persisting after 5 years of age, persistent bilateral reflux, and polyuria. Unilateral reflux is not listed as a poor prognostic factor — it is persistent bilateral reflux that carries a worse prognosis.",
+    "topic": "Posterior urethral valves"
+  },
+  {
+    "id": "ch24-Q19",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 19,
+    "stem": "A 24-year-old man with a history of PUV complains of poor ejaculation. Semen analysis shows lack of liquefaction, low sperm count, poor motility and high pH. What pH value would be consistent with this condition?",
+    "options": [
+      { "id": "a", "text": "pH 6.5" },
+      { "id": "b", "text": "pH 7.0" },
+      { "id": "c", "text": "pH 8.0" },
+      { "id": "d", "text": "pH 9.5" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The seminal abnormality in PUV patients is characterised by lack of liquefaction, low sperm count, poor motility and high pH (up to 9.5). Damage to the prostatic tissue from high-pressure outflow obstruction before valve resection causes impaired semen quality and poor ejaculation in up to 50% of patients.",
+    "topic": "Posterior urethral valves"
+  },
+  {
+    "id": "ch24-Q20",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 20,
+    "stem": "What proportion of men with a history of PUV encounter difficulty in achieving paternity?",
+    "options": [
+      { "id": "a", "text": "Up to 10%" },
+      { "id": "b", "text": "Up to one-third" },
+      { "id": "c", "text": "Up to 50%" },
+      { "id": "d", "text": "Up to 75%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Up to a third of men with a history of PUV encounter difficulty in achieving paternity. This is due to impaired semen quality (lack of liquefaction, low sperm count, poor motility, high pH) and poor ejaculation resulting from prostatic damage and posterior urethral dilatation.",
+    "topic": "Posterior urethral valves"
+  },
+  {
+    "id": "ch24-Q21",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 21,
+    "stem": "In PUV patients who undergo renal transplantation, current 5-year graft survival rates compared to other transplant recipients are best described as:",
+    "options": [
+      { "id": "a", "text": "Significantly lower than all other recipients" },
+      { "id": "b", "text": "Comparable, although PUV patients experience more UTIs and higher plasma creatinine from 7 years onwards" },
+      { "id": "c", "text": "Superior to other recipients due to pre-transplant bladder optimisation" },
+      { "id": "d", "text": "Equivalent only if the native bladder has been removed" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Current 5-year graft survival figures in PUV patients are comparable to other recipients, although PUV transplant patients tend to experience more UTIs and have higher levels of plasma creatinine than other transplant patients, especially from 7 years onwards. A French series reported 60% graft survival at 15 years. Graft survival was not significantly different between those with and without enterocystoplasty when the bladder was 'safe' prior to transplantation.",
+    "topic": "Posterior urethral valves"
+  },
+  {
+    "id": "ch24-Q22",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 22,
+    "stem": "In prune-belly syndrome, which of the following best describes the current understanding of testicular histology and fertility potential?",
+    "options": [
+      { "id": "a", "text": "All men with prune-belly syndrome have Sertoli cell-only histology and are universally sterile" },
+      { "id": "b", "text": "Testes are not always devoid of germ cells, and the outlook for fertility may not be as bleak as once thought" },
+      { "id": "c", "text": "Germ cells are present but immotile due to absent epididymal development" },
+      { "id": "d", "text": "Fertility is normal if orchidopexy is performed in infancy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Historically, men with prune-belly syndrome were thought to be sterile with Sertoli cell-only histology. However, it has become apparent that testes are not always devoid of germ cells, so the outlook for fertility might not be as bleak as once thought. Serum testosterone levels are usually normal, but serum LH levels are significantly elevated.",
+    "topic": "Prune-belly syndrome"
+  },
+  {
+    "id": "ch24-Q23",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 23,
+    "stem": "Which of the following is NOT one of the three characteristic components of prune-belly syndrome?",
+    "options": [
+      { "id": "a", "text": "Bilateral undescended testes" },
+      { "id": "b", "text": "Absence of the muscle of the anterior abdominal wall" },
+      { "id": "c", "text": "Renal agenesis" },
+      { "id": "d", "text": "Variable functional and anatomical anomalies of the urinary tract" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The three components of prune-belly syndrome are: bilateral undescended testes, absence of the muscle of the anterior abdominal wall, and variable functional and anatomical anomalies of the urinary tract. Renal agenesis is not a component, although renal dysplasia of variable severity is present.",
+    "topic": "Prune-belly syndrome"
+  },
+  {
+    "id": "ch24-Q24",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 24,
+    "stem": "A 26-year-old man with prune-belly syndrome has normal renal function (GFR 85 mL/min/1.73 m²) but concerns about his abdominal appearance. Regarding abdominal wall reconstruction, which of the following is most accurate?",
+    "options": [
+      { "id": "a", "text": "Abdominal wall reconstruction reliably restores normal core muscle function" },
+      { "id": "b", "text": "The abdominal wall lacks necessary underlying muscular or fascial support, and reconstruction improves appearance but not function" },
+      { "id": "c", "text": "Reconstruction is contraindicated in adulthood" },
+      { "id": "d", "text": "The protuberant abdomen typically causes significant functional limitation" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Although abdominal wall reconstruction can improve the wrinkled appearance of the skin, it is doubtful whether this alone provides long-term benefit since the abdominal wall lacks the necessary underlying muscular or fascial support. In adult life the abdomen is protuberant resembling a 'pot-belly', but this creates no functional problem other than inability to sit up directly from lying.",
+    "topic": "Prune-belly syndrome"
+  },
+  {
+    "id": "ch24-Q25",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 25,
+    "stem": "In a cohort of prune-belly syndrome patients who had undergone minimal surgery in childhood, what proportion had normal renal function at a mean age of 24 years?",
+    "options": [
+      { "id": "a", "text": "Approximately 50%" },
+      { "id": "b", "text": "Approximately 65%" },
+      { "id": "c", "text": "Approximately 81%" },
+      { "id": "d", "text": "Approximately 95%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "In a cohort of 21 adults with prune-belly syndrome who had undergone minimal surgery in childhood, 17 (approximately 81%) had normal renal function with a mean GFR of 85 mL/min/1.73 m² at a mean age of 24 years. Four patients were in end-stage renal failure and another four were hypertensive. Prune-belly syndrome is now very rare in the UK due to prenatal detection and termination.",
+    "topic": "Prune-belly syndrome"
+  },
+  {
+    "id": "ch24-Q26",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 26,
+    "stem": "Which of the following is a known long-term metabolic complication of enterocystoplasty?",
+    "options": [
+      { "id": "a", "text": "Hyperkalemic metabolic alkalosis" },
+      { "id": "b", "text": "Hyperchloraemic acidosis occurring in up to 14% of patients" },
+      { "id": "c", "text": "Hypomagnesaemia" },
+      { "id": "d", "text": "Hypercalcaemia" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Hyperchloraemic acidosis occurs in up to 14% of patients after enterocystoplasty, although many more may have a metabolic acidosis with respiratory compensation. Anaemia occurs in 8%, and Vitamin B12 deficiency is a potential complication after 5 years, especially if terminal ileum has been used.",
+    "topic": "Enterocystoplasty"
+  },
+  {
+    "id": "ch24-Q27",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 27,
+    "stem": "A patient with a continent urinary diversion (Mitrofanoff procedure) presents with difficulty catheterising the stoma. What is the most common complication responsible for this presentation?",
+    "options": [
+      { "id": "a", "text": "Stomal prolapse" },
+      { "id": "b", "text": "Stenosis at the junction between the skin and catheterisable channel" },
+      { "id": "c", "text": "Intestinal obstruction" },
+      { "id": "d", "text": "Calculus formation at the channel entrance" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The commonest complication of continent urinary diversion (Mitrofanoff procedure) is stenosis at the junction between the skin and the catheterisable channel (usually appendix). The reported incidence is 40%, with further revision required in 40% of those affected. Despite this, overall patient satisfaction with continent urinary diversion is very high.",
+    "topic": "Enterocystoplasty"
+  },
+  {
+    "id": "ch24-Q28",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 28,
+    "stem": "Regarding malignancy risk after enterocystoplasty, which of the following statements is most accurate?",
+    "options": [
+      { "id": "a", "text": "The risk of malignancy is higher than after ureterosigmoidostomy" },
+      { "id": "b", "text": "Routine periodic cystoscopy is recommended as an effective screening tool" },
+      { "id": "c", "text": "The overall risk of malignancy is likely to be considerably lower than following ureterosigmoidostomy, and routine periodic cystoscopy has not been shown to be effective for screening" },
+      { "id": "d", "text": "Malignancy does not occur after enterocystoplasty" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Although nitrosamines and other carcinogens have been identified in bladders following enterocystoplasty, the overall risk of malignancy is likely to be considerably lower than following ureterosigmoidostomy. One study found a 3.8% incidence of bladder malignancy after 20-25 years of follow-up. Protocols no longer include routine periodic cystoscopy since this has not been shown to be effective for screening.",
+    "topic": "Enterocystoplasty"
+  },
+  {
+    "id": "ch24-Q29",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 29,
+    "stem": "What is the reported incidence of stone formation in reconstructed urinary reservoirs after enterocystoplasty?",
+    "options": [
+      { "id": "a", "text": "At least 5%" },
+      { "id": "b", "text": "At least 15%" },
+      { "id": "c", "text": "At least 30%" },
+      { "id": "d", "text": "At least 50%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The reported incidence of stone formation in reconstructed urinary reservoirs is at least 15%. Risk factors include infection, intermittent catheterisation (CIC) and retained mucus. All urinary reservoirs created from intestinal segments share the same basic long-term problems, including metabolic disturbances and stone formation.",
+    "topic": "Enterocystoplasty"
+  },
+  {
+    "id": "ch24-Q30",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 30,
+    "stem": "According to survival data for patients with spina bifida, what percentage of patients are still alive at the age of 35?",
+    "options": [
+      { "id": "a", "text": "25%" },
+      { "id": "b", "text": "45%" },
+      { "id": "c", "text": "65%" },
+      { "id": "d", "text": "85%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Only 45% of patients with spina bifida are still alive at the age of 35. The mortality rate in the first year is approximately 20%, followed by a period of stability in childhood, before mortality increases again from puberty onwards. Neurological complications related to hydrocephalus are the commonest cause of death in childhood and adolescence.",
+    "topic": "Spina bifida"
+  },
+  {
+    "id": "ch24-Q31",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 31,
+    "stem": "In spina bifida patients, what are the commonest causes of death in adults?",
+    "options": [
+      { "id": "a", "text": "Renal failure and urinary sepsis" },
+      { "id": "b", "text": "Neurological complications related to hydrocephalus" },
+      { "id": "c", "text": "Cardiovascular and pulmonary diseases" },
+      { "id": "d", "text": "Malignancy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Neurological complications related to hydrocephalus are the commonest cause of death in childhood and adolescence in spina bifida patients, whereas cardiovascular and pulmonary diseases are the commonest causes in adults. Renal insufficiency was once a major cause of mortality, but death from renal failure is now very unusual.",
+    "topic": "Spina bifida"
+  },
+  {
+    "id": "ch24-Q32",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 32,
+    "stem": "A 16-year-old with spina bifida has deteriorating urinary continence. The parents ask about surgical options. When should major reconstructive surgery ideally be completed in such patients?",
+    "options": [
+      { "id": "a", "text": "Before puberty, as continence tends to deteriorate rather than improve after this age" },
+      { "id": "b", "text": "After completion of growth to avoid the need for revision surgery" },
+      { "id": "c", "text": "Only after the patient has demonstrated the ability to self-catheterise" },
+      { "id": "d", "text": "In early adulthood when the bladder has reached its final capacity" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Whenever possible, any major reconstructive surgery should be completed before puberty because there is a natural tendency for continence to deteriorate rather than to improve after this age. Very few adults with spina bifida, especially females, can learn to perform urethral self-catheterisation if they were not taught it in childhood.",
+    "topic": "Spina bifida"
+  },
+  {
+    "id": "ch24-Q33",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 33,
+    "stem": "Which of the following best describes the approach to bowel management in patients with spina bifida?",
+    "options": [
+      { "id": "a", "text": "All patients require a colostomy by adolescence" },
+      { "id": "b", "text": "Faecal continence is usually dependent on acquiring a pattern of 'controlled constipation'" },
+      { "id": "c", "text": "Biofeedback therapy achieves continence in most patients" },
+      { "id": "d", "text": "Bowel management is unnecessary if the neurological level is below L2" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Even the mildest neurological deficit in spina bifida leads to incompetence of the anal sphincter. Faecal continence is usually dependent on acquiring a pattern of 'controlled constipation'. The Malone antegrade continence enema (MACE) procedure has been an important advance, and newer alternatives such as transanal irrigation systems are also effective.",
+    "topic": "Spina bifida"
+  },
+  {
+    "id": "ch24-Q34",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 34,
+    "stem": "A 22-year-old woman with spina bifida and a neurological level above T10 is concerned about sexual function. What proportion of women with higher cord lesions or urinary incontinence would be expected to have normal sexual function?",
+    "options": [
+      { "id": "a", "text": "Approximately 80%" },
+      { "id": "b", "text": "Approximately 50%" },
+      { "id": "c", "text": "Approximately 20%" },
+      { "id": "d", "text": "Approximately 5%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Whereas sexual function is likely to be normal in the majority of females with a neurological level below L2, only 20% of those with higher cord lesions or urinary incontinence will have normal sexual function. Nevertheless, two-thirds of women form steady sexual relationships regardless of the degree of handicap or continence.",
+    "topic": "Spina bifida"
+  },
+  {
+    "id": "ch24-Q35",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 35,
+    "stem": "A 28-year-old woman with spina bifida is planning a pregnancy. What is the risk of neural tube defect in her offspring?",
+    "options": [
+      { "id": "a", "text": "1:100 for sons and 1:50 for daughters" },
+      { "id": "b", "text": "1:50 for sons and 1:13 for daughters (overall 1:23)" },
+      { "id": "c", "text": "1:500 regardless of sex" },
+      { "id": "d", "text": "No increased risk compared to the general population" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The overall risk of neural tube defect in offspring of women with spina bifida is 1:23 (1:50 for sons and 1:13 for daughters). This risk can be significantly reduced by folic acid supplements for 3 months prior to conception. Few spina bifida patients accept antenatal screening and termination of affected pregnancies.",
+    "topic": "Spina bifida"
+  },
+  {
+    "id": "ch24-Q36",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 36,
+    "stem": "A 30-year-old man with spina bifida has absent sacral reflexes and a neurological level above T10. What is the approximate likelihood of him being potent?",
+    "options": [
+      { "id": "a", "text": "Approximately 64%" },
+      { "id": "b", "text": "Approximately 14%" },
+      { "id": "c", "text": "Approximately 50%" },
+      { "id": "d", "text": "Approximately 85%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Of men with spina bifida who have absent sacral reflexes and a primary neurological level below T10, 64% are potent. However, the figure falls to only 14% in men with higher neurological lesions (above T10). Sildenafil (Viagra) may be helpful for erectile dysfunction in some cases.",
+    "topic": "Spina bifida"
+  },
+  {
+    "id": "ch24-Q37",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 37,
+    "stem": "What percentage of adult men with spina bifida have a regular sexual partner, regardless of their degree of mobility or continence?",
+    "options": [
+      { "id": "a", "text": "Approximately 20%" },
+      { "id": "b", "text": "Approximately 40%" },
+      { "id": "c", "text": "Approximately 60%" },
+      { "id": "d", "text": "Approximately 80%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Despite the drawbacks of erectile dysfunction and impaired ejaculation, 60% of adult males with spina bifida have a regular sexual partner regardless of their degree of mobility or continence. Semen can be obtained from impotent men by electroejaculation.",
+    "topic": "Spina bifida"
+  },
+  {
+    "id": "ch24-Q38",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 38,
+    "stem": "In a study of men with bladder exstrophy-epispadias complex (mean age 32 years), what proportion reported objectively 'normal' erections?",
+    "options": [
+      { "id": "a", "text": "25%" },
+      { "id": "b", "text": "55%" },
+      { "id": "c", "text": "75%" },
+      { "id": "d", "text": "95%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "In a recent study of men with bladder exstrophy-epispadias complex with a mean age of 32 years, 55% reported objectively 'normal' erections. Despite impaired semen quality in 93% of individuals, one-third of this cohort had achieved parenthood — although this depended on assisted reproductive techniques in 50% of cases.",
+    "topic": "Fertility"
+  },
+  {
+    "id": "ch24-Q39",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 39,
+    "stem": "A 34-year-old woman with bladder exstrophy and a GFR of 45 mL/min/1.73 m² with untreated diastolic blood pressure of 95 mmHg is seeking advice about pregnancy. What is the most appropriate recommendation?",
+    "options": [
+      { "id": "a", "text": "Pregnancy is safe with close monitoring" },
+      { "id": "b", "text": "She should be cautioned against embarking on pregnancy due to significant risks of irreversible deterioration in renal function and/or hypertension" },
+      { "id": "c", "text": "Pregnancy is safe only if she takes prophylactic antibiotics" },
+      { "id": "d", "text": "She should undergo pre-conception ureteric reimplantation first" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Women with a GFR below 50 mL/min/1.73 m² and a diastolic blood pressure (untreated) above 90 mmHg should be cautioned against embarking on pregnancy because of the very significant risks of irreversible deterioration in renal function and/or hypertension. Spina bifida, bladder exstrophy, enterocystoplasty and previous ureteric reimplantation all have potential to cause problems in pregnancy, but despite counselling, very few women are deterred from wanting to have a baby.",
+    "topic": "Fertility"
+  },
+  {
+    "id": "ch24-Q40",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 40,
+    "stem": "During the transition from paediatric to adult care, which of the following is of pivotal importance in determining a young patient's future engagement with follow-up and lifelong maintenance of renal function?",
+    "options": [
+      { "id": "a", "text": "Providing written information leaflets about their condition" },
+      { "id": "b", "text": "Transition of care from paediatric specialists to the relevant adult disciplines" },
+      { "id": "c", "text": "Ensuring all surgical revisions are completed before transition" },
+      { "id": "d", "text": "Discharge from follow-up until symptoms develop" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The young patient's transition from the care of paediatric specialists to the relevant adult disciplines is of pivotal importance in determining their future engagement with follow-up and lifelong maintenance of their renal function. Close collaboration between paediatric and adolescent or adult urologists is essential to ensure continuity of follow-up and specialist care.",
+    "topic": "Transitional care"
+  },
+  {
+    "id": "ch24-Q41",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 41,
+    "stem": "Which of the following is the most important reason why close collaboration between paediatric and adult urologists is essential during the transition period?",
+    "options": [
+      { "id": "a", "text": "To reduce the cost of healthcare delivery" },
+      { "id": "b", "text": "To ensure continuity of follow-up and specialist care" },
+      { "id": "c", "text": "To allow paediatric urologists to focus on neonatal surgery" },
+      { "id": "d", "text": "To enable adult urologists to learn paediatric surgical techniques" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Close collaboration between paediatric and adolescent or adult urologists is important primarily to ensure continuity of follow-up and specialist care. Many problems in adolescent urology are predominantly medical or psychosocial rather than surgical, and a holistic approach to long-term care is essential.",
+    "topic": "Transitional care"
+  },
+  {
+    "id": "ch24-Q42",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 42,
+    "stem": "Why may measurement of plasma creatinine be potentially misleading when monitoring renal function in patients with congenital urological anomalies?",
+    "options": [
+      { "id": "a", "text": "Creatinine assays are not validated for paediatric patients" },
+      { "id": "b", "text": "A significant loss of GFR can sometimes occur before it is reflected in abnormal plasma creatinine levels" },
+      { "id": "c", "text": "Creatinine is not filtered by dysplastic kidneys" },
+      { "id": "d", "text": "Muscle wasting in congenital anomalies gives falsely low creatinine levels" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Although measurement of plasma creatinine represents the simplest and most practical means of monitoring renal function, it may be potentially misleading in patients with congenital malformations because a significant loss of GFR can sometimes occur before this is reflected in abnormal plasma creatinine levels. All patients transitioning from paediatric to adult care require risk assessment of their renal function.",
+    "topic": "Renal function"
+  },
+  {
+    "id": "ch24-Q43",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 43,
+    "stem": "A 16-year-old with bladder exstrophy who underwent successful bladder reconstruction in childhood now presents with deteriorating continence. Historically, what proportion of exstrophy patients who underwent bladder reconstruction in childhood progressed into adult life without the need for urinary diversion?",
+    "options": [
+      { "id": "a", "text": "Approximately 75%" },
+      { "id": "b", "text": "Approximately 50%" },
+      { "id": "c", "text": "Approximately 23%" },
+      { "id": "d", "text": "Approximately 10%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Historically, only 23% of exstrophy patients who underwent bladder reconstruction in childhood progressed into adult life without the need for urinary diversion. Of those whose bladder reconstruction did endure beyond childhood, 60% nevertheless required further reconstruction in adolescence or early adult life.",
+    "topic": "Bladder exstrophy"
+  },
+  {
+    "id": "ch24-Q44",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 44,
+    "stem": "Which of the following strategies has been shown to delay the downward trajectory of renal function in adolescents with PUV and declining GFR?",
+    "options": [
+      { "id": "a", "text": "Low-protein diet alone" },
+      { "id": "b", "text": "Rigorous control of proteinuria and blood pressure using ACE inhibitors" },
+      { "id": "c", "text": "High-dose loop diuretics" },
+      { "id": "d", "text": "Early commencement of dialysis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The downward trajectory of renal function in PUV patients can be delayed with rigorous control of proteinuria and blood pressure using angiotensin-conversion enzyme (ACE) inhibitors. This is important because patients reaching adolescence with a GFR below 40 mL/min/1.73 m² are at substantial risk of progressing to end-stage renal failure within 16 years.",
+    "topic": "Posterior urethral valves"
+  },
+  {
+    "id": "ch24-Q45",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 45,
+    "stem": "A risk stratification system for PUV patients categorises them into low, medium and high risk for significant renal impairment (CKD ≥3). What is the incidence of renal impairment in those categorised as high risk?",
+    "options": [
+      { "id": "a", "text": "6%" },
+      { "id": "b", "text": "40%" },
+      { "id": "c", "text": "70%" },
+      { "id": "d", "text": "90%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "When PUV patients are stratified according to their risk of significant renal impairment (defined as CKD ≥3), those categorised as low risk have a 6% incidence, medium risk a 40% incidence, and high risk a 70% incidence of renal impairment. The prognostic risk score is based on baseline plasma creatinine, nadir creatinine level and proteinuria.",
+    "topic": "Posterior urethral valves"
+  },
+  {
+    "id": "ch24-Q46",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 46,
+    "stem": "In a large study of exstrophy patients followed for over 40 years, what proportion was still voiding spontaneously per urethra?",
+    "options": [
+      { "id": "a", "text": "Only 5%" },
+      { "id": "b", "text": "Only 25%" },
+      { "id": "c", "text": "Only 50%" },
+      { "id": "d", "text": "Only 75%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "In a large study of exstrophy patients who were followed for over 40 years, only 25% of patients were still voiding spontaneously per urethra. The remaining 75% were either reliant on catheterisation or had undergone urinary diversion. Most patients required complex reconstruction and subsequent revisions to achieve urinary continence.",
+    "topic": "Bladder exstrophy"
+  },
+  {
+    "id": "ch24-Q47",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 47,
+    "stem": "What is the reported latent period for malignancy developing after ureterosigmoidostomy?",
+    "options": [
+      { "id": "a", "text": "1-5 years" },
+      { "id": "b", "text": "5-10 years" },
+      { "id": "c", "text": "10-15 years" },
+      { "id": "d", "text": "20-30 years" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Ureterosigmoidostomy is associated with a 15% incidence of malignancy (usually adenocarcinoma) occurring within the bowel reservoir, with a typical latent period of 20-30 years before malignancy develops. In contrast, the risk of malignancy after enterocystoplasty is likely to be considerably lower.",
+    "topic": "Bladder exstrophy"
+  },
+  {
+    "id": "ch24-Q48",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 48,
+    "stem": "A 19-year-old with spina bifida is being prepared for transition to adult care. Which of the following would be the most important long-term objective to establish during childhood?",
+    "options": [
+      { "id": "a", "text": "Academic achievement at a university level" },
+      { "id": "b", "text": "Independent self-care, including adaptation of daily living, bladder/bowel management, sexual and general education" },
+      { "id": "c", "text": "Complete surgical correction of all orthopaedic deformities" },
+      { "id": "d", "text": "Achieving independent ambulation" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Independent self-care should always be the long-term objective in spina bifida patients. Achieving this goal depends on: adaptation of daily living to permit self-sufficiency in tasks such as dressing, washing and household chores; effective management of the neuropathic bladder and bowel; sexual education; and general education.",
+    "topic": "Spina bifida"
+  },
+  {
+    "id": "ch24-Q49",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 49,
+    "stem": "Which of the following is a recognised approach to managing the combination of a poorly compliant 'valve bladder' and polyuria in PUV patients to prevent worsening renal damage?",
+    "options": [
+      { "id": "a", "text": "Urinary diversion alone" },
+      { "id": "b", "text": "Aggressive bladder management with anticholinergics, self-catheterisation and clam cystoplasty" },
+      { "id": "c", "text": "Bilateral nephrectomy and early transplantation" },
+      { "id": "d", "text": "No intervention is required as the condition is self-limiting" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The combination of a poorly compliant 'valve bladder' and polyuria from renal tubular concentration defects may result in dangerously high bladder storage pressures, creating a vicious cycle of worsening renal damage. There is evidence that the onset of renal failure can be delayed (or possibly averted) by aggressive bladder management with anticholinergics, self-catheterisation and clam cystoplasty.",
+    "topic": "Posterior urethral valves"
+  },
+  {
+    "id": "ch24-Q50",
+    "chapter": "Adolescent Urology",
+    "chapterSlug": "ch24_adolescent-urology",
+    "chapterNumber": 24,
+    "questionNumber": 50,
+    "stem": "A 20-year-old man with prune-belly syndrome has normal serum testosterone but elevated serum luteinising hormone (LH). This hormonal profile is best explained by:",
+    "options": [
+      { "id": "a", "text": "Primary gonadal failure with compensated Leydig cell dysfunction" },
+      { "id": "b", "text": "Pituitary adenoma" },
+      { "id": "c", "text": "Androgen insensitivity syndrome" },
+      { "id": "d", "text": "Hypothalamic dysfunction due to congenital midline defects" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "In prune-belly syndrome, serum testosterone levels in adulthood are usually in the normal range and adequate to maintain normal masculinisation, but serum LH levels are significantly elevated. This pattern indicates primary gonadal failure with compensated Leydig cell dysfunction — the testes are producing adequate testosterone but require increased LH stimulation to do so.",
+    "topic": "Prune-belly syndrome"
+  }
+]

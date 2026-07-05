@@ -1,0 +1,1452 @@
+[
+    {
+        "id":  "ch15-Q01",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  1,
+        "stem":  "The worldwide incidence of classic bladder exstrophy is approximately:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "1 in 10,000 live births"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "1 in 50,000 live births"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "1 in 120,000 live births"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "1 in 300,000 live births"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Classic bladder exstrophy occurs in approximately 1 in 50,000 live births, with a male-to-female ratio of 2:1 (Table 15.1).",
+        "topic":  "Epidemiology"
+    },
+    {
+        "id":  "ch15-Q02",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  2,
+        "stem":  "The exstrophy–epispadias complex (EEC) comprises three distinct anomalies. Which of the following represents the correct order from least to most severe?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Epispadias, classic bladder exstrophy, cloacal exstrophy"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Cloacal exstrophy, classic bladder exstrophy, epispadias"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Epispadias, cloacal exstrophy, classic bladder exstrophy"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Classic bladder exstrophy, epispadias, cloacal exstrophy"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Epispadias is the mildest form, followed by classic bladder exstrophy, with cloacal exstrophy being the most severe variant in the exstrophy–epispadias complex. The text describes cloacal exstrophy as \u0027a more severe embryological variant.\u0027",
+        "topic":  "Exstrophy spectrum"
+    },
+    {
+        "id":  "ch15-Q03",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  3,
+        "stem":  "A newborn male is diagnosed with classic bladder exstrophy. His parents ask about the recurrence risk in future children. The most accurate estimate is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Less than 1%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Approximately 5%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Approximately 10%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Approximately 25%"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Bladder exstrophy is a sporadic condition with a very low recurrence risk in subsequent siblings, estimated at less than 1%. The condition arises from failure of development of the lower abdominal wall during early gestation, as described in the chapter.",
+        "topic":  "Epidemiology"
+    },
+    {
+        "id":  "ch15-Q04",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  4,
+        "stem":  "Which hypothesis proposes that the exstrophy–epispadias complex arises from failure of integration of mesodermal, endodermal and ectodermal components of the cloacal plate, causing it to rupture?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Cloacal rupture hypothesis"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Wedge-effect hypothesis"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Mesodermal migration hypothesis"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Notochord induction hypothesis"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "The cloacal \u0027rupture\u0027 hypothesis proposes that failure of integration of mesodermal, endodermal and ectodermal components of the cloacal plate causes it to rupture, leading to exposure of the bladder plate and urethra. The alternative \u0027wedge-effect\u0027 hypothesis postulates overgrowth of the cloacal membrane acts as a mechanical wedge separating mesodermal components. Neither adequately explains \u0027late rupture\u0027 or \u0027covered\u0027 variants.",
+        "topic":  "Embryology"
+    },
+    {
+        "id":  "ch15-Q05",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  5,
+        "stem":  "A newborn girl is found to have bladder exstrophy. Which of the following best describes the typical female genital findings?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Separated clitoral corpora with a short urethral plate between the open bladder and vagina"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Single fused clitoris with intact urethra"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Normal clitoris with absent vagina"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Bifid clitoris with urethra opening into the vagina"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "In females with bladder exstrophy, the bladder component is identical to males. The clitoral corpora are separated with a short urethral plate between the open bladder and vagina.",
+        "topic":  "Anatomy"
+    },
+    {
+        "id":  "ch15-Q06",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  6,
+        "stem":  "A term male infant with classic bladder exstrophy undergoes uneventful primary closure on day 3 of life without osteotomy. Following catheter removal, which imaging study is most appropriate prior to discharge?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Intravenous urogram (IVU)"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Renal ultrasound scan"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Micturating cystourethrogram (MCUG)"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Dimercaptosuccinic acid (DMSA) scan"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "When all catheters have been removed, a renal ultrasound scan is performed prior to discharge from hospital to assess bladder emptying and the appearances of the upper tracts.",
+        "topic":  "Primary closure"
+    },
+    {
+        "id":  "ch15-Q07",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  7,
+        "stem":  "In the modern staged repair of bladder exstrophy (MSRE), the typical timing of bladder neck reconstruction is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "At the time of neonatal closure"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "At around 2 years of age"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "At around 5 years of age"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "At puberty"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "In the modern staged repair (popularised by Jeffs and Gearhart), neonatal bladder closure is followed by correction of the epispadiac component at around 2 years of age and bladder neck reconstruction at around 5 years of age. If continence is not achieved due to inadequate capacity, further reconstruction may be needed.",
+        "topic":  "Staged reconstruction"
+    },
+    {
+        "id":  "ch15-Q08",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  8,
+        "stem":  "Which of the following is NOT a recognised predisposing factor for wound breakdown or bladder dehiscence after primary exstrophy closure?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Use of frog-leg plasters postoperatively"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Retention of the umbilical stump"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Pooling of urine at the new urinary meatus"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Stents emerging through the midline closure"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Frog-leg plasters are used for pelvic fixation postoperatively and do not predispose to dehiscence. Predisposing factors include pooling of urine at the new meatus, stents emerging through the midline closure, retention of the umbilical stump (a focus of infection), and tissue ischaemia from closure under tension.",
+        "topic":  "Primary closure complications"
+    },
+    {
+        "id":  "ch15-Q09",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  9,
+        "stem":  "Pelvic osteotomy for bladder exstrophy closure is most likely to be required in which scenario?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Delayed closure beyond the neonatal period"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Newborn closure within 72 hours of birth"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Closure within the first 2–3 weeks of life with a moderate diastasis"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "All exstrophy closures regardless of timing"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "The pelvis in newborn exstrophy patients is sufficiently flexible to allow closure without osteotomy in 95% of cases in the first 2–3 weeks. Osteotomy is indicated when the pubic diastasis is wide, closure is delayed, or for revision cases and correction of cloacal exstrophy.",
+        "topic":  "Pelvic osteotomy"
+    },
+    {
+        "id":  "ch15-Q10",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  10,
+        "stem":  "The overall rate of wound breakdown and bladder dehiscence complications following primary exstrophy closure is approximately:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "10%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "1%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "25%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "50%"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Complications including wound breakdown and partial or complete bladder dehiscence occur in around 10% of cases after primary exstrophy closure.",
+        "topic":  "Primary closure outcomes"
+    },
+    {
+        "id":  "ch15-Q11",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  11,
+        "stem":  "Regarding vesicoureteric reflux (VUR) after primary bladder closure in classic bladder exstrophy, which statement is most accurate?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Some degree of VUR is almost invariably present"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "VUR is rare because the ureters have normal oblique tunnels"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "VUR is seen in fewer than 10% of patients"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "VUR only occurs if the closure is performed under tension"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "In classic bladder exstrophy, the ureters usually enter the bladder without the oblique transmural tunnel that would normally confer an anti-reflux mechanism. For this reason, some degree of VUR is almost invariably present after primary bladder closure.",
+        "topic":  "Primary closure outcomes"
+    },
+    {
+        "id":  "ch15-Q12",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  12,
+        "stem":  "A 6-year-old boy with repaired bladder exstrophy has persistent incontinence due to poor outlet resistance. Which minimally invasive option may be considered before resorting to open surgery?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Cystoscopic injection of a bulking agent (e.g. Deflux)"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Intravesical botulinum toxin injection"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Transurethral resection of the bladder neck"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Urethral dilation"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Incontinence due to poor outlet resistance can sometimes be reduced by cystoscopic injection of a bulking agent such as Deflux (dextranomer/hyaluronic acid copolymer) into the region of the bladder outlet. If this and similar measures fail, surgical closure of the bladder neck may be the only remaining option.",
+        "topic":  "Continence surgery"
+    },
+    {
+        "id":  "ch15-Q13",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  13,
+        "stem":  "In the Kelly operation, detachment of the penile corpora from the inferior pubic rami is combined with release of which structure to achieve penile mobility?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "The pudendal pedicles in Alcock\u0027s canal"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "The suspensory ligament of the penis"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "The dorsal neurovascular bundle"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "The urethral plate"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Detachment of the penile corpora from the inferior pubic rami is combined with release of the pudendal pedicles, which lie beneath the pelvic floor muscles in Alcock\u0027s canal, running from the greater sciatic notch to the base of the penis. This enables the two corporeal bodies to be brought together in the midline, eliminating the pubic diastasis effect and increasing penile protrusion.",
+        "topic":  "Kelly operation"
+    },
+    {
+        "id":  "ch15-Q14",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  14,
+        "stem":  "The senior author\u0027s proposed grading system for continence after exstrophy surgery defines Grade III as:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Dry by day and night; no protection or accidents"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Dribbles urine all the time with no control"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Able to retain urine with a dry interval but still wearing protection"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Sufficient dry intervals by day but wet at night"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Grade III represents dryness by day and night with no protection or accidents, equivalent to a \u0027normal child\u0027 continence status. Grade 0 is dribbling with no control, Grade I is dry intervals with protection, and Grade II is dry by day but wet at night without needing protection.",
+        "topic":  "Continence outcomes"
+    },
+    {
+        "id":  "ch15-Q15",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  15,
+        "stem":  "In the senior author\u0027s series of exstrophy patients treated with the Kelly procedure and followed for 10 years, what proportion of males achieved dryness by day (Grade II)?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "44%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "67%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "81%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "95%"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "In the cohort followed up for 10 years, 81% of males achieved dryness by day (Grade II) and 44% were dry by day and night (Grade III). Overall, 13% of males required bladder augmentation.",
+        "topic":  "Continence outcomes"
+    },
+    {
+        "id":  "ch15-Q16",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  16,
+        "stem":  "According to long-term follow-up data, the cumulative risk of malignancy in the reconstructed exstrophy bladder after 30 years is estimated to be approximately:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "\u003c1%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "4%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "10%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "25%"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "The risk of malignancy in the reconstructed exstrophy bladder has been estimated to be in the region of 4% after 30 years of follow-up.",
+        "topic":  "Long-term outcomes"
+    },
+    {
+        "id":  "ch15-Q17",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  17,
+        "stem":  "In males with classic bladder exstrophy, fertility is reduced to approximately what rate?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "10%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "20%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "50%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "75%"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "The fertility rate in men with exstrophy is around 20%, probably due to disruption of the ejaculatory ducts during bladder neck surgery or consequences of episodes of epididymo-orchitis, which occurs in up to one-third of men.",
+        "topic":  "Sexual function"
+    },
+    {
+        "id":  "ch15-Q18",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  18,
+        "stem":  "Which of the following congenital anomalies is most commonly associated with classic bladder exstrophy?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Congenital heart disease"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Inguinal hernia"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Spinal dysraphism"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Duodenal atresia"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "The incidence of other congenital anomalies is low in classic bladder exstrophy, with the exception of inguinal herniae, which are present in 80% of males and 15% of females.",
+        "topic":  "Associated anomalies"
+    },
+    {
+        "id":  "ch15-Q19",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  19,
+        "stem":  "Why did the UK adopt a policy of confining bladder exstrophy management to two supraregional centres?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "To minimise treatment costs through bulk purchasing"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "The rarity of the condition made it difficult for individual urologists to acquire adequate experience"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "The required surgical equipment is only available in specialist centres"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "To facilitate uniform data collection for research"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "The relative rarity of bladder exstrophy (1:50,000 live births) made it difficult for paediatric urologists to acquire adequate experience, as even major regional centres received only one or two new referrals a year. Centralising care to two supraregional centres enabled high levels of expertise and facilitated development of innovative approaches.",
+        "topic":  "Service organisation"
+    },
+    {
+        "id":  "ch15-Q20",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  20,
+        "stem":  "A newborn with classic bladder exstrophy is delivered at 34 weeks\u0027 gestation weighing 2.0 kg. What is the most appropriate initial approach?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Immediate primary closure within 48 hours"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Delayed closure after stabilisation, allowing time for weight gain"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Osteotomy and closure at 1 week of age"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Ureterosigmoidostomy as a primary procedure"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "In premature infants, a longer period of stabilisation is preferable and it is not unreasonable to delay closure for several weeks if medically indicated.",
+        "topic":  "Neonatal management"
+    },
+    {
+        "id":  "ch15-Q21",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  21,
+        "stem":  "The standard pelvic osteotomy technique for exstrophy involves division of the bony pelvis between which anatomical landmarks?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Anterior superior iliac spine and greater sciatic notch"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Posterior superior iliac spine and sacroiliac joint"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Ischial spine and pubic symphysis"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Anterior inferior iliac spine and lesser sciatic notch"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "The standard technique consists of division of the bony pelvis between the anterior superior iliac spine and the greater sciatic notch on both sides. Drawbacks include prolonged operating time, increased blood loss and longer postoperative immobility.",
+        "topic":  "Pelvic osteotomy"
+    },
+    {
+        "id":  "ch15-Q22",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  22,
+        "stem":  "A 3-month-old boy with classic bladder exstrophy underwent uncomplicated neonatal closure. His bladder capacity is adequate and he is voiding with some dribbling. According to the modern staged repair, the next planned procedure should be:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Bladder neck reconstruction"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Epispadias repair at around 2 years of age"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Augmentation cystoplasty"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Mitrofanoff procedure"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "In the modern staged repair (MSRE), after neonatal bladder closure, the next stage is correction of the epispadiac component at around 2 years of age, followed by bladder neck reconstruction around age 5. The MSRE was popularised by Jeffs and Gearhart.",
+        "topic":  "Staged reconstruction"
+    },
+    {
+        "id":  "ch15-Q23",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  23,
+        "stem":  "The complete primary repair of bladder exstrophy differs from the staged approach primarily because it:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Delays epispadias repair until school age"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Avoids ureteric reimplantation"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Combines full anatomical reconstruction including penile reconstruction at the initial closure"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Always requires pelvic osteotomy"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "The complete primary repair, devised by Mitchell, combines full anatomical reconstruction with the initial bladder closure, including extensive mobilisation of the penile corpora for complete penile reconstruction during the same operation. It is technically challenging in a newborn and safeguarding the blood supply to the penis is of particular importance.",
+        "topic":  "Complete primary repair"
+    },
+    {
+        "id":  "ch15-Q24",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  24,
+        "stem":  "In the Kelly operation, the ureters are reimplanted using which technique?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Politano–Leadbetter technique"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Lich–Gregoir technique"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Psoas hitch technique"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Cohen cross-trigonal technique"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "In the Kelly operation, the bladder is reopened in the midline and both ureters are reimplanted using the Cohen (cross-trigonal) technique.",
+        "topic":  "Kelly operation"
+    },
+    {
+        "id":  "ch15-Q25",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  25,
+        "stem":  "Which of the following best describes the male genital anatomy in classic bladder exstrophy?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "The testes are usually undescended"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "The scrotum is typically absent"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "The exposed urethral plate extends over the dorsal surface of the corpora and glans"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "The urethral plate courses over the ventral surface of the corpora"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "In male bladder exstrophy, the exposed urethral plate extends over the dorsal surface of the corpora and glans. The testes are usually descended. The scrotum is present with distinctive upwards direction of the rugae.",
+        "topic":  "Anatomy"
+    },
+    {
+        "id":  "ch15-Q26",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  26,
+        "stem":  "A 5-year-old boy with repaired bladder exstrophy has undergone bladder neck reconstruction but remains incontinent with small bladder capacity. The most appropriate next step is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Repeat bladder neck reconstruction alone"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Cystoscopic injection of a bulking agent"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Closure of the bladder neck"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Repeat bladder neck reconstruction with ileocystoplasty and Mitrofanoff conduit"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "In children with severe incontinence after bladder neck reconstruction, it is usually necessary to perform a repeat bladder neck reconstruction in combination with ileocystoplasty and the formation of a Mitrofanoff catheterisable channel. Ideally this should be timed to enable the child to become continent by around age 6.",
+        "topic":  "Continence surgery"
+    },
+    {
+        "id":  "ch15-Q27",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  27,
+        "stem":  "In the senior author\u0027s series of patients treated with the Kelly procedure, what proportion of females required bladder augmentation?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "13%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "33%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "50%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "67%"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Bladder augmentation was required in 33% of females (compared with 13% of males) in the senior author\u0027s series of 101 patients operated between 1999 and 2014.",
+        "topic":  "Continence outcomes"
+    },
+    {
+        "id":  "ch15-Q28",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  28,
+        "stem":  "Regarding sexual function in adult males with bladder exstrophy, which statement is correct?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Most males cannot achieve erections"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Fertility rates are normal"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Libido is universally absent"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "90% can achieve erections, though some require correction of persistent dorsal chordee"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Males have normal sexual libido and 90% can achieve erections, although some require corrective surgery for severe persistent dorsal chordee. The majority can experience orgasm but may have slow or retrograde ejaculation. Fertility is reduced to around 20%, not normal.",
+        "topic":  "Sexual function"
+    },
+    {
+        "id":  "ch15-Q29",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  29,
+        "stem":  "Woodhouse documented long-term renal damage in what proportion of exstrophy patients?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "5%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "15%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "50%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "25%"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Renal damage due to a combination of lower tract obstruction, vesicoureteric reflux and urinary infection was identified in 25% of patients in Woodhouse\u0027s long-term follow-up series.",
+        "topic":  "Long-term outcomes"
+    },
+    {
+        "id":  "ch15-Q30",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  30,
+        "stem":  "In females with bladder exstrophy, which statement regarding pregnancy is correct?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Fertility is significantly reduced compared to the normal population"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Vaginal delivery is recommended"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Pregnancy is often complicated by vaginal prolapse"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Caesarean section is contraindicated"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "For females with exstrophy, the prospects for fertility are normal. Pregnancy is often complicated by vaginal prolapse, although this may prove less problematic following contemporary surgical procedures. Delivery by caesarean section is recommended, with a urologist in attendance if the patient has previously undergone bladder augmentation.",
+        "topic":  "Sexual function / pregnancy"
+    },
+    {
+        "id":  "ch15-Q31",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  31,
+        "stem":  "The incidence of primary epispadias is approximately:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "1 in 300,000 live births"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "1 in 120,000 live births"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "1 in 50,000 live births"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "1 in 10,000 live births"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Primary epispadias occurs in approximately 1 in 120,000 live births with a male-to-female ratio of approximately 5:1 (Table 15.1).",
+        "topic":  "Epidemiology"
+    },
+    {
+        "id":  "ch15-Q32",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  32,
+        "stem":  "In glanular epispadias, the urethral meatus is located on the:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Ventral aspect of the glans"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Dorsal aspect of the glans"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Perineum"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Shaft of the penis"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Glanular epispadias is the mildest form in which the urethra opens distally on the dorsal aspect of the glans. Epispadias involves a dorsal urethral opening, in contrast to hypospadias where the opening is ventral.",
+        "topic":  "Epispadias"
+    },
+    {
+        "id":  "ch15-Q33",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  33,
+        "stem":  "The Cantwell–Ransley repair for primary epispadias involves all of the following EXCEPT:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Mobilisation of the exposed urethral plate from the corporeal bodies"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Tubularisation of the urethral plate"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Relocation of the urethra to a ventral position"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Release of the pudendal pedicles"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "The Cantwell–Ransley repair mobilises and tubularises the urethral plate (leaving it attached distally to the glans) and relocates the urethra ventrally, with approximation of the corpora and Heineke–Mikulicz type glans plasty. Release of pudendal pedicles is part of the Kelly operation, not the Cantwell–Ransley repair.",
+        "topic":  "Epispadias repair"
+    },
+    {
+        "id":  "ch15-Q34",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  34,
+        "stem":  "A 7-year-old girl presents with lifelong stress incontinence that failed to improve with toilet training. Examination reveals a bifid clitoris and a short, wide urethra. The most likely diagnosis is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Classic bladder exstrophy"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Cloacal exstrophy"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Urogenital sinus anomaly"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Female primary epispadias"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Female primary epispadias presents with a bifid clitoris, short and wide urethra, and deficient bladder neck leading to severe stress-type incontinence in all patients. The diagnosis is often considerably delayed because many junior paediatricians are unfamiliar with the appearances of the genitalia in this rare condition.",
+        "topic":  "Epispadias"
+    },
+    {
+        "id":  "ch15-Q35",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  35,
+        "stem":  "For a male with distal primary epispadias, good penile length and adequate penile size, the repair of choice is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Kelly operation"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Mitchell complete repair"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Cantwell–Ransley repair"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Bladder neck reconstruction alone"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "The Cantwell–Ransley repair is indicated for boys with more distal epispadias if the penis is of good size, the verumontanum is distal to the bladder neck and they appear to void without dribbling. The Kelly operation is more appropriate for more severe cases with a pubic diastasis or smaller phallus.",
+        "topic":  "Epispadias repair"
+    },
+    {
+        "id":  "ch15-Q36",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  36,
+        "stem":  "In cloacal exstrophy, the approximate incidence of spinal dysraphism is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "50%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "10%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "25%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "80%"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Spinal dysraphism (including myelomeningocoele, lipoma and tethered cord) occurs in approximately 50% of patients with cloacal exstrophy (Table 15.3). The sacrum is also foreshortened.",
+        "topic":  "Cloacal exstrophy"
+    },
+    {
+        "id":  "ch15-Q37",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  37,
+        "stem":  "In cloacal exstrophy, the hindgut is typically managed by:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Primary anastomosis to the perineum"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Ureterosigmoidostomy"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Ileo-anal pouch formation"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Tubularised distal hindgut brought out as an end colostomy"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "A tubularised distal hindgut tube is created and usually brought out in the left iliac fossa as an end colostomy, in preference to an incontinent anal canal.",
+        "topic":  "Cloacal exstrophy"
+    },
+    {
+        "id":  "ch15-Q38",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  38,
+        "stem":  "Historically, males with cloacal exstrophy were often assigned female gender at birth. This approach is no longer generally practised in the UK because:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Phallic reconstruction always produces a functional penis"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "There is greater understanding of the role of hormonal factors responsible for male gender imprinting in intrauterine life"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Fertility rates are normal in males with cloacal exstrophy"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Oestrogen therapy in utero has been shown to improve outcomes"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Female gender assignment for males with cloacal exstrophy is no longer generally practised in the UK because of greater understanding of the role of hormonal factors responsible for male gender imprinting in intrauterine life.",
+        "topic":  "Cloacal exstrophy"
+    },
+    {
+        "id":  "ch15-Q39",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  39,
+        "stem":  "If insufficient small intestine is available for augmentation cystoplasty in cloacal exstrophy, which of the following is an alternative?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "A patch of stomach or a hindgut segment"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Peritoneal flap"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Fascia lata graft"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Colonic mucosa graft"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "If there is insufficient small intestine, alternatives for augmentation include a patch of stomach or a hindgut segment.",
+        "topic":  "Cloacal exstrophy"
+    },
+    {
+        "id":  "ch15-Q40",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  40,
+        "stem":  "Colostomy complications in cloacal exstrophy occur in approximately what proportion of patients?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "10%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "25%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "75%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "50%"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Colostomy complications occur in around 50% of cloacal exstrophy patients, and it is occasionally necessary to remove the reconstructed hindgut and replace it with an ileostomy.",
+        "topic":  "Cloacal exstrophy"
+    },
+    {
+        "id":  "ch15-Q47",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  41,
+        "stem":  "In a newborn with classic bladder exstrophy awaiting surgery, the exposed bladder plate should be:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Left exposed to air to allow drying"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Covered with saline-soaked gauze changed hourly"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Protected with plastic film inside the nappy"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Covered with petroleum jelly impregnated gauze"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "The exposed bladder plate should be protected with plastic film inside the nappy. Antibiotics or intravenous access are not routinely required at this stage. Urgent transfer to the specialist centre is rarely indicated.",
+        "topic":  "Neonatal management"
+    },
+    {
+        "id":  "ch15-Q48",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  42,
+        "stem":  "Approximately what proportion of bladder exstrophy cases are detected antenatally?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "10%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "25%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "80%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "50%"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Approximately 50% of cases of bladder exstrophy are now detected antenatally, and in a further 20% of cases the diagnosis can be made retrospectively upon further review of the antenatal scans.",
+        "topic":  "Antenatal diagnosis"
+    },
+    {
+        "id":  "ch15-Q49",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  43,
+        "stem":  "Which of the following is a recognised antenatal ultrasound feature of bladder exstrophy?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Polyhydramnios"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Echogenic kidneys"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Lack of urine in the fetal bladder and low-set umbilical cord"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Bilateral hydronephrosis"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Diagnostic antenatal features include lack of urine in the fetal bladder, low-set umbilical cord, short wide penis and bulging bladder plate. Maternal serum AFP is also elevated as a result of exposure of bladder mucosa to amniotic fluid.",
+        "topic":  "Antenatal diagnosis"
+    },
+    {
+        "id":  "ch15-Q51",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  44,
+        "stem":  "Maternal serum alpha-fetoprotein (AFP) is elevated in bladder exstrophy because of:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Neural tube defect"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Fetal liver dysfunction"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Exposure of bladder mucosa to amniotic fluid"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Placental insufficiency"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Maternal levels of serum AFP are elevated as a result of exposure of bladder mucosa to amniotic fluid. This is one of the diagnostic features that may raise suspicion of bladder exstrophy on antenatal screening.",
+        "topic":  "Antenatal diagnosis"
+    },
+    {
+        "id":  "ch15-Q52",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  45,
+        "stem":  "Stone formation has been reported to occur in what proportion of exstrophy patients after reconstructive surgery?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Up to 25%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Up to 10%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Up to 50%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Up to 5%"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Stone formation has been reported to occur in up to 25% of exstrophy patients after reconstructive surgery, as documented in the late outcomes section of the chapter.",
+        "topic":  "Long-term outcomes"
+    },
+    {
+        "id":  "ch15-Q53",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  46,
+        "stem":  "Epididymo-orchitis occurs in what proportion of men with bladder exstrophy?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Up to one-third"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Less than 5%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Approximately 50%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Virtually all"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Episodes of epididymo-orchitis occur in up to one-third of men with bladder exstrophy, and these episodes contribute to reduced fertility alongside disruption of the ejaculatory ducts during bladder neck surgery.",
+        "topic":  "Sexual function"
+    },
+    {
+        "id":  "ch15-Q54",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  47,
+        "stem":  "According to Table 15.3, sacral agenesis occurs in what proportion of cloacal exstrophy cases?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "7%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "40%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "60%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "65%"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Sacral agenesis occurs in approximately 60% of cloacal exstrophy cases, according to Table 15.3. Other common associated anomalies include small bowel defects (65%), spinal dysraphism (50%) and orthopaedic deformity (40%).",
+        "topic":  "Cloacal exstrophy"
+    },
+    {
+        "id":  "ch15-Q55",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  48,
+        "stem":  "Which of the following is true regarding the Kelly operation in females with bladder exstrophy?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Genital reconstruction requires multiple separate stages"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Genital reconstruction can be successfully completed in a single stage"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "The clitoral corpora are excised"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "The labia minora are removed"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "In girls, the two components of the bifid clitoris are mobilised with preservation of their pudendal pedicles and the labia minora remain attached. Reconstruction of the bladder neck and urethra is undertaken in a similar fashion to males. Genital reconstruction can be successfully completed in a single stage in girls.",
+        "topic":  "Kelly operation"
+    },
+    {
+        "id":  "ch15-Q60",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  49,
+        "stem":  "Patients with cloacal exstrophy who achieve continence inevitably require which procedure because of the combination of exstrophy and neuropathic dysfunction?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Bladder neck reconstruction alone"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Enterocystoplasty (bladder augmentation)"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Ureterosigmoidostomy"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Artificial urinary sphincter"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "The combination of exstrophy and neuropathic dysfunction inevitably means that all patients with cloacal exstrophy will require enterocystoplasty if they are to achieve continence and storage of urine at safe pressures. Most children can be successfully managed with ileocystoplasty and Mitrofanoff or Monti procedure.",
+        "topic":  "Cloacal exstrophy"
+    },
+    {
+        "id":  "ch15-Q61",
+        "chapter":  "Bladder Exstrophy / Epispadias",
+        "chapterSlug":  "ch15_bladder-exstrophy-epispadias",
+        "chapterNumber":  15,
+        "questionNumber":  50,
+        "stem":  "According to the chapter, which of the following statements about primary epispadias is correct?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Primary epispadias is more common than bladder exstrophy"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "In girls, the diagnosis is often delayed because junior paediatricians are unaware of this rare anomaly"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Urinary incontinence is rare in primary epispadias"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "The male-to-female ratio is 1:1"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "In girls, the diagnosis of primary epispadias is often considerably delayed because most junior paediatricians are unaware of this rare anomaly and fail to identify it on routine neonatal examination. The classic presentation is with dribbling or stress incontinence and failed toilet training. The condition is rarer than bladder exstrophy (1:120,000 vs 1:50,000) with a 5:1 male-to-female ratio.",
+        "topic":  "Epispadias"
+    }
+]

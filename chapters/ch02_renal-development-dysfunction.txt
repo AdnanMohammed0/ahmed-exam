@@ -1,0 +1,551 @@
+                                                                                              2
+Renal Development and Dysfunction
+
+DOUGLAS J STEWART and STEPHEN D MARKS
+
+
+Topics covered
+
+Renal physiology in the fetus and neonate           Complications of chronic kidney disease
+Renal impairment in infancy, childhood and          Renal replacement therapy
+  adolescence
+
+
+
+
+ RENAL PHYSIOLOGY IN THE                            nephrogenesis (such as intrauterine urinary tract
+ FETUS AND NEONATE                                  obstruction), may result in a reduced number of
+                                                    nephrons at birth. This increases the subsequent
+                                                    risk of chronic kidney disease (CKD) and related
+Introduction                                        complications.
+                                                        The presence of urine in the fetal bladder can
+Nephron formation (nephrogenesis) commences
+                                                    be visualised on ultrasound at 9 weeks gestation.
+during the fifth week of gestation. Recognisable
+                                                    Fetal urine is the major constituent of amniotic
+glomerular structures are present from the ninth
+                                                    fluid and the volume of amniotic fluid increases
+week and glomerular development (glomerulo-
+                                                    with gestational age. Amniotic fluid is swallowed,
+genesis) is complete by 32–34 weeks. Over 80%
+                                                    absorbed in the gastrointestinal tract and ‘recy-
+of nephrogenesis occurs in the third trimester.
+                                                    cled’ into the amniotic cavity via the kidneys. By
+Kidney growth continues after 34 weeks’ gesta-
+                                                    20 weeks gestation, fetal urine constitutes 80%
+tion but this is due to maturation of existing
+                                                    of liquor volume (approximately 800 mL/day).
+nephrons (tubular and vascular growth) rather
+                                                    Fetal urine flow rate increases progressively
+than formation of new glomeruli or nephrons.
+                                                    throughout pregnancy to 15–30 mL/hour from
+In preterm infants, the process of nephrogen-
+                                                    31 weeks onwards. Reduced or absent urinary
+esis may continue after birth but the immature
+                                                    output (e.g. due to severe outflow obstruction,
+kidneys are vulnerable to potential insults dur-
+                                                    bilateral cystic disease or bilateral renal agene-
+ing this period. The total number of nephrons
+                                                    sis) leads to oligohydramnios-reduced amniotic
+in the two kidneys at the time of birth is highly
+                                                    fluid volume.
+variable, ranging from 200,000 to 2.7 million.
+                                                        After birth, the glomerular filtration rate
+Because damaged nephrons are incapable of
+                                                    (GFR) correlates with gestational age, total
+repair or regeneration anything which impairs
+
+                                                                                                   13
+14 Renal Development and Dysfunction
+
+
+
+kidney volume and mean arterial pressure.              contraction leading to weight loss. A loss of 10%
+GFR is approximately 3.5–6 mL/min/1.73 m2 in           of birth weight is not uncommon. This phenom-
+premature infants depending on birth weight,           enon, which is part of the normal physiological
+and 13 mL/min/1.73 m2 in infants born at term          adaptation to extrauterine life, is most pro-
+(40 weeks). Postnatally there is a sharp increase      nounced and prolonged in premature infants.
+in GFR, which doubles by 2 weeks of age and tri-       Most babies regain their birth weight between 7
+ples by 4 weeks of age. However, it takes approxi-     and 10 days of age. The reduction in pulmonary
+mately 1–2 years for adjusted GFR values to reach      vascular resistance and increase in pulmonary
+adult levels. This increase in GFR is a conse-         venous return after birth stimulates release of
+quence of greater glomerular surface area as well      atrial natriuretic peptide (ANP), thus contrib-
+as renal maturation and growth. At birth, the          uting to diuresis and contraction of the ECF
+kidneys only receive a small percentage (2.5–4%)       volume. Early and excessive administration of
+of cardiac output. This increases over the first few   sodium and water before this period of diure-
+weeks of life to 15–18% of cardiac output. For         sis/natriuresis has occurred may contribute to
+comparison, renal perfusion accounts for 20–25%        hypervolaemic (dilutional) hyponatraemia.
+of cardiac output in adults.                           This poses an increased risk of morbidity and
+   Serum creatinine is an unreliable marker            mortality in neonates compared with regimens
+of renal function in neonates because it freely        where water and sodium intake is restricted in
+crosses the placental barrier and maternal cre-        the first few days of life.
+atinine is present in the neonate’s circulation.           Due to tubular immaturity, the maximal urine
+Furthermore, there is a variable degree of proxi-      concentrating ability of the kidney in new born
+mal tubular reabsorption of creatinine in the          infants is impaired (up to 600–800 mOsmo/
+immature kidneys.                                      kg). Neonates therefore produce large volumes
+   The low GFR in neonates is of considerable          of dilute urine, typically at a rate of 2–3 mL/kg/
+relevance to clinical management, especially           hour. The concentrating ability of the kidneys
+when interpreting laboratory results and cal-          increases rapidly over the first 2 months and
+culating fluid requirements and drug dosages.          continues to increase at a slower rate thereafter.
+This is particularly important in sick premature       The limited concentrating ability of the kidney
+infants. Although the neonatal kidney can cope         reflects a reduced responsiveness of the kidneys
+with many physiological demands, its functional        to antidiuretic hormone (vasopressin) and an
+reserve is limited and may be overwhelmed by           inability to maintain a corticomedullary osmotic
+some of the stresses commonly encountered in           gradient (partially because the tubules them-
+the neonatal period.                                   selves are small). Neonates can usually respond
+                                                       to a hypotonic fluid load by initially producing a
+                                                       greater volume of dilute urine but have difficulty
+Fluid and Water Homeostasis                            in producing more concentrated urine thereaf-
+                                                       ter. Neonates are therefore easily predisposed to
+In early fetal life, water constitutes approximately   dehydration.
+90% of body weight, and the extracellular fluid
+(ECF) represents 60% of body weight. During            Sodium Homeostasis
+fetal development there is contraction of the ECF
+volume so that by term, 75% of body weight is          Total body sodium content is higher in neo-
+composed of water and the ECF volume consti-           nates, infants and young children. A positive
+tutes 40% of body weight. Preterm infants have         sodium balance is essential for normal growth.
+much higher body water composition than those          In healthy neonates the sodium requirement
+born at term.                                          is typically 2–3 mmol/kg/day in the first week,
+   Following delivery, there may be an early           rising to 3–5 mmol/kg/day after the first week.
+phase of oliguria but after 24–48 hours this           In preterm babies, and very low birth weight
+is followed by an acute isotonic volume                infants, the sodium requirement can be two
+                Renal impairment in infancy, childhood and adolescence / Introduction and Definitions 15
+
+
+
+to three-fold higher as a result of reduced abil-        feeding and growth impairment. Bicarbonate
+ity of the immature renal tubules to reabsorb            supplementation may therefore be required with
+sodium combined with the additional sodium               the aim of maintaining serum bicarbonate level
+requirements for growth. The use of diuret-              above 17 mmol/L.
+ics may also increase sodium and potassium
+excretion leading to increased requirement for
+supplementation.
+                                                          RENAL IMPAIRMENT IN
+Potassium Homeostasis                                     INFANCY, CHILDHOOD
+                                                          AND ADOLESCENCE
+Tubular excretion of potassium in neonates dif-
+fers from infants and older children. Their renal
+clearance of potassium is reduced even after cor-        Introduction and Definitions
+rection is made for their lower GFR. The combi-
+                                                         Renal impairment may be congenital or acquired,
+nation of reduced renal clearance and increased
+                                                         and is classified as either acute kidney injury
+intestinal absorption of potassium puts neonates
+                                                         (AKI) or chronic kidney disease (CKD).
+into a net positive potassium balance. In term
+infants, potassium levels usually fall rapidly in
+the first week of life whereas preterm infants           Acute kidney injury (AKI)
+experience a gradual rise the serum potassium
+which reaches a maximum around the third to              AKI has now superseded the term acute renal
+fourth weeks of life. Elevated serum potassium           failure (ARF). It is characterised by a sudden,
+levels may be a consequence of hypoxia, meta-            potentially reversible reduction in kidney func-
+bolic acidosis, catabolic stress, oliguric renal fail-   tion which is typically accompanied by a rise in
+ure and inadequate excretion by the immature             serum creatinine. AKI is usually associated with
+distal nephron. The daily potassium requirement          a decrease in urine output but polyuria may also
+in a healthy neonate is typically 1–2 mmol/kg/           occur. Different classification systems exist for
+day in the first week, rising to 2–3 mmol/kg/day         AKI including the Kidney Disease Improving
+thereafter.                                              Global Outcomes (KDIGO) 2012 (Table 2.1) and
+                                                         pRIFLE (Table 2.2) classification systems. The
+Acid-Base Homeostasis                                    pRIFLE system is used to identify children with
+                                                         AKI and those at risk of renal impairment. The
+Due to tubular immaturity, neonates are unable           different categories have been found to correlate
+to adequately acidify their urine and their blood
+is therefore relatively acidotic. This may be a
+                                                          Table 2.1 KDIGO 2012 AKI classification
+mixed respiratory and metabolic acidosis, and is
+usually accompanied by cardiopulmonary com-                           Measured serum       Urine ouput
+pensation. The renal threshold for bicarbonate            AKI stage     creatinine        (mL/kg/hour)
+reabsorption is lower in neonates (18–20 mmol/L)
+                                                              1       >1.5–1.9 times      <0.5 for 6–12
+but this rises to 24–26 mmol/L by 1 year of age
+                                                                        baseline            hours
+as the renal acidification mechanism develops.
+                                                                        creatinine
+Because excessive administration of sodium
+                                                              2       2–2.9 times         <0.5 for ≥12
+chloride can contribute to a hyperchloraemic
+                                                                        baseline            hours
+metabolic acidosis the sodium content of total
+                                                                        creatinine
+parenteral nutrition (TPN) is therefore often
+                                                              3       ≥3 times baseline   <0.3 for
+given in the form of sodium acetate, a base,
+                                                                        creatinine          ≥24 hours
+rather than sodium chloride. Prolonged acido-
+                                                                                            or anuric for
+sis in the neonate and infant (e.g. secondary to
+                                                                                            12 hours
+CKD) should be avoided as this can lead to poor
+16 Renal Development and Dysfunction
+
+
+
+ Table 2.2 pRIFLE classification                        Table 2.3 CKD staging
+
+                                   Urine output                  GFR (mL/min/
+ Category      Estimated GFR       (mL/kg/hour)         Stage      1.73 m2)     Description
+ Risk         Decrease by 25%  <0.5 for                     1        >90        Kidney damage but
+                from baseline    8 hours                                          normal renal
+ Injury       Decrease by      <0.5 for                                           function
+                50%              16 hours                   2       60–89       Kidney damage with
+ Failure      Decrease by 75%  <0.3 for                                           mild loss of renal
+                or <35 mL/       24 hours or                                      function
+                min/1.73 m2      anuric for                 3a      45–59       Mild to moderate loss
+                                 12 hours                                         of renal function
+ Loss      Renal failure for >4 weeks                       3b      30–44       Moderate to severe
+ End-stage Renal failure >3 months                                                loss of renal function
+                                                            4       15–29       Severe loss of renal
+                                                                                  function
+with morbidity and mortality outcomes. The man-
+                                                            5        <15        End-stage kidney
+agement of AKI includes: identifying and avoiding
+                                                                                  disease
+the causative agent(s), avoiding exposure to other
+potential nephrotoxic agents and careful fluid
+management with supportive measures to cor-            of the kidney and urinary tract account for
+rect electrolyte disturbance. In severe cases, renal   around 30% of all congenital anomalies and
+replacement therapy may be required to facilitate      are more common in certain ethnicities, par-
+clearance of waste products and fluid removal.         ticularly in African Americans and Australian
+                                                       aboriginals.
+Chronic kidney disease (CKD)                              Some patients with CKD may have stable
+                                                       renal function for several years and there may
+The Kidney Disease Improving Global Outcomes           even be some improvement in their GFR, par-
+(KDIGO) guidelines define CKD as the presence          ticularly over the first 4 years of life. However,
+of kidney damage, either functional or structural,     they typically experience a decline in GFR with
+exceeding 3 months duration. Table 2.3 lists the       puberty.
+different CKD stages.
+                                                       Aetiology of CKD
+Epidemiology of CKD
+                                                       Primary causes of CKD differ significantly in
+The true incidence of CKD in childhood is              children compared with adults. The main aeti-
+unknown. Figures of 2 to 16 per million of age-        ologies are:
+related population (pmarp) per year are quoted
+depending on different national registry data.         ●● Congenital anomalies of the kidney and uri-
+However, this is probably an underestimate                nary tract (CAKUT) (49.1%)
+because the early stages of CKD are usually            ●● Steroid-resistant nephrotic syndrome (10.4%)
+
+asymptomatic. Many patients with CKD may not           ●● Chronic glomerulonephritis – e.g. in lupus
+
+present until later in childhood or adolescence –         nephritis, Henoch–Schönlein nephritis, and
+or until they reach adulthood.                            Alport syndrome (8.1%)
+   The incidence and prevalence of CKD are             ●● Renal ciliopathies such as nephronophthisis
+
+higher in males because they have a higher                (5.3%)
+incidence of congenital anomalies of the kidney
+and urinary tract (CAKUT) – which is the com-          Rarer causes of CKD include haemolytic uraemic
+monest cause of CKD. Congenital anomalies              syndrome (HUS) and malignancy such as Wilms
+          Renal impairment in infancy, childhood and adolescence / Outcomes for Patients with CKD 17
+
+
+
+tumour. Prematurity is being increasingly rec-        when it is in steady state and rapid fluctuations
+ognised as a risk factor for CKD and rising rates     in serum creatinine may make it an unreliable
+of childhood obesity are associated with early        way of estimating GFR.
+type 2 diabetes mellitus and consequent diabetic          Children with low muscle mass may have low
+nephropathy.                                          serum creatinine values which are not an accu-
+   Renal replacement therapy is usually               rate reflection of their true GFR.
+required once stage 5 CKD (end-stage kidney               The gold standard measurement of GFR is by
+disease [ESKD]) is reached. Pre-emptive living        inulin clearance. This requires injection of an
+donor (LD) kidney transplantation is consid-          intravenous bolus of inulin followed by a con-
+ered the gold standard of treatment for ESKD.         tinuous infusion with subsequent measurement
+Ideally patients should undergo transplanta-          of serum and urine inulin levels. This test is
+tion before they reach the point of requiring         impractical in the clinical setting, particularly for
+dialysis. However, this is challenging and many       children who are not toilet trained and for those
+patients experience deterioration in renal func-      with voiding difficulties. Clearance of radioac-
+tion before a donor can be found. Alternatively,      tive isotopes, such as 51Cr[EDTA], can be used to
+they may present acutely with ESKD which              measure GFR but this requires serial serum sam-
+necessitates the need for acute dialysis. The GFR     ples to be taken and exposure to radioisotopes –
+in early childhood is a predictor of the likely       which is undesirable. The use of iohexol serum
+requirement for renal replacement therapy by 20       clearance is a promising alternative to inulin and
+years of age.                                         radioisotopes for GFR determination but remains
+                                                      expensive and is not in widespread use.
+●● GFR 51–75 mL/min/1.73 m2 – 37% likelihood              Cystatin C measurement may be of use in
+   of renal replacement therapy                       children with low muscle bulk in whom calcula-
+●● GFR 25–50 mL/min/1.73 m 2 – 70% likelihood         tions based on serum creatinine are unreliable.
+   of renal replacement therapy                       Cystatin C is a small protein produced from
+●● GFR <20 mL/min/1.73 m 2 – 97% likelihood of        all nucleated cells and is readily filtered via the
+   renal replacement therapy                          glomeruli. As such, it is not affected by muscle
+                                                      mass.
+                                                          The modified Schwartz formula is frequently
+Assessment of Renal Function                          used as a creatinine-clearance estimate of GFR
+in Children                                           in paediatrics, although the aforementioned
+                                                      considerations need to be taken into account.
+Although measurement of serum creatinine is           However, the formula lacks validation the range
+widely used to assess renal function it has sev-      of GFR values of 15–75 mL/min/1.73m2. The for-
+eral limitations. Creatinine is a breakdown           mulae, adapted for different units of creatinine,
+product of creatinine phosphate in muscle             are listed below:
+and is produced at a rate of 10–25 mg/kg/day
+(90–210 µmol/kg/day). Serum creatinine val-           ●● eGFR (mL/min/1.73 m2) = 0.413 × height
+ues rise with growth and increasing muscle               (cm)/serum creatinine (mg/dL)
+                                                      ●● eGFR (mL/min/1.73 m 2) = 36.5 × height (cm)/
+mass. After the neonatal period, creatinine is
+freely secreted via the renal tubules with only          serum creatinine (µmol/L)
+minimal reabsorption. When renal function is
+impaired, however, the ability of the tubules to
+secrete creatinine is reduced and serum values        Outcomes for Patients with CKD
+rise. Saturation of tubular secretion of creatinine
+may not occur until GFR has fallen by 50% with        CKD is associated with reduced life expec-
+the result that reliance on creatinine values may     tancy, with cardiovascular risk being increased
+result in an overestimate of GFR. Furthermore,        even for patients in the early stages of CKD.
+creatinine can only be used to estimate GFR           Cardiovascular disease is the main cause of
+18 Renal Development and Dysfunction
+
+
+
+death for patients with ESKD. Survival rates         2. Dietary phosphate restriction and the use of
+for children and young people on dialysis, and          phosphate binding medications, e.g. calcium
+post-transplant, continue to increase, albeit at a      acetate, calcium carbonate and Sevelamer.
+relatively slow rate. The lifespan of patients on       These need to be taken at mealtimes to pro-
+chronic dialysis is reduced by 40–60 years and by       mote intestinal excretion of phosphate.
+20–30 years for renal transplant recipients.         3. Supplementation with alfacalcidol (a vitamin
+                                                        D analogue) or calcitriol to suppress PTH
+                                                        if control cannot be achieved by dietary
+                                                        restriction alone.
+ COMPLICATIONS OF CHRONIC                            4. The use of cinacalcet (a calcimimetic agent
+ KIDNEY DISEASE                                         that mimics the action of calcium on tissues
+                                                        via activation of the calcium-sensing recep-
+Chronic Kidney Disease-Mineral                          tors) for patients with refractory secondary
+and Bone Disorder (CKD-MBD)                             hyperparathyroidism and those at risk of
+                                                        tertiary hyperparathyroidism.
+CKD-MBD (previously referred to as ‘renal
+osteodystrophy’) is a systemic disorder which        Anaemia
+results from impaired vitamin D metabolism
+and secondary hyperparathyroidism. In CKD,           Anaemia is common in children with CKD and
+the kidneys produce less 1-alpha hydroxylase,        it may affect their neurocognitive ability, exer-
+the enzyme required to convert 25-hydroxyvi-         cise tolerance and cardiovascular status (e.g.
+tamin D (calcidiol) to its active form, 1,25 dihy-   increased risk of left ventricular hypertrophy). The
+droxyvitamin D3 (calcitriol). Low calcitriol         ideal h­ aemoglobin level for children with CKD
+levels result in reduced calcium absorption from     is debated but evidence suggests that outcomes
+the gut and reduced renal calcium reabsorption.      are not improved above a haemoglobin level of
+Coupled with hyperphosphataemia (resulting           13 g/dL. The reported prevalence of anaemia is
+from reduced renal excretion of phosphate) this      73% for stage 3 CKD, 87% for stage 4 and >93%
+stimulates increased secretion of parathyroid        for stage 5. Anaemia in CKD is caused predomi-
+hormone (PTH) from the parathyroid glands.           nantly by decreased renal erythropoietin produc-
+Secondary hyperparathyroidism results in             tion and impaired physiological regulation of iron.
+increased bone resorption and impaired oste-         Recombinant human erythropoietin (rHuEPO)
+oid mineralisation. Bones are weakened and           is almost invariably required in the latter stages
+there may be radiological evidence of rickets.       of CKD, and can be used safely in children on
+If untreated, secondary hyperparathyroidism          dialysis. It can be administered either subcuta-
+can cause bone pain and an increased risk of         neously or intravenously. Younger children typi-
+fractures and slipped epiphyses. Measurement         cally require higher doses of rHuEPO than adults.
+of intact PTH levels serves as a marker of           Iron supplementation, either administered orally
+active bone disease and can be used to monitor       or intravenously, is also required and iron stores
+response to treatment. The aims of treatment are     should be monitored closely to avoid iron overload.
+to normalise bone metabolism, improve bone
+strength and growth, reduce the risk of bony         Growth, Nutrition and
+deformity, and also reduce the risk of vascular      Development
+calcification (by maintaining serum calcium
+levels within a normal range).                       Growth impairment is a common and visible
+   Management of CKD-MBD (renal osteodys-            complication of CKD. In a study of 5000 children
+trophy) includes:                                    with CKD it was found that 35% had a height
+                                                     which was lower than the third percentile (or
+ 1. Correction of acidosis using medications         below a median height standard deviation score
+    such as sodium bicarbonate.                      [HtSDS] of –1.88). Factors limiting the growth of
+                                                        Renal replacement therapy / Peritoneal Dialysis 19
+
+
+
+children with CKD include disorders of mineral          a concentration gradient across the peritoneal
+and bone metabolism, polyuria, metabolic aci-           membrane via diffusion, and the transfer of water
+dosis, poor nutritional intake, anaemia and fluid       occurs by osmosis. In addition, the ‘ultrafiltra-
+and electrolyte disorders. Uraemia may cause            tion’ of water across the peritoneal membrane is
+anorexia and vomiting with a consequent reduc-          accompanied by ‘solvent drag’ which results in the
+tion in nutritional intake. For this reason naso-       transfer of solutes across the peritoneal membrane
+gastric or gastrostomy feeding may be required in       even when a concentration gradient is not present.
+order to maximise caloric intake. Protein intake           Commercial dialysate solutions are typically
+should be maintained above the recommended              available with dextrose concentrations of 1.5%,
+reference nutrient intake to ensure adequate            2.5% and 4.25%. By increasing the osmotic gradi-
+growth. However, protein intake should be no            ent across the peritoneal membrane, higher dex-
+higher than 120% of daily recommended intake            trose concentrations usually have a greater ability
+in children with stage 4–5 CKD or 100% of daily         to remove fluid. However, the long-term use of
+recommended intake for children on dialysis.            hypertonic dialysate solutions results can result
+    Recombinant human growth hormone (rhGH)             in peritoneal fibrosis and impaired function due
+should be considered if the child’s height and/         to chronic exposure of the peritoneal membrane
+or growth velocity remain significantly reduced         to glucose degradation products (GDPs).
+despite optimal nutritional and dialysis status,           The main PD regimens are:
+correction of metabolic acidosis and reduction of
+steroid therapy to a minimum.                           ●● Continuous ambulatory peritoneal dialysis
+    Standard childhood vitamin supplements                 (CAPD). Fluid is manually instilled into the
+should not routinely be prescribed for CKD patients        peritoneal cavity and then drained from it –
+because of adverse effects related to increased            typically up to four times per day. Fluid is
+intake of Vitamin A. Special multivitamin supple-          also instilled overnight and drained in the
+ments are available for patients on dialysis.              morning. In practice, CAPD is rarely used in
+    Hyperkalaemia occurs when GFR has declined             children
+to less than 10% of normal. This is mainly related      ●● Automated peritoneal dialysis (APD) (Figure 2.1)
+
+to dietary intake but other contributory factors
+include: reduced caloric intake, acidosis, and the      An automated PD cycler machine is used to
+use of certain antihypertensives (e.g. ACE inhibi-      deliver a personalised programme of dialysis over
+tors) and potassium-sparing drugs (e.g. spirono-        a certain number of cycles and hours. Children
+lactone, amiloride). Hyperkalaemia can often be         receiving this form of dialysis are either managed
+managed with dietary restriction but treatment          by nocturnal intermittent PD (NIPD) or continu-
+with agents such as calcium resonium or sodium          ous cycling PD (CCPD).
+resonium may also be required.
+                                                        ●● NIPD: This consists of an overnight regimen,
+                                                           with PD being performed while the young
+                                                           patient is asleep. The peritoneal cavity is left
+ RENAL REPLACEMENT                                         empty during the day.
+ THERAPY                                                ●● CCPD: This involves a combination of over-
+
+                                                           night PD and day time filling.
+                                                        ●● Adapted APD (AAPD): Some machines offer
+Peritoneal Dialysis
+                                                           more flexible control of dwell times and fill vol-
+Peritoneal dialysis (PD) is usually the best form of       umes overnight to promote sodium removal.
+renal replacement therapy for children on chronic       ●● Tidal PD: In this variant only a proportion of
+
+dialysis. The major benefit of PD is that it can be        the fill volume (usually 50–80%) is drained with
+performed at home. PD relies on the principles of          each cycle during the overnight PD regimen.
+diffusion and osmosis. Sterile dialysate is instilled      This may be indicated in children who experi-
+into the peritoneal cavity. Solutes move along             ence discomfort/pain with drainage of PD.
+20 Renal Development and Dysfunction
+
+
+
+
+Figure 2.1 Compact peritoneal dialysis machine for automated overnight home dialysis.
+
+The efficiency of PD is dependent on the integrity       the principles of both diffusion and convection.
+of the peritoneal membrane and the ease with             Removal of water is due mainly to hydrostatic
+which the PD catheter allows the instillation and        pressure across the dialyser membrane (ultrafil-
+drainage of fluid in and out of the peritoneal cavity.   tration) while waste products are mostly removed
+                                                         from the circulation by via diffusion. Convection
+Infection                                                relies on the principle of solvent drag. It is inde-
+                                                         pendent of the concentration gradient across the
+If peritonitis is suspected, a PD fluid sample           dialysis membrane but is dependent on both the
+should be collected as soon as possible and be           dialyser and the rate of ultrafiltration.
+sent for cell count and bacterial/fungal culture.            Patients requiring acute in-centre HD usu-
+Treatment with intraperitoneal and/or intrave-           ally attend 3–4 times a week for sessions lasting
+nous antibiotics is commenced it there is an ele-        between 3 and 4 hours. Some centres offer noctur-
+vated white cell count (>100 WBC × 106/L) in the         nal in-centre dialysis whereby the dialysis time can
+PD effluent or the presence of peritonitis is con-       be maximised whilst the patient is asleep. The use
+firmed on positive culture. Appropriate antifun-         of home HD is increasing and has been demon-
+gal coverage (usually with oral anti-fungal agent)       strated to have many benefits including increased
+may also be indicated.                                   opportunities to attend school, improved cardio-
+   Indications for removal of a PD catheter include:     vascular outcomes, improved blood pressure con-
+                                                         trol and reduced requirement for antihypertensive
+●● Recurrent bacterial peritonitis with the same         medications. It also offers improved growth and
+   organism within 4 weeks of stopping therapy           energy levels, and improved quality of life.
+   (particularly Pseudomonas infection as this is            New HD machines have been designed for
+   difficult to eradicate)                               small infants requiring intermittent HD. One such
+●● Refractory catheter infections                        machine can be used in infants weighing between
+●● Exit-site and PD catheter tunnel infections           2.5 and 10 kg whilst another machine is suitable
+   with an organism which is also responsible            for use in infants weighing as little as 800 g.
+   for concurrent peritonitis, or which then leads           Vascular access for acute HD typically requires
+   to peritonitis                                        the insertion of a temporary double lumen cath-
+●● Fungal peritonitis                                    eter (e.g. Vascath) (Figure 2.2). Chronic HD is
+●● Severe peritonitis leading to septic shock            performed via a tunnelled double lumen cath-
+                                                         eter (e.g. Permcath) or an arteriovenous fis-
+Haemodialysis                                            tula. Fistulas are often preferable because of the
+                                                         lower risk of catheter-related infection. However,
+Haemodialysis (HD) is more efficient for solute          the disadvantages of fistulas include the delay
+clearance and can be used in the acute setting           of around 6 weeks before they can be used and
+to rapidly remove large volumes of fluid (e.g. in        the requirement for the child to co-operate with
+patients with pulmonary oedema). HD works on             repeated needle punctures.
+                                                    Renal replacement therapy / Kidney Transplantation 21
+
+
+
+                                                         comprises steroids, and either basiliximab (an
+                                                         anti-CD25 monoclonal antibody) or antithy-
+                                                         mocyte globulin. Following renal transplanta-
+                                                         tion the immunosuppressive regimen usually
+                                                         includes a calcineurin inhibitor (e.g. tacrolimus)
+                                                         and an antiproliferative agent (e.g. mycopheno-
+                                                         late mofetil) with or without corticosteroids.
+                                                            The complications and potential adverse long-
+                                                         term effects of transplantation include:
+
+Figure 2.2 Haemodialysis via subclavian vascu-           ●● Infection. Immunosuppression may allow
+lar access catheter.                                        proliferation of Epstein–Barr virus (EBV),
+                                                            cytomegalovirus (CMV) and BK virus (BKV).
+   Haemodiafiltration (HDF) is a modality which             Screening for EBV should be performed prior
+provides more effective removal of middle-sized             to transplantation. Proliferation of EBV may
+molecular weight molecules and has been proven              increase the risk of post-transplant lympho-
+to improve long-term cardiovascular outcomes.               proliferative disorder (PTLD) – which may
+However, there are a number of limitations to its           range in severity from benign enlargement of
+use and HDF is only provided by a few paediatric            tissues or an organ to classical Hodgkin lym-
+nephrology centres at present.                              phoma-type PTLD. Patients are particularly
+   Continuous renal replacement therapy (CRRT)              at risk of Pneumocystis jirovecii pneumonia
+involves an extracorporeal circuit similar to inter-        in the first 6 months post-transplant and co-
+mittent HD and is typically used in the intensive care      trimoxazole prophylaxis is often prescribed
+setting. CRRT is the modality of choice for patients        during this time period.
+who are haemodynamically unstable as it generally        ●● Immunisation risks. Any immunisations
+avoids causing rapid fluid shifts which may precipi-        with live vaccines should be given prior to
+tate drops in blood pressure or cardiac output.             transplantation. Thereafter, children with a
+                                                            renal transplant should only be immunised
+Kidney Transplantation                                      with inactivated vaccines because of the risk
+                                                            of vaccine-induced disease secondary to
+Kidney transplantation remains the gold stan-               immunosuppression.
+dard for renal replacement therapy. Compared             ●● Acute rejection. This is an important cause
+
+with both PD and HD, renal transplantation pro-             of early graft dysfunction and may be due to
+vides a better quality of life, improved growth             either T-cell mediated rejection or antibody-
+potential and a lower risk of significant compli-           mediated rejection. The diagnosis is made by
+cations. Young children receiving a renal trans-            renal biopsy and identifying donor specific
+plant have the best long-term outcomes of any age           antibodies (DSA) in the recipient’s blood.
+group. The freedom from dietary and fluid vol-           ●● Increased cancer risk. In addition to post-
+
+ume restrictions, as well as the ability to attend          transplant lymphoproliferative disorder,
+school and live a life independent of a dialysis            transplant recipients are known to be at an
+machine benefits both the child and their family.           increased long-term risk of developing skin
+   A living donor (LD) kidney is preferable                 cancer (particularly squamous cell carci-
+because graft survival rates are superior to those          noma) and Kaposi sarcoma.
+obtained with deceased donor (DD) kidneys.               ●● Recurrent disease. Certain conditions, such
+
+To increase the rates of living donation, several           as focal and segmental glomerulosclerosis
+countries have introduced living kidney sharing             (FSGS) have a high risk of recurring in the
+schemes to promote paired donation of kidneys.              transplant kidney. Other conditions carrying
+   An induction regimen of immunosuppres-                   a risk of recurrence include: atypical HUS, C3
+sion is given at the time of transplantation. This          glomerulopathy and dense deposit disease.
+22 Renal Development and Dysfunction
+
+
+●● New onset diabetes after transplantation
+   (NODAT): Impaired glucose tolerance may be               In the absence of a pre-emptive kidney
+   exacerbated by corticosteroids and calcineu-             transplant, patients typically require a
+   rin inhibitors, thus leading to a diabetic state         period of dialysis.
+   requiring treatment with oral antihypergly-           ●● Kidney transplantation does not offer
+
+   caemic agents or insulin. NODAT is known to              a cure for renal failure and an allograft
+   be associated with poorer graft survival.                will have its own life expectancy.
+●● Transition period. The transition period from            Patients with chronic kidney disease
+   paediatric to adult health care services is rec-         are involved in a cycle of dialysis and
+   ognised to be a high-risk period for graft loss,         transplantation for the remainder of
+   primarily due to poor medication adherence               their lives.
+   and risk-taking behaviours. Many centres
+   now offer counselling and education to
+   patients and families and provide specialised      FURTHER READING
+   transition services and clinics.
+                                                      Abitbol CL, DeFreitas MJ, Strauss, J.
+                                                         Assessment of kidney function in pre-
+                                                         term infants: lifelong implications. Pediatr
+     KEY POINTS                                          Nephrol. 2016;31(12):2213–2222.
+                                                      Becherucci F, Roperto RM, Materassi M,
+     ●● The developing kidney has a limited              Romagnani P. Chronic kidney disease in chil-
+        capacity to respond to physiological             dren. Clin Kidney J. 2016;9(4):583–591.
+        insults and damaged nephrons are              Chesayne NC, van Stralen KJ, Bonthuis M,
+        incapable of repair or regeneration.             Harambat J, Groothoff JW, Jager KJ.
+        Careful management of fluid and elec-            Survival in children requiring chronic renal
+        trolyte balance is particularly impor-           replacement therapy. Pediatr Nephrol.
+        tant in sick or compromised infants.             2018;33:585–594.
+     ●● Chronic kidney disease in children is         Mumford L, Maxwell H, Ahmad N, Marks SD,
+        rare and may not be diagnosed until it           Tizard J. The impact of changing practice
+        is relatively advanced because the early         on improved outcomes of paediatric renal
+        stages are typically asymptomatic. Its           transplantation in the United Kingdom: a 25
+        management is complex and demands                years review. Transpl Int. 2019;32(7):751–761.
+        the expertise of a skilled multidisci-        North American Paediatric Renal Trials and
+        plinary team.                                    Collaborative Studies. NAPRTCS 2014
+     ●● Chronic kidney disease is associated             Annual Transplant Report. 2014. http://
+        with many complications that may                 naprtcs.org/system/files/2014_annual_­
+        have an adverse impact on quality of             transplant_report.pdf
+        life. Skilled nutritional and medical         Rees L, Bockenhauer D, Webb NJA, Punaro MG.
+        management are important in helping              Paediatric Nephrology, 3rd Edition. Oxford:
+        to reduce morbidity.                             Oxford University Press; 2019.
+     ●● Renal transplantation is the treatment        Watson AR, Harden P, Ferris M, Kerr PG, Mahan
+        of choice for end-stage kidney disease           J, Ramzy MF. Transition from paediatric to
+        in children as it confers improved               adult renal services: a consensus statement
+        survival and better quality of life.             by the International Society of Nephrology
+        Living donation is preferred over                (ISN) and the International Paediatric
+        deceased donation for the same reason.           Nephrology Association (IPNA). Pediatr
+                                                         Nephrol. 2011;26(10):1753–1757.

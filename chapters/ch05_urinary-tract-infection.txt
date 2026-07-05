@@ -1,0 +1,617 @@
+                                                                                             5
+Urinary Tract Infection
+
+STUART J O’TOOLE
+
+
+Topics covered
+
+Epidemiology of childhood urinary infection        Age differences
+Pathogenesis                                       Upper and lower tract infection
+Infecting organisms                                Investigation
+Host factors                                       NICE guidelines
+Diagnosis                                          International guidelines
+Specimen collection, urine analysis                Management
+Clinical features
+
+
+
+
+ INTRODUCTION                                      being referred for investigation. Standard pro-
+                                                   tocols for the investigation and management
+                                                   of childhood UTI often dated from a time
+Urinary tract infection (UTI) is one of the
+                                                   when children referred for investigation were
+commonest disorders of childhood, affecting
+                                                   those with more severe infection. As a conse-
+an estimated 82 000 children a year in the UK.
+                                                   quence, many children with mild, lower tract
+A UTI may be the first indication of signifi-
+                                                   UTIs have been subjected to unnecessary (and
+cant underlying pathology of the urinary tract
+                                                   costly) invasive investigations. To address these
+which may require treatment to prevent ongo-
+                                                   concerns, healthcare organisations across the
+ing or future renal damage. Diagnosing UTI
+                                                   developed world have produced evidence-
+in young infants can be problematic because
+                                                   based guidelines on a selective approach to
+the clinical features are often non-specific and
+                                                   diagnostic imaging and recommendations on
+reliable urine samples are difficult to obtain.
+                                                   management. The published guidelines vary
+Nevertheless, greater awareness of the impor-
+                                                   significantly – reflecting different healthcare
+tance and prevalence of UTI in children cou-
+                                                   philosophies. Those published in the UK place
+pled with the availability of sensitive dipstick
+                                                   greater emphasis on the benefit to the popula-
+reagent strips has led to UTIs being detected
+                                                   tion and costs to the healthcare system whereas
+on a far greater scale than in the past. In turn
+                                                   guidelines published in North America place
+this has led to many more children with mild
+                                                   greater emphasis on the individual child.
+or asymptomatic lower tract urinary infections
+
+                                                                                                 55
+56 Urinary Tract Infection
+
+
+
+ Table 5.1 The age-related incidence of urinary       other organs – e.g. vesico intestinal and genito-
+ tract infection in boys and girls                    urinary fistulae. However, the overwhelming
+                                                      majority are “ascending infections” in which bac-
+ Age (years)          Boys (%)         Girls (%)
+                                                      teria which have colonised the perineum or pre-
+ <1                      1.0              0.8         putial sac gain access to the lower urinary tract
+ <3                      2.2              2.1         via the urethra. Whether these bacteria go on to
+ <7                      2.8              8.2         produce an established infection once they have
+ <16                     3.6             11.3         entered the lower urinary tract is determined
+ Lifetime               13.7             53.1         by the interplay of a number of factors set out in
+                                                      Figure 5.1. The concept of organisms multiply-
+                                                      ing within bladder urine is largely inaccurate
+ EPIDEMIOLOGY                                         and research has shown that bacterial replication
+                                                      occurs predominantly at an intracellular level,
+                                                      with organisms being shed into the urine from
+The true incidence of UTI in children is far          infected urothelial cells.
+higher than was previously thought. In the 1960s,
+this was put at 0.02% for boys and 0.04% for girls,
+whereas current estimates have increased 20-fold      Organisms
+(Table 5.1). In the first 12 months of life urinary
+infections occur more commonly in boys but            Escherichia coli is responsible for around 85% of
+thereafter (and particularly above 3 years of age)    UTIs. The fimbriated forms of E. coli have the
+UTIs affect predominantly girls.                      ability to adhere to receptors on the urothelial
+                                                      surface and are therefore particularly effective at
+                                                      colonising the urinary tract. P-fimbriated E. coli
+ PATHOGENESIS OF URINARY
+                                                      are particularly potent pathogens because of their
+ TRACT INFECTION                                      adherence properties. Other common infecting
+                                                      organisms, in approximately descending order
+UTIs occasionally result from haematogenous           of frequency, are Proteus vulgaris, Klebsiella,
+spread or the direct transmission of bacteria from    Enterobacter and Pseudomonas.
+
+
+
+
+Figure 5.1 Host and pathogen factors involved in the pathogenesis of UTI in children.
+                                     Laboratory diagnosis of urinary tract infection / Urine Collection 57
+
+
+
+Urinary Stasis                                        urinary infection. Nevertheless, although routine
+                                                      neonatal circumcision is not a cost-effective mea-
+There is a substantial body of clinical experi-       sure for preventing UTIs in boys with normal
+ence which indicates that the risk of UTI is sig-     urinary tracts there is growing evidence that cir-
+nificantly increased by factors which impede          cumcision reduces the risk of UTI in boys with
+the clearance of bacteria from the urinary tract.     underlying urological abnormalities such as pos-
+These include; urinary stasis due to obstruction,     terior urethral valves and high grade VUR.
+vesico ureteric reflux (VUR) and incomplete
+bladder emptying (due to outflow obstruction or
+dysfunctional voiding).
+
+                                                       LABORATORY DIAGNOSIS OF
+Anatomical Abnormalities                               URINARY TRACT INFECTION
+Because many more children with mild, lower
+tract infections are being referred for investiga-    Urine Collection
+tion than in the past, the relative proportion with
+significant underlying urological abnormalities       “Clean catch” midstream
+has decreased from a historical figure of around      urine sample
+30% to closer to 10%. Even when anomalies are
+identified on investigation many are of limited       A midstream urine (MSU) sample yields the most
+clinical relevance. Examples include; minor           reliable results. Children who are toilet-trained
+grades of VUR, incomplete duplication anoma-          can usually cooperate with this method of collec-
+lies and anomalies of renal ascent and fusion.        tion. For infants and children unable to provide
+Dysfunctional voiding characterised by infre-         a midstream specimen, the non-invasive alterna-
+quent toileting and impaired bladder emptying         tives include:
+(particularly in girls) is a far more common pre-
+disposing cause of UTIs than anatomical abnor-        ●● Adhesive collection bags attached around
+malities of the urinary tract.                           the genitalia. This is the simplest and most
+                                                         commonly used method of collecting urine
+                                                         specimens in the very young. However, the
+Host Susceptibility                                      results are only reliable if appropriate precau-
+                                                         tions have been taken to avoid contamination
+Many host factors can increase a child’s suscep-         and if the voided specimen is sent promptly
+tibility to urine infection. Premature infants are       for culture.
+at greater risk (although breast-feeding appears      ●● Absorbent urine collection pads placed
+to confer some protection). Other host factors           inside the nappy. In this method, urine
+linked to susceptibility or resistance to UTI            which has soaked into the pad is aspirated
+include immunoglobulin A (IgA) secretion and             with a syringe and sent for microscopy
+blood group secretor status. The presence of a           and culture. Cotton wool balls may also be
+foreskin is an undoubted risk factor – particularly      used but are less reliable. Contamination is
+in the first year of life. The incidence of urinary      common.
+infection is 10–20 times higher in uncircumcised
+boys than their circumcised peers. Although
+the increased risk of urinary infection in uncir-     Invasive techniques
+cumcised boys has been cited as one of the jus-
+tifications for routine neonatal circumcision, the    ●●   Suprapubic needle aspiration is the ideal
+findings of large population-based studies indi-           method of collection in sick infants in whom
+cate that over 100 boys would need to be circum-           an urgent diagnosis is required. The proce-
+cised in order to prevent one boy from developing          dure should be performed under ultrasound
+58 Urinary Tract Infection
+
+
+
+   guidance, once it has been confirmed that            A positive result for protein does not denote infec-
+   there is urine in the bladder.                       tion. A trace of proteinuria is a common finding
+●● Urethral catheterisation is distressing and is       and is not a cause for concern. Heavier proteinuria
+   rarely appropriate for this purpose.                 may, however, signify renal disease and referral to
+                                                        a paediatric nephrologist should be considered if
+Although it is always preferable to obtain a urine      this is confirmed on a further test.
+sample before commencing treatment, there may
+be situations (e.g. a severely ill infant) when it is
+justifiable to commence antibiotic treatment even       Urine Microscopy
+if a urine sample cannot be obtained.
+                                                        When performed on a fresh uncentrifuged sample
+                                                        of urine, microscopy can be very useful in facili-
+                                                        tating a prompt diagnosis and enabling treatment
+Urine Storage and Transport                             to be commenced without awaiting the results of
+                                                        culture. Results are generally expressed as abso-
+Once collected, the specimen should ideally be
+                                                        lute values or counts per high-powered field.
+cultured within 4 hours to minimise the risk
+                                                        Significant pyuria is defined as >10 WBC/mm3.
+of contaminating organisms multiplying and
+                                                        The concentration of motile bacteria can also be
+yielding a false-positive result. If this is not fea-
+                                                        quantified, with 107 bacteria per ml being deemed
+sible (e.g. in children presenting outside working
+                                                        significant. This figure corresponds to eight
+hours), the sample can be refrigerated for up to
+                                                        organisms per high-powered field. The interpre-
+24 hours at +4.0°C or transferred to a vessel con-
+                                                        tation of microscopy findings is summarised in
+taining boric acid preservative.
+                                                        Table 5.2.
+
+
+Urine Dipsticks                                         Urine Culture
+The introduction of urine dipsticks with leuco-         Provided the urine sample is uncontaminated,
+cyte esterase and nitrite reagents has been instru-     the criterion for the bacteriological diagnosis of
+mental in facilitating the earlier diagnosis of         urinary infection is a pure growth of >105 bacterial
+UTI. Guidelines published by the UK’s National          colony-forming units (CFUs) per ml. However, in a
+Institute of Clinical Excellence make the follow-       specimen which has been obtained by suprapubic
+ing recommendations:                                    aspiration, any growth of a Gram-negative organ-
+                                                        ism is significant, as is a growth of greater than
+●● Leucocyte esterase and nitrite both                  >500–1000 Gram-positive organisms. Following
+   positive = definite evidence of UTI. Antibiotic
+   treatment should be commenced.
+●● Leucocyte esterase negative, nitrite positive =
+                                                        Table 5.2 Interpretation of microscopy findings
+   presumptive evidence of UTI. Antibiotic treat-        Microscopy         Pyuria             Pyuria
+   ment should be commenced and a urine sample             results         positive           negative
+   sent for culture.
+●● Leucocyte esterase positive, nitrite
+                                                        Bacteriuria     The infant or      The infant or
+                                                          positive        child should       child should
+   negative – a urine sample should be sent for
+                                                                          be regarded        be regarded
+   microscopy and culture but antibiotic treat-
+                                                                          as having UTI      as having UTI
+   ment should not be commenced unless there
+                                                        Bacteriuria     Antibiotic         The infant or
+   is good clinical evidence of UTI.
+●● Leucocyte esterase negative, nitrite
+                                                          negative        treatment          child should
+                                                                          should be          be regarded
+   negative = negative result. Antibiotic treatment
+                                                                          started if         as not
+   should not be started. Nor is it necessary for
+                                                                          clinically UTI     having UTI
+   urine to be sent for microscopy and culture.
+                                                  Clinical presentation and diagnosis / Clinical Features 59
+
+
+
+the introduction of sensitive dipsticks, it has         Table 5.3 Presenting features of UTI in children
+been questioned whether urine culture is still          at different ages
+routinely necessary in all cases. However, at
+                                                                          Infant and
+a time when multiple antibiotic resistance is
+                                                        Frequency           toddler         Older child
+increasing there remains a strong argument for
+sending a urine specimen for culture to identify        Common         Fever              Frequency
+the causative organism and establish its antibi-                         irritability       dysuria
+otic sensitivities.                                                    Vomiting
+                                                                       Lethargy
+                                                        Less           Offensive          Offensive urine
+                                                          common         urine            Incontinence
+                                                                       Poor feeding       Abdominal
+ CLINICAL PRESENTATION                                                 Failure to           pain
+ AND DIAGNOSIS                                                           thrive
+                                                        Uncommon       Jaundice           Fever
+History and Examination                                                Failure to         Vomiting
+                                                                         thrive           Haematuria
+It is important to enquire whether there is any                        Haematuria         Loin tenderness
+family history of urological abnormalities, par-
+ticularly VUR. The antenatal history is also
+important, specifically whether any abnormality
+was detected on antenatal ultrasound. In older,         infection in any child with an unexplained fever
+toilet-trained children, information should be          exceeding 38.0°C. In addition to age-related dif-
+routinely sought on:                                    ferences, the clinical presentation is determined
+                                                        by whether the child is suffering from lower or
+                                                        upper UTI (Table 5.4).
+●● Voiding history (volume, frequency, stream,
+   urgency)
+●● Fluid intake (volume, type)
+                                                        Lower tract infection (cystitis)
+●● Bowel habits
+                                                        Cystitis typically gives rise to bladder symptoms,
+                                                        with dysuria being almost universal. In addition,
+Although physical examination is usually unin-          urinary frequency is common and often associ-
+formative, it should nevertheless be performed          ated with secondary enuresis. However, suprapu-
+routinely and should include the abdomen,               bic pain is comparatively rare. There is no fever
+genitalia, spine and lower limbs. Blood pressure        or general malaise; indeed, many older children
+should always be measured (although this can            are able to continue attending school during the
+be difficult in small or fractious children). It is     course of their illness.
+important that the appropriate equipment and
+paediatric blood pressure cuffs are always avail-
+able in the outpatient clinic.                          Table 5.4 Symptoms of urinary tract infections
+
+                                                        Lower urinary tract       Upper urinary tract
+Clinical Features                                       (cystitis)                (pyelonephritis)
+                                                        Frequency/nocturia        Fever
+The presentation of UTI can be non-specific and         Dysuria                   Vomiting
+is influenced by the nature of the infection and the
+                                                        Secondary enuresis        General malaise
+age of the child. Table 5.3 summarises the clinical
+                                                        Suprapubic pain           Loin pain
+features of UTI at different ages. It is important to
+                                                        Hesitancy                 Upper/central
+maintain a high degree of suspicion and ensure
+                                                                                    abdominal pain
+that a urine sample is collected and tested for
+60 Urinary Tract Infection
+
+
+
+Upper tract infection                                  Neonates and infants
+(pyelonephritis)
+                                                       UTI typically presents in this age group as a
+Fever is the most reliable clinical feature of upper   non-specific febrile illness, usually accompanied
+tract UTI and, indeed, it is doubtful whether          by vomiting (and quite often by diarrhoea). A
+pyelonephritis ever occurs without a fever. Any        dipstick urine test should always be performed
+temperature exceeding 38°C should be regarded          in any infant with an otherwise unexplained
+as suspicious, although pyelonephritis is typi-        febrile illness. Whenever possible a urine speci-
+cally accompanied by a higher fever. Information       men should also be sent for microscopy and cul-
+on the presence or absence of fever is usually less    ture but this may not always be feasible because
+reliable in children referred by general practi-       of difficulty obtaining a reliable urine sample in
+tioners than those admitted directly to hospital       infants. Less common presentations of urinary
+from Emergency Departments.                            infection in neonates and infants include failure
+    The key diagnostic points can be summarised        to thrive (or frank weight loss) and prolonged
+as follows:                                            jaundice in neonates. UTI may also occasionally
+                                                       present with haematuria (blood-stained nappy)
+                                                       or as epididymo-orchitis.
+●● Infants and children who have bacteriuria
+   and fever of 38°C or higher should be consid-
+   ered to have acute pyelonephritis.                  Children aged 2 years and older
+●● Infants and children presenting with fever
+
+   lower than 38°C with loin pain/tenderness           Children as young as 2 years of age can usu-
+   and bacteriuria should also be considered to        ally give some account of their symptoms, and
+   have acute pyelonephritis.                          by 4 years, if not earlier, it should be possible to
+●● All other infants and children who have bac-        obtain a reasonably accurate history. The his-
+   teriuria but no systemic symptoms or signs          tory and clinical features of the illness should
+   should be considered to have cystitis.              provide a guide to whether the child is suffer-
+                                                       ing from an upper or lower UTI. Pyelonephritis
+                                                       is sometimes accompanied by poorly localised
+Other presenting features of UTI                       upper abdominal pain but true loin pain is
+                                                       rare and, if prolonged, is more likely to signify
+The presence of haematuria is not in itself a          obstruction than infection.
+guide to the severity or site of the infection.           Potential pitfalls and sources of diagnostic con-
+Haemorrhagic cystitis is the commonest cause.          fusion include:
+Urinary tract calculi should be suspected when-
+ever the infecting agent is Proteus and it is          ●● Fever, abdominal/loin pain and dysuria in
+important to be aware that stones may be pres-            an older child. This triad of symptoms associ-
+ent in the upper urinary tract without giving             ated with pyelonephritis can also be mimicked
+rise to any constitutional symptoms. Some boys            by acute inflammation of a retroceacal or
+referred with haematuria (with or without doc-            pelvic appendix. In acute appendicitis, pain
+umented infection) may, in fact, have postmic-            which occurs at the time of voiding is more
+turition bleeding due to urethritis rather than           likely to be localised to the abdomen rather
+genuine haematuria. Epididymo-orchitis is an              than the urinary tract. In addition, the pain
+occasional presentation of urinary infection in           is more likely to be provoked or exacerbated
+boys of all ages and should arouse suspicion of           by extension of the hip. The temperature
+some predisposing abnormality, such as urethral           is usually lower in appendicitis than in
+obstruction distal to the ejaculatory ducts or a          pyelonephritis.
+duplication anomaly with the upper pole ureter         ●● Dysuria in the absence of other features of
+
+draining ectopically into an ejaculatory duct (see        UTI. Symptoms associated with vulvovagi-
+Chapter 8).                                               nitis in young girls are often, incorrectly
+                                                 Investigation: Diagnostic imaging / Ultrasonography 61
+
+
+
+   ascribed to UTI. Although the presence of          urinary infection should undergo some form of
+   white blood cells may be evident on urine          investigation. However, a selective approach is
+   microscopy, urine culture is either negative       required to ensure that normal children are not
+   or may reveal a mixed growth. From the             subjected to unnecessarily invasive investiga-
+   history it should be possible to distinguish       tions at the same time as ensuring that abnor-
+   between the features of dysuria associated         malities which predispose to UTI (notably
+   with vulvovaginitis and dysuria due to a           VUR) are not being missed.
+   true UTI.                                             The technical aspects of these investigations
+●● Dysuria associated with balanitis may be           are considered in Chapter 3.
+   confused with UTI in boys.                            The different imaging modalities are summa-
+                                                      rized in Table 5.5.
+
+Classification of UTI                                 Ultrasonography
+UTI can be classified according to whether it         Ultrasound is the ideal initial screening inves-
+affects the lower urinary tract (cystitis), upper     tigation because it is non-invasive, relatively
+urinary tract UTI (pyelonephritis), whether it        inexpensive and does not entail exposure to
+is asymptomatic or symptomatic and whether            radiation. European and North American guide-
+it is a single episode or recurrent. Asymptomatic     lines recommend that all children presenting
+bacteriuria (ABU) is predominantly a condition        with a UTI should undergo an ultrasound scan.
+of school age girls who do not complain of symp-      Somewhat controversially, however, the NICE
+toms of lower tract UTI despite having significant    (UK) guidelines state that an ultrasound scan
+bacterial counts in their urine. There is some evi-   is not routinely indicated in a child aged over
+dence that the bacterial strains found in the urine   6 months who has experienced only a single
+of girls with ABU are of lower virulence than         uncomplicated UTI.
+the strains of bacteria responsible for causing          Ultrasonography is a reliable means of detect-
+symptomatic UTIs. Studies have demonstrated           ing obstructive and non-obstructive urinary tract
+that ABU does not pose a risk of renal scarring       dilatation, major degrees of renal scarring or dys-
+in a child with an anatomically normal urinary        plasia, most urinary calculi and almost all clini-
+tract. However, ABU is not an entirely innocent       cally significant duplication anomalies. It is also
+condition because there is considerable overlap       of value in demonstrating evidence of voiding
+between ABU and clinically significant infection.     dysfunction – which is apparent as a significant
+Not infrequently, girls with ABU subsequently         post void residual volume of urine and, in some
+experience (or have previously experienced)           cases, bladder wall thickening.
+symptomatic UTIs.                                        When an abnormality has been revealed by
+                                                      ultrasonography, the choice of further imaging
+                                                      is guided by factors which include the type of
+                                                      abnormality detected, the severity of infection
+                                                      (upper or lower tract) and the age of the child.
+ INVESTIGATION: DIAGNOSTIC                            The most widely used investigations are Tc-99m
+ IMAGING                                              DMSA scintigraphy and either micturating cys-
+                                                      tourethrography (MCUG) or indirect radionu-
+Established protocols and guidelines have been        clide cystography (IRC). Suspected upper tract
+criticised for leading to over-investigation of       obstruction is investigated by dynamic renogra-
+children with lower tract infections and for not      phy using Tc-99m (MAG3).
+being cost-effective. Despite broad acceptance           One of the main limitations of ultrasonog-
+of new guidelines it seems likely that most           raphy is its poor sensitivity for detecting renal
+paediatric clinicians will continue to recom-         scarring and mild to moderate VUR. For exam-
+mend that all children presenting with proven         ple, ultrasonography has a false-negative rate of
+62 Urinary Tract Infection
+
+
+
+Table 5.5 Strengths and weaknesses (“pros and cons”) of the different imaging modalities available
+for the investigation of UTI in children
+
+Investigation                Pros                                          Cons
+Renal ultrasound with        Detects dilatation and allows                 Poor at detecting scarring or
+  postvoid bladder             measurement of renal size                     reflux
+  views                      Detects major scarring                        Operator dependent
+                             Provides information on bladder
+                               dysfunction
+                             Visualises calculi and well tolerated
+DMSA                         Most sensitive test for renal scarring and    Relatively expensive and time
+                               differential function                         consuming
+                                                                           Requires IV cannulation
+Indirect cystogram           Detects reflux during normal voiding          Child must be cooperative
+  (MAG3)                     Provides differential renal function            and toilet trained
+                             Avoids the need for urethral                  Poor sensitivity for detecting
+                               catheterization                               low-grade reflux
+                                                                           Requires IV cannulation
+Contrast micturating         Most reliable test for detection of reflux    Requires urethral
+ cystourethrogram            Excludes urethral and other bladder             catheterisation and incurs
+ (MCUG)                        pathology                                     exposure to radiation
+
+
+
+25–50% for the detection of grade III VUR and            antibiotics in a community setting was accom-
+fails to identify renal scarring in 15–45% of cases.     panied by fever or not. Likewise, there may be
+    The most controversial aspects of newer              insufficient information to determine whether
+guidelines therefore relate to the role of further       a UTI responded well to treatment within 48
+diagnostic imaging in children with normal               hours. The justification for DMSA as an early
+ultrasound findings.                                     investigation is based on the argument that
+                                                         because ultrasonography is not a sensitive test for
+                                                         detecting renal scarring in young children, there
+Indications for Further Imaging                          is a significant risk that scarring and underlying
+                                                         VUR will be missed if it is not used fairly widely
+Although, there are differences in the recom-            in this age group. There is broad agreement in the
+mendations contained in current published                various guidelines that an MCUG may be indi-
+guidelines they all advocate a far more limited          cated if there is upper tract dilatation on ultra-
+use of DMSA and MCUG than in the past. Even              sound. Where the guidelines differ is on the role
+in infants under 6 months of age these invasive          of MCUG in children with normal ultrasound
+investigations may not be routinely indicated            findings. Controversially, the NICE guidelines
+following a single UTI which responds well               make no provision for MCUG in children aged
+to treatment within 48 hours. For children in            3 years and upwards (even those with recurrent
+the age range 6 months to 3 years with normal            or “atypical” UTIs) if the ultrasound findings
+ultrasound findings the NICE guidelines recom-           are normal. It can be reasonably assumed that
+mend that DMSA should be reserved for those              strict implementation of these guidelines would
+with recurrent UTIs or those with the type of            result in many cases of mild to moderate VUR
+clinical features listed in Table 5.6. However,          in older children remaining undetected. It has
+this approach is arguable because, in practice,          been argued that this may not matter because the
+it is often difficult to establish retrospectively       risk of new scarring is low after 3 years of age.
+whether a UTI which was initially treated with           However, the critics of the NICE guidelines point
+                                                                  Management / Initial Management 63
+
+
+
+Table 5.6 Clinical features which merit further investigation
+• Severe infection with systemic symptoms indicating upper tract infection (pyelonephritis)
+• Family history of VUR and/or renal scarring
+• Poor urinary stream
+
+• Palpable bladder or other abdominal mass (although these will generally be evident as
+
+  abnormalities on ultrasound)
+• Raised creatinine
+
+• Failure to respond to treatment with suitable antibiotics within 48 hours
+
+• Infection with organisms other than E. coli
+
+• Age – although this is a weak discriminator, it is a factor when considering further investigation in
+
+  view of the greater susceptibility of infants and young children to renal scarring. Most paediatric
+  urologists continue to recommend further investigation in boys presenting with UTI in the first
+  6 months of life. However this is aimed more at detecting vesico ureteric reflux (VUR) than
+  urethral obstruction, which usually gives rise to detectable abnormalities on ultrasound.
+• Recurrent infection. This can be variously defined as:
+
+  –two or more episodes of UTI with acute pyelonephritis/upper urinary tract infection, or
+  –one episode of UTI with acute pyelonephritis plus one or more episodes of UTI with cystitis or
+  –three or more episodes of UTI with cystitis
+
+
+
+out that whilst new scarring may be uncom-           to the clinician. Is the urinary tract genuinely
+mon it can undoubtedly occur after this age.         entirely normal or has the scan simply failed to
+Moreover, even if older children with VUR may        identify VUR in a child who may be at risk of
+be at a lower low risk of renal scarring they may    developing further UTI s and possible renal scar-
+still suffer from recurrent symptomatic UTIs and     ring? This question can be resolved by either a
+bouts of ill health which interfere with schooling   ­“top-down” or “bottom-up” approach. The “top-
+and create considerable anxiety within the fam-       down” approach relies on a DMSA scan in the
+ily. In such circumstances the results of a MCUG      first instance. If this is normal it is assumed that
+may be of considerable relevance to clinical          even if the child does have VUR it is not clini-
+­management – for example by identifying those        cally significant and a MCUG is not warranted.
+ children who might benefit from endoscopic           Alternatively, in the “bottom-up” approach a
+ correction of their VUR. The relative merits of      MCUG is performed as the first investigation. If
+ MCUG and IRC are considered in Chapter 3.            this is negative (no evidence of VUR) no DMSA
+    Some suggested imaging protocols are illus-       scan is performed. See also Chapter 6.
+ trated in Figures 5.2a, 5.2b and 5.2c. These are
+ based on UK guidelines and can be compared
+ with the imaging protocol recommended from the
+ European Association of Urology (EAU) Guidelines      MANAGEMENT
+ (Figure 5.2d) and the American Academy of
+ Pediatrics (AAP) guidelines (Figure 5.2e).
+                                                     Initial Management
+“Top-Down ”versus “Bottom-Up”                        Older children and those with mild to moderate
+Approach to Imaging after a UTI                      UTI are usually treated in a community setting in
+                                                     the first instance and then referred for outpatient
+Normal ultrasound appearances of the uri-            investigation. However, infants under 3 months
+nary tract in a child with a history of presumed     and older children with clinical features of
+upper tract infection pose a potential dilemma       pyelonephritis should be referred promptly to
+64 Urinary Tract Infection
+
+
+
+
+Figure 5.2 (a) Imaging protocol based on UK guidelines for infants aged 0–6 months.
+
+
+
+
+Figure 5.2 (b) Imaging protocol incorporating modified UK guidelines for young children aged
+6 months to 3 years.
+                                                              Management / Initial Management 65
+
+
+
+
+Figure 5.2 (c) Imaging protocol incorporating modified UK guidelines for children aged 3 years
+and upwards.
+
+
+
+
+Figure 5.2 (d) European Association of Urology guidelines for assessment and treatment of febrile
+UTI. BBD, bladder bowel dysfunction.
+66 Urinary Tract Infection
+
+
+
+
+Figure 5.2 (e) Imaging recommendations taken from American Academy of Pediatrics guidelines
+for investigation and management of a child presenting with a UTI at 2–24 months of age.
+
+a paediatric specialist at the outset. For infants       such as trimethoprim, cephalosporin, nitrofu-
+under 3 months and for older children with pre-          rantoin or amoxicillin there are others who still
+sumed pyelonephritis (the groups at particular risk      prefer to prescribe a longer course. The antibiotic
+of renal scarring) treatment usually consists of an      should be switched to a more appropriate alterna-
+intravenous antibiotic such as cefotaxime or cef-        tive if this is indicated by the results of sensitivi-
+triaxone. This typically comprises treatment with        ties obtained from the MSU.
+an intravenous antibiotic for 2–4 days followed
+by an oral antibiotic for a total duration of 10 days.   Longer-Term Management
+If an aminoglycoside such as gentamicin is used, it
+is important to monitor blood levels. Depending          Only a relatively small proportion of children
+upon the severity of the child’s condition, oral         require surgical intervention or ongoing man-
+rather than intravenous antibiotics may be con-          agement for abnormalities identified during the
+sidered (e.g. a 7–10 days course of cephalosporin        course of investigation. The majority of do not
+or coamoxiclav). An ultrasound scan should be            require urological intervention or follow-up.
+performed soon after admission in case there is a        Nevertheless, some children, predominantly
+need for urgent intervention to bring the infection      girls, suffer from recurrent UTIs despite having
+under control. Such interventions may include            no underlying urological abnormality. In these
+percutaneous nephrostomy in cases of upper tract         children it is essential to identify and treat any
+obstruction complicated by infection (pyonephro-         predisposing factors – of which dysfunctional
+sis) and percutaneous insertion of a suprapubic          voiding is by far the most important. The role of
+catheter in cases of bladder outflow obstruction.        constipation is more difficult to establish but there
+    Oral antibiotics are the first-line treatment        is a well-recognised association between these
+for afebrile, lower UTI in children aged over            two “elimination disorders”. Treatment is aimed
+3 months. Although many clinicians now favour            at establishing a routine of regular and complete
+a short (3-day) course of treatment with an agent        voiding coupled with measures designed to break
+                                                        Management / Other Conservative Measures 67
+
+
+
+the cycle of “holding back” – particularly in chil-
+dren who also experience habitual constipation.             choice of further imaging is guided
+Even in the absence of VUR, a period of antibiotic          largely by the ultrasound findings.
+prophylaxis may be helpful in some children by           ●● Further imaging (to look primarily
+
+breaking the cycle of infection and allowing the            for vesicoureteric reflux and/or renal
+bladder to settle down.                                     scarring) may also be justified despite
+                                                            normal ultrasound findings. The
+Other Conservative Measures                                 indications for further investigation
+                                                            and the choice of imaging are deter-
+Cranberry juice has become increasingly popular             mined by the age of the child, severity
+as a prophylactic measure and although evidence             of infection and factors such as family
+of its effectiveness in children is lacking, some           history.
+benefit has been shown in adult women. Probiotic         ●● Dysfunctional voiding is the most
+
+yoghurts have also increased in popularity and,             important factor predisposing to lower
+anecdotally, do seem to be beneficial in some               tract urinary infection in girls with
+children. However it is important that parents              normal urinary tracts. Management
+who do opt for alternative therapies should not             should be directed towards improving
+disregard the three most important measures –               voiding function and treating constipa-
+increased fluid intake, treatment of constipation           tion when present.
+and, most importantly, treatment of voiding dys-
+function to improve the frequency and effective-
+ness of bladder emptying.
+                                                      FURTHER READING
+                                                      Christian MT, McColl JH, MacKenzie JR, Beattie
+    KEY POINTS                                           TJ. Risk assessment of renal cortical scarring
+                                                         with urinary tract infection by clinical fea-
+   ●● Urinary tract infection is one of the              tures and ultrasonography. Arch Dis Child.
+      commonest disorders of childhood.                  2000;82(5):376–380.
+      Many more children with relatively              National Institute for Health and Clinical
+      asymptomatic lower tract urinary                   Excellence. Guidelines on urinary tract
+      infections are being referred for inves-           infection in children. 2007. www.nice.org.uk/
+      tigation than in the past.                         CG054
+   ●● Care is needed to obtain an uncon-              Newman TB. The new American Academy of
+      taminated urine sample for reagent                 Pediatrics urinary tract infection guideline.
+      dipstick testing and microscopy and                Paediatrics. 2011;128(3):572–575.
+      culture whenever possible.                      Singh-Grewal D, Macdessi J, Craig J.
+   ●● It is important to confirm the diagnosis           Circumcision for the prevention of urinary
+      of urinary infection before submitting             tract infection in boys: a systematic review of
+      a child to any investigation which is              clinical trials and observation studies. Arch
+      more invasive than ultrasonography.                Dis Child. 2005;90(8):853–858.
+   ●● Ultrasonography is the investigation of         Stein R, Dogan HS, Hoebeke P, Kocvara R,
+      first choice but it is not a sensitive test        Nijman RJM, Radmayr C, et al. Urinary tract
+      for detecting vesicoureteric reflux and/           infections in children: EAU/ESPU Guidelines.
+      or scarring.                                       Eur Urol. 2015;67(3):546–558.
+   ●● Further investigation is indicated if           Williams G, Craig JC. Long-term antibiotics for
+      the initial ultrasound scan reveals an             preventing recurrent urinary tract infection
+      abnormality of the urinary tract. The              in children. Cochrane Database Syst Rev.
+                                                         2019;4:CD001534.
+

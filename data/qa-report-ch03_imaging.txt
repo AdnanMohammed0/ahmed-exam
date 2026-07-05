@@ -1,0 +1,185 @@
+================================================================================
+QA REPORT: Chapter 3 - Imaging MCQ Bank
+================================================================================
+
+Review Date:    2026-07-04
+File:           ch03_imaging.json
+Source:         ch03_imaging.txt
+Total Questions: 50
+
+================================================================================
+1. TOTAL QUESTIONS REVIEWED
+================================================================================
+
+All 50 questions (ch03-Q01 through ch03-Q50) were reviewed in full against the
+source chapter text.
+
+================================================================================
+2. NUMBER OF QUESTIONS MODIFIED
+================================================================================
+
+- Questions with complete rewrite (vignette + options + explanation): 50
+- Questions with no changes: 0
+
+Total questions modified (partial or complete): 50/50 (100%)
+
+================================================================================
+3. COMMON ISSUES FOUND AND CORRECTED
+================================================================================
+
+3.1 Recall-to-Vignette Conversion
+----------------------------------
+- All 50 questions were pure fact-recall questions that required conversion to
+  clinical vignettes (e.g., "What is the investigation of first choice?" →
+  "A 4-year-old boy presents with a palpable right flank mass...")
+- Every stem now includes: patient age, presenting complaint, and relevant
+  clinical context
+- Imaging modality comparison questions now framed as clinical decisions
+- Procedural questions (e.g., MCUG timing, views) embedded in realistic
+  clinical scenarios
+
+3.2 Distractor Improvements
+----------------------------
+- All options within each question are now same-category (modalities,
+  diagnoses, time intervals, anatomical structures, etc.)
+- Removed length-based giveaways — all options are comparable in detail
+- No "all of the above" or "none of the above" options used
+- Implausible/giveaway distractors removed:
+  - Q07: Options now all focus on US limitations (was mixing VUR detection
+    with other imaging concerns)
+  - Q10: Options all describe MCUG protocol components
+  - Q15: All options are limitations of IRC
+  - Q21: Options all describe interpretations of differential function
+  - Q24: Options all describe DMSA findings in MCDK
+  - Q33: Options all describe reasons CT is not first-line
+  - Q36: Options all describe MRI sequence properties
+  - Q37: Options all describe disadvantages of MRI
+  - Q41: Options all describe contrast-related risks
+- Numerical options appear in ascending/descending order where applicable
+- Distractor plausibility verified against chapter content
+
+3.3 Explanation Enhancement
+----------------------------
+- All 50 explanations restructured into three labeled sections:
+  - "Correct:" — detailed rationale with direct chapter reference
+  - "Distractors:" — per-option explanation of why each is wrong
+  - "Clinical Pearl:" — take-home teaching point
+- All explanations reference specific chapter content verbatim
+- Explanations now include direct quotes from the source text with citations
+- Per-option distractor rationales added for all 50 questions
+- Clinical pearls provide clinically actionable take-home messages
+
+3.4 Spelling, Grammar, and Clarity
+-----------------------------------
+- Standardized formatting of clinical scenarios (age, presentation, question)
+- Consistent use of medical terminology matching chapter
+- All numerical values verified against source text
+- Clear differentiation between similar imaging modalities
+
+3.5 Terminology Alignment
+--------------------------
+- All terminology matches the chapter (e.g., "corticomedullary differentiation"
+  vs alternative terms, "micturating cystourethrography" vs "VCUG")
+- Imaging technique names standardized throughout
+- Verified that all measurement thresholds (AP diameter 7 mm/10 mm, bladder
+  wall 3 mm, PVR 10%, DMSA differential 45-55%) match the source text exactly
+
+================================================================================
+4. SUMMARY OF CHANGES BY TYPE
+================================================================================
+
+4.1 Vignette Conversion (Step 1)
+---------------------------------
+- New vignettes created:                    50 questions (Q01-Q50)
+- Vignettes enhanced:                       0 questions
+- Vignettes retained (minor edits only):    0 questions
+
+4.2 Distractor Improvement (Step 2)
+-------------------------------------
+- Options reordered (ascending/descending): 8 questions
+- Options replaced or rewritten:            20 questions
+- Options reformatted for consistency:      12 questions
+- Distractor rationales added:              50 questions
+
+4.3 Explanation Enhancement (Step 3)
+--------------------------------------
+- Explanations fully restructured:          50 questions
+- Per-option distractor rationales:         50 questions
+- Clinical Pearl section added:             50 questions
+- Chapter references incorporated:          50 questions
+
+================================================================================
+5. REMAINING CONCERNS AND RECOMMENDATIONS
+================================================================================
+
+5.1 Difficulty Level
+---------------------
+- Questions range from basic clinical application (e.g., Q01 — choosing first-
+  line imaging) to nuanced interpretation (e.g., Q25 — understanding
+  comparative vs absolute DMSA values)
+- Difficulty is appropriate for a textbook MCQ bank at the resident/fellow
+  level
+- Recommend maintaining this balance in future chapters
+
+5.2 Topic Coverage
+-------------------
+- Well-represented: Ultrasound principles (Q01-Q08), DMSA scintigraphy
+  (Q19-Q25), MCUG technique/indications (Q09-Q13), MRI applications
+  (Q35-Q40), CT trauma/stone disease (Q32-Q34, Q50)
+- Adequately represented: CEUS (Q16-Q18), MAG3 renography (Q26-Q30),
+  isotope cystography (Q14-Q15), interventional techniques (Q45-Q48),
+  radiation protection (Q13, Q31)
+- Topics that could benefit from additional questions: Contrast-enhanced
+  ultrasound in renal trauma, MR urography protocols, specific CT findings
+  in renal trauma grading, Doppler US in renal vein thrombosis
+
+5.3 Format Consistency
+-----------------------
+- All questions follow standardised format with clinical stems, same-category
+  ordered options, and structured explanations
+- All option lists use lettered identifiers (a, b, c, d) consistently
+- No EXCEPT-type questions used
+- All topics preserved from original with consistent naming convention
+
+5.4 Source Accuracy
+--------------------
+- All answers verified against the chapter text
+- No discrepancies found between question content and source material
+- All numerical values, percentages, and measurement thresholds match the raw
+  chapter content
+- Direct chapter quotations used in explanations to support correct answers
+  and distractor rationales
+
+5.5 Recommendations for Future Updates
+---------------------------------------
+1. Consider adding questions on CEUS for renal trauma assessment (active
+   haemorrhage detection) which is covered in the chapter but not currently
+   tested
+2. Consider adding a question on MR angiography findings in pre-transplant
+   vascular assessment
+3. Consider expanding coverage of Doppler US applications in renal vein
+   thrombosis and tumour extension into the IVC/renal vein
+4. Consider a question on limitations of IRC in infants and non-toilet-trained
+   children, which is an important clinical caveat
+
+================================================================================
+6. VERIFICATION
+================================================================================
+
+- JSON structure validated: All 50 objects contain required fields
+  (id, chapter, chapterSlug, chapterNumber, questionNumber, stem, options,
+  correctOptionId, explanation, topic)
+- Option structure validated: All options contain id and text fields
+- CorrectOptionId cross-referenced: All correctOptionId values match an option
+  id within the same question
+- No duplicate question IDs found
+- All question numbers are sequential (1-50) and unique
+- No "all of the above" or "none of the above" options present
+- JSON syntax valid: parsed successfully with no errors
+- Topic field preserved from original source for all 50 questions
+- Explanation format validated: all contain Correct, Distractors, and Clinical
+  Pearl sections
+
+================================================================================
+END OF QA REPORT
+================================================================================

@@ -1,0 +1,676 @@
+                                                                                          13
+Neurogenic Bladder
+
+KYLE O ROVE and CHRISTOPHER S COOPER
+
+
+Topics covered
+
+Etiology                                             Increasing bladder capacity and reducing
+Pathophysiology                                         pressure
+Prenatal intervention                                Bladder outlet procedures
+Newborn evaluation and management                    Transition to adulthood
+Investigations                                       Sexual function
+Treatment and outcomes                               Neurogenic bowel
+Catheterization
+
+
+
+
+ INTRODUCTION                                         ETIOLOGY
+ AND DEFINITION
+                                                     Spina bifida is the most common cause of con-
+Neurogenic bladder is a non-specific term that       genital neurogenic bladder. In the United States,
+implies an abnormality of innervation causing        approximately 1,500 children with spina bifida
+bladder dysfunction. Injury to the nervous system    are born each year and the worldwide reported
+may be congenital or acquired, peripheral or cen-    incidence is 3.1 per 10,000 births. The incidence
+tral, isolated or syndromic. As the primary func-    has been decreasing over the last two decades
+tions of the bladder are to store and empty urine    but varies considerably by country and ethnic-
+through coordinated activity of the detrusor mus-    ity. Myelomeningocele is the most severe form of
+cle and urinary sphincter, dysfunction may result    spina bifida, accounting for 90% of cases, while
+in urinary incontinence, elevated storage or void-   the remaining 10% are comprised of lipomyelo-
+ing pressures, or incomplete emptying. Children      meningocele or meningocele. Other congeni-
+and young people with neurogenic bladder are         tal causes of neurogenic bladder include closed
+at risk of progressive deterioration in bladder      and occult forms of neural tube defects such
+function leading to kidney damage. Appropriate       as tethered spinal cord, intradural lipoma, and
+surveillance and management are crucial to main-     intraspinal cysts. See Table 13.1. The term “spina
+taining renal function, achieving continence, and    bifida occulta” may also be applied to an iso-
+improving quality of life for these patients.        lated vertebral anomaly consisting of incomplete
+
+                                                                                                   169
+170 Neurogenic Bladder
+
+
+
+Table 13.1 Etiology of childhood neurogenic           into adulthood. The introduction of clean inter-
+bladder                                               mittent catheterization (CIC) by Lapides in 1972
+                                                      was an important advance in the management of
+Congenital                 Acquired
+                                                      neurogenic bladder. Subsequently, the widespread
+Myelomeningocele           Spina cord injury          introduction of urodynamic investigations led to
+Sacral agenesis            Spinal cord infarction     recognition of the need for proactive manage-
+Tethered cord              Spinal cord tumor          ment if the leak point pressure exceeded 40 cm of
+Closed and occult          Sacrococcygeal             water or other adverse parameters of neurogenic
+  forms of neural tube       teratoma                 dysfunction were demonstrated on urodynamics.
+  defects                                                Other causes of congenital neurogenic blad-
+Anorectal malformations    Neuroblastoma              der include partial and complete sacral agenesis
+                           Transverse myelitis        (caudal regression syndrome) which may occur
+                           Cerebral palsy             in isolation or conjunction with anorectal and
+                           Idiopathic causes
+                                                      cloacal malformations. Acquired neurogenic
+                                                      bladder may be due to spinal cord trauma,
+                                                      tumors, extensive pelvic surgery, spinal cord
+                                                      infarction, transverse myelitis, developmental
+formation of the posterior spinous process. This      syndromes and cerebral palsy. Finally, certain
+anomaly, which is often an incidental finding, is     adverse features of neurogenic bladder may
+found in up to 15% of the population. It is con-      be present in the acquired condition of non-
+fined to the bony elements the vertebrae and is       neurogenic neurogenic bladder (or Hinman’s
+rarely accompanied by any underlying neuro-           syndrome).
+logical lesion.
+    The critical period of neurulation (closure of
+the neural tube from cephalad to caudad) occurs
+in the first few weeks of pregnancy. Adequate          PATHOPHYSIOLOGY
+levels of folic acid are important for normal
+closure of the neural tube and low maternal           Vertebral anomalies in the lumbosacral region
+dietary intake of folate or dysregulated folate       account for about 50% of cases with lumbar and
+metabolic pathways have been implicated as a          thoracic lesions accounting for 28% and 20%
+major risk factor for the development of neural       of cases respectively. It should be noted, how-
+tube defects. In the United States, it is recom-      ever, that the level of the vertebral abnormality
+mended that women should commence folate              does not correlate closely with the level of the
+supplements 2 months prior to conception and          neurological deficit or the outcome for bladder
+women of childbearing age should consume 400          function.
+mcg folic acid daily. Other risk factors impli-          The functions of the normal bladder are to
+cated in the etiology of neural tube defects          store urine and to empty under voluntary con-
+include maternal obesity, diabetes mellitus, and      trol. These functions are organized at the level
+advanced maternal age.                                of the brainstem and spinal cord. The sympa-
+    Survival rates of children born with myelo-       thetic innervation of the detrusor muscle and
+meningocele have improved dramatically since          urethral smooth muscle is mediated through
+the 1950s when less than 20% survived beyond          the hypogastric nerve fibers emanating from the
+24 months of age. The development of the ven-         lumbar region. The parasympathetic innerva-
+triculoperitoneal (VP) shunt for the control of       tion of the detrusor muscle is mediated by pelvic
+hydrocephalus led to significantly improved sur-      nerve pathways transmitted via the sacral roots
+vival and by the mid-1970s the survival rate had      S2 - 4 and the striated sphincter is innervated by
+increased to over 50%. It is predicted that more      the pudendal nerves also originating from the
+than 90% of the infants currently being born with     sacrum. Upper motor neuron lesions lead to an
+spina bifida will survive, with the majority living   overactive bladder with no voluntary sphincter
+                                          Newborn evaluation and management / Initial Management 171
+
+
+
+control. Contractions of an overactive blad-            neurogenic bladder in newborn infants with spina
+der against the resistance created by a non-            bifida. The timing of commencement of CIC is
+relaxing sphincter (termed detrusor/sphincter           considered below. A baseline renal and bladder
+dyssynergia) typically lead to detrusor hyper-          ultrasound scan is performed after 24–48 hours
+trophy and a thick-walled bladder. Lower motor          and renal function is assessed with serum cre-
+neuron lesions are characterized by an acon-            atinine or cystatin c. Following discharge from
+tractile, flaccid detrusor, small, smooth walled        hospital a voiding cystourethrogram (VCUG)
+bladder, and denervation of the external sphinc-        or video urodynamic study is performed after
+ter. However, most spina bifida patients have a         3 months of age. Baseline urodynamic param-
+mixed neurologic picture with features of both          eters assessed by this study should include; filling
+upper and lower motor neuron lesions.                   pressures, compliance, presence of detrusor over-
+                                                        activity, sphincteric function, leak point pres-
+                                                        sures, presence of vesicoureteral reflux (VUR),
+                                                        and configuration of the bladder neck (open or
+ PRENATAL INTERVENTION                                  closed). The ultrasound appearances of the kid-
+                                                        neys and bladder are abnormal in up to 20% of
+                                                        infants with myelomeningocele.
+As a consequence of widespread prenatal detec-
+tion of myelomeningocele by ultrasonography,
+fetal surgical intervention for the repair of these     Spina Bifida Occulta (Occult
+lesions has become a clinical reality. One pro-         Spinal Dysraphism)
+spective, randomized trial found that fetal inter-
+vention reduced the requirement for VP shunts           These abnormalities include lipomeningomyelo-
+and was associated with improved lower limb             cele, tethered cord, and sacral agenesis. External
+function at 12 and 30 months age. However, it           signs of the underlying abnormality (prominent
+did not result in any improvement in urody-             sacral dimple, fatty subcutaneous mass, tuft of
+namic parameters or any significant reduction in        hair, hemangioma, or skin tag) are present in
+the requirement for CIC. More recent data have          more than 80% of cases. External evidence of
+suggested, however, that prenatal repair may            sacral agenesis is less obvious but may be appar-
+reduce the need for CIC between 6 and 10 years          ent as an asymmetric gluteal cleft. The spine can
+of age and may perhaps increase the potential           be evaluated with ultrasound in the first 2 to
+for spontaneous voiding. The complications of           3 months of life but thereafter spinal magnetic
+fetal repair include preterm delivery and uterine       resonance imaging (MRI) scan is the “gold stan-
+dehiscence.                                             dard” imaging modality.
+
+
+                                                        Initial Management
+ NEWBORN EVALUATION                                     CIC is commenced if the bladder is not emptying
+ AND MANAGEMENT                                         to completion. However, when adequate bladder
+                                                        emptying is confirmed by clinical observation and
+Cesarean section is recommended to minimize             ultrasound two options can then be considered;
+trauma to the exposed neurologic tissue. At the
+time of delivery, an open myelomeningocele is            1. Immediate commencement of clean inter-
+immediately apparent as an exposed plaque of                mittent catheterization and anticholinergic
+neural tissue. Closure of the lesion within the first       medication.
+24 hours is recommended to minimize the risk of                Proponents of the early commencement
+ascending infection (meningitis).                           of CIC argue that this is a logical form of
+   There are currently no standard evidence-                management because at least 80% to 90% of
+based guidelines for urologic management of                 patients with myelomeningocele will have
+172 Neurogenic Bladder
+
+
+
+   neurogenic bladder dysfunction. In addition,      the frequent occurrence of UTIs or the onset
+   by commencing CIC early it may be possible        of changes in the upper tracts on ultrasound.
+   to prevent or reduce the requirement for          Urodynamics should be performed prior to pos-
+   bladder augmentation as well as helping to        sible reconstructive surgery in children express-
+   safeguard the kidneys.                            ing the wish to become socially continent.
+2. Monitoring of bladder function with renal
+   and bladder ultrasound scans (and periodic
+   urodynamics) with the onset of clean inter-
+   mittent catheterization being deferred.            VIDEO URODYNAMICS
+      Those who advocate this approach argue
+   that it decreases the burden for the caregiv-     A urodynamic study will provide informa-
+   ers and carries a lower risk of urinary tract     tion on bladder and sphincteric function. The
+   infection (UTI) because bacteria are not          study is performed using a dual lumen catheter
+   being introduced into the urinary tract.          inserted into the bladder (for filling and mea-
+      However, monitoring and deferred               surement of intravesical pressure) and a balloon
+   introduction of CIC are only appropriate for      catheter placed in the rectum for the measure-
+   infants who have safe urodynamic param-           ment of intra abdominal pressure. The bladder
+   eters of bladder function. CIC should be          is filled at a rate of approximately 10% of the
+   commenced if the initial urodynamic study         estimated age-adjusted bladder capacity per
+   demonstrates unfavorable characteristics such     minute. This is calculated according to the for-
+   as reduced compliance, significant detrusor       mula (age in years + 2) × 30 mL. For videouro-
+   sphincter dyssynergia, or high-grade VUR.         dynamics the bladder is filled with a solution of
+   Indications to abandon the observational          radiographic contrast material. During bladder
+   approach in favor of CIC and anticholiner-        filling, intravesical pressure (Pves) is recorded.
+   gics include; development of hydronephrosis,      The contribution made by the detrusor muscle
+   worsening parameters of bladder function on       (Pdet) to intravesical pressure is calculated by
+   urodynamics or recurrent UTIs.                    subtracting the intra abdominal pressure (Pabd)
+                                                     from the intravesical pressure ie (Pves – Pabd).
+                                                     Sphincteric function can be assessed by electro-
+                                                     myography with patch electrodes placed in the
+ INVESTIGATIONS                                      perianal region or by the insertion of needle
+                                                     electrodes (which is believed to be more accu-
+Routine follow-up typically comprises ultra-         rate). However, there are some differences in the
+sound scans of the kidneys, ureters and bladder      use of electromyography. In the UK for example,
+every 3 months during the first year of life, then   X-ray screening (videocystography) is used in
+reducing to 6 monthly intervals until 3 years of     preference to electromyography for the assess-
+age, with an annual scan thereafter. A baseline      ment of sphincter function. At different stages in
+renogram with 99mTc dimercaptosuccinic acid          the study fluoroscopic imaging is performed to
+(DMSA) or 99mTc dimercaptoacetyltriglycine           visualize the bladder and to demonstrate abnor-
+(MAG3) is performed in the first 6 months of life    malities such as trabeculation, divertucula,
+and repeated according to clinical indications.      stones, and/or VUR. Particular attention is paid
+Renal function is monitored by measurement           to the bladder outlet and sphincter, visualiz-
+of serum creatinine (or cystatin c) on an annual     ing whether it is open or closed and observing
+basis – or more frequently in children with hos-     the relationship between sphincter activity and
+tile patterns of bladder function or frequent        detrusor contractions.
+UTIs. The frequency of video urodynamic stud-            A normal, healthy bladder remains stable
+ies is determined by such factors as; the results    during filling with pressures remaining below
+of initial and subsequent studies, the perceived     15 cm H2O throughout. At the time of voiding,
+level of risk posed by the neurogenic bladder,       the detrusor muscle contracts after relaxation
+                                                                                Video urodynamics﻿  173
+
+
+
+of the external sphincter allowing the blad-         regular CIC. The type of bladder in which CIC is
+der to empty to completion. Points of interest       most likely to protect the upper tracts and help the
+during the filling phase include the maximum         child to achieve continence is one which is capable
+intravesical pressure, the involuntary leakage of    of storing physiological volumes of urine at safe
+urine (incontinence), and the pressure at which      pressure and in which sphincter resistance is suf-
+the leakage occurs. A high detrusor leak point       ficient to prevent urinary leakage for periods of
+pressure (DLPP) of >40 cm H2O is regarded as         3–4 hours between catheterization (Figure 13.1).
+unsafe. Bladder compliance is calculated as vol-         Urodynamic studies often demonstrate abnor-
+ume over pressure and a figure of <20 mL/cm          malities of detrusor function, notably detrusor
+H2O denotes reduced compliance (inability of         overactivity. Detrusor overactivity combined
+the bladder to accommodate physiological vol-        with a sphincter which fails to relax in response to
+umes of urine at safe pressures). If the patient     detrusor contraction (detrusor sphincter dyssyn-
+is capable of voiding, attention is paid to pos-     ergia) is regarded as an “unsafe” or “hostile” pat-
+sible detrusor-sphincter dyssynergia (contrac-       tern of neurogenic bladder dysfunction. Without
+tion of the detrusor muscle against sphinteric       appropriate intervention, over 70% of patients
+resistance), voided volume, post-void residual,      with detrusor sphincter dyssynergia will expe-
+flow rate, and characteristics of the flow curve     rience urinary tract deterioration, including the
+(bell-shaped, staccato, intermittent, flat). It is   development of hydronephrosis, within 3 years.
+important to note, however, that interpretation      In such cases, the functional bladder capacity is
+of urodynamic findings is relatively subjective      reduced and the bladder is typically thick walled
+and is influenced by a number of factors includ-     and trabeculated (Figure 13.2). The finding of
+ing inter observer variations, limited reproduc-     detrusor sphincter dyssynergia demands prompt
+ibility, technical artifacts and patient anxiety.    intervention – initially by the introduction of
+   A “safe” neurogenic bladder is one which does     CIC. However, this is often insufficient and fur-
+not pose a threat to the upper tracts and renal      ther measures (notably bladder augmentation)
+function. However, maintaining a safe pattern of     may be required to safeguard the upper tracts and
+bladder function is often dependent on the use of    enable the child to achieve continence.
+
+
+
+
+Figure 13.1 This is the type of neurogenic bladder which is most amenable to CIC. The blad-
+der is capable of storing urine at “safe” pressures and sphincter resistance is adequate to retain
+physiological volumes of urine in the bladder for periods of 3–4 hours between catheterizations.
+174 Neurogenic Bladder
+
+
+
+
+Figure 13.2 Hostile characteristics. Overactive sphincter and/or detrusor sphincter dyssynergia
+causing functional outflow obstruction. Detrusor overactivity. Unfavorable urodynamic parameters,
+thick walled bladder and upper tract dilatation.
+
+
+    A different abnormality of sphincter func-         elevated pressures. Functional capacity is
+tion is sphincter weakness due to denervation          reduced due to low pressure urinary leakage.
+(typically associated with lower motor neuron          Intermittent catheterization is not an effective
+lesions). This is a safe pattern of neurogenic blad-   means of achieving continence because the blad-
+der dysfunction because the impaired sphincter         der is incapable of storing urine without leakage
+resistance effectively acts as a “safety valve” pre-   for a sufficiently long period between catheter-
+venting the bladder from generating sustained          izations (Figure 13.3).
+
+
+
+
+Figure 13.3 Sphincter weakness (typically associated with lower motor neuron lesions). This is a
+safe bladder but functional capacity is reduced because of low pressure leakage of urine. CIC does
+not achieve continence because the bladder is incapable of storing adequate volumes of urine
+between catheterizations.
+                                                                                    Catheterization 175
+
+
+
+    Opinion differs on whether children with neu-        Children with a tethered spinal cord mostly
+rogenic bladder should routinely undergo annual       have a much better prognosis than those with
+urodynamic evaluation or whether it should be         meningomyelocele.
+performed on a more selective basis in response
+to changes in clinical status (e.g. recent onset of
+UTIs, new or worsening urinary leakage, new or
+worsening upper tract dilation). Proponents of         TREATMENT AND OUTCOMES
+regular annual urodynamics argue that it is not
+sufficient to rely on monitoring the upper tracts     The primary aim is to safeguard renal function
+because hydronephrosis is not a sensitive indica-     and minimize the risk of UTIs by ensuring that
+tor of deteriorating lower tract function. Those      urine is stored at low pressures and the bladder
+who favor a selective approach cite the greater       empties completely every 3–4 hours. Once this
+financial cost of annual studies and the larger       has been achieved the secondary aim is to try and
+number of studies which have to be performed in       provide a socially acceptable degree of urinary
+order to detect those cases of deteriorating blad-    continence if this is a priority for the child and
+der function for which intervention might be          their family.
+required. Regardless of differing policies regard-       Bladder emptying can be achieved by spon-
+ing the frequency of urodynamic studies there         taneous voiding in some cases, or more often
+is a strong consensus that all patients with neu-     by intermittent catheterization (via the urethra
+rogenic bladder should remain under urologic          or a catheterizable channel) or by a cutaneous
+surveillance to safeguard the upper tracts, ensure    vesicostomy or urinary diversion. Reduced func-
+adequate emptying of the bladder, and minimize        tional capacity of the bladder and/or unsafe intra-
+the risk of UTI.                                      vesical pressure can be managed by intravesical
+                                                      injections of Botox or by bladder augmentation.
+                                                      Finally, bladder neck procedures to increase blad-
+                                                      der outlet resistance children can be performed to
+ TETHERED SPINAL CORD                                 treat incontinence caused by sphincter weakness.
+
+This is common feature of closed variants of
+spina bifida (occult spinal dysraphism). Up to
+60% of children have normal urodynamic find-           CATHETERIZATION
+ings during early infancy but this figure has
+fallen to 20% by 3 years of age. These findings       Clean intermittent catheterization (CIC) is
+have been cited as evidence that this is a pro-       usually initially performed via the urethra but
+gressive neurologic lesion for which early sur-       for some young patients this may not be feasible
+gical intervention to untether the spinal cord        or acceptable in the longer term. This may be
+is indicated in order to improve urodynamic           because of body habitus, inability to catheterize
+outcomes. However, this does not obviate the          the urethra or the preference of the child and/
+requirement for continuous monitoring and             or family. In these circumstances it becomes
+follow-up because there is a 25% incidence of         necessary to create an alternative route for cath-
+retethering after surgery. Some care is required      eterization, namely a continent catheterizable
+when interpreting and the published data on           channel.
+pre and postoperative urodynamic studies in              The introduction of the Mitrofanoff appen-
+children undergoing surgery for tethered cord.        dicovesicostomy was a significant advance in
+Whereas neurosurgical intervention for teth-          the management of neurogenic bladder dys-
+ered cord in infants is widely performed by           function (Figure 13.4). It usually provides
+pediatric neurosurgeons in the United States a        patients with a much greater degree of per-
+more conservative, selective policy is generally      sonal independence and has been shown to be
+favored by British Pediatric Neurosurgeons.           durable with a high long-term success rate. The
+176 Neurogenic Bladder
+
+
+
+
+                                                     Figure 13.5 Monti tube fashioned from ileum.
+                                                     This is the most satisfactory alternative to the
+                                                     appendix for creating a continent catheterizable
+                                                     channel.
+
+                                                     patients on CIC have asymptomatic bacteriuria
+Figure 13.4 Appendicovesicostomy (Mitrofanoff        but fewer than a third of these experience symp-
+procedure). The appendix is disconnected from        tomatic UTIs. The risk of UTIs can be lowered by
+the caecum and mobilized on its blood sup-           increasing the frequency of CIC to minimize the
+ply. The tip is excised to create a tube which is
+                                                     opportunity for bacteria to multiply within static
+implanted into the bladder using a submucosal
+(anti reflux) tunnel. The other end of the appen-    bladder urine. Where possible, the use of antibi-
+dix is brought out as a discreet stoma on the        otics should be kept to a minimum to reduce the
+skin of the abdominal wall (or umbilicus).           risk of bacterial resistance.
+                                                        CIC is typically performed at 3–4 hourly inter-
+commonest complication is stenosis of the cuta-      vals throughout the day. Night time manage-
+neous stoma – with a reported incidence varying      ment is often more problematic because children
+between 15% and 40% over a 5-year period. This       and parents may (understandably) be reluctant to
+is usually amenable to simple revision, although     have perform CIC late at night or the early hours
+more than one revision may be required. The          of the morning. This is of particular relevance in
+Mitrofanoff procedure is particularly beneficial     those neurogenic bladders which exhibit “hostile”
+for young females – especially those confined to     characteristics since this may lead to sustained
+a wheelchair.                                        high-pressure storage of urine and consequent del-
+   If the appendix is not available because it       eterious effects on both the kidneys and bladder.
+has been removed, is unusable, or reserved for       As in children with posterior urethral valves, over-
+another channel (such as appendicocecostomy)         night drainage with an indwelling catheter has been
+the main alternative is a channel created from the   shown to be beneficial in protecting bladder and
+wall of the ileum or colon – eponymously named       renal function and reducing the frequency of UTIs.
+as Monti or Yang-Monti channel (Figure 13.5).
+However the appendix is the preferred source of
+a continent catheterizable channel because it pro-
+                                                      INCREASING BLADDER
+vides the most reliable access for the passage of
+catheters and has a lower complication rate com-
+                                                      CAPACITY AND REDUCING
+pared with the alternatives.                          INTRAVESICAL PRESSURE
+   Intermittent catheterization is a clean rather
+than sterile procedure and some bacteria are         The options for achieving this include: pharma-
+inevitably introduced into the bladder with the      cological agents, intravesical injections, and sur-
+passage of the catheter. Approximately 70% of        gical reconstruction.
+                                                           Bladder augmentation (enterocystoplasty) 177
+
+
+
+Pharmacological Agents                                 units (IU) per kg up to 300 IU in adults. Although
+                                                       it is not approved by the FDA, numerous studies
+Oxybutynin is currently the only anticholiner-         have shown intravesical Botox injection to be a
+gic drug approved by the American Food and             safe and effective treatment of neurogenic blad-
+Drug Administration (FDA) for the treatment of         der in both children and adults. The duration of
+neurogenic bladder in children. Anticholinergics       effect is approximately 6–12 months. In one study
+act by suppressing overactivity of the detrusor        in children with spina bifida 73% of patients were
+muscle but have the disadvantage of causing            enabled to become dry between intermittent cath-
+anticholinergic side effects such as dry mouth,        eterizations for 4 months after intravesical Botox
+constipation, flushing, and impaired concen-           injection and 88% experienced symptomatic
+tration. Alternative agents for the treatment of       improvement. Intravesical Botox injections can
+detrusor overactivity include other anticholin-        administered repeatedly without giving rise to
+ergics and Mirabegron – a beta-3 adrenergic            tolerance (loss of effectiveness) or causing fibro-
+agonist. Although none of the currently available      sis in the bladder wall. The principal side effect is
+alternatives to oxybutynin are approved for use        impaired bladder emptying and patients should
+in children by the FDA, clinicians may decide to       therefore be prepared for the possibility that they
+prescribe them on an “off-label” basis for young       may need to perform CIC – if they are not already
+patients those who are unable to tolerate first-line   doing so. UTI is another potential complication
+agents such as oxybutynin. Alpha-adrenergic            but systemic side effects are rare.
+blockers (such as doxazosin and tamsulosin)
+which act on receptors at the bladder neck
+smooth muscle can be used for the management
+of functional outflow obstruction in children           BLADDER AUGMENTATION
+with both non-neurogenic and neurogenic                 (ENTEROCYSTOPLASTY)
+voiding dysfunction. Studies in small series
+of patients have been reported to demonstrate          This is a reliable means of increasing bladder
+improved flow rates and reduced post void resid-       capacity, improving bladder compliance, and
+ual volumes in those capable of voiding sponta-        reducing intravesical pressure. The urodynamic
+neously. However, there are conflicting data and       profile of children being considered for augmen-
+the published studies are of varying quality. The      tation is characterized by reduced functional
+side effects of alpha-adrenergic blockers include      bladder capacity, elevated absolute detrusor fill-
+orthostatic hypotension, reflex tachycardia, syn-      ing pressures (Pdet >40 cm H2O), elevated detru-
+cope, dizziness, and palpitations.                     sor leak point pressures (>35 cm H2O), and poor
+                                                       compliance (<10 mL/cm H2O). In addition, there
+                                                       are often upper tract changes such as hydrone-
+                                                       phrosis, hydroureteronephrosis, or secondary
+ INTRAVESICAL BOTOX
+                                                       VUR. Bladder augmentation is most frequently
+ INJECTIONS                                            indicated in children with thoracic and lumbar
+                                                       meningomyelocele and less commonly in those
+Botulinum A toxin is a neurotoxin produced by          sacral spina bifida and lipomeningocele. It is
+Clostridium botulinum. When injected into the          rarely required in cases of tethered spinal cord.
+detrusor muscle, it inhibits the release of ace-          The technique consists of opening the blad-
+tylcholine from the presynaptic neuron at the          der and incorporating a vascularized segment of
+neuromuscular junction. Intravesical Botox is          intestine (ileum or sigmoid colon) into the blad-
+used for the treatment of detrusor overactivity to     der wall. It is usually performed as an open surgi-
+improve bladder compliance and increase func-          cal procedure but a minimally invasive approach
+tional capacity. Injections into the bladder wall      has also been reported. The simplest (and prob-
+muscle are performed at multiple sites via a cys-      ably most widely performed) technique is the
+toscope. The standard dosage is 10 international       “Clam” ileocystoplasty (Figure 13.6).
+178 Neurogenic Bladder
+
+
+
+
+Figure 13.6 Clam ileocystoplasty. (a) Bladder opened and incised down to the trigone creating a
+“clam” configuration. (b) Segment of ileum isolated on its mesentery, opened (detubularized) and
+sutured to the bladder. (c) Intraoperative photograph.
+
+
+
+   By adopting Enhanced Recovery after Surgery          Table 13.2 Complications of bladder
+protocols developed in adult patients undergoing        augmentation
+radical cystectomy it has been possible to reduce       Mucus production
+the duration of hospital stay for children under-       Catheter blockage
+going bladder augmentation in the authors’ insti-       Urinary tract infection
+tution from 8 to 5.4 days. In addition the average      Bladder stones
+number of complications per patient has been
+                                                        Metabolic changes
+reduced from 2.1 to 1.3 (p = 0.035).
+                                                        Hyperchloremic metabolic acidosis
+   Augmentation cystoplasty is associated with a
+                                                        Electrolyte disturbances
+significant incidence of long-term complications,
+with approximately one-third of patients requir-        Spontaneous perforation
+ing some further surgery within 13 years of the         Metaplasia, malignancy
+original operation (Table 13.2). Introducing            Bowel problems
+intestine into the urinary tract carries a risk of      Diarrhea
+hyperchloremic hypokalemic metabolic acidosis           Vitamin B12 deficiency
+and possible implications for growth. Vitamin           Hematuria-dysuria syndrome (gastrocystoplasty)
+B12 deficiency is an additional risk following aug-
+mentation with distal ileum. Asymptomatic bac-
+teriuria is almost universal as a result of bacterial   vague abdominal pain. A computed tomography
+colonization of the reconstructed bladder and           (CT) cystogram is the most accurate diagnostic
+the presence of mucus in the urine. Symptomatic         investigation. Adhesive intestinal obstruction
+infections also occur in up to a third of patients.     occurs in approximately 5% of patients within
+Other complications may include bladder stone           15 years of bladder augmentation.
+formation (10–20%) (Figure 13.7) and sponta-               The high rates of late malignancy in patients fol-
+neous bladder perforation (5%). This is serious         lowing ureterosigmoidostomy and the findings of
+and potentially lethal complication if it is not        studies demonstrating bacterial-derived carcino-
+diagnosed promptly. A high index of suspicion           gens in the urine following enterocystoplasty raised
+is required because the initial presentation of         initial concerns that the use of bowel for bladder
+bladder perforation may consist of no more than         reconstruction would carry a significant long-term
+                                                                            Bladder outlet procedures 179
+
+
+
+                                                        for bladder augmentation in spina bifida patients
+                                                        found that it did not result in any improvement
+                                                        in bladder compliance or capacity. In addition
+                                                        there was a relatively high rate of serious adverse
+                                                        events – including bladder rupture. On the basis of
+                                                        this study, the authors concluded that the technique
+                                                        could not be recommended for clinical use.
+
+
+                                                         VESICOURETERAL REFLUX
+
+                                                        Up to 20% of infants with neurogenic bladder
+                                                        have VUR. Because this VUR is often secondary
+                                                        to the unfavorable urodynamic features of the
+Figure 13.7 Ultrasound scan demonstrating               neuropathic bladder it will resolve in approxi-
+3.5 cm bladder stone in an augmented bladder.           mately 50% of cases once bladder dynamics have
+                                                        been improved by CIC and anticholinergic medi-
+                                                        cation. If the VUR persists despite these mea-
+cancer risk. However, it has now become clear that
+                                                        sures and the child is suffering recurrent UTIs
+these concerns were largely unfounded. Long-term
+                                                        it is reasonable to consider correcting the reflux
+studies have found that the risk of bladder cancer in
+                                                        by ureteral reimplantation. However, this is most
+patients with spina bifida who had undergone blad-
+                                                        unlikely to succeed unless it is also accompa-
+der augmentation is not significantly higher than
+                                                        nied by other measures to address the underly-
+in age matched spina bifida patients whose bladders
+                                                        ing bladder dysfunction. Endoscopic correction
+had not been augmented. The overall long-term
+                                                        by sub-ureteric injection of bulking agents has
+incidence of bladder cancer has been reported to lie
+                                                        a lower success rate in neuropathic bladders –
+between 1% and 4%, with no significant differences
+                                                        although success rates of 60% to 70% have been
+between augmented and non-augmented patients
+                                                        claimed by some authors. Ureteral reimplanta-
+in terms of age at diagnosis or survival rates.
+                                                        tion can combined with bladder augmentation
+    Although cystoscopic surveillance and biopsy
+                                                        but is technically more difficult than in a nor-
+commencing 10 years after augmentation was
+                                                        mal bladder. However, ureteral reimplantation is
+previously advocated this has been discontinued
+                                                        often unnecessary because secondary VUR has
+in most centers because it not been shown to be
+                                                        a high tendency to resolve once the unfavorable
+helpful or cost effective.
+                                                        characteristics of the neurogenic bladder have
+                                                        been corrected by bladder augmentation.
+Experimental Research
+Because the complications of augmentation are
+largely attributable to the use of intestine, a num-     BLADDER OUTLET PROCEDURES
+ber of research programs have tried to address
+this problem by devising experimental techniques        Although a number of different surgical proce-
+to augment the bladder with materials derived           dures are available for increasing bladder outlet
+from tissue engineered autologous urothelium or         and sphincteric resistance, no single technique
+acellular matrices (serving as scaffolds for regen-     has proved sufficiently reliable to have gained
+erative cellular infiltration). Clinical experience     widescale acceptance. When considering any
+of this approach is very limited. Following an          of these procedures it is essential to ensure that
+initial report in a small series of meningomyelo-       the patient has the physical ability and motiva-
+cele patients, a subsequent Phase II study of the       tion to perform intermittent catheterization.
+use of autologous seeded biodegradable scaffolds        Preoperative evaluation includes imaging of the
+180 Neurogenic Bladder
+
+
+
+upper tracts and video urodynamics. If possible,        bladder neck and/or urethra, e.g. artificial
+bladder compliance and detrusor activity should         urinary sphincter, colposuspension, or sling.
+be assessed with the bladder outlet occluded to      ●● Closure of the bladder neck.
+
+try and predict how the bladder will behave fol-
+lowing surgery. Unless there is good evidence that   Closure of the bladder neck is the most effective
+the bladder will function as a safe low pressure     means of achieving continence but is usually kept
+reservoir, strong consideration should be given      in reserve as a second line approach.
+to performing bladder augmentation at the same          There is considerable variation between differ-
+time as the surgery to increase outlet resistance.   ent published studies in the reported continence
+   The surgical procedures can considered in         rates following the different procedures. Published
+three broad categories (Figure 13.8):                continence rates typically average around 60% to
+                                                     70% but the published results are difficult to com-
+●● Operations designed to increase fixed outflow     pare because of differences in the definition of
+   resistance by narrowing the bladder outlet        what constitutes “continence” adopted in different
+   and/or increasing the length of the urethra       studies and the varying duration of follow-up.
+   e.g. Kropp, Pippi Salle procedures.                  Injection of bulking agents into the bladder
+●● Operations designed to enhance outflow            neck and sphincter region has also been reported
+   resistance by compressing or angulating the       as a method of increasing fixed outflow resistance.
+
+
+
+
+Figure 13.8 Some of the procedures available for increasing sphincter/outflow resistance. (a) Urethral
+lengthening (e.g. detrusor tube) to increase static outflow resistance. (b) External compression by an
+artificial urinary sphincter cuff implanted around the urethra. The pump is implanted in the scrotum
+and the pressure regulating balloon is implanted in a plane between the peritoneum and abdominal
+wall musculature. (Reproduced by permission from American Medical Systems). (c) Sling procedure.
+Slings created from autologous or allograft tissue are preferable to synthetic materials.
+                                                                                     Neurogenic bowel 181
+
+
+
+The continence rates are generally inferior to          (2%). Indeed, they more likely to die from infec-
+those achieved by open surgical techniques but a        tion, shunt complications, and pulmonary embo-
+success rate of 25% with one or two injections has      lism than renal failure. However, the risks of renal
+been reported.                                          impairment and urological complications are
+    Complications of the various different pro-         significantly higher in adult spina bifida patients
+cedures include outflow obstruction (“hyper-            who do not comply with recommended treatment
+continence”), tissue erosion, infection, and            or are lost to urologic surveillance.
+malfunction of artificial sphincter devices. A fur-        Spina bifida patients require multispecialty
+ther complication is the relatively high incidence      healthcare throughout their lives and it is impor-
+of bladder stones – particularly in patients who        tant that they receive the help they need to make
+have also undergone enterocystoplasty.                  a successful transition from the care of pediatric
+    Closure of the bladder neck is generally seen as    specialists to the care of adult specialists in the
+a reliable last resort when other techniques have       relevant disciplines.
+failed. Nevertheless, some pediatric urologists
+favor bladder neck closure sooner rather than
+later. The principal drawback of bladder neck clo-       SEXUALITY AND
+sure is that the bladder becomes an enclosed sys-        REPRODUCTIVE HEALTH
+tem, with emptying being entirely dependent on
+a catheterizable channel or indwelling suprapubic
+catheter or drainage device.                            The early onset of menarche is more common in
+    Cutaneous urinary diversion (ileal conduit)         female myelomeningocele patients than the gen-
+was once the mainstay of management of neu-             eral population (12% and 0.6% respectively) and
+rogenic bladder but is now rarely used because          they are less likely to use contraception when they
+of the availability of better alternatives. Specific    become sexually active.
+complications include stomal stenosis, long-term            Pregnancy creates specific problems – par-
+upper tract changes and the adverse impact on           ticularly in women who have previously under-
+body image and quality of life imposed by the           gone reconstructive procedures such as bladder
+stoma and urine collection bag.                         augmentation or the creation of catheterizable
+                                                        channels. Obstetric care should be provided by
+                                                        multidisciplinary team including obstetrician-
+                                                        gynecologist, urologist and other clinicians.
+ TRANSITION TO PUBERTY                                  Elective caesarian section is often more appropri-
+ IN ADULTHOOD                                           ate than vaginal delivery.
+                                                            Males may experience erectile dysfunction (ED)
+                                                        of varying severity and 80% of men with spina
+Unfortunately, there is a tendency for myelomenin-
+                                                        bifida have been demonstrated to have improved
+gocele patients to become less compliant with regu-
+                                                        erectile function with the use of sildenafil.
+lar CIC and other aspects of their care when they
+                                                            One-quarter to one-third of adolescents and
+progress into adolescence and adulthood. In the
+                                                        young adults with meningomyelocele between 14
+United States over 50% of adult spina bifida patients
+                                                        and 23 years of age report having had sexual encoun-
+whose neurogenic bladders were previously man-
+                                                        ters but only half of meningomyelocele patients state
+aged by intermittent catheterization will cease to
+                                                        that they are satisfied with their sexual lives.
+perform CIC, contrary to medical advice. Factors
+implicated in poor compliance with treatment and
+follow-up include obesity, immobility, develop-
+mental delay and alcohol and drug dependence.            NEUROGENIC BOWEL
+    Those patients who comply with measures to
+manage their neuropathic bladder appropriately          The majority of children with neurogenic bladder
+and who remain under urologic surveillance have a       also suffer from neurogenic bowel dysfunction.
+very low long-term risk of severe renal impairment      This is unsurprising since the lower urinary tract
+182 Neurogenic Bladder
+
+
+
+and rectum share similar innervation pathways
+via the sacral nerve roots (S2–S4).                            (e.g. annual) basis or more selectively
+    For children experiencing difficulty with evacu-           according to clinical indications.
+ation the initial treatment options include increas-        ●● Surgical intervention is often necessary
+
+ing dietary fiber, fecal softeners, bulking agents             to safeguard renal function, achieve a
+such as polyethylene glycol (MiraLAX), oral laxa-              socially acceptable degree of urinary
+tives (bisacodyl), and suppositories. More active              continence and provide an improved
+measures include conventional enemas, with water               quality of life. When considering whether
+or saline- with or without irritant additives to stim-         to recommend surgery and when select-
+ulate defecation. Commercially available rectal                ing the most appropriate procedure(s),
+washout systems (e.g. Peristeen) are also available.           clinicians should take account of any co
+Alternatively, enemas can be administered into the             morbidities and the potential long-term
+proximal colon via a catheterizable channel (appen-            consequences of surgery.
+dicocecostomy) or indwelling caecostomy tube.
+First described by Malone, this technique (com-
+monly known as the ACE ­procedure – ­antegrade           SUGGESTED READING
+continence enema) has made an important con-
+tribution to the management of neuropathic bowel         Austin PF, Bauer SB, Bower W, et al: The stan-
+dysfunction. Complications of the ACE proce-                dardization of terminology of lower urinary
+dure include stomal stenosis and false passage.             tract function in children and adolescents:
+For many spina bifida patients (particularly those          update report from the Standardization
+with physical disabilities, the practical difficul-         Committee of the International Children’s
+ties surrounding the independent management of              Continence Society. J Urol 2014; 191:
+the neuropathic bowel are often more challenging            1863–1865.e13.
+than their neuropathic bladder.                          Higuchi TT, Granberg CF, Fox JA, et al:
+                                                            Augmentation cystoplasty and risk of neo-
+                                                            plasia: fact, fiction and controversy. J Urol
+    KEY POINTS                                              2010; 184: 2492–2496.
+                                                         Husmann DA: Long-term complications follow-
+   ●● Children with neurogenic bladder require              ing bladder augmentations in patients with
+      life-long urologic monitoring because uri-            spina bifida: bladder calculi, perforation of
+      nary tract function can change with time,             the augmented bladder and upper tract
+      with adverse consequences for the upper               deterioration. Transl Androl Urol 2016; 5:
+      urinary tract and quality of life.                    3–11.
+   ●● Eighty percent of patients with a neuro-           McGuire EJ, Woodside JR, Borden TA, et al:
+      genic bladder will require some form of               Prognostic value of urodynamic testing in
+      catheterization (usually clean intermit-              myelodysplastic patients. J Urol 1981; 126:
+      tent catheterization) to ensure effective             205–209.
+      bladder emptying. Depending on their               Routh JC, Cheng EY, Austin JC, et al: Design
+      type of neurogenic bladder, CIC may                   and Methodological Considerations of the
+      also enable them to achieve a socially                Centers for Disease Control and Prevention
+      acceptable degree of urinary continence.              Urologic and Renal Protocol for the
+   ●● The urinary tract should be regularly                 Newborn and Young Child with Spina Bifida.
+      monitored with regular renal and blad-                J Urol 2016; 196: 1728–1734.
+      der ultrasound scans and a baseline                Rove KO, Brockel MA, Saltzman AF, et al:
+      urodynamic study should be performed                  Prospective study of enhanced recovery
+      in infancy. Thereafter, urodynamic stud-              after surgery protocol in children undergo-
+      ies can either be performed on a regular              ing reconstructive operations. J Pediatr Urol
+                                                            2018; 14: 252.e1–252.e9.

@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch14-Q01",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 1,
+    "stem": "A newborn male is noted to have no anal opening on perineal inspection. Meconium is seen passing from the urethral meatus. Which type of anorectal malformation is most likely present?",
+    "options": [
+      { "id": "a", "text": "Rectovestibular fistula" },
+      { "id": "b", "text": "Rectourethral fistula" },
+      { "id": "c", "text": "Cloacal malformation" },
+      { "id": "d", "text": "Perineal fistula" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because passage of meconium from the urethra indicates a fistulous connection between the rectum and the urethra, which is diagnostic of a rectourethral fistula. This is the most common high anorectal malformation in males.\n\nA is wrong because rectovestibular fistula occurs in females, where the rectum opens into the vaginal vestibule; meconium would appear at the perineum near the vaginal introitus, not the urethra.\n\nC is wrong because cloacal malformation occurs only in females, where the vagina, rectum, and urethra drain through a single common channel; this presentation is in a male infant.\n\nD is wrong because a perineal fistula would drain meconium onto the perineal skin through an anteriorly displaced anal opening, not through the urethra.\n\nTeaching point: The anatomic pathway of meconium excretion in a newborn with imperforate anus is a critical diagnostic clue — meconium from the urethra confirms a rectourinary fistula, while meconium on the perineum suggests a perineal or vestibular fistula.",
+    "topic": "ARM classification"
+  },
+  {
+    "id": "ch14-Q02",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 2,
+    "stem": "The parents of a newborn diagnosed with an anorectal malformation ask about the likelihood of having another child with the same condition. The father has no significant medical history, and the mother had an uncomplicated pregnancy. After reviewing the chapter's epidemiologic data, what is the most accurate estimate of the population incidence to share with them?",
+    "options": [
+      { "id": "a", "text": "1 in 500 live births" },
+      { "id": "b", "text": "1 in 1500 live births" },
+      { "id": "c", "text": "1 in 5000 live births" },
+      { "id": "d", "text": "1 in 15000 live births" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because anorectal malformations occur in approximately 1 in 5000 live births. There is a slight male-to-female preponderance of 3:2. Most cases of VACTERL association are sporadic rather than hereditary, so empiric recurrence risk is low.\n\nA is wrong because 1 in 500 is far too high — this would make anorectal malformations nearly as common as hypospadias, which is not the case.\n\nB is wrong because 1 in 1500 is still too high; this would be closer to the incidence of congenital heart disease.\n\nD is wrong because 1 in 15000 is too low; anorectal malformations are more common than this estimate.\n\nTeaching point: Anorectal malformations occur at a rate of 1:5000 live births with a 3:2 male predominance; the vast majority of VACTERL cases are sporadic, so the recurrence risk for future pregnancies is low.",
+    "topic": "Epidemiology"
+  },
+  {
+    "id": "ch14-Q03",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 3,
+    "stem": "A newborn male with imperforate anus is found to have Down syndrome. Which type of anorectal malformation is most commonly seen in this population?",
+    "options": [
+      { "id": "a", "text": "Rectourethral fistula" },
+      { "id": "b", "text": "Perineal fistula" },
+      { "id": "c", "text": "Rectovesical fistula" },
+      { "id": "d", "text": "Imperforate anus without fistula" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because imperforate anus without fistula is rare in the general population but is the most common type of anorectal malformation in infants with Down syndrome. In such cases, there is a blind-ending rectum usually located within 2 cm of the perineal skin, with a well-formed sacrum and functional anal sphincter complex.\n\nA is wrong because rectourethral fistula is a common high defect in males overall, but in Down syndrome, imperforate anus without fistula is more characteristic.\n\nB is wrong because perineal fistula is a low defect and can occur with Down syndrome, but it is not the most common type in this population.\n\nC is wrong because rectovesical fistula is the most severe high malformation in males, typically associated with sacral dysplasia, and is not specifically linked to Down syndrome.\n\nTeaching point: Imperforate anus without fistula is characteristically associated with Down syndrome, whereas other types of anorectal malformations are more common in the general ARM population.",
+    "topic": "ARM classification, Down syndrome"
+  },
+  {
+    "id": "ch14-Q04",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 4,
+    "stem": "A female neonate is found to have a single perineal orifice. Cystovaginoscopy reveals that the vagina, rectum, and urethra converge into a common channel. According to the Pe\u00f1a classification, which of the following anorectal malformations is present?",
+    "options": [
+      { "id": "a", "text": "Cloacal malformation" },
+      { "id": "b", "text": "Rectourethral fistula" },
+      { "id": "c", "text": "Perineal fistula" },
+      { "id": "d", "text": "Imperforate anus without fistula" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because in a cloacal malformation, the vagina, rectum, and urethra combine into a single common channel. This occurs exclusively in females. The Pe\u00f1a classification lists cloaca as a female-specific entity.\n\nB is wrong because rectourethral fistula is a male-specific defect and does not occur in females.\n\nC is wrong because a perineal fistula involves an anteriorly displaced anal opening on the perineum, not a single common channel.\n\nD is wrong because imperforate anus without fistula presents as a blind-ending rectum without any connection to the urinary tract, not as a common channel.\n\nTeaching point: Cloacal malformations are the only anorectal anomaly in the Pe\u00f1a classification that occurs exclusively in females; a single perineal orifice in a female newborn is pathognomonic for cloaca.",
+    "topic": "Pena classification"
+  },
+  {
+    "id": "ch14-Q05",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 5,
+    "stem": "A male newborn with imperforate anus is found to have a fistula between the rectum and the bladder neck on distal colostogram. Which of the following associated findings is this infant most likely to have?",
+    "options": [
+      { "id": "a", "text": "Isolated renal anomaly with normal sacrum" },
+      { "id": "b", "text": "Sacral dysplasia and poor anal sphincter musculature" },
+      { "id": "c", "text": "Mild anal sphincter hypoplasia alone" },
+      { "id": "d", "text": "Vertebral anomalies without sacral involvement" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because rectovesical (bladder neck) fistulae represent the most severe form of high anorectal malformations in boys and are typically associated with sacral dysplasia, abnormal pelvic floor musculature, and a poor anal sphincter complex. They also carry a higher incidence of other coexisting congenital anomalies.\n\nA is wrong because an isolated renal anomaly without sacral involvement would be unusual — rectovesical fistulae are strongly associated with sacral dysplasia.\n\nC is wrong because mild anal sphincter hypoplasia alone underestimates the severity; these fistulae are associated with both sacral dysplasia and poor sphincter musculature, not mild changes.\n\nD is wrong because while vertebral anomalies can occur with ARMs, the defining association with rectovesical fistula is sacral dysplasia rather than isolated vertebral anomalies.\n\nTeaching point: The level of the rectourinary fistula correlates directly with ARM severity — the more proximal the fistula (bladder neck > prostatic > bulbar), the greater the likelihood of sacral dysplasia, poor sphincter development, and associated anomalies.",
+    "topic": "ARM severity"
+  },
+  {
+    "id": "ch14-Q06",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 6,
+    "stem": "A 1-day-old female infant is noted to have no anal opening on exam. After 18 hours, meconium is seen emerging from a small opening near the posterior fourchette of the vagina. Which anorectal malformation is most likely present?",
+    "options": [
+      { "id": "a", "text": "Rectovestibular fistula" },
+      { "id": "b", "text": "Cloacal malformation" },
+      { "id": "c", "text": "Perineal fistula" },
+      { "id": "d", "text": "Imperforate anus without fistula" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because a rectovestibular fistula is the most common anorectal defect in girls. The rectum opens by a narrowed connection with the vestibule of the vagina, usually at the posterior fourchette. Meconium emerging near this location in a female infant is characteristic.\n\nB is wrong because a cloacal malformation would present with a single perineal orifice, not a separate opening near the vaginal vestibule.\n\nC is wrong because a perineal fistula opens onto the perineal skin anterior to the expected anal position, not near the vaginal fourchette.\n\nD is wrong because imperforate anus without fistula would not produce visible meconium at the perineum within 24 hours; there would be no external passage for stool.\n\nTeaching point: In female infants with anorectal malformations, the location of meconium on the perineum guides classification: posterior fourchette suggests rectovestibular fistula, perineal skin suggests perineal fistula, and a single orifice suggests cloaca.",
+    "topic": "ARM classification"
+  },
+  {
+    "id": "ch14-Q07",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 7,
+    "stem": "A 3-day-old female is found to have a single perineal orifice. Cystovaginoscopy reveals a common channel length of 3.5 cm. Based on this finding, which of the following features is this patient most likely to have?",
+    "options": [
+      { "id": "a", "text": "Well-formed sacrum and good anal sphincter musculature" },
+      { "id": "b", "text": "Isolated renal anomaly without sacral involvement" },
+      { "id": "c", "text": "Normal M\u00fcllerian development" },
+      { "id": "d", "text": "Sacral dysplasia and poor sphincter musculature" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because patients with a long common channel (>3 cm) are more likely to have sacral dysplasia and additional congenital anomalies, with poor rectal and urinary sphincter musculature. This patient may require more complex surgical reconstruction including possible vaginal replacement.\n\nA is wrong because a well-formed sacrum is more characteristic of short common channel (<3 cm) cloacal malformations; long channels correlate with sacral dysplasia.\n\nB is wrong because isolated renal anomaly without sacral involvement is unlikely — long channel cloacas are associated with multisystem anomalies including sacral dysplasia.\n\nC is wrong because normal M\u00fcllerian development is less likely; patients with long common channels often have vaginal or uterine duplication or other M\u00fcllerian anomalies.\n\nTeaching point: In cloacal malformations, the common channel length (>3 cm vs <3 cm) is a critical prognostic factor — longer channels correlate with more severe sacral dysplasia, higher rates of associated anomalies, and greater surgical complexity.",
+    "topic": "Cloacal malformation"
+  },
+  {
+    "id": "ch14-Q08",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 8,
+    "stem": "A male infant with imperforate anus has a fistula that opens into the anterior (bulbar) urethra as seen on voiding cystourethrography. Which of the following best describes this type of rectourethral fistula?",
+    "options": [
+      { "id": "a", "text": "Bulbar type rectourethral fistula" },
+      { "id": "b", "text": "Prostatic type rectourethral fistula" },
+      { "id": "c", "text": "Bladder neck type rectourinary fistula" },
+      { "id": "d", "text": "Membranous urethral fistula" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because in the bulbar type of rectourethral fistula, the rectum opens into the anterior (bulbar) urethra. This is distinct from the prostatic type, which opens into the posterior (prostatic) urethra and represents a more severe malformation.\n\nB is wrong because the prostatic type opens into the posterior (prostatic) urethra, not the anterior (bulbar) urethra, and is associated with higher rates of sacral dysplasia.\n\nC is wrong because a bladder neck fistula represents a rectovesical connection, which is the most severe form and opens at the bladder neck, not the bulbar urethra.\n\nD is wrong because membranous urethral fistula is not a recognized subtype in the Pe\u00f1a classification; the two types of rectourethral fistulae are bulbar and prostatic.\n\nTeaching point: Rectourethral fistulae are classified by the level of urethral insertion — bulbar (anterior urethra, less severe) vs prostatic (posterior urethra, more severe with higher sacral anomaly rates).",
+    "topic": "Rectourethral fistula types"
+  },
+  {
+    "id": "ch14-Q09",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 9,
+    "stem": "A 2-day-old female with a cloacal malformation is being evaluated. The parents are counseled about the likelihood of associated genitourinary anomalies. Which of the following incidence figures best reflects the overall rate of genitourinary anomalies in patients with anorectal malformations?",
+    "options": [
+      { "id": "a", "text": "10\u201320%" },
+      { "id": "b", "text": "25\u201330%" },
+      { "id": "c", "text": "50\u201360%" },
+      { "id": "d", "text": "75\u201385%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because coexisting anatomical anomalies of the upper and lower urinary tract occur in 50\u201360% of patients with anorectal malformations. Vesicoureteral reflux is the most common urologic anomaly encountered.\n\nA is wrong because 10\u201320% underestimates the risk; this figure more closely matches the incidence of isolated cardiac anomalies in ARM patients.\n\nB is wrong because 25\u201330% is too low; this approximates the incidence of severe lower urinary tract dysfunction in ARM patients, not overall GU anomalies.\n\nD is wrong because 75\u201385% overestimates the risk; even in the highest-risk subgroups (e.g., cloacal anomalies), the GU anomaly rate does not reach this level.\n\nTeaching point: More than half of all children with anorectal malformations have associated genitourinary anomalies, making thorough urologic evaluation (renal ultrasound, VCUG, spinal imaging) essential in every ARM patient.",
+    "topic": "Associated anomalies"
+  },
+  {
+    "id": "ch14-Q10",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 10,
+    "stem": "A 6-month-old male with a repaired anorectal malformation is undergoing routine urologic evaluation. Renal and bladder ultrasound shows mild hydronephrosis. Which of the following associated urinary tract anomalies is most commonly identified in children with anorectal malformations?",
+    "options": [
+      { "id": "a", "text": "Renal agenesis" },
+      { "id": "b", "text": "Vesicoureteral reflux" },
+      { "id": "c", "text": "Horseshoe kidney" },
+      { "id": "d", "text": "Posterior urethral valves" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because vesicoureteral reflux is the most common urinary tract anomaly in patients with anorectal malformations. In one series (Table 14.4), VUR was the most frequent finding, occurring in 16 of 45 patients.\n\nA is wrong because renal agenesis does occur in ARM patients but is less common than VUR; the same series found only 1 case of renal agenesis among 45 patients.\n\nC is wrong because horseshoe kidney is a recognized association but is less frequent than VUR as an associated anomaly.\n\nD is wrong because posterior urethral valves are a distinct male urethral obstructive anomaly and are not specifically associated with anorectal malformations.\n\nTeaching point: Vesicoureteral reflux is the single most common urologic anomaly in ARM patients, highlighting the importance of VCUG and ultrasound screening in all affected children.",
+    "topic": "Urinary tract anomalies"
+  },
+  {
+    "id": "ch14-Q11",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 11,
+    "stem": "A child with an anorectal malformation is diagnosed with a tethered cord on spinal MRI. The neurosurgical team recommends early surgical release. Which of the following is the primary rationale for early neurosurgical intervention in this setting?",
+    "options": [
+      { "id": "a", "text": "To improve fecal continence immediately" },
+      { "id": "b", "text": "To enable normal spinal growth" },
+      { "id": "c", "text": "To correct associated scoliosis" },
+      { "id": "d", "text": "To prevent progressive neurological deterioration" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because identifying cord tethering at an early stage is important because early neurosurgical intervention may have the potential to avert progressive neurological deterioration. This is the primary rationale for surgical release of a tethered cord.\n\nA is wrong because while tethered cord release may improve bladder and bowel function over time, immediate improvement in fecal continence is not guaranteed; the primary goal is preventing further neurological decline.\n\nB is wrong because enabling normal spinal growth is not the mechanism of action; the spine has already developed, and surgical release addresses the tethering effect causing traction on the spinal cord.\n\nC is wrong because correcting scoliosis is not the primary goal of tethered cord release; scoliosis may be associated but is managed separately.\n\nTeaching point: Tethered cord is a common intraspinal pathology in ARM patients (up to 40% have vertebral anomalies), and early neurosurgical release aims to prevent progressive neurological deterioration, underscoring the importance of spinal screening.",
+    "topic": "Spinal anomalies"
+  },
+  {
+    "id": "ch14-Q12",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 12,
+    "stem": "A newborn is found to have a tracheoesophageal fistula, vertebral anomalies, and renal agenesis. The medical team suspects a specific association. Which of the following associated anomalies is a known component of the VACTERL association?",
+    "options": [
+      { "id": "a", "text": "Choanal atresia" },
+      { "id": "b", "text": "Vertebral anomalies" },
+      { "id": "c", "text": "Coloboma" },
+      { "id": "d", "text": "Ear anomalies" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because VACTERL stands for vertebral, anorectal, cardiac, tracheo-esophageal fistula, renal, and limb anomalies. Vertebral anomalies are among the most common components, along with anorectal and renal abnormalities.\n\nA is wrong because choanal atresia is a component of the CHARGE association, not VACTERL.\n\nC is wrong because coloboma (of the eye) is part of the CHARGE association, not VACTERL.\n\nD is wrong because ear anomalies are a feature of CHARGE association, not VACTERL.\n\nTeaching point: VACTERL and CHARGE are two distinct associations that both include anorectal and genital anomalies; knowing the acronym components helps distinguish them: VACTERL = Vertebral, Anorectal, Cardiac, TE fistula, Renal, Limb; CHARGE = Coloboma, Heart, choanal Atresia, Growth, Genital, Ear.",
+    "topic": "VACTERL"
+  },
+  {
+    "id": "ch14-Q13",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 13,
+    "stem": "A 2-day-old male with imperforate anus is found to have a hemivertebra on spinal radiograph and a small ventricular septal defect on echocardiogram. The genetic counselor is consulted. Which of the following best describes the inheritance pattern and diagnostic criteria for VACTERL association in this patient?",
+    "options": [
+      { "id": "a", "text": "Autosomal dominant inheritance; all components must be present for diagnosis" },
+      { "id": "b", "text": "Autosomal recessive inheritance; at least 3 major components must be present" },
+      { "id": "c", "text": "Sporadic occurrence; not all components must be expressed in every patient" },
+      { "id": "d", "text": "X-linked recessive inheritance; limb anomalies are required for diagnosis" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because most cases of VACTERL are sporadic rather than hereditary. Not all components of the VACTERL association are expressed in every patient, and the most common are vertebral, anorectal, and renal abnormalities.\n\nA is wrong because VACTERL is not inherited in an autosomal dominant pattern; it is largely sporadic, and not all components must be present.\n\nB is wrong because VACTERL is not autosomal recessive; it occurs sporadically with no clear Mendelian inheritance pattern.\n\nD is wrong because VACTERL is not X-linked; it affects both sexes and does not require limb anomalies for diagnosis.\n\nTeaching point: VACTERL association is a sporadic, non-Mendelian condition where a diagnosis can be made with at least 3 component anomalies; anorectal malformations are among the most commonly expressed features.",
+    "topic": "VACTERL"
+  },
+  {
+    "id": "ch14-Q14",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 14,
+    "stem": "A newborn is diagnosed with caudal regression syndrome (sacral agenesis) after birth. Review of the maternal history is most likely to reveal which of the following conditions?",
+    "options": [
+      { "id": "a", "text": "Advanced maternal age (greater than 40)" },
+      { "id": "b", "text": "Insulin-dependent diabetes mellitus" },
+      { "id": "c", "text": "Chronic hypertension" },
+      { "id": "d", "text": "Maternal epilepsy treated with valproate" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because caudal regression syndrome is strongly associated with maternal diabetes. Mothers with insulin-dependent diabetes are 200\u2013400 times more likely to have a child with caudal regression syndrome than nondiabetic mothers.\n\nA is wrong because advanced maternal age is not a known risk factor for caudal regression syndrome; the primary association is with maternal diabetes.\n\nC is wrong because chronic hypertension is not independently associated with caudal regression syndrome.\n\nD is wrong while some teratogens have been associated with anorectal malformations, valproate use is not specifically linked to caudal regression syndrome; the strongest association is maternal diabetes.\n\nTeaching point: Caudal regression syndrome (sacral agenesis) has the strongest known association with maternal insulin-dependent diabetes \u2014 a 200-400 fold increased risk \u2014 making maternal glycemic control a critical preventive factor.",
+    "topic": "Caudal regression syndrome"
+  },
+  {
+    "id": "ch14-Q15",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 15,
+    "stem": "A child has been diagnosed with CHARGE association. The pediatric urologist is consulted to evaluate the genitourinary tract. Based on reported series, what is the approximate incidence of genitourinary tract abnormalities in children with CHARGE association?",
+    "options": [
+      { "id": "a", "text": "25%" },
+      { "id": "b", "text": "42%" },
+      { "id": "c", "text": "56%" },
+      { "id": "d", "text": "69%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because in one series of 32 children with CHARGE, the overall incidence of genitourinary tract abnormalities was 69%. This included genital anomalies (56%) and urinary tract anomalies (42%).\n\nA is wrong because 25% underestimates the incidence of GU abnormalities in CHARGE; this figure would be closer to the incidence in the general population of children with anorectal malformations, not CHARGE.\n\nB is wrong because 42% represents the incidence of urinary tract anomalies alone in CHARGE, not the overall GU abnormality rate, which is higher at 69%.\n\nC is wrong because 56% represents the incidence of genital anomalies specifically, not the overall GU abnormality rate.\n\nTeaching point: CHARGE association carries a 69% overall incidence of genitourinary anomalies, with genital anomalies (56%) being more common than urinary tract anomalies (42%), emphasizing the need for comprehensive urogenital evaluation.",
+    "topic": "CHARGE association"
+  },
+  {
+    "id": "ch14-Q16",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 16,
+    "stem": "A 3-year-old boy with CHARGE association is being evaluated for undescended testes. Which of the following genitourinary findings is specifically listed as a genital anomaly in the CHARGE association?",
+    "options": [
+      { "id": "a", "text": "Undescended testis" },
+      { "id": "b", "text": "Prune-belly syndrome" },
+      { "id": "c", "text": "Posterior urethral valves" },
+      { "id": "d", "text": "Bladder exstrophy" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because undescended testis is a genital anomaly listed in the CHARGE association along with hypospadias/micropenis and vaginal/uterine atresia. Urinary tract anomalies in CHARGE include duplex kidney, VUR, renal agenesis, and hydronephrosis.\n\nB is wrong because prune-belly syndrome is not specifically listed as a component of CHARGE association.\n\nC is wrong because posterior urethral valves are not listed as a component anomaly of CHARGE.\n\nD is wrong because bladder exstrophy is not a recognized component of the CHARGE association.\n\nTeaching point: CHARGE association includes both genital anomalies (cryptorchidism, hypospadias, vaginal/uterine atresia) and urinary tract anomalies (duplex kidney, VUR, renal agenesis), requiring thorough genitourinary evaluation.",
+    "topic": "CHARGE association"
+  },
+  {
+    "id": "ch14-Q17",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 17,
+    "stem": "A 5-year-old girl with a history of repaired high anorectal malformation presents with recurrent urinary tract infections and daytime wetting. Urodynamics are scheduled. Based on the chapter's data, what proportion of children with anorectal malformations have severe lower urinary tract dysfunction?",
+    "options": [
+      { "id": "a", "text": "10%" },
+      { "id": "b", "text": "15%" },
+      { "id": "c", "text": "25%" },
+      { "id": "d", "text": "40%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because in one series, 25% of children with anorectal malformations were found to have severe lower urinary tract dysfunction, which was primarily related to a sacral abnormality.\n\nA is wrong because 10% underestimates the prevalence of severe LUT dysfunction in ARM patients.\n\nB is wrong because 15% is lower than the reported figure of 25%.\n\nD is wrong because 40% overestimates the prevalence; this figure is closer to the incidence of vertebral anomalies (40%) in ARM patients.\n\nTeaching point: One in four children with anorectal malformations has severe lower urinary tract dysfunction, almost always associated with an underlying sacral or spinal anomaly, making urodynamic evaluation essential.",
+    "topic": "Lower urinary tract dysfunction"
+  },
+  {
+    "id": "ch14-Q18",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 18,
+    "stem": "In the series of children with anorectal malformations and severe bladder dysfunction, the majority were incontinent. What proportion of these children were found to have reflux nephropathy?",
+    "options": [
+      { "id": "a", "text": "One-tenth" },
+      { "id": "b", "text": "One-third" },
+      { "id": "c", "text": "One-quarter" },
+      { "id": "d", "text": "One-half" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because among children with severe bladder dysfunction associated with anorectal malformations, one-third had reflux nephropathy. Additionally, 20% experienced deterioration of bladder function following surgical repair of the anorectal malformation.\n\nA is wrong because one-tenth (10%) is too low; the reported figure is one-third.\n\nC is wrong because one-quarter (25%) underestimates the proportion; the correct figure is one-third.\n\nD is wrong because one-half (50%) overestimates the prevalence of reflux nephropathy in this population.\n\nTeaching point: Reflux nephropathy in one-third of ARM patients with severe bladder dysfunction highlights the importance of urodynamic evaluation and management of bladder dysfunction to preserve renal function.",
+    "topic": "Bladder dysfunction"
+  },
+  {
+    "id": "ch14-Q19",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 19,
+    "stem": "A 4-month-old male with a repaired anorectal malformation is noted to have recurrent episodes of epididymo-orchitis despite sterile urine. Which of the following is a known risk factor for this complication in this patient population?",
+    "options": [
+      { "id": "a", "text": "Bladder diverticulum" },
+      { "id": "b", "text": "Ectopic ureter" },
+      { "id": "c", "text": "Posterior urethral valves" },
+      { "id": "d", "text": "Urinary reflux into the vas deferens" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because urinary reflux into the vas deferens is a risk factor for recurrent epididymo-orchitis, which is common in males with anorectal anomalies. This may require occlusion of the vas deferens to prevent recurrent episodes.\n\nA is wrong because while bladder diverticula can occur with ARM, they are not specifically identified as a risk factor for recurrent epididymo-orchitis.\n\nB is wrong because an ectopic ureter can cause infection but is not the described mechanism for recurrent epididymo-orchitis in males with ARM.\n\nC is wrong because posterior urethral valves are not associated with anorectal malformations and are not the cause of epididymo-orchitis in this population.\n\nTeaching point: Urinary reflux into the vas deferens is a unique complication in males with anorectal malformations due to the abnormal communication between the urinary and genital tracts, and may require vas deferens occlusion for management.",
+    "topic": "Epididymo-orchitis"
+  },
+  {
+    "id": "ch14-Q20",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 20,
+    "stem": "A newborn male with an anorectal malformation is being examined for associated anomalies. On genitourinary examination, which of the following findings is most consistent with the 20% incidence of undescended testes reported in this population?",
+    "options": [
+      { "id": "a", "text": "Bilateral nonpalpable testes in the scrotum after 6 months" },
+      { "id": "b", "text": "Absence of both testes from the scrotum on newborn exam" },
+      { "id": "c", "text": "Unilateral undescended testis requiring orchiopexy" },
+      { "id": "d", "text": "Retractile testes with normal scrotal development" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because undescended testes occurs in approximately 20% of males with anorectal malformations. The newborn exam is the appropriate time to identify cryptorchidism, which presents as absence of testes from the scrotum.\n\nA is wrong because bilateral nonpalpable testes after 6 months describes a different clinical scenario; the diagnosis should be made at birth.\n\nC is wrong while unilateral undescended testis is a form of cryptorchidism, the question asks about the 20% incidence finding on newborn exam, not the need for surgery.\n\nD is wrong because retractile testes are not true undescended testes and do not represent cryptorchidism.\n\nTeaching point: In males with anorectal malformations, cryptorchidism (20%), bifid scrotum (15%), and penile anomalies including hypospadias (25%) are common associated genital findings that should be documented at birth.",
+    "topic": "Genital anomalies"
+  },
+  {
+    "id": "ch14-Q21",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 21,
+    "stem": "A 16-year-old girl with a history of repaired anorectal malformation presents with primary amenorrhea. Pelvic ultrasound suggests a uterine anomaly. The incidence of M\u00fcllerian abnormalities such as vaginal septa or bicornuate uterus in girls with anorectal malformations is approximately:",
+    "options": [
+      { "id": "a", "text": "5\u201310%" },
+      { "id": "b", "text": "15\u201325%" },
+      { "id": "c", "text": "30\u201345%" },
+      { "id": "d", "text": "50\u201365%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because M\u00fcllerian abnormalities such as vaginal septa or bicornuate uterus occur in 30\u201345% of girls with anorectal malformations. This high rate underscores the need for gynecologic evaluation in affected females.\n\nA is wrong because 5\u201310% is too low; this figure would be closer to the general population incidence of M\u00fcllerian anomalies.\n\nB is wrong because 15\u201325% underestimates the incidence in ARM patients.\n\nD is wrong because 50\u201365% overestimates the incidence; while high, the reported range is 30\u201345%.\n\nTeaching point: Nearly one in three girls with anorectal malformations has an associated M\u00fcllerian anomaly, making pelvic ultrasound and gynecologic evaluation important as they approach puberty.",
+    "topic": "Genital anomalies"
+  },
+  {
+    "id": "ch14-Q22",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 22,
+    "stem": "A newborn with an anorectal malformation is undergoing initial screening. Spinal radiographs are obtained. The incidence of vertebral anomalies in this population has been reported as high as:",
+    "options": [
+      { "id": "a", "text": "20%" },
+      { "id": "b", "text": "30%" },
+      { "id": "c", "text": "40%" },
+      { "id": "d", "text": "50%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because the incidence of vertebral anomalies in children with anorectal malformations has been reported to be as high as 40%. Many of these children have associated intraspinal pathology such as tethered cord.\n\nA is wrong because 20% is too low; this figure is closer to the incidence of cardiac anomalies (20%) in ARM patients.\n\nB is wrong because 30% underestimates the incidence; the reported maximum is 40%.\n\nD is wrong because 50% overestimates the incidence; the reported maximum is 40%.\n\nTeaching point: Vertebral anomalies are among the most common associated findings in ARM patients (up to 40%), and initial screening with AP and lateral sacral radiographs is recommended for all affected newborns.",
+    "topic": "Spinal anomalies"
+  },
+  {
+    "id": "ch14-Q23",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 23,
+    "stem": "A 3-month-old infant with a repaired anorectal malformation is being evaluated for possible intraspinal pathology. The sacral radiograph appears normal. Which imaging modality has been shown to be very sensitive for identifying intraspinal anomalies in infants under 4 months of age?",
+    "options": [
+      { "id": "a", "text": "Spinal ultrasound" },
+      { "id": "b", "text": "Plain radiography of the spine" },
+      { "id": "c", "text": "Computed tomography of the spine" },
+      { "id": "d", "text": "Nuclear medicine bone scan" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because in infants under 4 months of age, spinal ultrasound has proven very sensitive in identifying intraspinal anomalies, although it is less accurate than MRI. It is a non-invasive screening tool that avoids radiation.\n\nB is wrong because while plain radiography is useful for identifying vertebral body anomalies, it does not visualize the intraspinal contents such as the spinal cord or nerve roots.\n\nC is wrong because CT involves radiation exposure and is inferior to ultrasound or MRI for evaluating intraspinal soft tissue anomalies.\n\nD is wrong because a nuclear medicine bone scan evaluates bone metabolism and is not indicated for intraspinal anomaly detection.\n\nTeaching point: Spinal ultrasound is the recommended initial screening modality for intraspinal anomalies in infants under 4 months with ARM, capitalizing on the open acoustic window provided by the incompletely ossified posterior spine.",
+    "topic": "Spinal imaging"
+  },
+  {
+    "id": "ch14-Q24",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 24,
+    "stem": "A newborn with an anorectal malformation requires initial spinal imaging. According to the diagnostic algorithm, which of the following is the recommended first imaging study?",
+    "options": [
+      { "id": "a", "text": "MRI of the entire spine with contrast" },
+      { "id": "b", "text": "Anteroposterior and lateral radiographs of the sacrum" },
+      { "id": "c", "text": "CT scan of the lumbosacral spine" },
+      { "id": "d", "text": "Nuclear medicine bone scan of the pelvis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because initial imaging should include both anteroposterior and lateral radiological views of the sacrum. If the sacrum is radiographically normal, significant intraspinal pathology is unlikely.\n\nA is wrong because MRI is not the first imaging study; it is reserved for cases where sacral abnormality is detected or there is clinical concern.\n\nC is wrong because CT involves significant radiation and is not indicated as initial screening; plain radiographs provide adequate assessment of bony anatomy.\n\nD is wrong because a bone scan evaluates metabolic bone activity and is not indicated for sacral evaluation in ARM.\n\nTeaching point: The diagnostic algorithm for spinal evaluation in ARM begins with plain AP and lateral sacral radiographs; a normal sacral radiograph makes significant intraspinal pathology unlikely, and further imaging is guided by findings.",
+    "topic": "Spinal imaging"
+  },
+  {
+    "id": "ch14-Q25",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 25,
+    "stem": "A newborn male with imperforate anus is being assessed. After 24 hours, no meconium has passed. There is no visible fistula on perineal inspection. A distal colostogram ultimately demonstrates a high rectourethral fistula. Which of the following is the most appropriate initial surgical step?",
+    "options": [
+      { "id": "a", "text": "Primary posterior sagittal anorectoplasty (PSARP)" },
+      { "id": "b", "text": "Diverting end colostomy at the descending colon" },
+      { "id": "c", "text": "Perineal dilatation and observation" },
+      { "id": "d", "text": "Loop colostomy at the transverse colon" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because a diverting colostomy is required in more severe cases where there is no external fistula or internal fistula to the urinary tract. An end colostomy is preferable to a loop colostomy and is typically performed at the level of the descending colon to preserve adequate distal colon length for future reconstruction.\n\nA is wrong because primary PSARP at birth is not indicated for high ARM with fistulae; a diverting colostomy is performed first, with definitive repair deferred until around 3 months of age.\n\nC is wrong because observation is appropriate only for low lesions where meconium passes through a visible fistula; this patient has no external fistula.\n\nD is wrong because an end colostomy is preferred over a loop colostomy, and the descending colon is the preferred level, not the transverse colon.\n\nTeaching point: The need for a diverting colostomy in ARM is determined by fistula type: low fistulae (perineal, vestibular) may allow primary repair, while high fistulae (rectourethral, rectovesical, cloaca) require initial colostomy with delayed definitive reconstruction.",
+    "topic": "Initial management"
+  },
+  {
+    "id": "ch14-Q26",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 26,
+    "stem": "A newborn with a high anorectal malformation requires a diverting colostomy prior to transfer to a pediatric surgical center. Which of the following is the preferred technique for this initial diversion?",
+    "options": [
+      { "id": "a", "text": "Loop colostomy at the sigmoid colon" },
+      { "id": "b", "text": "Transverse loop colostomy" },
+      { "id": "c", "text": "Cecostomy tube" },
+      { "id": "d", "text": "End colostomy at the level of the descending colon" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because an end colostomy is preferable to a loop colostomy and is typically performed at the level of the descending colon to preserve an adequate length of distal colon for surgical reconstruction.\n\nA is wrong because a loop colostomy is inferior to an end colostomy; it does not provide complete diversion and has a higher risk of complications.\n\nB is wrong because a transverse loop colostomy would not preserve adequate distal colon length for the future pull-through procedure.\n\nC is wrong because a cecostomy provides access to the cecum for antegrade enemas but does not divert stool, which is necessary for high anorectal malformations.\n\nTeaching point: The colostomy for high ARM should be an end colostomy at the descending colon to maximize distal colon length available for the subsequent pull-through reconstruction.",
+    "topic": "Colostomy"
+  },
+  {
+    "id": "ch14-Q27",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 27,
+    "stem": "A female newborn with a cloacal malformation is found to have a large pelvic cystic mass on prenatal ultrasound that persists postnatally. After delivery, catheterization of the common channel yields a large amount of fluid. What is the most likely diagnosis, and in what proportion of cloacal cases does this finding occur?",
+    "options": [
+      { "id": "a", "text": "Ovarian cyst; present in 10% of cloacal cases" },
+      { "id": "b", "text": "Hydrocolpos; present in 30% of cloacal cases" },
+      { "id": "c", "text": "Bladder diverticulum; present in 20% of cloacal cases" },
+      { "id": "d", "text": "Ureterocele; present in 15% of cloacal cases" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because hydrocolpos is present in 30% of cases of persistent cloaca and is caused by accumulation of secretions combined with retrograde filling with urine in the obstructed vagina. It is usually identified as a pelvic cystic structure on prenatal ultrasound.\n\nA is wrong because an ovarian cyst would not resolve with catheterization of the common channel; the description is classic for hydrocolpos.\n\nC is wrong because a bladder diverticulum communicates with the bladder, not the common channel, and would not produce the described drainage pattern.\n\nD is wrong because a ureterocele is a dilation of the distal ureter and would not present as a pelvic cystic mass draining through the common channel.\n\nTeaching point: Hydrocolpos occurs in 30% of cloacal malformations and can be managed by intermittent catheterization of the common channel, avoiding the need for vaginostomy or vesicostomy in many cases.",
+    "topic": "Hydrocolpos"
+  },
+  {
+    "id": "ch14-Q28",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 28,
+    "stem": "A male infant with a high anorectal malformation underwent diverting colostomy at birth. His parents ask when the definitive repair will be performed. At approximately what age is definitive anorectal repair typically undertaken?",
+    "options": [
+      { "id": "a", "text": "Within the first week of life" },
+      { "id": "b", "text": "Around 3 months of age" },
+      { "id": "c", "text": "Around 6 months of age" },
+      { "id": "d", "text": "Around 12 months of age" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because children typically undergo definitive repair of their anorectal anomalies at around 3 months of age. Pre-operative planning includes contrast studies (distal colostogram) to evaluate the length of distal colon available for pull-through and define the relationship of the rectum to the sacrum.\n\nA is wrong because definitive repair is not performed in the first week; the initial management focuses on gastrointestinal diversion if needed.\n\nC is wrong because 6 months is later than the standard timing; 3 months is the typical age for repair.\n\nD is wrong because 12 months is too late; earlier repair is preferred to allow for normal bowel training and development.\n\nTeaching point: The standard timing for definitive ARM repair (PSARP) is around 3 months of age, with colostomy closure performed several months after the anorectoplasty.",
+    "topic": "Surgical timing"
+  },
+  {
+    "id": "ch14-Q29",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 29,
+    "stem": "A 3-month-old male with a rectourethral fistula who had a diverting colostomy at birth is now scheduled for definitive repair. Which of the following surgical techniques is most widely employed for this reconstruction?",
+    "options": [
+      { "id": "a", "text": "Abdominoperineal pull-through" },
+      { "id": "b", "text": "Anterior sagittal anorectoplasty" },
+      { "id": "c", "text": "Posterior sagittal anorectoplasty (PSARP)" },
+      { "id": "d", "text": "Laparoscopic-assisted anorectal pull-through" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because the technique most widely employed for repair of anorectal malformations is the posterior sagittal anorectoplasty (PSARP), originally described and popularized by Pe\u00f1a.\n\nA is wrong because abdominoperineal pull-through was used historically but has been largely replaced by PSARP, which provides superior access and better functional outcomes.\n\nB is wrong because the anterior sagittal approach is less commonly used and does not provide the same access to the posterior sagittal structures.\n\nD is wrong because while laparoscopic-assisted pull-through has been described, PSARP remains the most widely employed technique.\n\nTeaching point: PSARP is the standard surgical approach for ARM repair, offering excellent exposure through a posterior sagittal incision for precise rectal mobilization and fistula division.",
+    "topic": "PSARP"
+  },
+  {
+    "id": "ch14-Q30",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 30,
+    "stem": "A female newborn with a cloacal malformation is being evaluated prior to definitive repair. Which of the following endoscopic procedures is essential for preoperative assessment of the anatomy?",
+    "options": [
+      { "id": "a", "text": "Bronchoscopy" },
+      { "id": "b", "text": "Proctoscopy" },
+      { "id": "c", "text": "Esophagogastroduodenoscopy" },
+      { "id": "d", "text": "Cystovaginoscopy" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because cystovaginoscopy is an essential part of the preoperative evaluation of cloacal malformations. It provides information on the length of the common channel, the bladder neck, bladder, and ureteral orifices. It is ideally undertaken when the diverting colostomy is performed.\n\nA is wrong because bronchoscopy is used to evaluate the tracheobronchial tree and is not indicated for cloacal anatomy assessment.\n\nB is wrong because proctoscopy evaluates the rectum alone, while cystovaginoscopy simultaneously assesses the common channel, vagina, and bladder.\n\nC is wrong because EGD evaluates the upper GI tract and is not relevant to cloacal malformation assessment.\n\nTeaching point: Cystovaginoscopy is the key endoscopic tool for preoperative planning in cloacal cases, providing critical anatomic information about common channel length and urogenital anatomy.",
+    "topic": "Preoperative evaluation"
+  },
+  {
+    "id": "ch14-Q31",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 31,
+    "stem": "A 6-month-old infant underwent successful PSARP for a high anorectal malformation at 3 months of age. The colostomy is still in place. When is colostomy closure typically performed in relation to the anorectoplasty?",
+    "options": [
+      { "id": "a", "text": "Several months following anorectoplasty" },
+      { "id": "b", "text": "Immediately after anorectoplasty" },
+      { "id": "c", "text": "Several weeks following anorectoplasty" },
+      { "id": "d", "text": "One year following anorectoplasty" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because colostomy closure is usually performed several months following anorectoplasty. This allows adequate healing of the anorectal repair before restoring intestinal continuity.\n\nB is wrong because immediate closure would not allow sufficient time for the anorectal repair to heal before stool passes through the reconstructed area.\n\nC is wrong because several weeks may not provide enough healing time for the complex perineal reconstruction.\n\nD is wrong because one year is unnecessarily long; several months is the standard timing.\n\nTeaching point: Colostomy closure after PSARP is typically delayed for several months to allow complete healing of the anorectal reconstruction before stool is allowed to pass through the newly constructed anal canal.",
+    "topic": "Postoperative management"
+  },
+  {
+    "id": "ch14-Q32",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 32,
+    "stem": "A 10-year-old girl with a history of cloacal anomaly repair is being followed for declining renal function. Her parents are counseled about the long-term renal prognosis. According to one series, what percentage of patients with cloacal anomalies develop long-term renal impairment?",
+    "options": [
+      { "id": "a", "text": "30%" },
+      { "id": "b", "text": "50%" },
+      { "id": "c", "text": "60%" },
+      { "id": "d", "text": "80%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because in one series, 80% of patients with cloacal anomalies developed long-term renal impairment. Another large review found that half of the patients developed chronic renal failure by 5.7 years of age, and 17% went on to develop end-stage renal failure.\n\nA is wrong because 30% is too low; while this figure may apply to selected ARM subgroups, cloacal anomaly patients have the highest risk.\n\nB is wrong because 50% approximates the rate of chronic renal failure development by 5.7 years, not the overall rate of long-term renal impairment.\n\nC is wrong because 60% underestimates the rate; 80% is the reported figure.\n\nTeaching point: Cloacal anomalies carry the highest risk of renal impairment among ARM subtypes, with 80% developing long-term renal impairment, underscoring the need for vigilant long-term nephrologic follow-up.",
+    "topic": "Renal outcomes"
+  },
+  {
+    "id": "ch14-Q33",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 33,
+    "stem": "A child with a high anorectal malformation died from renal insufficiency at age 7. This outcome is known to occur at a certain rate. Which of the following best represents the mortality rate from renal insufficiency in children with high anorectal malformations?",
+    "options": [
+      { "id": "a", "text": "0.5%" },
+      { "id": "b", "text": "1.1%" },
+      { "id": "c", "text": "2\u20136%" },
+      { "id": "d", "text": "10\u201315%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because between 2% and 6% of patients with high anorectal malformations die from renal insufficiency. This is significantly higher than the 1.1% mortality rate for patients with low lesions, reflecting the higher incidence of associated renal anomalies including renal dysplasia, reflux nephropathy, and bladder dysfunction.\n\nA is wrong because 0.5% is too low; this would be lower than the rate for low lesions.\n\nB is wrong because 1.1% is the mortality rate for low lesions, not high anorectal malformations.\n\nD is wrong because 10\u201315% is too high; the mortality rate for high lesions is 2\u20136%.\n\nTeaching point: Renal-related mortality in ARM correlates with malformation severity \u2014 2\u20136% for high lesions vs 1.1% for low lesions \u2014 emphasizing the importance of early detection and management of renal impairment.",
+    "topic": "Renal outcomes"
+  },
+  {
+    "id": "ch14-Q34",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 34,
+    "stem": "A 5-year-old child who underwent repair of a perineal fistula at birth is being evaluated for fecal continence. Based on published continence rates, what is the approximate expected rate of fecal continence for this type of malformation?",
+    "options": [
+      { "id": "a", "text": "50%" },
+      { "id": "b", "text": "70%" },
+      { "id": "c", "text": "80%" },
+      { "id": "d", "text": "90%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because the fecal continence rate for a perineal fistula is around 90%, the highest among ARM subtypes. This reflects the relatively mild nature of this malformation with an intact sphincter complex.\n\nA is wrong because 50% is the continence rate for bulbar fistulae, not perineal fistulae.\n\nB is wrong because 70% is the rate for vestibular fistulae.\n\nC is wrong because 80% is not the rate for any specific fistula type; the rates are 90% (perineal), 70% (vestibular), 50% (bulbar), 30% (prostatic), and 12% (bladder neck).\n\nTeaching point: Fecal continence rates after ARM repair are inversely correlated with fistula level \u2014 the more proximal the fistula, the lower the continence rate, ranging from 90% (perineal) down to 12% (bladder neck).",
+    "topic": "Fecal continence"
+  },
+  {
+    "id": "ch14-Q35",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 35,
+    "stem": "A 6-year-old patient who underwent PSARP repair of a bladder neck fistula at infancy is experiencing significant fecal incontinence. The parents ask about prognosis. Which of the following continence rates most closely corresponds to this type of fistula?",
+    "options": [
+      { "id": "a", "text": "12%" },
+      { "id": "b", "text": "30%" },
+      { "id": "c", "text": "50%" },
+      { "id": "d", "text": "70%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because the fecal continence rate for bladder neck fistula is approximately 12%, the lowest among the fistula types. This reflects the severe nature of this malformation, which is associated with sacral dysplasia, abnormal pelvic floor musculature, and poor anal sphincter development.\n\nB is wrong because 30% is the continence rate for prostatic fistulae, not bladder neck fistulae.\n\nC is wrong because 50% is the rate for bulbar fistulae.\n\nD is wrong because 70% is the rate for vestibular fistulae.\n\nTeaching point: Bladder neck fistulae have the worst fecal continence prognosis (12%), reflecting the most severe sphincter and sacral anomalies; this should be discussed with families during preoperative counseling.",
+    "topic": "Fecal continence"
+  },
+  {
+    "id": "ch14-Q36",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 36,
+    "stem": "A 12-year-old girl with a history of cloacal anomaly repair is experiencing persistent urinary incontinence despite clean intermittent catheterization. A review of the literature indicates the incontinence rate for her anomaly type is the highest among ARM patients. Which of the following values represents the incontinence rate for cloacal anomalies according to a study of over 300 patients?",
+    "options": [
+      { "id": "a", "text": "25%" },
+      { "id": "b", "text": "46%" },
+      { "id": "c", "text": "20%" },
+      { "id": "d", "text": "4%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because a study of over 300 patients found that cloacal anomalies carry the highest urinary incontinence rate at 46%. This was followed by bladder neck fistula (25%), urethral fistula (25%), and vaginal fistula (20%). Patients without a fistula had the lowest rate at 4%.\n\nA is wrong because 25% is the incontinence rate for both bladder neck and urethral fistulae, not cloacal anomalies.\n\nC is wrong because 20% is the rate for vaginal fistula.\n\nD is wrong because 4% is the rate for patients without any fistula, who have the best urinary continence.\n\nTeaching point: Urinary continence after ARM repair follows a similar pattern to fecal continence \u2014 more severe malformations (cloaca, bladder neck fistula) have higher incontinence rates, while patients without fistula have the best outcomes.",
+    "topic": "Urinary continence"
+  },
+  {
+    "id": "ch14-Q37",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 37,
+    "stem": "A child with an anorectal malformation and associated spinal anomaly has an incompetent bladder neck and persistent urinary leakage despite optimal bladder management with anticholinergics and clean intermittent catheterization. Which of the following is a surgical option to increase outflow resistance?",
+    "options": [
+      { "id": "a", "text": "Urethral dilation" },
+      { "id": "b", "text": "Ureteral reimplantation" },
+      { "id": "c", "text": "Bladder neck reconstruction" },
+      { "id": "d", "text": "Nephrectomy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because for patients with an incompetent bladder neck and sphincter complex, various procedures are available to increase outflow resistance, including injection of bulking agents and formal bladder neck reconstruction.\n\nA is wrong because urethral dilation would decrease outflow resistance and worsen incontinence; it is used for strictures, not incontinence.\n\nB is wrong because ureteral reimplantation addresses vesicoureteral reflux, not bladder neck incompetence.\n\nD is wrong because nephrectomy does not address the underlying problem of bladder neck incompetence and is not indicated for incontinence management.\n\nTeaching point: Bladder neck incompetence in ARM patients, often associated with spinal anomalies, can be managed surgically by increasing outlet resistance through bulking agents or bladder neck reconstruction, and in refractory cases, bladder neck closure with a Mitrofanoff channel.",
+    "topic": "Bladder neck management"
+  },
+  {
+    "id": "ch14-Q38",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 38,
+    "stem": "A 14-year-old patient with a history of ARM and spinal anomaly has refractory urinary incontinence despite previous bladder neck reconstruction. The surgical team recommends bladder neck closure. Which of the following procedures must accompany bladder neck closure to allow bladder emptying?",
+    "options": [
+      { "id": "a", "text": "Ileal conduit urinary diversion" },
+      { "id": "b", "text": "Vesicostomy" },
+      { "id": "c", "text": "Urethral stent placement" },
+      { "id": "d", "text": "Mitrofanoff procedure" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because bladder neck closure must be accompanied by a Mitrofanoff procedure (creation of a catheterizable channel, typically using appendix or ileum) to provide a route for bladder emptying.\n\nA is wrong because an ileal conduit creates an incontinent stoma, which defeats the purpose of achieving continence through bladder neck closure.\n\nB is wrong because a vesicostomy is an incontinent diversion that allows continuous drainage, not a catheterizable channel.\n\nC is wrong because a urethral stent would keep the bladder neck open and is the opposite of what is intended with bladder neck closure.\n\nTeaching point: Bladder neck closure achieves urinary continence but requires a concomitant Mitrofanoff channel to allow intermittent catheterization for bladder emptying; this combination is reserved for severe refractory incontinence.",
+    "topic": "Bladder neck closure"
+  },
+  {
+    "id": "ch14-Q39",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 39,
+    "stem": "A retrospective study from the Netherlands found that 91% of ARM patients with bladder-sphincter dysfunction on urodynamics had urinary incontinence. Analysis of this group revealed a common underlying association. Which of the following best describes the finding most strongly associated with this bladder-sphincter dysfunction?",
+    "options": [
+      { "id": "a", "text": "An underlying spinal anomaly was present in nearly all cases" },
+      { "id": "b", "text": "All had undergone prior PSARP procedure" },
+      { "id": "c", "text": "All had vesicoureteral reflux on VCUG" },
+      { "id": "d", "text": "All had rectovesical fistulae" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because with only one exception, all patients with bladder-sphincter dysfunction on urodynamics had an underlying spinal anomaly. This finding highlights the importance of spinal evaluation in ARM patients with lower urinary tract symptoms.\n\nB is wrong because PSARP is the standard repair technique and would not be a specific risk factor for bladder-sphincter dysfunction; the association is with spinal anomalies.\n\nC is wrong because while VUR is common in ARM, it was not the universal feature among patients with bladder-sphincter dysfunction.\n\nD is wrong because rectovesical fistula is a specific ARM subtype, not a universal finding in patients with bladder-sphincter dysfunction.\n\nTeaching point: Bladder-sphincter dysfunction in ARM is almost invariably associated with a spinal anomaly (most commonly sacral dysplasia or tethered cord), reinforcing the need for spinal imaging and urodynamics in these patients.",
+    "topic": "Urodynamics"
+  },
+  {
+    "id": "ch14-Q40",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 40,
+    "stem": "A 24-year-old man who underwent repair of a rectourethral fistula in infancy is concerned about sexual function as he begins a new relationship. He had a posterior sagittal approach. Which of the following best describes the expected sexual function outcomes associated with this surgical approach?",
+    "options": [
+      { "id": "a", "text": "Poor erectile function due to inevitable nerve damage" },
+      { "id": "b", "text": "Better outcomes with reduced risk of iatrogenic nerve damage" },
+      { "id": "c", "text": "Universal requirement for assisted reproduction" },
+      { "id": "d", "text": "Outcomes equivalent to abdominoperineal pull-through" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because the posterior sagittal approach (PSARP) is thought to be associated with better sexual functional outcomes by reducing the risk of iatrogenic damage to the relevant pelvic innervation. One study of 41 males with rectourethral fistulae treated by PSARP found that 90% had normal erections and ejaculation.\n\nA is wrong because PSARP is associated with good erectile function outcomes, not poor outcomes; 90% of patients had normal erections in one series.\n\nC is wrong because the majority of PSARP patients do not require assisted reproduction; fertility is preserved in most cases.\n\nD is wrong because PSARP outcomes are superior to abdominoperineal procedures, which have less satisfactory sexual function outcomes, particularly in men with spinal anomalies.\n\nTeaching point: PSARP preserves pelvic innervation better than older abdominoperineal approaches, resulting in superior sexual function outcomes (90% normal erections and ejaculation), making it the preferred approach for both functional and oncologic nerve preservation.",
+    "topic": "Sexual function"
+  },
+  {
+    "id": "ch14-Q41",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 41,
+    "stem": "A 28-year-old man born with a rectourethral fistula who underwent PSARP in infancy presents for a routine follow-up. He reports normal erectile and ejaculatory function. In the published study of 41 males with rectourethral fistulae treated by PSARP, what percentage of patients reported normal erections and ejaculation?",
+    "options": [
+      { "id": "a", "text": "50%" },
+      { "id": "b", "text": "70%" },
+      { "id": "c", "text": "90%" },
+      { "id": "d", "text": "80%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because a study examining sexual function in 41 males with rectourethral fistulae treated by PSARP found that 90% of these patients had normal erections and ejaculation and 80% experienced normal orgasms.\n\nA is wrong because 50% is too low; this would be closer to the rate of sexual dysfunction in female patients.\n\nB is wrong because 70% underestimates the excellent outcomes reported after PSARP.\n\nD is wrong because 80% is the rate for normal orgasms in the same study, not erections and ejaculation.\n\nTeaching point: PSARP is associated with excellent preservation of male sexual function, with 90% of patients maintaining normal erectile and ejaculatory function, compared to poorer outcomes with older abdominoperineal approaches.",
+    "topic": "Sexual function"
+  },
+  {
+    "id": "ch14-Q42",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 42,
+    "stem": "A 30-year-old man with a history of repaired anorectal malformation is undergoing evaluation for infertility. Which of the following conditions is NOT a recognized cause of infertility or subfertility in men with anorectal malformations?",
+    "options": [
+      { "id": "a", "text": "Cryptorchidism" },
+      { "id": "b", "text": "Recurrent epididymo-orchitis" },
+      { "id": "c", "text": "Sacral anomalies" },
+      { "id": "d", "text": "Exogenous testosterone therapy" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because exogenous testosterone therapy is not mentioned as a cause of infertility in men with anorectal malformations. The recognized causes include cryptorchidism, genital anomalies, sacral anomalies, recurrent epididymo-orchitis, and iatrogenic injuries.\n\nA is wrong because cryptorchidism is present in 20% of males with ARM and is a well-recognized cause of subfertility.\n\nB is wrong because recurrent epididymo-orchitis, often due to reflux into the vas deferens, can cause obstructive azoospermia.\n\nC is wrong because sacral anomalies can affect pelvic innervation and contribute to ejaculatory dysfunction.\n\nTeaching point: Infertility in men with ARM is multifactorial, resulting from cryptorchidism, genital anomalies, sacral nerve dysfunction, infectious complications (epididymo-orchitis), and iatrogenic injuries \u2014 but not from exogenous testosterone.",
+    "topic": "Fertility"
+  },
+  {
+    "id": "ch14-Q43",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 43,
+    "stem": "A 15-year-old girl with a history of anorectal malformation and prior vaginal reconstruction presents for a puberty assessment. She has not yet started menstruating. Based on reported outcomes, what proportion of such adolescent females are expected to menstruate normally?",
+    "options": [
+      { "id": "a", "text": "One-third" },
+      { "id": "b", "text": "One-quarter" },
+      { "id": "c", "text": "One-half" },
+      { "id": "d", "text": "Two-thirds" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because it has been reported that only one-third of female patients with anorectal malformations who had vaginal reconstruction menstruate normally. It is important to ensure that the vagina is not obstructed.\n\nB is wrong because one-quarter is too low; the reported figure is one-third.\n\nC is wrong because one-half overestimates normal menstrual function in this population.\n\nD is wrong because two-thirds overestimates the proportion; only one-third menstruate normally.\n\nTeaching point: Adolescent females with ARM who underwent vaginal reconstruction require careful gynecologic evaluation at puberty, as only one-third menstruate normally and vaginal obstruction must be ruled out.",
+    "topic": "Menstrual function"
+  },
+  {
+    "id": "ch14-Q44",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 44,
+    "stem": "A 22-year-old woman with a history of anorectal malformation and known uterine didelphys is planning a pregnancy. Which of the following obstetric risks is she at increased risk for?",
+    "options": [
+      { "id": "a", "text": "Placenta previa" },
+      { "id": "b", "text": "Preterm labor and miscarriage" },
+      { "id": "c", "text": "Preeclampsia" },
+      { "id": "d", "text": "Gestational diabetes" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because women with uterine anomalies such as didelphys are at higher risk for preterm labor and miscarriage. Cesarean section delivery is necessary in those who have undergone complex vaginal reconstruction or replacement.\n\nA is wrong because placenta previa is associated with prior cesarean section and uterine scarring, not specifically with uterine didelphys.\n\nC is wrong because preeclampsia is not specifically associated with uterine didelphys or anorectal malformations.\n\nD is wrong because gestational diabetes is a metabolic condition not associated with uterine anomalies.\n\nTeaching point: Women with ARM-related M\u00fcllerian anomalies (didelphys, bicornuate uterus) require high-risk obstetric monitoring due to increased rates of preterm labor and miscarriage, and those with prior vaginal reconstruction often require cesarean delivery.",
+    "topic": "Obstetric outcomes"
+  },
+  {
+    "id": "ch14-Q45",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 45,
+    "stem": "A 35-year-old woman with a history of repaired anorectal malformation reports dissatisfaction with her sexual function. A recent study examined sexual function in women with anorectal malformations. What proportion of women in this study reported sexual dysfunction or distress?",
+    "options": [
+      { "id": "a", "text": "20%" },
+      { "id": "b", "text": "30%" },
+      { "id": "c", "text": "50%" },
+      { "id": "d", "text": "70%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because one recent study found 50% of women with an anorectal malformation reported sexual dysfunction or distress independent of continence and quality of life. Additionally, 35\u201345% of female patients surveyed had not been sexually active.\n\nA is wrong because 20% is too low; this would underrepresent the prevalence of sexual dysfunction in this population.\n\nB is wrong because 30% underestimates the reported rate of sexual dysfunction.\n\nD is wrong because 70% overestimates the rate; the reported figure is 50%.\n\nTeaching point: Sexual dysfunction is common in women with ARM (50%), affecting quality of life independently of continence status, and requires a multidisciplinary approach including gynecologic and psychological support.",
+    "topic": "Sexual function"
+  },
+  {
+    "id": "ch14-Q46",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 46,
+    "stem": "A 6-year-old child is found to have a left pelvic kidney on ultrasound performed for minor urinary symptoms. The parents ask about the significance of this finding. Which of the following is true regarding the most common form of simple renal ectopia?",
+    "options": [
+      { "id": "a", "text": "It is most commonly located in the thoracic cavity" },
+      { "id": "b", "text": "It accounts for 60% of all simple ectopic kidneys" },
+      { "id": "c", "text": "It is bilateral in 90% of cases" },
+      { "id": "d", "text": "It occurs more commonly on the right side" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because pelvic kidneys are the most common form of simple renal ectopia, accounting for 60% of all cases. The majority (90%) are unilateral, and they occur more commonly on the left.\n\nA is wrong because thoracic kidneys are rare and not the most common form of simple ectopia; pelvic kidneys are most common.\n\nC is wrong because the majority (90%) of ectopic kidneys are unilateral, not bilateral.\n\nD is wrong because pelvic kidneys occur more commonly on the left, not the right.\n\nTeaching point: Pelvic kidney is the most common form of simple renal ectopia (60%), is usually unilateral (90%), and occurs more frequently on the left side; it is often an incidental finding.",
+    "topic": "Renal ectopia"
+  },
+  {
+    "id": "ch14-Q47",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 47,
+    "stem": "A patient is found to have a horseshoe kidney on imaging. The isthmus is noted to be trapped beneath the origin of the inferior mesenteric artery. At which vertebral level does this isthmus typically lie in approximately 40% of cases?",
+    "options": [
+      { "id": "a", "text": "L4" },
+      { "id": "b", "text": "L1" },
+      { "id": "c", "text": "L2" },
+      { "id": "d", "text": "L5" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because in about 40% of cases, the isthmus of a horseshoe kidney lies at the level of L4 where it is trapped beneath the origin of the inferior mesenteric artery during renal ascent.\n\nB is wrong because L1 is too high; the normal renal position is at the T12-L2 level, but the horseshoe isthmus is lower.\n\nC is wrong because L2 is at the level of normal renal position; the horseshoe isthmus lies lower at L4.\n\nD is wrong because L5 is too low; while the horseshoe kidney lies lower than normal kidneys, the isthmus is typically at L4, not L5.\n\nTeaching point: The horseshoe kidney isthmus is typically positioned at L4, trapped beneath the inferior mesenteric artery origin, and this abnormal anatomy contributes to UPJ obstruction as the most common complication.",
+    "topic": "Horseshoe kidney"
+  },
+  {
+    "id": "ch14-Q48",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 48,
+    "stem": "A 4-year-old child with a horseshoe kidney presents with intermittent flank pain and nausea. Ultrasound reveals hydronephrosis. Which of the following is the most common complication of horseshoe kidney that explains these symptoms?",
+    "options": [
+      { "id": "a", "text": "Renal calculi formation" },
+      { "id": "b", "text": "Ureteropelvic junction obstruction" },
+      { "id": "c", "text": "Reflux nephropathy" },
+      { "id": "d", "text": "Renal artery stenosis causing hypertension" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because the most common complication of horseshoe kidney is ureteropelvic junction (UPJ) obstruction. This may be due to the deviated course of the proximal ureter as it arches anteriorly over the isthmus, or extrinsic compression by aberrant vasculature, or a combination of both.\n\nA is wrong while renal calculi can occur with horseshoe kidney due to urinary stasis, UPJ obstruction is the most common complication.\n\nC is wrong because reflux nephropathy is associated with vesicoureteral reflux but is not the most common complication of horseshoe kidney specifically.\n\nD is wrong because renal artery stenosis and hypertension are not the most common complications of horseshoe kidney.\n\nTeaching point: UPJ obstruction is the hallmark complication of horseshoe kidney, caused by the anomalous course of the ureter over the isthmus and aberrant vessels; it presents with flank pain and hydronephrosis.",
+    "topic": "Horseshoe kidney"
+  },
+  {
+    "id": "ch14-Q49",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 49,
+    "stem": "A 5-year-old child is found to have crossed fused renal ectopia on imaging. Which of the following best describes the most common fusion configuration in this condition?",
+    "options": [
+      { "id": "a", "text": "Lower pole of the normally positioned kidney fused to the lower pole of the crossed kidney" },
+      { "id": "b", "text": "Upper pole of the normally positioned kidney fused to the upper pole of the crossed kidney" },
+      { "id": "c", "text": "Upper pole of the crossed kidney fused to the lower pole of the normally positioned kidney" },
+      { "id": "d", "text": "Fusion of the renal pelves of both kidneys" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because in the most common configuration of crossed fused renal ectopia, the point of fusion is between the upper pole of the crossed kidney and the lower pole of the normally positioned kidney (unilateral fused type). Crossed renal ectopia with fusion accounts for 85% of cases.\n\nA is wrong because lower pole-to-lower pole fusion describes the configuration of horseshoe kidney, not crossed fused ectopia.\n\nB is wrong because upper pole-to-upper pole fusion is not the typical configuration; this would describe an uncommon variant.\n\nD is wrong because fusion of the renal pelves is not a described configuration; fusion occurs at the parenchymal level.\n\nTeaching point: In crossed fused renal ectopia (85% of crossed ectopia cases), the upper pole of the ectopic kidney fuses with the lower pole of the orthotopic kidney, typically with left-to-right crossing being more common.",
+    "topic": "Crossed renal ectopia"
+  },
+  {
+    "id": "ch14-Q50",
+    "chapter": "Anorectal Malformations / Renal Ectopia",
+    "chapterSlug": "ch14_anorectal-malformations-renal-ectopia",
+    "chapterNumber": 14,
+    "questionNumber": 50,
+    "stem": "A 2-year-old child is noted to have an empty renal fossa on routine prenatal and postnatal ultrasound. The child is asymptomatic. Which of the following is the best next imaging step to confirm the presence of functioning ectopic renal tissue?",
+    "options": [
+      { "id": "a", "text": "CT angiography of the abdomen and pelvis" },
+      { "id": "b", "text": "MAG3 renography" },
+      { "id": "c", "text": "Intravenous urography" },
+      { "id": "d", "text": "DMSA renography" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because non-dilated pelvic ectopic kidneys may be difficult to visualize on ultrasound, and absence of the kidney in the renal fossa may be misinterpreted as renal agenesis. The presence of ectopic functioning renal tissue is best demonstrated by DMSA renography with 99mTc-dimercaptosuccinic acid.\n\nA is wrong because CT angiography provides excellent vascular detail but involves radiation and contrast; DMSA is more specific for identifying functioning renal tissue.\n\nB is wrong because MAG3 renography assesses drainage and relative renal function but DMSA is superior for detecting and localizing functioning ectopic renal tissue.\n\nC is wrong because intravenous urography provides less detail in young children and has been largely replaced by nuclear medicine and ultrasound for this indication.\n\nTeaching point: When ultrasound suggests renal agenesis, DMSA scan is the imaging modality of choice to identify ectopic functioning renal tissue, as ectopic kidneys (especially pelvic) may be missed on ultrasound when non-dilated.",
+    "topic": "Renal ectopia imaging"
+  }
+]

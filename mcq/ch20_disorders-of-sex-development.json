@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch20-Q01",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 1,
+    "stem": "A newborn is noted to have ambiguous genitalia with a clitoro-phallic structure, rugated labioscrotal folds, and a single perineal opening. No gonads are palpable. What is the most important next step before discharge?",
+    "options": [
+      { "id": "a", "text": "Perform a karyotype" },
+      { "id": "b", "text": "Measure serum 17-hydroxyprogesterone" },
+      { "id": "c", "text": "Obtain a pelvic ultrasound" },
+      { "id": "d", "text": "Schedule a genitogram" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Any infant with apparent hypospadias and bilateral non-palpable gonads should be investigated for CAH before discharge, as salt-wasting CAH can cause a life-threatening adrenal crisis. 17-OHP is the screening test for 21-hydroxylase deficiency, the commonest form of CAH.",
+    "topic": "Congenital Adrenal Hyperplasia (CAH)"
+  },
+  {
+    "id": "ch20-Q02",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 2,
+    "stem": "Which enzyme deficiency accounts for more than 95% of congenital adrenal hyperplasia cases?",
+    "options": [
+      { "id": "a", "text": "11β-Hydroxylase deficiency" },
+      { "id": "b", "text": "3β-Hydroxysteroid dehydrogenase deficiency" },
+      { "id": "c", "text": "21-Hydroxylase deficiency" },
+      { "id": "d", "text": "17α-Hydroxylase deficiency" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "21-Hydroxylase deficiency accounts for >95% of CAH cases, with an incidence of 1:10,000 to 1:20,000 live births. It is due to mutations in the CYP21A2 gene on chromosome 6.",
+    "topic": "Congenital Adrenal Hyperplasia (CAH)"
+  },
+  {
+    "id": "ch20-Q03",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 3,
+    "stem": "What percentage of individuals with classical 21-hydroxylase deficiency have the salt-wasting variant?",
+    "options": [
+      { "id": "a", "text": "25%" },
+      { "id": "b", "text": "50%" },
+      { "id": "c", "text": "75%" },
+      { "id": "d", "text": "95%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Approximately 75% of individuals with classical 21-hydroxylase deficiency have the salt-wasting variant, which can present with a life-threatening adrenal crisis in the first 2 weeks of life.",
+    "topic": "Congenital Adrenal Hyperplasia (CAH)"
+  },
+  {
+    "id": "ch20-Q04",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 4,
+    "stem": "A 2-week-old 46XX infant presents with vomiting, hyponatremia, and hyperkalemia. Exam shows clitoromegaly and fused labioscrotal folds. Which condition is most likely?",
+    "options": [
+      { "id": "a", "text": "11β-Hydroxylase deficiency" },
+      { "id": "b", "text": "21-Hydroxylase deficiency with salt-wasting" },
+      { "id": "c", "text": "5α-Reductase deficiency" },
+      { "id": "d", "text": "Complete androgen insensitivity syndrome" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Salt-wasting 21-hydroxylase deficiency presents with hyponatremic adrenal crisis in the first 2 weeks of life. The 46XX karyotype with masculinized genitalia and electrolyte disturbance is classic for the salt-wasting variant.",
+    "topic": "Congenital Adrenal Hyperplasia (CAH)"
+  },
+  {
+    "id": "ch20-Q05",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 5,
+    "stem": "Which form of CAH is associated with hypertension in addition to genital masculinization?",
+    "options": [
+      { "id": "a", "text": "21-Hydroxylase deficiency" },
+      { "id": "b", "text": "11β-Hydroxylase deficiency" },
+      { "id": "c", "text": "3β-Hydroxysteroid dehydrogenase deficiency" },
+      { "id": "d", "text": "Aromatase deficiency" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "11β-Hydroxylase deficiency causes salt-retention mediated hypertension via precursors of aldosterone, in addition to genital masculinization due to androgen excess.",
+    "topic": "Congenital Adrenal Hyperplasia (CAH)"
+  },
+  {
+    "id": "ch20-Q06",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 6,
+    "stem": "Which form of CAH may be associated with an atypical genital phenotype in a 46XY child?",
+    "options": [
+      { "id": "a", "text": "21-Hydroxylase deficiency" },
+      { "id": "b", "text": "11β-Hydroxylase deficiency" },
+      { "id": "c", "text": "3β-Hydroxysteroid dehydrogenase deficiency" },
+      { "id": "d", "text": "17α-Hydroxylase deficiency" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "3β-Hydroxysteroid dehydrogenase deficiency is the rarest form of CAH and, unlike 21-hydroxylase and 11β-hydroxylase deficiencies which cause virilisation in both sexes, it may be associated with an atypical genital phenotype in a 46XY child due to impaired androgen synthesis. Its classic form presents with neonatal salt-wasting adrenal crisis.",
+    "topic": "Congenital Adrenal Hyperplasia (CAH)"
+  },
+  {
+    "id": "ch20-Q07",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 7,
+    "stem": "A 16-year-old female presents with primary amenorrhea and lack of pubertal development. She has short stature and normal external female genitalia. Ovaries are described as 'streak' on ultrasound. What karyotype is most likely to be found?",
+    "options": [
+      { "id": "a", "text": "Androgen insensitivity syndrome" },
+      { "id": "b", "text": "45X (Turner syndrome)" },
+      { "id": "c", "text": "46XX" },
+      { "id": "d", "text": "Ovotesticular DSD" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Turner syndrome (45X) presents with streak gonads, short stature, and lack of pubertal development. The short stature distinguishes it from 46XX gonadal dysgenesis, which has normal stature.",
+    "topic": "Sex Chromosome DSD"
+  },
+  {
+    "id": "ch20-Q08",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 8,
+    "stem": "In Swyer syndrome (46XY complete gonadal dysgenesis), the external genitalia appear typically female. Why is gonadectomy usually recommended?",
+    "options": [
+      { "id": "a", "text": "To prevent virilization at puberty" },
+      { "id": "b", "text": "To prevent cyclical abdominal pain" },
+      { "id": "c", "text": "To reduce the risk of gonadal malignancy" },
+      { "id": "d", "text": "To improve response to hormone replacement therapy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Gonadectomy is usually recommended because the presence of a Y chromosome in dysgenetic gonads carries an increased risk of malignancy, including gonadoblastoma and dysgerminoma.",
+    "topic": "46XY DSD — Complete Gonadal Dysgenesis"
+  },
+  {
+    "id": "ch20-Q09",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 9,
+    "stem": "A 14-year-old phenotypic female presents with primary amenorrhea. On examination, breast development is Tanner stage 4 but pubic hair is sparse. There is a short blind-ending vagina and no uterus. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "46XX gonadal dysgenesis" },
+      { "id": "b", "text": "Complete androgen insensitivity syndrome" },
+      { "id": "c", "text": "Mayer-Rokitansky-Kuster-Hauser syndrome" },
+      { "id": "d", "text": "5α-Reductase deficiency" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CAIS presents with primary amenorrhea, breast development (due to peripheral conversion of testosterone to estrogen), sparse pubic hair, a short blind-ending vagina, and absent uterus. The testes produce AMH which causes regression of Müllerian structures.",
+    "topic": "46XY DSD — Complete Androgen Insensitivity Syndrome"
+  },
+  {
+    "id": "ch20-Q10",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 10,
+    "stem": "A 2-year-old phenotypic female undergoes inguinal hernia repair. During surgery, a testis is found in the hernia sac. There is no uterus. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Partial androgen insensitivity syndrome" },
+      { "id": "b", "text": "Complete androgen insensitivity syndrome" },
+      { "id": "c", "text": "5α-Reductase deficiency" },
+      { "id": "d", "text": "Mixed gonadal dysgenesis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "CAIS is typically diagnosed when a testis is found during inguinal hernia surgery in a phenotypic female. The absence of a uterus (due to AMH from the testes) is a key feature.",
+    "topic": "46XY DSD — Complete Androgen Insensitivity Syndrome"
+  },
+  {
+    "id": "ch20-Q11",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 11,
+    "stem": "What is the estimated risk of testicular malignancy in complete androgen insensitivity syndrome (CAIS)?",
+    "options": [
+      { "id": "a", "text": "<1%" },
+      { "id": "b", "text": "2–10%" },
+      { "id": "c", "text": "20–30%" },
+      { "id": "d", "text": "40–50%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The risk of testicular malignancy in CAIS is in the order of 2–10%. This relatively low risk has led to a shift from early gonadectomy to retaining gonads for endogenous puberty.",
+    "topic": "46XY DSD — Complete Androgen Insensitivity Syndrome"
+  },
+  {
+    "id": "ch20-Q12",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 12,
+    "stem": "A newborn with 46XY karyotype has ambiguous genitalia with a clitoro-phallic structure, bifid scrotum, and a urethral opening at the base. The mother had no significant prenatal history. Which condition should be suspected if the testosterone-to-DHT ratio is >30:1?",
+    "options": [
+      { "id": "a", "text": "Partial androgen insensitivity syndrome" },
+      { "id": "b", "text": "5α-Reductase deficiency" },
+      { "id": "c", "text": "17β-Hydroxysteroid dehydrogenase 3 deficiency" },
+      { "id": "d", "text": "Luteinizing hormone receptor defect" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A testosterone-to-DHT ratio >30:1 is diagnostic of 5α-reductase deficiency. Testosterone synthesis is normal, but conversion to the more potent DHT is impaired due to deficiency of 5α-reductase.",
+    "topic": "46XY DSD — 5α-Reductase Deficiency"
+  },
+  {
+    "id": "ch20-Q13",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 13,
+    "stem": "In 5α-reductase deficiency, affected individuals who were raised as girls frequently experience which of the following at puberty?",
+    "options": [
+      { "id": "a", "text": "Complete breast development and menarche" },
+      { "id": "b", "text": "Virilization and gender dysphoria" },
+      { "id": "c", "text": "Salt-wasting adrenal crisis" },
+      { "id": "d", "text": "Spontaneous fertility" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "In 5α-reductase deficiency, virilization occurs at puberty in response to high testosterone levels. A high percentage of 46XY individuals raised as girls experience gender dysphoria, and conversion to male gender after puberty is accepted as normal in some societies with high prevalence.",
+    "topic": "46XY DSD — 5α-Reductase Deficiency"
+  },
+  {
+    "id": "ch20-Q14",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 14,
+    "stem": "Which of the following is an X-linked recessive disorder that results in defective androgen receptors?",
+    "options": [
+      { "id": "a", "text": "5α-Reductase deficiency" },
+      { "id": "b", "text": "Androgen insensitivity syndrome" },
+      { "id": "c", "text": "21-Hydroxylase deficiency" },
+      { "id": "d", "text": "17β-Hydroxysteroid dehydrogenase 3 deficiency" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Androgen insensitivity syndrome is an X-linked recessive disorder affecting the androgen receptors. CAIS results from complete inability of receptors to mediate androgen effects, while PAIS demonstrates partial receptor function.",
+    "topic": "46XY DSD — Androgen Insensitivity Syndrome"
+  },
+  {
+    "id": "ch20-Q15",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 15,
+    "stem": "Gender identity is most difficult to predict in which of the following DSD conditions?",
+    "options": [
+      { "id": "a", "text": "Complete androgen insensitivity syndrome" },
+      { "id": "b", "text": "Partial androgen insensitivity syndrome" },
+      { "id": "c", "text": "21-Hydroxylase deficiency raised as female" },
+      { "id": "d", "text": "5α-Reductase deficiency" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Gender identity is very difficult to predict in individuals with PAIS due to the wide spectrum of androgen receptor function and genital phenotypes, ranging from normal male to normal female with varying degrees of ambiguity in between.",
+    "topic": "46XY DSD — Partial Androgen Insensitivity Syndrome"
+  },
+  {
+    "id": "ch20-Q16",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 16,
+    "stem": "Which of the following is a feature of complete androgen insensitivity syndrome?",
+    "options": [
+      { "id": "a", "text": "Presence of a uterus" },
+      { "id": "b", "text": "Clitoromegaly" },
+      { "id": "c", "text": "Short blind-ending vagina" },
+      { "id": "d", "text": "Salt-wasting crisis" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "CAIS features a short blind-ending vagina (originating from the urogenital sinus). The uterus is absent (AMH-mediated regression), external genitalia are typically female without clitoromegaly, and there is no salt-wasting component.",
+    "topic": "46XY DSD — Complete Androgen Insensitivity Syndrome"
+  },
+  {
+    "id": "ch20-Q17",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 17,
+    "stem": "A 15-year-old 46XY individual raised as female presents with primary amenorrhea and virilization at puberty including voice deepening and clitoral enlargement. Lab investigations show normal testosterone but elevated androstenedione. Which enzyme deficiency is most likely?",
+    "options": [
+      { "id": "a", "text": "5α-Reductase deficiency" },
+      { "id": "b", "text": "17β-Hydroxysteroid dehydrogenase 3 deficiency" },
+      { "id": "c", "text": "21-Hydroxylase deficiency" },
+      { "id": "d", "text": "Aromatase deficiency" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "17β-Hydroxysteroid dehydrogenase 3 deficiency causes incomplete masculinization at birth and virilization at puberty. Elevated androstenedione with normal or low testosterone is characteristic, as conversion of androstenedione to testosterone is impaired.",
+    "topic": "46XY DSD — Androgen Biosynthesis Defects"
+  },
+  {
+    "id": "ch20-Q18",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 18,
+    "stem": "What distinguishes 46XX testicular DSD from other forms of 46XX DSD?",
+    "options": [
+      { "id": "a", "text": "Presence of a uterus" },
+      { "id": "b", "text": "Presence of SRY gene translocation" },
+      { "id": "c", "text": "Salt-wasting adrenal crisis" },
+      { "id": "d", "text": "Clitoromegaly at birth" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "46XX testicular DSD results from translocation of SRY genetic material onto an X chromosome, causing differentiation down the male pathway. External genitalia are usually unambiguously male, and affected individuals are typically infertile.",
+    "topic": "46XX DSD — Testicular DSD"
+  },
+  {
+    "id": "ch20-Q19",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 19,
+    "stem": "A newborn with 46XX karyotype has masculinized genitalia. The mother was healthy with no known medication use. 17-OHP is markedly elevated. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Maternal androgen exposure" },
+      { "id": "b", "text": "Aromatase deficiency" },
+      { "id": "c", "text": "21-Hydroxylase deficiency" },
+      { "id": "d", "text": "46XX testicular DSD" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "A markedly elevated 17-OHP is diagnostic of 21-hydroxylase deficiency, the commonest cause of CAH and the most frequent cause of ambiguous genitalia in Western countries.",
+    "topic": "Congenital Adrenal Hyperplasia (CAH)"
+  },
+  {
+    "id": "ch20-Q20",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 20,
+    "stem": "Mixed gonadal dysgenesis (MGD) is most commonly associated with which karyotype?",
+    "options": [
+      { "id": "a", "text": "45X" },
+      { "id": "b", "text": "47XXY" },
+      { "id": "c", "text": "45X/46XY" },
+      { "id": "d", "text": "46XX" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "MGD is associated with the 45X/46XY mosaic karyotype. It classically consists of one streak gonad and a contralateral dysgenetic testis, with hypospadias being a common feature.",
+    "topic": "Sex Chromosome DSD — Mixed Gonadal Dysgenesis"
+  },
+  {
+    "id": "ch20-Q21",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 21,
+    "stem": "In mixed gonadal dysgenesis, the ipsilateral ductal system adjacent to the streak gonad is typically:",
+    "options": [
+      { "id": "a", "text": "Wolffian (male)" },
+      { "id": "b", "text": "Müllerian (female)" },
+      { "id": "c", "text": "Absent" },
+      { "id": "d", "text": "Bilateral epididymides" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "In MGD, the streak gonad is associated with a Müllerian ductal system (fallopian tube, hemiuterus, vaginal structure entering posterior urethra), while the contralateral dysgenetic testis has variable Wolffian anatomy.",
+    "topic": "Sex Chromosome DSD — Mixed Gonadal Dysgenesis"
+  },
+  {
+    "id": "ch20-Q22",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 22,
+    "stem": "What is the risk of gonadal malignancy in individuals with Turner syndrome whose karyotype includes Y chromosomal material?",
+    "options": [
+      { "id": "a", "text": "2–10%" },
+      { "id": "b", "text": "15–20%" },
+      { "id": "c", "text": "30–40%" },
+      { "id": "d", "text": "50–60%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Individuals with Turner syndrome whose karyotype includes Y chromosomal material have a 30–40% risk of developing gonadal malignancy, and gonadectomy has been traditionally recommended at diagnosis.",
+    "topic": "Sex Chromosome DSD — Turner Syndrome"
+  },
+  {
+    "id": "ch20-Q23",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 23,
+    "stem": "Which of the following best describes ovotesticular DSD?",
+    "options": [
+      { "id": "a", "text": "Absence of both testes with female external genitalia" },
+      { "id": "b", "text": "Presence of both testicular and ovarian tissue in the same individual" },
+      { "id": "c", "text": "A streak gonad on one side and a testis on the other" },
+      { "id": "d", "text": "Bilateral dysgenetic testes with persistent Müllerian structures" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Ovotesticular DSD (previously termed true hermaphroditism) is defined by the presence of both testicular and ovarian tissue in the same individual, distributed as ovary + contralateral testis, or as ovotestis(es).",
+    "topic": "Ovotesticular DSD"
+  },
+  {
+    "id": "ch20-Q24",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 24,
+    "stem": "What is the most common karyotype in ovotesticular DSD?",
+    "options": [
+      { "id": "a", "text": "46XY" },
+      { "id": "b", "text": "46XX" },
+      { "id": "c", "text": "45X/46XY" },
+      { "id": "d", "text": "47XXY" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Karyotypes in ovotesticular DSD vary considerably, with 46XX being the most common.",
+    "topic": "Ovotesticular DSD"
+  },
+  {
+    "id": "ch20-Q25",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 25,
+    "stem": "In persistent Müllerian duct syndrome (PMDS), the external genital phenotype is typically:",
+    "options": [
+      { "id": "a", "text": "Ambiguous" },
+      { "id": "b", "text": "Normal female" },
+      { "id": "c", "text": "Normal male with bilateral undescended testes" },
+      { "id": "d", "text": "Male with hypospadias" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "In PMDS, the external genital phenotype is normal male because androgen production by the testes and androgen receptor function are both normal. Bilateral undescended testes and persistent Müllerian structures (uterus, fallopian tubes) are the key features.",
+    "topic": "46XY DSD — Persistent Müllerian Duct Syndrome"
+  },
+  {
+    "id": "ch20-Q26",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 26,
+    "stem": "A newborn is diagnosed with ambiguous genitalia and a 46XY karyotype. No Müllerian structures are seen on ultrasound. Androgen levels are low and there is no response to HCG stimulation. Which condition is most likely?",
+    "options": [
+      { "id": "a", "text": "Complete androgen insensitivity syndrome" },
+      { "id": "b", "text": "Luteinizing hormone receptor defect" },
+      { "id": "c", "text": "5α-Reductase deficiency" },
+      { "id": "d", "text": "Partial androgen insensitivity syndrome" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "LH receptor defect results in Leydig cell hypoplasia and impaired LH-mediated testosterone production. The lack of response to HCG (which mimics LH) is characteristic. Müllerian structures are absent because AMH from Sertoli cells is still produced.",
+    "topic": "46XY DSD — LH Receptor Defects"
+  },
+  {
+    "id": "ch20-Q27",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 27,
+    "stem": "In partial androgen insensitivity syndrome, the risk of gonadal tumors is described as:",
+    "options": [
+      { "id": "a", "text": "Lower than in CAIS" },
+      { "id": "b", "text": "Higher than in CAIS" },
+      { "id": "c", "text": "Similar to the general population" },
+      { "id": "d", "text": "Zero if gonads are intra-abdominal" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The risk of gonadal tumors is higher in PAIS than in CAIS, particularly for intra-abdominal gonads.",
+    "topic": "46XY DSD — Partial Androgen Insensitivity Syndrome"
+  },
+  {
+    "id": "ch20-Q28",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 28,
+    "stem": "Which of the following is the most common cause of ambiguous genitalia in Western countries?",
+    "options": [
+      { "id": "a", "text": "Partial androgen insensitivity syndrome" },
+      { "id": "b", "text": "Mixed gonadal dysgenesis" },
+      { "id": "c", "text": "Congenital adrenal hyperplasia" },
+      { "id": "d", "text": "5α-Reductase deficiency" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "CAH is the commonest form of 46XX DSD and the most frequent cause of ambiguous genitalia in Western countries. 21-Hydroxylase deficiency accounts for >95% of CAH cases.",
+    "topic": "Congenital Adrenal Hyperplasia (CAH)"
+  },
+  {
+    "id": "ch20-Q29",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 29,
+    "stem": "According to the 2006 international consensus, which specialists should constitute the minimum multidisciplinary team for DSD care?",
+    "options": [
+      { "id": "a", "text": "Pediatric urologist, neonatologist, and geneticist" },
+      { "id": "b", "text": "Pediatric urologist, pediatric endocrinologist, and mental health professional" },
+      { "id": "c", "text": "Pediatric surgeon, radiologist, and nurse" },
+      { "id": "d", "text": "Pediatric endocrinologist, gynecologist, and social worker" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The 2006 consensus recommended that all children with DSDs receive multidisciplinary care from a team that at minimum includes pediatric urologists (or pediatric surgeons), pediatric endocrinologists, and appropriate mental health professionals.",
+    "topic": "Multidisciplinary Care"
+  },
+  {
+    "id": "ch20-Q30",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 30,
+    "stem": "When initially speaking with parents of a newborn with suspected DSD, which approach is recommended?",
+    "options": [
+      { "id": "a", "text": "Immediately discuss the karyotype results" },
+      { "id": "b", "text": "Use gender-neutral terminology and congratulate them on the birth" },
+      { "id": "c", "text": "Recommend early surgery to normalize appearance" },
+      { "id": "d", "text": "Refer directly to a genetic counselor without discussion" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "It is important to use gender-neutral terminology such as 'your baby' and congratulate the parents on the birth before focusing on medical aspects. This helps make the early medical experience less bewildering for families.",
+    "topic": "Gender Assignment/Patient Communication"
+  },
+  {
+    "id": "ch20-Q31",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 31,
+    "stem": "When performing a karyotype for suspected DSD, how many cells should be examined as a minimum to identify low-level mosaicism?",
+    "options": [
+      { "id": "a", "text": "10–20 cells" },
+      { "id": "b", "text": "40–50 cells" },
+      { "id": "c", "text": "80–100 cells" },
+      { "id": "d", "text": "200 cells" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A minimum of 40–50 cells should be examined in a peripheral blood karyotype to identify low-level mosaicism. If Y material is suspected but not found, gonadal biopsy with karyotype may be needed.",
+    "topic": "Evaluation"
+  },
+  {
+    "id": "ch20-Q32",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 32,
+    "stem": "Which endocrine test result is most suggestive of 5α-reductase deficiency?",
+    "options": [
+      { "id": "a", "text": "Elevated 17-hydroxyprogesterone" },
+      { "id": "b", "text": "Elevated DHEA-S" },
+      { "id": "c", "text": "Testosterone to DHT ratio >30:1" },
+      { "id": "d", "text": "Elevated androstenedione" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "A testosterone-to-DHT ratio of approximately >30:1 is indicative of 5α-reductase deficiency, as conversion of testosterone to the more active DHT is impaired.",
+    "topic": "46XY DSD — 5α-Reductase Deficiency"
+  },
+  {
+    "id": "ch20-Q33",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 33,
+    "stem": "In the evaluation of a newborn with suspected DSD, when may clinically relevant electrolyte abnormalities due to salt-wasting CAH first become apparent?",
+    "options": [
+      { "id": "a", "text": "Within the first 24 hours of life" },
+      { "id": "b", "text": "After 1 week of age" },
+      { "id": "c", "text": "At 1 month of age" },
+      { "id": "d", "text": "Only after starting formula feeding" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Although serum electrolytes should be measured, clinically relevant electrolyte abnormalities due to salt-wasting CAH may not present until after 1 week of age.",
+    "topic": "Evaluation"
+  },
+  {
+    "id": "ch20-Q34",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 34,
+    "stem": "A 46XX infant with CAH was assigned female at birth. Which statement best describes long-term gender identity outcomes for this group?",
+    "options": [
+      { "id": "a", "text": "Most develop a male gender identity" },
+      { "id": "b", "text": "Most express female gender identity, though gender dysphoria is more common than previously recognized" },
+      { "id": "c", "text": "Gender dysphoria never occurs" },
+      { "id": "d", "text": "Gender identity is unpredictable and cannot be discussed with families" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Individuals with 46XX CAH raised as female usually express a female gender identity. However, evidence shows gender dysphoria and non-binary gender identity are more common than previously recognized.",
+    "topic": "Gender Assignment"
+  },
+  {
+    "id": "ch20-Q35",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 35,
+    "stem": "Which of the following describes the current recommended approach to gonadectomy in individuals with CAIS?",
+    "options": [
+      { "id": "a", "text": "Gonadectomy should be performed in the neonatal period" },
+      { "id": "b", "text": "Gonads should be retained to permit endogenous puberty and patient involvement in decision-making" },
+      { "id": "c", "text": "Gonadectomy is never recommended" },
+      { "id": "d", "text": "Gonads should be removed at diagnosis regardless of age" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Historically early gonadectomy was recommended in CAIS, but current practice favors retaining gonads to allow some degree of endogenous pubertal development and to enable patients to make an informed decision when they reach appropriate age.",
+    "topic": "Surgical Management — Gonadal Surgery"
+  },
+  {
+    "id": "ch20-Q36",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 36,
+    "stem": "Nerve-sparing clitoral reduction surgery is designed to:",
+    "options": [
+      { "id": "a", "text": "Remove the clitoral glans entirely" },
+      { "id": "b", "text": "Reduce size of clitoral bodies while preserving dorsal neurovascular bundles" },
+      { "id": "c", "text": "Remove both labia minora" },
+      { "id": "d", "text": "Create a neophallus" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Nerve-sparing clitoroplasty reduces the size of the clitoral bodies (and possibly glans) while the dorsal neurovascular bundles supplying the glans are isolated and protected to preserve sensory innervation for future sexual function.",
+    "topic": "Surgical Management — Feminizing Surgery"
+  },
+  {
+    "id": "ch20-Q37",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 37,
+    "stem": "In urogenital sinus surgery, the terms 'low confluence' and 'high confluence' describe:",
+    "options": [
+      { "id": "a", "text": "The length of the urethra" },
+      { "id": "b", "text": "The distance between the perineal opening and the level at which the vagina joins the urethra" },
+      { "id": "c", "text": "The size of the clitoris" },
+      { "id": "d", "text": "The presence or absence of gonads" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The anatomy of a urogenital sinus is designated as 'low confluence' or 'high confluence' according to the distance between the perineal opening and the level at which the vagina joins the urethra.",
+    "topic": "Surgical Management — Urogenital Sinus Mobilization"
+  },
+  {
+    "id": "ch20-Q38",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 38,
+    "stem": "A 4-month-old 46XY infant is diagnosed with partial androgen insensitivity syndrome and a male sex of rearing is chosen. What is the most appropriate surgical management for undescended testis in a child being raised as male?",
+    "options": [
+      { "id": "a", "text": "Gonadectomy" },
+      { "id": "b", "text": "Orchidopexy" },
+      { "id": "c", "text": "Observation until puberty" },
+      { "id": "d", "text": "Testicular prostheses" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Orchidopexy for undescended testes is recommended for all young DSD patients who are being raised as male.",
+    "topic": "Surgical Management — Gonadal Surgery"
+  },
+  {
+    "id": "ch20-Q39",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 39,
+    "stem": "Which of the following human rights-based concerns has influenced the evolving surgical management of DSD?",
+    "options": [
+      { "id": "a", "text": "That surgery is never medically necessary" },
+      { "id": "b", "text": "That genital surgery should not be performed on children unable to participate in the decision" },
+      { "id": "c", "text": "That all DSD children should be raised as female" },
+      { "id": "d", "text": "That surgery must be performed before 6 months of age" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Human rights groups have opposed genital surgery being performed on children who are unable to participate in decisions about their treatment, leading to calls for a moratorium on surgery before the age of informed consent.",
+    "topic": "Surgical Management — Controversies"
+  },
+  {
+    "id": "ch20-Q40",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 40,
+    "stem": "Klinefelter syndrome (47XXY) is associated with an increased risk of which malignancy?",
+    "options": [
+      { "id": "a", "text": "Prostate cancer" },
+      { "id": "b", "text": "Breast cancer" },
+      { "id": "c", "text": "Testicular seminoma" },
+      { "id": "d", "text": "Ovarian teratoma" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Klinefelter syndrome carries an increased risk of breast cancer, likely related to the gynecomastia and gynecoid body habitus associated with reduced testosterone and elevated estrogen levels.",
+    "topic": "Sex Chromosome DSD — Klinefelter Syndrome"
+  },
+  {
+    "id": "ch20-Q41",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 41,
+    "stem": "In more than 50% of individuals with 46XY DSD, the underlying cause:",
+    "options": [
+      { "id": "a", "text": "Is clearly identified by karyotype" },
+      { "id": "b", "text": "Cannot be identified by laboratory investigations" },
+      { "id": "c", "text": "Is always due to 5α-reductase deficiency" },
+      { "id": "d", "text": "Is identifiable only after puberty" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "In >50% of individuals with 46XY DSD, the underlying cause cannot be identified by current laboratory investigations. This may change with the introduction of advanced genetic testing.",
+    "topic": "46XY DSD"
+  },
+  {
+    "id": "ch20-Q42",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 42,
+    "stem": "Which of the following is the most common tumor arising in dysgenetic gonads?",
+    "options": [
+      { "id": "a", "text": "Seminoma" },
+      { "id": "b", "text": "Gonadoblastoma" },
+      { "id": "c", "text": "Teratoma" },
+      { "id": "d", "text": "Leydig cell tumor" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Gonadoblastoma is the commonest tumor arising in dysgenetic gonads. It is typically benign and slow growing, but malignant dysgerminomas may also develop.",
+    "topic": "Surgical Management — Gonadal Surgery"
+  },
+  {
+    "id": "ch20-Q43",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 43,
+    "stem": "A 17-year-old phenotypic male presents with gynecomastia, small testes, and infertility. Karyotype is 47XXY. Which diagnosis is most likely?",
+    "options": [
+      { "id": "a", "text": "Mixed gonadal dysgenesis" },
+      { "id": "b", "text": "Klinefelter syndrome" },
+      { "id": "c", "text": "Complete androgen insensitivity syndrome" },
+      { "id": "d", "text": "46XX testicular DSD" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Klinefelter syndrome (47XXY) presents with typical male external genitalia but small, soft testes, reduced testosterone, gynecomastia, gynecoid body habitus, and infertility.",
+    "topic": "Sex Chromosome DSD — Klinefelter Syndrome"
+  },
+  {
+    "id": "ch20-Q44",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 44,
+    "stem": "Aromatase deficiency causes 46XX DSD through which mechanism?",
+    "options": [
+      { "id": "a", "text": "Blocked cortisol synthesis" },
+      { "id": "b", "text": "Accumulation of androgens due to inability to convert testosterone to estrogen" },
+      { "id": "c", "text": "Increased ACTH drive" },
+      { "id": "d", "text": "Defective androgen receptors" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Aromatase deficiency is an autosomal recessive condition that impairs conversion of testosterone to estrogen. This leads to accumulation of androgens and masculinization of the external genitalia in a 46XX fetus.",
+    "topic": "46XX DSD — Aromatase Deficiency"
+  },
+  {
+    "id": "ch20-Q45",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 45,
+    "stem": "A 46XY child raised as male is found to have a uterus and fallopian tubes on imaging. He has bilateral undescended testes but otherwise normal male external genitalia. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Complete androgen insensitivity syndrome" },
+      { "id": "b", "text": "Persistent Müllerian duct syndrome" },
+      { "id": "c", "text": "Partial gonadal dysgenesis" },
+      { "id": "d", "text": "5α-Reductase deficiency" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "PMDS presents with 46XY karyotype, bilateral undescended testes, normal male external genitalia, and persistent Müllerian structures (uterus, fallopian tubes). It results from AMH deficiency or AMH receptor defects.",
+    "topic": "46XY DSD — Persistent Müllerian Duct Syndrome"
+  },
+  {
+    "id": "ch20-Q46",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 46,
+    "stem": "When should HCG stimulation testing be used to assess testicular function in a child with DSD?",
+    "options": [
+      { "id": "a", "text": "In the first week of life" },
+      { "id": "b", "text": "During the interval between mini-puberty and puberty onset" },
+      { "id": "c", "text": "Only after puberty is complete" },
+      { "id": "d", "text": "It is never indicated in DSD evaluation" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Endocrine function is difficult to assess in the interval between the mini-puberty of infancy and onset of puberty. An HCG stimulation test can be performed to evaluate testicular function during this period.",
+    "topic": "Evaluation"
+  },
+  {
+    "id": "ch20-Q47",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 47,
+    "stem": "A female infant with 46XX CAH undergoes feminizing genitoplasty. After successful vaginoplasty in early childhood, what is typically required before the onset of sexual activity?",
+    "options": [
+      { "id": "a", "text": "No further intervention" },
+      { "id": "b", "text": "Revision of introitus and/or vaginal dilatation" },
+      { "id": "c", "text": "Complete vaginectomy" },
+      { "id": "d", "text": "Hormonal stimulation of vaginal growth" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Even after successful vaginoplasty in early childhood, subsequent surgical revision of the introitus and/or vaginal dilatation is usually required prior to the onset of sexual activity.",
+    "topic": "Surgical Management — Feminizing Surgery"
+  },
+  {
+    "id": "ch20-Q48",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 48,
+    "stem": "The clitoral disassembly technique for clitoroplasty differs from standard nerve-sparing clitoroplasty in that it:",
+    "options": [
+      { "id": "a", "text": "Removes the glans entirely" },
+      { "id": "b", "text": "Separates and buries the clitoral bodies in the labia majora to allow future reconstruction" },
+      { "id": "c", "text": "Is the recommended standard of care" },
+      { "id": "d", "text": "Does not preserve the neurovascular bundle" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "In the clitoral disassembly technique, the clitoral bodies are separated and buried in the labia majora so that the clitoro-phallus could be reconstructed in the future if desired. Long-term outcome data are not yet available.",
+    "topic": "Surgical Management — Feminizing Surgery"
+  },
+  {
+    "id": "ch20-Q49",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 49,
+    "stem": "Which genetic test is most appropriate when there is a discrepancy between genital phenotype and karyotype (e.g. a masculinized 46XX individual)?",
+    "options": [
+      { "id": "a", "text": "Microarray" },
+      { "id": "b", "text": "FISH or SRY testing" },
+      { "id": "c", "text": "Whole exome sequencing" },
+      { "id": "d", "text": "DSD gene panel" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "FISH or SRY testing is indicated for evaluation of individuals with genitalia/karyotype discrepancy, such as a 46XX individual with masculinized genitalia, to detect SRY translocation.",
+    "topic": "Evaluation"
+  },
+  {
+    "id": "ch20-Q50",
+    "chapter": "Disorders of Sex Development",
+    "chapterSlug": "ch20_disorders-of-sex-development",
+    "chapterNumber": 20,
+    "questionNumber": 50,
+    "stem": "In the current multidisciplinary model of DSD care, the primary role of the team regarding sex of rearing is to:",
+    "options": [
+      { "id": "a", "text": "Assign the sex of rearing based on surgical feasibility" },
+      { "id": "b", "text": "Provide the family with all diagnostic information to help them reach an informed decision" },
+      { "id": "c", "text": "Recommend female rearing in all cases of ambiguous genitalia" },
+      { "id": "d", "text": "Delay all decisions until the child can consent" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The role of the multidisciplinary team is to provide the family with all available diagnostic information needed to help them reach an informed decision on sex of rearing, including genetic and hormonal status, anatomy, potential fertility, and specific diagnosis when possible.",
+    "topic": "Gender Assignment"
+  }
+]

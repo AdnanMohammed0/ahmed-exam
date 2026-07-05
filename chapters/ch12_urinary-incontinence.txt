@@ -1,0 +1,770 @@
+                                                                                            12
+Urinary Incontinence
+
+HENRIK STEINBRECHER
+
+
+Topics covered
+
+Definitions, epidemiology, classification             Structural incontinence
+Neurology and development of continence               Functional daytime incontinence
+Patient assessment                                    Night time incontinence
+
+
+
+
+ DEFINITIONS, EPIDEMIOLOGY,                           only 1% of cases. These are described elsewhere in
+ CLASSIFICATION                                       this book. This chapter deals solely with the func-
+                                                      tional causes of urinary incontinence.
+Urinary incontinence can be defined as the
+“uncontrollable leakage of urine”. It is one
+of the commonest conditions of childhood,              NEUROLOGY AND NORMAL
+with daytime incontinence (diurnal enuresis)
+                                                       DEVELOPMENT OF
+affecting around 15% of 4-year-old children
+and 2% of 9 year olds. Approximately 20% of
+                                                       CONTINENCE
+4–5-year-old children experience some degree
+of bedwetting (nocturnal enuresis). Although          Normal urinary continence depends on a co-
+the incidence declines during the course of           ordinated relationship between bladder filling
+childhood, nocturnal enuresis continues to            and detrusor contraction and by coordinated
+affect 1–2% of adolescents. Urinary inconti-          relaxation and contraction of the urethral sphinc-
+nence (both diurnal and nocturnal) is classi-         ter. It is also dependent on intact neural pathways
+fied as “primary” if the child has never been         and regulation by higher centres in the brain.
+reliably dry and “secondary” when the onset               During infancy, voiding is a reflex act which
+of wetting occurs after a period in which the         occurs in response to involuntary detrusor con-
+child had previously been dry.                        tractions. Although bladder function is not under
+   Urinary incontinence may be classified as either   voluntary control in infancy, higher centres in the
+organic or functional in aetiology (Figure 12.1).     brain have been shown to exhibit arousal activ-
+Organic causes (anatomical or neurological            ity in response to sensory input prior to voiding.
+abnormalities) are relatively rare and account for    After toilet training, these centres play a far more
+
+                                                                                                      153
+154 Urinary Incontinence
+
+
+
+                                                        During the first year of life, the rate of blad-
+                                                     der emptying remains fairly constant at approx-
+                                                     imately 20 times per day. This decreases to
+                                                     around five times a day by the age of 7 years. This
+                                                     reduction in voiding frequency is due partly to
+                                                     a growth-related increase in bladder capacity
+                                                     (which is disproportionately greater than the
+                                                     volume of urine produced) and partly to the
+                                                     development of sensory C-fibres in the nerves
+                                                     supplying the bladder.
+                                                        Once a child has been successfully toilet
+                                                     trained, the normal bladder cycle is under volun-
+                                                     tary control and consists of the following phases.
+
+                                                      1. The bladder fills and the urethra contracts
+Figure 12.1 Simple classification of childhood           via modulation from T10 to L2 lumbar
+urinary incontinence.                                    sympathetic nerves and S2, 3, 4 voluntary
+                                                         somatic innervation.
+significant role in controlling overall bladder       2. The urethra relaxes under voluntary control
+function and continence.                                 mediated by S2, 3, 4 somatic nerves.
+    The lower urinary tract is supplied by three      3. The pelvic floor relaxes under voluntary con-
+different nerve groups:                                  trol mediated via S2, 3, 4 somatic nerves.
+    Sacral parasympathetic (pelvic splanchnic)        4. The detrusor muscle contracts in response
+nerves (S2, 3, 4). These comprise both pre and           to stimulation via parasympathetic S2, 3,
+post ganglionic fibres. Acetylcholine is the prin-       4 nerves.
+cipal neurotransmitter.                               5. Voiding occurs to completion.
+    Thoracolumbar sympathetic (hypogastric)           6. The urethral sphincter contracts under S2, 3,
+nerves (T10–L2). Sympathetic fibres synapse              4 voluntary somatic control.
+in the paravertebral ganglia of the sympathetic
+chain before branching out to become the
+hypogastric plexus, and finally merging with the
+pelvic plexus supplying the bladder base, blad-       CLINICAL ASSESSMENT
+der neck and proximal urethra. Stimulation of
+the sympathetic pathways results in relaxation
+of the bladder detrusor muscle and contraction of    The initial priority is to exclude an organic (ana-
+the bladder neck and posterior urethral sphincter    tomical or neurological) cause of the urinary
+complex. The main postganglionic neurotrans-         incontinence. This can usually be achieved with
+mitter is noradrenaline.                             the combination of taking a thorough history,
+    Sacral somatic nerves (S2,3,4). The somatic      careful physical examination and appropriate
+nerve supply originates within Oluf’s nucleus        investigations (Table 12.1).
+of the anterior horn of S2, 3, 4 spinal segments.
+These nerves, which are richly supplied with         History
+serotonin and noradrenaline receptors, merge to
+form the pudendal nerves supplying the pelvic        Three fundamental questions should be asked:
+floor muscles and external urethral sphincter.
+    The most important factor in successful toilet   ●● Does the wetting occur principally or entirely
+training is the development of voluntary inhibi-        by night or by day?
+                                                     ●● Is the incontinence primary i.e. lifelong
+tion of the voiding reflex. This can be affected
+by psychological, social and behavioural factors.       and predating attempts at toilet training or
+                                                                  Clinical assessment / Examination 155
+
+
+
+Table 12.1 Organic causes of urinary                 be possible to form a clear picture of the precise
+incontinence                                         pattern of symptoms and frequency of wetting at
+                                                     the time of the initial consultation.
+Urinary infection (intermittent leakage)
+                                                        Typical information to be obtained in a his-
+Neuropathic (continuous/intermittent leakage)
+                                                     tory in a child with wetting is listed in Table 12.2.
+Bladder outflow obstruction (intermittent               A detailed history may sometimes point to a
+  leakage)                                           specific form of urinary incontinence. For exam-
+Structural (continuous leakage)                      ple, involuntary dribbling of urine in girls which
+  Exstrophy/epispadias                               occurs immediately or shortly after voiding is a
+  Ureteric ectopia (girls)                           characteristic feature of vaginal “reflux” – often
+  Congenital short urethra (girls)                   due to the presence of labial adhesions. This is
+  Urovaginal confluence (girls)                      considered in more detail below.
+                                                        Giggle incontinence is a distinctive condition
+                                                     in which urinary leakage occurs only when the
+   secondary ie developing in a child who was        child (usually a girl) is giggling or laughing but at
+   previously dry and toilet trained (even if only   no other time.
+   for a short time)?
+●● In the case of daytime wetting, does this occur
+                                                     Examination
+   continuously or intermittently?
+                                                     This should include the abdomen, spine, back,
+   Urinary incontinence which occurs only dur-       genitalia and lower limbs. It should also include
+ing the day time is usually functional rather than   observing the child’s gait and performing a lim-
+organic in aetiology. One exception is involuntary   ited neurological examination of the lower limbs.
+leakage from an ectopic ureter which may some-          Salient findings include:
+times only be apparent when the child is upright –
+and not when they are supine and asleep.             Abdomen – Is the bladder palpably enlarged?
+   There is virtually never an underlying organic      Are the kidneys palpable? A palpable bladder
+basis to urinary incontinence which occurs solely      which can be emptied (“expressed”) by apply-
+at night and which is not accompanied by day           ing suprapubic pressure is virtually pathogno-
+time daytime symptoms (termed monosymp-                monic of neurological disease – particularly
+tomatic nocturnal enuresis).                           in the presence of gross constipation.
+   The organic causes of primary daytime uri-        Genitalia – Examination of the male genitalia
+nary incontinence include congenital anatomi-          is aimed at identifying conditions such as
+cal abnormalities and certain conditions such          primary epispadias, Balanitis xerotica and
+as bladder outflow obstruction or neurological         meatal stenosis (including cases of hypo-
+impairment. Although the secondary onset of            spadias). In the female, the examination
+daytime incontinence may also have an organic          should look for conditions including primary
+basis such as late presenting posterior urethral       epispadias (Figure 12.2), common urogeni-
+valves or a neurological condition it is almost        tal sinus (Figure 12.3) and labial adhesions
+never due to a congenital anatomical anomaly.          (Figure 12.4). The external opening of an
+   Intermittent daytime wetting (in which the          ectopic ureter is very occasionally evident
+child can remain dry for periods of varying dura-      on gross inspection, although in some girls
+tion) may occasionally have an organic cause           urine may be observed leaking from the
+(such as bladder outflow obstruction or neuro-         introital area. It is usual for examination of
+logical disease) but it is functional in the over-     the genitalia of older girls and adolescents
+whelming majority of cases – particularly when         to be performed under sedation or anaes-
+the wetting occurs infrequently.                       thesia. Examination of genitalia should
+   Despite attempts to obtain an accurate his-         be performed in the presence of suitable
+tory from the child and their parents it may not       chaperones.
+156 Urinary Incontinence
+
+
+
+ Table 12.2 Information to be obtained when taking the medical history
+
+                                      Example                               Comment
+ Number of episodes of        Day = 5/7, 3x/day            An accurate description is essential to
+  wetting/day and or          Night = 7/7, 1x/night           permit a reliable assessment. Words
+  night/week                    (early morning)               such as “Occasional”, “often”,
+                                                              “sometimes” are insufficient.
+ Frequency of voiding/day     Day/Night = 7/1              Often children do not visit the toilet
+   and/night                                                  during the entire school day (a period of
+                                                              over 6 hours). This should be noted.
+ Presence of urgency/         Rushes to toilet, drops      In Vincent’s curtsy, the child crouches
+   Vincent’s curtsy sign        everything to go, car         down on one heal, pushing upwards on
+                                journeys interrupted,         perineum to prevent leakage.
+ Urge incontinence            Wets on way to toilet        Children may comment they don’t know
+                                                              they are wetting until it has happened.
+ Stress incontinence          Exercise (running,           Giggle incontinence is a specific entity.
+                                trampolining, jumping),
+                                Cough, sneezing
+ Stream – onset, presence                                  Hesitancy may be caused by obstruction.
+   of hesitancy                                              A seemingly normal stream does not
+                                                             exclude obstruction.
+ Stream characteristic        Stop/start, continuous       This is may represent obstruction or
+                                                             detrusor instability.
+ Fluid intake, last drink     ml/day, (often a prop        Stimulants drinks such as cola or
+   taken, type of drink         such as a cup on the         blackcurrent juice can exacerbate
+   taken                        table can be used as a       detrusor instability.
+                                visual aid to estimate
+                                intake
+ Bowel habit                  Bowels open 1–2x/day,        It is vital to obtain a bowel history in
+                                no pain, no blood,            children with urinary incontinence.
+                                normal motions
+ Use of shampoos, soaps,      Hair wash in bath, child     A recent change in perineal bacterial flora
+   etc                          sits in soapy water etc      leads to the development of lower tract
+                                                             infection (cystitis) and bladder
+                                                             instability.
+ Family history of wetting    Parents wet until teens,
+                                siblings wet.
+ History of urinary tract                                  Recurrent infections can lead to detrusor
+   infection                                                 instability
+ Drug history, other health   Asthma, cystic fibrosis,     Some medical illnesses and their
+   history                       ADHD, autism (altered       treatment affects bladder function.
+                                 higher control
+                                 mechanisms),
+                              Trisomy 21 (higher risk of
+                                 detrusor-sphincter
+                                 dyssynergia)
+ Social history               Sleeping arrangements,       Snoring or inability to wake from sleep
+                                 proximity to toilet         may be implicated in nocturnal enuresis.
+                                                              Clinical assessment / Examination 157
+
+
+
+
+Figure 12.2 Female epispadias. Bifid clitoris
+with wide urethral meatus. This anomaly in
+females is invariably associated with sphincter   Figure 12.4 Extensive occlusion of the introitus
+weakness incontinence.                            by labial adhesions – resulting in retrograde
+                                                  filling of the vagina during voiding. Symptoms
+                                                  cured by separation of labial adhesions.
+
+                                                  Neurology – The spine should be carefully
+                                                    examined for cutaneous lesions denoting pos-
+                                                    sible occult spinal dysraphism such as hairy
+                                                    patches, swellings, cutaneous haemangiomata
+                                                    and sinuses. Blind ending pits overlying the
+                                                    tip of the coccyx are not usually of neurologi-
+                                                    cal significance but if there is any doubt it is
+                                                    always safer to arrange a neurological referral
+                                                    and/or spinal imaging. Sacral agenesis is not
+                                                    accompanied by cutaneous lesions but there
+                                                    may be a palpable absence of the lowermost
+                                                    sacral segments and flattening of the upper
+                                                    buttocks. Neurological disease is suggested
+                                                    by exaggerated lower limb reflexes (or frank
+                                                    clonus) or by wasting of the calves or defor-
+                                                    mities of the feet, especially if asymmetrical.
+                                                    The lowermost sacral segments should be
+                                                    examined for motor and sensory integrity.
+                                                    An abnormal gait should always raise the
+Figure 12.3 Anatomy of common urogenital            possibility of an underlying neurological
+sinus anomaly.                                      condition.
+158 Urinary Incontinence
+
+
+
+ INVESTIGATIONS                                       48 hours is often sufficient to provide a reliable
+                                                      assessment of intake and output and the extent
+                                                      of the impact of the incontinence on the life of
+Frequency – Volume Chart                              the child and their family. It will also provide
+There are many types but all charts include a         the clinician with some indication of the level of
+24-hour time column, a fluid intake column, urine     co-operation which might be expected from the
+output column and some provision for record-          child and their parents when planning treatment.
+ing when the incontinence occurs (Figure 12.5).       However, charts tend to be completed at week-
+Many charts also record when the child opens          ends and may not provide an accurate picture
+their bowels. Continuous charting over as little as   of what happens on school days. A copy of the
+
+
+
+
+Figure 12.5 Example of frequency/volume chart.
+                                   Organic causes of incontinence / Labial Adhesions/Vaginal Reflux 159
+
+
+
+Bristol stool chart may also help the parents to          MR urography is the most sensitive investi-
+assess constipation.                                   gation for detecting an occult upper pole duplex
+                                                       system and ectopic ureter as the cause of primary
+                                                       incontinence in girls. Laparoscopy may also be
+Urinalysis or Urine Culture                            helpful.
+                                                          Cystourethroscopy is occasionally indicated
+Reagent strip (Dipstick) testing of the urine should   (mainly in boys) to assess the bladder neck and to
+include glucose because glycosuria and frequency       look for anatomical causes of outflow obstruction
+caused by diabetes can occasionally lead to incon-     such as late-presenting posterior urethral valves.
+tinence. Cultures are usually negative.                Sleep studies or an ear, nose and throat (ENT)
+   Simple non-invasive measurement of flow             opinion may be indicated in some children with
+rate. This should normally demonstrate a flow          nocturnal enuresis.
+rate of >15 ml/second with non-staccato voiding
+pattern. In an older child measurement of flow
+rate at the bedside or in the out-patient clinic can   Invasive Urodynamics/Video
+be combined with a post void ultrasound scan of        Urodynamics
+the bladder to assess bladder emptying.
+                                                       These are only performed on a very selective
+   Urinary tract ultrasound scan. This should
+                                                       basis in children with non-neuropathic incon-
+be performed in all children with day time wet-
+                                                       tinence because of the need for catheterisation
+ting. Relevant upper tract findings include:
+                                                       and exposure to radiation (when combined with
+                                                       radiological screening). However, urodynam-
+   Duplication anomalies – particularly if there
+                                                       ics can sometimes be helpful in distinguishing
+       is evidence of dilatation or a congenitally
+                                                       between sensory and motor urgency. The video
+       dysplastic upper pole moiety suggesting
+                                                       component is valuable in making the diagnosis
+       an ectopic ureter
+                                                       of genuine stress incontinence by demonstrating
+   Dilatation – which may indicate organic
+                                                       leakage induced by increasingly strong valsalva
+       outflow obstruction or a neuropathic
+                                                       manoeuvres.
+       bladder.
+
+The bladder scan should include measurement
+of pre-void bladder volume and post-void blad-
+der residual volume – which should not usu-             ORGANIC CAUSES
+ally exceed 10% of normal age-adjusted bladder          OF INCONTINENCE
+capacity.
+   Bladder wall thickening is suggestive of either
+outflow obstruction, neuropathy, idiopathic over-      Labial Adhesions/Vaginal Reflux
+activity or detrusor – sphincter dyssynergia).
+                                                       The term “vaginal reflux” refers to the phenom-
+                                                       enon of retrograde filling of the vagina with
+Other Investigations                                   urine during voiding. Urine then leaks from the
+                                                       vagina after the girl stands up to leave the toilet.
+These are only performed for specific indications.     It is commonly caused by the presence of labial
+   Although lumbo-sacral spinal X-ray is still         adhesions but can also occur in girls who sit on
+performed in children with possible spinal dys-        the toilet with their legs closed. Treatment con-
+raphism it has been largely superseded by spinal       sists of conservative or surgical management of
+magnetic resonance imaging (MRI). This is now          any labial adhesions or advising the girl to sit
+regarded as the definitive investigation since it      with her legs further apart on the toilet. A gentle
+will visualise tethering, syrinxes and intraspinal     cough or valsalva manoeuvre after the comple-
+cord lipomas and epidermoid cysts associated           tion of voiding may help to expel any urine from
+with the spinal cord abnormality.                      the vagina.
+160 Urinary Incontinence
+
+
+
+Ectopic Ureter                                        stricture (including post hypospadias repair), syrin-
+                                                      gocele, meatal stenosis and exceptionally, pathologi-
+This classically presents with continuous drib-       cal phimosis (Balanitis xerotica obliterans). In girls,
+bling incontinence. However, there may be a pos-      haematocolpos or hydrocolpos due to imperforate
+tural element – with the urinary leakage being        hymen may present with bladder outflow obstruc-
+absent or much less pronounced at night when          tion, generally at or after puberty and with an
+the child is lying supine.                            accompanying history of primary amenorrhoea.
+                                                          Pelvic tumours and severe constipation can
+Genuine Stress Incontinence/Wide                      interfere with voiding in both sexes but tend to
+Bladder Neck                                          cause urinary retention rather than incontinence.
+                                                          Bladder ultrasound typically demonstrates
+Strenuous sporting activity in girls (such as gym-    post void residual urine which is often (but not
+nastics) is accompanied by a higher incidence of      invariably) accompanied by bladder wall thicken-
+stress leakage than was previously recognised.        ing. However, the absence of upper tract dilatation
+An empirical trial of an alpha-adrenergic agonist     does not exclude outflow obstruction. Diagnosis is
+(e.g. ephedrine) may be employed in more severe       by cystoscopy and/or micturating cysto urethrog-
+cases. If genuine stress incontinence (rather than    raphy (MCUG). It is not uncommon for the incon-
+simply a wide bladder neck) is confirmed on           tinence to persist (sometimes for years) despite
+video urodynamics it may be necessary to con-         successful relief of obstruction and the long-term
+sider a bladder neck sling or similar procedure.      use of anticholinergic agents may be indicated.
+Female Epispadias
+Surgical intervention is usually required (see         FUNCTIONAL DAY-TIME
+Chapter 15).                                           INCONTINENCE
+Spinal Neurological Disorders
+                                                      Around 3% of girls and 2% of boys aged 7 years’
+Relevant points in the history include:               experience functional daytime wetting at least once
+                                                      a week. Many also have nocturnal incontinence.
+   Urinary incontinence of unusual severity, espe-    A number of different patterns of functional day
+      cially if accompanied by constant dribbling     time incontinence can be identified – with detru-
+      of urine.                                       sor overactivity being an important feature of most
+   Marked disturbance of bowel habit, particu-        (Table 12.3).
+      larly if associated with fecal soiling.
+                                                      Table 12.3 Functional daytime incontinence
+Almost 90% of cases of occult spinal dysraphism
+are accompanied by cutaneous lesions – hence          Detrusor instability
+the crucial importance of a careful examination       Urge syndrome
+of the spine. It is important to note that some       Uncomplicated
+children with neuropathic bladder dysfunction         Dysfunctional voiding
+may nevertheless have virtually (or entirely) nor-    Deferred voiding
+mal lower limb locomotor function. Urological         Lazy bladder
+management is the same as for other forms of          Occult neuropathic bladder
+neuropathic bladder. (See Chapter 13.)                Detrusor instability or central (CNS)
+                                                      Giggle incontinence
+Bladder Outflow Obstruction                           Non-detrusor instability
+                                                      Diurnal frequency syndrome
+This is far more common in boys – in whom the
+                                                      Sensory urgency
+causes include: posterior urethral valves, urethral
+                            Overactive bladder / Transcutaneous Electrical Nerve Stimulation (TENS) 161
+
+
+
+Simple Treatments                                       (half – 1 sachet/day), lactulose (2.5–5 ml/day)
+                                                        and/or Sennakot (2.5–5 ml/day) to try to ensure
+One of the simplest and most rewarding forms of         the rectum is empty.
+treatment consists of providing the parents and an
+older child with an explanation of the normal mic-
+turition cycle and describing the measures needed
+to establish a more normal voiding pattern.              OVERACTIVE BLADDER
+    These typically comprise a regimen of regular
+voiding (5–6 times a day at 2–3 hourly intervals)
+and a regular intake of fluid in volumes which are      Medical Treatment
+appropriate for the child’s age. As an approxima-
+                                                        If the symptoms of frequency and urgency do not
+tion this corresponds to a minimum intake of 500
+                                                        respond to the simple measures outlined above
+ml at age 5 years, 750 ml at age 7 years, 1000 ml
+                                                        the next line of treatment consists of anticholin-
+at age 10, 1250 ml at age 12 and 1500–2000 ml at
+                                                        ergic agents. Oxybutynin is most widely used
+age 15+.
+                                                        agent – with a typical starting dose of 2.5 mg
+    Certain drinks should be avoided, especially
+                                                        twice a day, increasing to 2.5 mg three times a
+in children with symptoms of bladder overactiv-
+                                                        day. The principal alternative is Tolteridine (typi-
+ity. These include ; tea, coffee, hot chocolate, cola
+                                                        cal dose 1–2 mg twice a day).
+type drinks and any drink containing blackcur-
+                                                            If the child is able to take tablets these agents
+rent. In addition to their diuretic effects they may
+                                                        are also available in a slow release form as oxy-
+also provoke detrusor overactivity.
+                                                        butynin (5–10 mg, once a day) or slow release
+    The advice provided to parents and child
+                                                        Tolteridine (2–4 mg, once a day). Oxybutynin
+should be reinforced with regular follow-up,
+                                                        and Tolteridine are both associated with a risk of
+encouragement and support – either by face to
+                                                        systemic anti-muscarinic side effects which may
+face contact or by telephone. Paediatric urology
+                                                        include dry eyes, dry mouth, constipation and
+nurse specialists or specialist continence nurses
+                                                        occasionally, personality/behavioural changes.
+can play a particularly valuable role in providing
+                                                        Solifenacin, a newer anticholinergic agent with
+this service to children and families.
+                                                        minimal systemic side effects, is being used
+    Urinary tract infections (UTIs) are common in
+                                                        increasingly in older children in a typical dose of
+children with functional day time incontinence
+                                                        5–10 mg once a day. It is not licensed for use in
+and there is often a causal inter relationship. It is
+                                                        younger children. Likewise Mirabegron, a beta3
+important that UTIs are effectively treated and
+                                                        agonist, is used in older children although it is not
+measures are taken to prevent them from recur-
+                                                        yet officially licensed in the UK for use in patients
+ring. These may include increasing the child’s
+                                                        under the age of 18.
+fluid intake and voiding frequency (to maintain
+                                                            These agents should not be used in children
+diuresis and bladder emptying) and reducing the
+                                                        with significant post void residual volumes
+use of soap agents such as shampoo and bubble
+                                                        and/or a pattern of infrequent voiding because
+bath which may significantly alter the balance of
+                                                        inhibition of detrusor activity may lead to further
+perineal bacterial flora. Introducing bio-yoghurt
+                                                        impairment of bladder emptying and urinary
+into the diet can also be helpful.
+                                                        retention.
+    It may sometimes be necessary to pre-
+scribe a prophylactic antibiotic such as a single
+daily dose of Trimethoprim at 2 mg/kg/day (or           Transcutaneous Electrical Nerve
+Nitrofurantoin 1 mg/kg/day) until the blad-             Stimulation (TENS)
+der dysfunction has been adequately treated.
+Effective treatment of constipation is also essen-      This technique has been used in some centres
+tial because of its role in causing both UTI and        with a typical regimen consisting of a 20 min-
+bladder dysfunction. This typically entails the         utes session performed three to five times a week
+regular use of laxatives such as Movicol Paediatric     over 6 weeks. Transcutaneous electrical nerve
+162 Urinary Incontinence
+
+
+
+stimulation (TENS) is thought to improve blad-          Nevertheless, intravesical Botox injections may
+der control by modifying interneuronal interac-         be valuable in conferring a period of symp-
+tion at spinal cord level. Success rates of up to 60%   tomatic relief while other measures are being
+have been reported but the duration of improve-         introduced.
+ment is variable.
+
+Posterior Tibial Nerve                                   OTHER FORMS OF
+Neurostimulation                                         FUNCTIONAL URINARY
+In this technique a fine needle is inserted into         INCONTINENCE
+the vicinity of the tibial nerve in the lower leg
+and an electrode pad is placed over the heel.           Urge Syndrome/Motor Urgency
+Electrical impulses are transmitted via the tib-
+ial nerve to the spinal cord and sacral plexus.         Daytime wetting is accompanied by symptoms of
+Treatment typically consists of weekly sessions         urgency in more than 80% of children. The child
+of 30 minutes duration over 12 weeks. Posterior         only becomes aware of the sensation of needing
+tibial nerve neurostimulation has been approved         to void shortly before the act of voiding super-
+by the UK National Institute for Clinical               venes. Indeed, many children claim that they do
+Excellence (NICE) for the treatment of refrac-          not realise that they are voiding at all.
+tory detrusor overactivity. Although mainly                Urgency tends to occur when the bladder is full
+used in adults it has also been used in children        rather than during filling. The cause is unknown
+and young people.                                       but it is likely to be a manifestation of delayed
+                                                        maturation of normal bladder control. Children
+Sacral Nerve Stimulation                                may attempt to prevent impending leakage of
+                                                        urine by contracting their urethral sphincter
+This is an invasive intervention which entails sur-     and pelvic floor muscles. In some children this
+gical implantation of a stimulator in the region        may be reinforced by additional manoeuvres –
+of the sacral nerves. It has been used more exten-      notably crouching with the heel pressed into the
+sively in adults but experience in children is very     perineum (Vincent’s curtsy sign).
+limited.
+                                                        Dysfunctional Voiding
+Intravesical Botulinum
+A Toxin Injection                                       This is characterised by a urinary flow which is
+                                                        of varying intensity or interrupted (“staccato”)
+This approach is being increasingly used in chil-       voiding. Urodynamic studies demonstrate
+dren with severe bladder overactivity which has not     detrusor-sphincter dyssynergia with either
+responded to other forms of treatment. Cystoscopy       incomplete relaxation of the sphincter or alter-
+is performed under general anaesthesia and small        nating phases of contraction and relaxation.
+doses of Botulinum A toxin are injected into the        Voiding is often incomplete. The most likely
+bladder wall muscle at multiple sites.                  explanation is that children who have learned
+    Up to 15% of children experience impaired           to use voluntary contraction of the urethral
+bladder emptying or urinary retention follow-           sphincter to suppress leakage due to detru-
+ing intravesical Botox injection and for this           sor instability then go on to adopt a pattern of
+reason the possible requirement for clean inter-        behaviour which prevents them from relaxing
+mittent catheterisation (CIC) must be explained         the sphincter during deliberate voiding. The
+(or even taught) prior to the procedure. The            condition is virtually confined to girls and is
+duration of response to intravesical Botox is           accompanied by recurrent urinary infections in
+variable but may be of the order of 6–9 months.         more than 90% of cases. Vesicoureteric reflux
+One or more further injections may be required.         (with or without renal scarring) is present in
+                                           Other forms of functional urinary incontinence / Diurnal Urinary Frequency 163
+
+
+
+            around 30% of cases. This is mostly secondary             cases by UTIs and marked disturbance of bowel
+            reflux caused by sustained exposure to elevated           habit. However, this condition may also develop
+            intravesical pressures generated by a com-                at a later age and, as in younger children, may
+            bination of detrusor overactivity and detru-              be accompanied by symptoms of renal insuf-
+            sor-sphincter dyssynergia. The treatment of               ficiency in severe or longstanding cases. The
+            dysfunctional voiding centres on “re-educating            natural history is variable but, if untreated, the
+            the voiding mechanism” – initially with a regu-           condition carries a very real threat of severe
+            lar voiding regimen and other simple measures.            upper tract damage and renal insufficiency.
+            For those suffering from more severe forms of             Expectant management is not a safe option. The
+            dysfunctional voiding a range of techniques is            treatment options are the same as those for the
+            now available which can be grouped under the              management of true neuropathic bladder (see
+            heading “Urotherapy” or “Cognitive Bladder                Chapter 13). Very rarely a child will present with
+            Training.” The key elements involve biofeedback           the features of a non-neuropathic neuropathic
+            (using uroflowmetry and dedicated computer                bladder despite the lack of any history of psycho-
+            programmes) to train the child to relax their             logical disturbance. Bowel function is usually
+            sphincter mechanism and pelvic floor during               normal. The management is the same as for true
+            voiding in response to visual and sensory sig-            neuropathic bladder
+            nals. High success rates have been reported but
+            these techniques are time consuming, demand-
+            ing and require the input of a fully trained uro-         Sensory Urgency
+            therapist and appropriate equipment.
+                                                                      This poorly understood condition is largely
+                                                                      confined to girls. Despite clinical features
+            Non-Neuropathic Neuropathic                               which are strongly suggestive of detrusor over-
+            Bladder/Hinman’s Syndrome                                 activity, urodynamic evaluation reveals a stable
+                                                                      bladder. The symptoms of urgency are purely
+            This is a rare disorder in which the bladder              sensory in origin. Sensory urgency in adults
+            behaves like a “neuropathic” bladder despite the          is a feature of interstitial cystitis but it is very
+            absence of identifiable neurological cause. The           doubtful whether this condition occurs in chil-
+            radiological features resemble those of genu-             dren. The use of intravesical oxybutynin has
+            ine neuropathic bladder – including trabecula-            been described.
+            tion, sacculation and elongation of the bladder
+            (“fir-tree” bladder). Upper tract dilatation and
+            other secondary changes in the upper renal tracts         Diurnal Urinary Frequency
+            are also present in the majority of cases.
+                In the classic form (Hinman’s syndrome),              This condition affects mainly boys aged 4–7 years
+            there is almost invariably a background of                in whom it is characterised by the sudden onset of
+            domestic turmoil or a history of severe physical          severe daytime urinary frequency. In some cases
+            or psychological upset occurring at, or shortly           this may be as often as every 10–15 minutes. Even
+            after, the time of toilet training. It is thought that    when the sensory frequency is severe it is only
+            some children, who are unusually fearful of wet-          rarely accompanied by wetting. The symptoms
+            ting themselves, grossly overuse their external           are confined to the day time and there is no corre-
+            urethral sphincter to counteract unstable detru-          sponding nocturia. Urine culture is negative and
+            sor contractions in a desperate attempt to stay           ultrasound findings are normal. The aetiology is
+            dry. This leads to elevated intravesical pressure         unknown but is likely to involve a strong behav-
+            and reduced compliance, with secondary upper              ioural component. The symptoms do not respond
+            tract complications.                                      to anticholinergics. The condition is always self-
+                The condition typically presents at around            limiting – typically over a period of 3–12 weeks.
+            5–8 years of age with unusually severe urinary            However, a few children experience recurrent
+            incontinence which is compounded in most                  episodes over the next 1–2 years.
+psychological insult ‫نادراً ما تحدث بدون‬
+164 Urinary Incontinence
+
+
+
+Deferred Voiding ‫احساسه بيه‬     ‫ الطفل يؤجل البتول رغم‬normal. Giggle incontinence is a source of con-
+                        ّ‫النه ديريد يبقى يلعب برا مثال‬
+                                                      siderable embarrassment and distress in older
+This is common in both sexes and occurs most          children and teenagers – both at school and dur-
+often at around 4–6 years of age. The child sud-      ing social activities. Urodynamic examination
+denly becomes aware of an urgent need to void         may reveal some mild detrusor instability but
+(due to presumed unstable detrusor contraction)       the findings are usually normal. Giggle inconti-
+and experiences some degree of involuntary wet-       nence is generally believed to be a neurological
+ting if voiding is delayed. This usually occurs       (rather than urological) phenomenon which is
+because the child is engrossed in other activities,   analogous to a form of cataplexy disorder medi-
+for example playing outdoors, which take prece-       ated via higher neurological centres in which a
+dence over the social demands of continence. No       sudden loss of muscle tone is triggered by emo-
+treatment is required in this age group because       tion. There is often a family history. Whether it
+the condition is self-limiting. Deferred voiding is   is a genuinely self-limiting condition is unclear
+less common in older children – in whom it may        because apparent improvement in puberty and
+be a manifestation of broader behavioural distur-     early adult life may, in reality, represent no
+bance. Psychological input may be required in         more than adaptation to avoid the precipitating
+such cases.                                           circumstances.
+                                                         Methylphenidate (Ritalin) is the most consis-
+                                                      tently effective agent. However, it is a regulated
+Lazy Bladder               Underactive bladder        drug and should be reserved for severely affected
+                                                      patients. Oxybutynin is helpful in some cases and
+Affecting mainly girls in age range 8–10 years,
+                                                      Imipramine can also be considered.
+this condition usually presents with daytime
+incontinence and/or UTI. However, because the
+bladder remains visibly and palpably distended        Night Time Urinary Incontinence
+after voiding the condition may sometimes pres-       (Nocturnal Enuresis)
+ent with the incidental finding of a lower abdomi-
+nal swelling.                                         Nocturnal enuresis (bedwetting) is one of the
+   The upper renal tracts are always non dilated      commonest conditions of childhood. Around
+and the urodynamic picture is one of low-             10% of 7-year-old children wet the bed three or
+pressure retention with detrusor-sphincter            more times a week and a small minority experi-
+dyssynergia and non-sustained detrusor contrac-       ence intractable nocturnal enuresis which per-
+tions. The condition is almost certainly behav-       sists into late adolescence and adulthood.
+ioural in origin. It is usually self-limiting and         Urinary incontinence which only occurs at
+often resolves quite suddenly during the course       night is termed “monosymptomatic” whereas
+of puberty. For children who are troubled by          nocturnal enuresis which is also accompanied day-
+symptoms, cognitive bladder retraining has            time wetting is termed “non-monosymptomatic”
+the best outcome. In severe cases CIC may be          or “polysymptomatic”.
+indicated – although this may not be tolerated.           Nocturnal enuresis is classified as “primary”
+Anticholinergics should be avoided or used with       if the child has always wet the bed and “second-
+caution.                                              ary” if the child has previously been dry at night.
+                                                          Butler and Holland postulated a “3 Systems
+                                                      Model” to account for the main causes of noctur-
+Giggle Incontinence                                   nal enuresis (Figure 12.6) i.e.
+
+This distinctive form of incontinence occurs          ●● Low release of Arginine Vasopressin (AVP)
+mainly in girls – in whom it typically presents at       with overproduction of urine at night
+around 9–12 years. Urinary leakage only occurs        ●● Lack of arousal from sleep
+
+with giggling or laughing but at no other time.       ●● Bladder overactivity and associated daytime
+
+Other aspects of voiding function are entirely           symptoms
+  Other forms of functional urinary incontinence / Secondary Monosymptomatic Nocturnal Enuresis 165
+
+
+
+
+Figure 12.6 The 3 systems model of nocturnal enuresis.
+
+The aim of management is to identify which of                  from abnormally deep sleep, as bed wet-
+these factors is most likely to be responsible in the          ting occurs at all stages of the sleep cycle.
+affected child and plan their treatment accordingly.           However, many affected children lack the
+                                                               arousal from sleep which would normally
+                                                               occur when the bladder fills to the point
+Primary Monosymptomatic
+                                                               where it approaches its functional bladder
+Nocturnal Enuresis
+                                                               capacity. The child usually sleeps through
+This is twice as common in boys as girls. The clini-           the episode of incontinence, being
+cal features are variable and whilst some children             unaware that they have wet the bed.
+wet the bed every night others are less severely
+affected, with less severe leakage, fewer wet beds      Although nocturnal enuresis is sometimes a man-
+or alternating spells of wet and dry nights.            ifestation of emotional problems or behavioural
+   The aetiology is multifactorial and in any           disorders, the great majority of children with
+individual one or more of the following factors         primary monosymptomatic nocturnal enuresis
+may apply:                                              are normally adjusted. Apart from a urine dip-
+                                                        stick test (to exclude glycosuria and diabetes)
+   A positive family history (in upwards of 75%         investigations are rarely indicated. The prognosis
+       of cases).                                       is excellent, with spontaneous resolution by the
+   Absence of a circadian rhythm of vasopressin         time of physical maturity occurring in 97–99% of
+       release. Levels of vasopressin normally          affected individuals. The probability of cessation
+       increase at night. However, vasopressin          in any 1 year is approximately 1 in 6.
+       release is absent or reduced in up to 75%
+       of children who wet the bed (and in an           Secondary Monosymptomatic
+       even higher proportion of those with a           Nocturnal Enuresis
+       positive family history). This leads to a
+       nocturnal urinary output which exceeds           In the majority of cases the onset can usually be
+       the functional bladder capacity.                 linked to some physical or emotional upset.
+   Sleep arousal difficulty. Nocturnal enuresis             However, it is important to exclude the possibil-
+       does not, as is commonly supposed, result        ity of an underlying organic condition – particularly
+166 Urinary Incontinence
+
+
+
+one associated with polyuria such as diabetes          success rate is lower in children who also suf-
+mellitus or diabetes insipidus. However, such causes   fer from day time wetting. Desmopressin nasal
+are rare.                                              spray products are no longer available because
+                                                       of the small risk of serious adverse reactions
+Treatment of Monosymptomatic                           which included hyponatraemia, seizures and
+Nocturnal Enuresis                                     water intoxication.
+                                                          Oral formulations have a more favourable
+This should not usually be considered until the        risk-benefit profile. Currently, these are avail-
+age of 5 years. The choice of treatment is partly      able as Desmotabs (200–400 mg at night) or
+determined by the clinical features. But regard-       Desmomelt (120–240 mg at night) and are usu-
+less what treatment is chosen its success will be      ally taken 1 hour prior to bedtime.
+heavily dependent on the motivation of the child
+and the family. Although treatment provides a          Enuresis Alarm
+way of managing rather than curing the condi-
+tion, effective symptomatic relief may help to         Children with a deep sleeping pattern are the best
+expedite the resolution of the underlying noctur-      candidates for treatment with an enuretic alarm.
+nal enuresis sooner than might otherwise have          These alarms are intended to sensitise the child
+been the case.                                         to the feeling of a full bladder and raising their
+   Parents should be encouraged to adopt a posi-       level of awareness whilst asleep. After a while the
+tive attitude to treating the bedwetting. Scolding     child acquires the ability to respond appropri-
+and punishment are to be avoided at all costs.         ately by waking before leakage of urine occurs.
+The management of monosymtomatic nocturnal             The equipment typically consists of an auditory
+enuresis is generally undertaken in a community        or vibratory alarm connected to a pad placed
+setting by primary care doctors, paediatricians        on the mattress (Figure 12.7). The alarm is acti-
+and specialist continence nurses.                      vated when the first drop of urine leaks onto
+                                                       the pad. Enuresis alarms are more effective in
+Simple Measures to Reduce                              children aged 7 years and upwards – in whom
+Overnight Urine Production                             success rates are typically in the range 60–75%.
+                                                       Subsequent relapse rate are much lower than
+The child should not drink after a set time in the     those after treatment with medication. Alarms
+evening (e.g. 6 pm) and should try to maintain a       are less successful in children who are not moti-
+steady intake of fluid throughout the day rather       vated to become dry and those who also suffer
+than drinking more in the afternoon or early eve-      from daytime wetting.
+ning. It is also important that the child empties          Nocturnal hypoxia has been identified as a
+their bladder before going to bed.                     possible cause of nocturnal enuresis in some chil-
+   The use of star charts, combined with rewards,      dren with history of snoring and/or poor atten-
+can be particularly helpful in younger children.       tion during the day at school. The findings of
+                                                       sleep studies have also been cited by proponents
+Use of a Vasopressin Analogue Such                     of this possible explanation. Although, tonsillec-
+as Desmopressin                                        tomy has been reported to cure nocturnal enure-
+                                                       sis in selected cases this has not been confirmed
+This mimics the circadian rhythm by decreas-           by a recent prospective controlled trial.
+ing the obligatory production of urine by the
+kidneys overnight. The success rate is up to 70%       Non-Monosymptomatic or
+but the relapse rates after cessation of treatment     Polysymptomatic Nocturnal Enuresis
+are relatively high (30–50%). This treatment is
+more likely to be effective in children with a         When nocturnal enuresis is accompanied by
+family history of nocturnal enuresis and those         day symptoms such as urgency, frequency, stress
+who wet the bed shortly after going to sleep. The      incontinence and constipation, the first priority
+                             Other forms of functional urinary incontinence / Non-Monosymptomatic 167
+
+
+
+
+                                                         KEY POINTS
+                                                         ●● The initial priority is to exclude organic
+                                                            causes of urinary incontinence –
+                                                            although these are rare.
+                                                         ●● Most organic (anatomical or neurologi-
+
+                                                            cal) causes of daytime wetting can be
+                                                            excluded on the basis of history, exami-
+                                                            nation and ultrasonography.
+                                                         ●● Day time wetting in children is most
+
+                                                            commonly due to detrusor instability.
+                                                            In the majority of children the natural
+                                                            history is one of spontaneous resolu-
+                                                            tion but this can usually be expedited
+                                                            by simple measures.
+                                                         ●● Primary monosymptomatic nocturnal
+
+                                                            enuresis seldom, if ever, has an under-
+                                                            lying organic basis.
+
+
+Figure 12.7 (a) Enuresis alarm. The pad is
+placed under the bed sheet, with bedside
+                                                      FURTHER READING
+battery powered buzzer. (b) Compact enuresis
+                                                        1. Tryggve Nevéus, von Gontard Alexander,
+alarm suitable for the treatment of nocturnal
+                                                           Hoebeke Piet, Hjälmås Kelm, Bauer
+enuresis or ambulatory treatment of diurnal
+enuresis. The buzzer device is pinned to the               Stuart, Bower Wendy, Jørgensen Troels
+pyjamas (or clothes when used in the day time)             Munch, Rittig Søren, Walle Johan Vande,
+and the sensor worn between two pairs of                   Yeung Chung-Kwong, Djurhuus Jens
+underclothes.                                              Christian. The standardization of ter-
+                                                           minology of lower urinary tract func-
+                                                           tion in children and adolescents: report
+should be to investigate the possible cause(s) of          from the Standardisation Committee of
+the daytime symptoms. In practice the nocturnal            the International Children’s Continence
+enuresis is unlikely to respond to measures such           Society. J Urol. 2006;176:314–324.
+as an enuresis alarm until the day time wetting         2. Butler R, Holland P. The Three Systems: a
+has been effectively treated. When used selectively        conceptual way of understanding noc-
+(principally in children who are also troubled by          turnal enuresis. Scan J Urol Nephrol.
+daytime urgency and frequency) anticholinergic             2000;34:270–277.
+agents such as Oxybutynin are effective in up to      NICE Clinical guidelines https://www.nice.org.
+two-thirds of cases. A combination of treatments         uk/guidance/cg111 (Bedwetting)
+may be required in some children – for example,
+                                                      https://www.nice.org.uk/guidance/ipg362/
+the use of Desmopressin and an enuresis alarm.
+                                                         chapter/1-Guidance (PTNS)
+Imipramine, a tricyclic antidepressant, is no
+longer recommended as first-line treatment and             Websites:
+should never be prescribed in conjunction with        www.i-c-c-s.org
+Desmopressin.                                         www.eric.org.uk
+

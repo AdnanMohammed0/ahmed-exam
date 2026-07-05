@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch07-Q01",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 1,
+    "stem": "A 4-week-old male infant is found to have an AP renal pelvic diameter of 12 mm on postnatal ultrasound following antenatal detection of hydronephrosis. What is the most appropriate next step in management?",
+    "options": [
+      { "id": "a", "text": "99mTc MAG3 diuretic renogram" },
+      { "id": "b", "text": "Immediate surgical pyeloplasty" },
+      { "id": "c", "text": "CT urogram with contrast" },
+      { "id": "d", "text": "Intravenous urography" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a (MAG3 renogram) is correct. The diagnostic pathway for prenatally detected hydronephrosis is ultrasound followed by 99mTc MAG3 dynamic renography. An AP diameter of 12 mm is in the equivocal range (10–15 mm), so renography is indicated to assess differential function and drainage. Option b (pyeloplasty) is inappropriate as first-line management without functional assessment. Option c (CT urogram) involves ionising radiation and is not routine in infants. Option d (IVU) is rarely used in children as the same information is better obtained by other modalities. Key point: AP diameter <15 mm is unlikely to denote significant obstruction, but the 10–15 mm range warrants renography to guide decision-making.",
+    "topic": "Diagnostic imaging"
+  },
+  {
+    "id": "ch07-Q02",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 2,
+    "stem": "A 6-month-old infant undergoes MAG3 diuretic renography for evaluation of prenatally detected hydronephrosis. The renogram shows a rising uptake curve with no response to furosemide administration. How is this pattern classified according to O'Reilly's system?",
+    "options": [
+      { "id": "a", "text": "Type 3a" },
+      { "id": "b", "text": "Type 2" },
+      { "id": "c", "text": "Type 1" },
+      { "id": "d", "text": "Type 4" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b (Type 2) is correct. This pattern shows a rising uptake curve with no response to diuretic, indicating obstruction. Option a (Type 3a) shows an initially rising curve that falls rapidly with diuretic, indicating non-obstructive dilatation. Option c (Type 1) is a normal pattern with prompt uptake and washout. Option d (Type 4) shows a secondary peak (Homsy's sign) after diuretic, suggesting obstruction precipitated by high flow. Key point: Type 2 and Type 4 suggest obstruction; Type 1 and Type 3a are normal/non-obstructed; Type 3b is equivocal.",
+    "topic": "Isotope renography"
+  },
+  {
+    "id": "ch07-Q03",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 3,
+    "stem": "A 10-year-old boy presents with intermittent right loin pain. Diuretic renogram shows a Type 4 O'Reilly curve with a secondary peak. What is the most likely underlying cause of his PUJ obstruction?",
+    "options": [
+      { "id": "a", "text": "Fibroepithelial polyps" },
+      { "id": "b", "text": "Intrinsic stenotic segment at the PUJ" },
+      { "id": "c", "text": "Aberrant lower pole crossing vessels" },
+      { "id": "d", "text": "High insertion of the ureter" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c (aberrant crossing vessels) is correct. In older children with intermittent loin pain and a Type 4 curve (Homsy's sign indicating obstruction at high flow rates), aberrant lower pole vessels are the most common cause, found in >30% of older children undergoing pyeloplasty. Option a (fibroepithelial polyps) is a rare intraluminal cause. Option b (intrinsic stenosis) is more common in infants. Option d (high insertion) is a secondary phenomenon, not a primary cause. Key point: Intermittent pain + Type 4 curve in older children strongly suggests aberrant crossing vessels.",
+    "topic": "Aetiology of PUJ obstruction"
+  },
+  {
+    "id": "ch07-Q04",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 4,
+    "stem": "An 8-week-old infant with prenatally detected left hydronephrosis has an AP pelvic diameter of 16 mm on postnatal ultrasound and a MAG3 renogram showing 42% differential function with delayed drainage. What is the most appropriate initial management?",
+    "options": [
+      { "id": "a", "text": "Anderson-Hynes pyeloplasty" },
+      { "id": "b", "text": "Endoscopic balloon dilatation of the PUJ" },
+      { "id": "c", "text": "Insertion of a percutaneous nephrostomy" },
+      { "id": "d", "text": "Conservative management with serial ultrasound and renogram" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d (conservative management) is correct. Conservative management is appropriate when differential function is normal (>40%). The infant is asymptomatic with preserved function. Option a (pyeloplasty) is reserved for deteriorating function (<40%), symptoms, or worsening dilatation. Option b (balloon dilatation) has inferior results to pyeloplasty. Option c (PCN) is indicated for infected/obstructed systems (pyonephrosis), not present here. Key point: Only ~20% of conservatively managed infants under 2 years eventually require pyeloplasty. Surgery is indicated if function drops below 40%, symptoms develop, or dilatation worsens.",
+    "topic": "Management of PUJ obstruction"
+  },
+  {
+    "id": "ch07-Q05",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 5,
+    "stem": "A 4-year-old boy requires surgical correction of PUJ obstruction. The surgeon wishes to use the most established and widely performed procedure. Which technique should be selected?",
+    "options": [
+      { "id": "a", "text": "Ureterocalicostomy" },
+      { "id": "b", "text": "Anderson-Hynes dismembered pyeloplasty" },
+      { "id": "c", "text": "Vascular hitch procedure" },
+      { "id": "d", "text": "Endopyelotomy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b (Anderson-Hynes dismembered pyeloplasty) is correct. It remains the most widely performed procedure for PUJ obstruction in children and has a >95% long-term success rate. Option a (ureterocalicostomy) is reserved for selected cases such as horseshoe kidney or redo surgery. Option c (vascular hitch) is only applicable when aberrant crossing vessels are the cause. Option d (endopyelotomy) has inferior results to pyeloplasty and is rarely used as a primary procedure. Key point: The Anderson-Hynes pyeloplasty is the gold standard technique regardless of open, laparoscopic, or robotic approach.",
+    "topic": "Surgical procedures"
+  },
+  {
+    "id": "ch07-Q06",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 6,
+    "stem": "A 5-month-old infant has a poorly functioning hydronephrotic left kidney with 12% differential function on MAG3 renography. The surgical team needs to decide between pyeloplasty and nephrectomy. Which imaging study provides the most reliable assessment of potentially recoverable function?",
+    "options": [
+      { "id": "a", "text": "Doppler ultrasound with resistive index" },
+      { "id": "b", "text": "99mTc MAG3 renography" },
+      { "id": "c", "text": "99mTc DMSA scintigraphy" },
+      { "id": "d", "text": "Dynamic contrast-enhanced MRI" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c (DMSA scintigraphy) is correct. DMSA provides the most accurate assessment of differential function in poorly functioning kidneys and is the most reliable predictor of potential recovery. Option a (Doppler resistive index) has not proved sufficiently sensitive for routine clinical practice. Option b (MAG3) is useful for dynamic function assessment but DMSA is superior for quantifying low-level function. Option d (MRI) provides good anatomical and functional information but DMSA remains the reference for poor-function scenarios. Key point: The decision between pyeloplasty and nephrectomy typically uses an arbitrary cut-off of 10–15% differential function measured by DMSA.",
+    "topic": "Differential function assessment"
+  },
+  {
+    "id": "ch07-Q07",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 7,
+    "stem": "A 2-year-old girl is diagnosed with a horseshoe kidney and left lower pole PUJ obstruction. Initial conservative management was adopted but she now presents with increasing left loin pain. Which surgical option is most likely to provide effective drainage in this setting?",
+    "options": [
+      { "id": "a", "text": "Endopyelotomy" },
+      { "id": "b", "text": "Anderson-Hynes pyeloplasty" },
+      { "id": "c", "text": "Vascular hitch procedure" },
+      { "id": "d", "text": "Ureterocalicostomy" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d (ureterocalicostomy) is correct. In horseshoe kidney, the deviated course of the proximal ureter over the isthmus and the frequency of aberrant vasculature make standard pyeloplasty less reliable. Ureterocalicostomy anastomoses the ureter directly to the most dependent lower pole calyx, bypassing these issues. Option a (endopyelotomy) has inferior results. Option b (standard pyeloplasty) may fail due to the anatomical constraints of the horseshoe kidney. Option c (vascular hitch) is only appropriate when crossing vessels are the proven cause. Key point: Ureterocalicostomy is also indicated for recurrent PUJ obstruction and cases with severe caliceal dilatation and cortical thinning.",
+    "topic": "Horseshoe kidney"
+  },
+  {
+    "id": "ch07-Q08",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 8,
+    "stem": "A paediatric urologist is counselling the parents of a 2-year-old about to undergo dismembered pyeloplasty for PUJ obstruction. They ask about the likelihood of long-term success. What figure should the surgeon quote?",
+    "options": [
+      { "id": "a", "text": "Greater than 95%" },
+      { "id": "b", "text": "75–80%" },
+      { "id": "c", "text": "85–90%" },
+      { "id": "d", "text": "98–100%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a (>95%) is correct. Dismembered pyeloplasty has a long-term success rate >95%. Most failed procedures are diagnosed within 3 years of surgery. Option b (75–80%) is the success rate of conservative management of obstructed megaureter, not pyeloplasty. Option c (85–90%) is below the established success rate. Option d (98–100%) is overly optimistic. Key point: Redo pyeloplasty also has a high success rate of 80–100%, so even after failure, revision surgery is very effective.",
+    "topic": "Surgical outcomes"
+  },
+  {
+    "id": "ch07-Q09",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 9,
+    "stem": "A 6-month-old infant with prenatally detected left hydroureteronephrosis undergoes MCUG which shows no vesicoureteric reflux. MAG3 renogram shows 38% differential function. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Primary obstructed megaureter (VUJ obstruction)" },
+      { "id": "b", "text": "Primary non-refluxing, non-obstructed megaureter" },
+      { "id": "c", "text": "PUJ obstruction with secondary ureteric dilatation" },
+      { "id": "d", "text": "Refluxing megaureter" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a (primary obstructed megaureter) is correct. The triad of a dilated ureter, absent reflux on MCUG (excluding refluxing megaureter), and reduced differential function (38%, below the 40% threshold) indicates obstruction at the VUJ. Option b (non-refluxing, non-obstructed) would not explain the reduced differential function. Option c (PUJ obstruction with secondary ureteric dilatation) is less likely because PUJ obstruction typically does not cause ureteric dilatation. Option d (refluxing megaureter) is excluded by the normal MCUG. Key point: MCUG is essential in megaureter to distinguish between obstructed and refluxing causes before renography.",
+    "topic": "Megaureter classification"
+  },
+  {
+    "id": "ch07-Q10",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 10,
+    "stem": "Following antenatal detection of hydronephrosis, the parents of a newborn are informed that their child has PUJ obstruction. They ask how common this condition is. Based on antenatal screening data, what incidence should they be quoted?",
+    "options": [
+      { "id": "a", "text": "1:5000–1:10000" },
+      { "id": "b", "text": "1:1500–1:2000" },
+      { "id": "c", "text": "1:750–1:1000" },
+      { "id": "d", "text": "1:100–1:500" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c (1:750–1:1000) is correct. Antenatal screening data place the incidence of PUJ obstruction in this range. Option b (1:1500–1:2000) is the incidence of primary obstructed megaureter. Option a (1:5000–1:10000) is too low. Option d (1:100–1:500) overestimates the frequency. Key point: PUJ obstruction is the most common clinically significant uropathy detected during pregnancy. The male-to-female ratio is approximately 2:1, and the left kidney is affected 2:1 over the right.",
+    "topic": "Epidemiology"
+  },
+  {
+    "id": "ch07-Q11",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 11,
+    "stem": "A 5-year-old boy presents with acute onset right loin pain and high fever. Ultrasound shows a grossly hydronephrotic right kidney with echogenic debris within the collecting system. He is tachycardic and appears unwell. What is the most appropriate initial management?",
+    "options": [
+      { "id": "a", "text": "Emergency Anderson-Hynes pyeloplasty" },
+      { "id": "b", "text": "Intravenous antibiotics and urgent percutaneous nephrostomy" },
+      { "id": "c", "text": "Intravenous antibiotics and observation" },
+      { "id": "d", "text": "Cystoscopic retrograde JJ stent insertion" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b (IV antibiotics + PCN) is correct. This presentation is consistent with pyonephrosis (infection in an obstructed system). Immediate management comprises resuscitation, IV antibiotics, and urgent decompression. Option a (emergency pyeloplasty) is inappropriate in an infected field. Option c (antibiotics alone) is insufficient because the obstruction must be drained. Option d (JJ stent) is technically more difficult in children than PCN; ultrasound-guided PCN provides more rapid and effective drainage. Key point: After stabilisation, antegrade pyelography via the nephrostomy confirms the diagnosis, and DMSA assesses differential function to guide the decision between pyeloplasty and nephrectomy.",
+    "topic": "Pyonephrosis management"
+  },
+  {
+    "id": "ch07-Q12",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 12,
+    "stem": "A paediatric urologist is considering the minimally invasive open pyeloplasty technique for a 6-month-old infant with PUJ obstruction. What is a recognised advantage of this approach over conventional open pyeloplasty?",
+    "options": [
+      { "id": "a", "text": "It eliminates the need for postoperative drainage" },
+      { "id": "b", "text": "It allows simultaneous contralateral surgery" },
+      { "id": "c", "text": "It has a lower recurrence rate than laparoscopic pyeloplasty" },
+      { "id": "d", "text": "It can be performed through a 1–1.5 cm skin incision with a very short hospital stay" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d (small incision, short stay) is correct. In infants under 1 year, a 1–1.5 cm incision may be adequate. By decompressing the renal pelvis and delivering the PUJ through the small incision, the anastomosis can be performed with a very short (<24 hours) hospital stay. Option a is false; drainage is still typically used. Option b is not described as an advantage. Option c is not established; the recurrence rate is comparable to other approaches. Key point: The minimally invasive open technique is a useful option for selected infants, offering excellent cosmesis and rapid recovery without the cost and complexity of robotic surgery.",
+    "topic": "Surgical techniques"
+  },
+  {
+    "id": "ch07-Q13",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 13,
+    "stem": "A neonate born at 27 weeks gestation suddenly becomes anuric during intensive care. Ultrasound shows bilateral hydronephrosis with echogenic material at both PUJs. What is the most likely cause?",
+    "options": [
+      { "id": "a", "text": "Retrocaval ureter" },
+      { "id": "b", "text": "Bilateral intrinsic PUJ stenosis" },
+      { "id": "c", "text": "Bilateral impacted urinary calculi" },
+      { "id": "d", "text": "Fungal balls due to Candida albicans infection" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d (fungal balls) is correct. An acutely anuric premature neonate with echogenic material obstructing both PUJs is classic for renal fungal balls, typically Candida albicans. The chapter describes an identical case requiring bilateral PCN insertion. Option a (retrocaval ureter) is rare, typically right-sided, and would not present with bilateral echogenic material. Option b (bilateral intrinsic stenosis) would be congenital and unlikely to present so acutely. Option c (bilateral calculi) is exceptionally rare in neonates. Key point: Premature infants on intensive care are at risk of fungal UTI; fungal balls can cause acute anuria and require urgent decompression followed by antifungal therapy.",
+    "topic": "Intraluminal PUJ obstruction"
+  },
+  {
+    "id": "ch07-Q14",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 14,
+    "stem": "A renal ultrasound in a 3-year-old girl with recurrent UTIs reveals a left duplex kidney with hydronephrosis affecting one moiety. If this represents PUJ obstruction, which moiety is most likely involved?",
+    "options": [
+      { "id": "a", "text": "The upper pole moiety" },
+      { "id": "b", "text": "The lower pole moiety" },
+      { "id": "c", "text": "Both moieties equally" },
+      { "id": "d", "text": "The contralateral kidney" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b (lower pole) is correct. PUJ obstruction in a duplex kidney almost invariably affects the lower pole. It is usually caused by stenosis where the lower pole pelvis joins the ureter from the upper pole. Option a (upper pole) is incorrect; the upper pole is more commonly associated with ureteroceles. Option c (both moieties) is extremely rare. Option d (contralateral) does not address the duplex anatomy. Key point: In duplex systems, PUJ obstruction and VUR typically affect the lower moiety, while ureteroceles and ectopic ureters involve the upper moiety.",
+    "topic": "Duplex kidney"
+  },
+  {
+    "id": "ch07-Q15",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 15,
+    "stem": "An 18-month-old infant with a severely dilated obstructed megaureter requires ureteric reimplantation. The surgeon plans to combine the procedure with a psoas hitch to prevent kinking. Which reimplantation technique is most appropriate for this scenario?",
+    "options": [
+      { "id": "a", "text": "Lich-Gregoir extravesical reimplantation" },
+      { "id": "b", "text": "Politano-Leadbetter reimplantation" },
+      { "id": "c", "text": "Cohen cross-trigonal reimplantation" },
+      { "id": "d", "text": "Psoas hitch without reimplantation" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b (Politano-Leadbetter) is correct. This technique is usually indicated for more severely dilated megaureters and can be combined with ureteric tailoring and psoas hitch to prevent obstruction at the entry point. Option a (Lich-Gregoir) is an extravesical technique less suited to megaureter. Option c (Cohen cross-trigonal) is suitable for milder dilatation but not for severely dilated megaureters requiring psoas hitch. Option d (psoas hitch alone without reimplantation) does not address the obstructed segment. Key point: The choice of reimplantation technique depends on the degree of ureteric dilatation; Politano-Leadbetter with psoas hitch is preferred for severe cases.",
+    "topic": "Ureteric reimplantation"
+  },
+  {
+    "id": "ch07-Q16",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 16,
+    "stem": "A 3-month-old infant with prenatally detected right hydronephrosis has an AP renal pelvic diameter of 35 mm on postnatal ultrasound. According to data from Great Ormond Street Hospital, what is the approximate likelihood that this child will eventually require pyeloplasty?",
+    "options": [
+      { "id": "a", "text": "11%" },
+      { "id": "b", "text": "40%" },
+      { "id": "c", "text": "90%" },
+      { "id": "d", "text": "100%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c (90%) is correct. The Great Ormond Street data showed that when AP diameter was 30–39 mm, the pyeloplasty rate was 90%. Option a (11%) corresponds to AP diameter <20 mm. Option b (40%) corresponds to AP diameter 20–29 mm. Option d (100%) corresponds to AP diameter >40 mm. Key point: AP diameter is an important predictor of the need for surgery. An AP diameter >30 mm is associated with a significant likelihood of functional impairment.",
+    "topic": "AP diameter as predictor"
+  },
+  {
+    "id": "ch07-Q17",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 17,
+    "stem": "A paediatric nephrologist requests a dynamic renography study for a 4-year-old with suspected upper tract obstruction. Which radiopharmaceutical agent should the nuclear medicine department use?",
+    "options": [
+      { "id": "a", "text": "99mTc MAG3 labelled with 99m-Technetium" },
+      { "id": "b", "text": "99mTc DMSA" },
+      { "id": "c", "text": "99mTc DTPA" },
+      { "id": "d", "text": "Iodine-123 Hippuran" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a (MAG3) is correct. 99mTc MAG3 is currently the radiopharmaceutical agent of choice for dynamic renography in children. It provides both differential function and drainage curve data. Option b (DMSA) is used for assessing differential function in poorly functioning kidneys, not dynamic renography. Option c (DTPA) is less commonly used in children. Option d (I-123 Hippuran) is an older agent. Key point: MAG3 renography generates the O'Reilly drainage curves that classify obstruction patterns and quantify differential function.",
+    "topic": "Isotope renography"
+  },
+  {
+    "id": "ch07-Q18",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 18,
+    "stem": "A surgical trainee is reviewing the recognised complications of dismembered pyeloplasty. Which of the following would NOT appear on a standard list of complications?",
+    "options": [
+      { "id": "a", "text": "Urinoma formation" },
+      { "id": "b", "text": "Vesicoureteric reflux" },
+      { "id": "c", "text": "Wound infection" },
+      { "id": "d", "text": "Stent-related problems" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b (VUR) is correct; it is NOT a recognised complication of pyeloplasty. The listed complications are: wound infection, urinary infection, haematoma, stent-related problems, urine leak, urinoma formation, and recurrent obstruction. Option a (urinoma), option c (wound infection), and option d (stent problems) are all documented complications. VUR is a recognised complication of VUJ surgery (megaureter repair), not pyeloplasty. Key point: Overall early postoperative complications occur in 5–10% of pyeloplasty cases regardless of the drainage method used.",
+    "topic": "Surgical complications"
+  },
+  {
+    "id": "ch07-Q19",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 19,
+    "stem": "During surgical repair of a grossly dilated obstructed megaureter in a 2-year-old, the surgeon reduces the ureteric calibre using a plication technique without excising any ureteric tissue. The operative note describes the 'Starr technique'. What type of ureteric tailoring does this refer to?",
+    "options": [
+      { "id": "a", "text": "Hendren excisional tapering" },
+      { "id": "b", "text": "Kalicinski plication and folding" },
+      { "id": "c", "text": "Politano-Leadbetter remodelling" },
+      { "id": "d", "text": "Starr ureteral imbrication" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d (Starr ureteral imbrication) is correct. The Starr technique is specifically a method of ureteric plication/imbrication that folds rather than excises ureteric tissue. Option a (Hendren) is excisional tapering, which removes a strip of ureter. Option b (Kalicinski) is an alternative plication technique. Option c (Politano-Leadbetter) is a reimplantation technique, not a method of tailoring. Key point: All three techniques (Hendren, Kalicinski, Starr) are available for reducing ureteric diameter to achieve a successful antireflux reimplantation in grossly dilated ureters.",
+    "topic": "Ureteric tailoring"
+  },
+  {
+    "id": "ch07-Q20",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 20,
+    "stem": "A percutaneous nephrostomy has been inserted to drain an infected, obstructed kidney in a 3-year-old. After the infection has settled, the surgeon wishes to assess the potential for functional recovery before deciding between pyeloplasty and nephrectomy. When should differential renal function ideally be reassessed?",
+    "options": [
+      { "id": "a", "text": "Immediately after PCN insertion" },
+      { "id": "b", "text": "After 3–4 weeks of drainage" },
+      { "id": "c", "text": "After 24–48 hours" },
+      { "id": "d", "text": "After 6 months of drainage" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b (3–4 weeks) is correct. Measurement of differential function (usually with 99mTc DMSA) should ideally be delayed until after 3–4 weeks of drainage to allow the kidney to recover from the inflammatory effects of infection and obstruction. Option a (immediately) would underestimate recoverable function. Option c (24–48 hours) is insufficient time for meaningful recovery. Option d (6 months) unnecessarily delays definitive management. Key point: In borderline cases, temporary PCN drainage or JJ stent insertion provides valuable information about the potential for recovery of function.",
+    "topic": "Percutaneous nephrostomy"
+  },
+  {
+    "id": "ch07-Q21",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 21,
+    "stem": "A 14-year-old boy presents with classical episodic right loin pain during sports. Ultrasound shows moderate hydronephrosis. MAG3 renogram demonstrates good differential function but a delayed drainage pattern. At laparoscopy, aberrant lower pole vessels are found crossing the PUJ. Which surgical approach preserves the PUJ intact?",
+    "options": [
+      { "id": "a", "text": "Anderson-Hynes dismembered pyeloplasty with vessel transposition" },
+      { "id": "b", "text": "Endopyelotomy" },
+      { "id": "c", "text": "Laparoscopic vascular hitch procedure" },
+      { "id": "d", "text": "Ureterocalicostomy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c (vascular hitch) is correct. In this procedure the PUJ is preserved intact. After mobilising the obstructing lower pole vessels from the PUJ, they are anchored at a higher position on the anterior renal pelvis, avoiding any surgical procedure on the PUJ itself. Option a (dismembered pyeloplasty) transposes the vessels posteriorly but excises and reconstructs the PUJ. Option b (endopyelotomy) incises the PUJ. Option d (ureterocalicostomy) creates a new anastomosis, bypassing the PUJ. Key point: The vascular hitch is increasingly adopted for selected cases of crossing-vessel obstruction, particularly in older children with intermittent pain.",
+    "topic": "Vascular hitch procedure"
+  },
+  {
+    "id": "ch07-Q22",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 22,
+    "stem": "A multidisciplinary team is applying the 2014 consensus classification to assess the severity of prenatally detected hydronephrosis in a newborn. Which of the following is NOT one of the six criteria in this classification system?",
+    "options": [
+      { "id": "a", "text": "Resistive index on Doppler ultrasound" },
+      { "id": "b", "text": "Calyceal dilatation" },
+      { "id": "c", "text": "Anterior-posterior renal pelvic diameter" },
+      { "id": "d", "text": "Ureteral abnormalities" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a (resistive index) is NOT one of the six criteria. The six consensus criteria are: AP renal pelvic diameter, calyceal dilatation, renal parenchymal thickness, renal parenchymal appearance, bladder abnormalities, and ureteral abnormalities. Option b (calyceal dilatation), option c (AP diameter), and option d (ureteral abnormalities) are all included in the classification. Doppler resistive index has been described for assessing obstruction but has not proved sufficiently sensitive for routine clinical practice. Key point: This classification (applicable pre- and postnatally) aims to standardise the assessment of upper tract dilatation and predict clinical significance.",
+    "topic": "UTD classification"
+  },
+  {
+    "id": "ch07-Q23",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 23,
+    "stem": "A newborn with antenatally detected left hydronephrosis has a postnatal ultrasound showing an AP diameter of 8 mm. The parents are concerned about the need for surgery. What is the most appropriate advice regarding the likelihood of significant obstruction?",
+    "options": [
+      { "id": "a", "text": "Immediate nephrectomy is indicated" },
+      { "id": "b", "text": "Surgery is likely to be needed within the first year" },
+      { "id": "c", "text": "An MCUG is needed urgently" },
+      { "id": "d", "text": "Significant obstruction is very unlikely as the AP diameter is well below 15 mm" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d (unlikely to be significant) is correct. An AP diameter less than 15 mm is most unlikely to denote significant obstruction posing an active threat to renal function. The upper limit of normal in a neonate is 6 mm, but 10 mm is taken as the clinical upper limit. Option a (nephrectomy) is far too aggressive. Option b (surgery likely) contradicts the evidence. Option c (urgent MCUG) is not indicated without ureteric dilatation or other concerns. Key point: AP diameter >50 mm is almost invariably associated with impaired function; conversely, values <15 mm are reassuring.",
+    "topic": "Ultrasound assessment"
+  },
+  {
+    "id": "ch07-Q24",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 24,
+    "stem": "A medical student is studying the pathophysiology of acute complete ureteric obstruction. In experimental animal models, what percentage of functioning nephrons are lost after approximately 6 days of obstruction?",
+    "options": [
+      { "id": "a", "text": "10%" },
+      { "id": "b", "text": "25%" },
+      { "id": "c", "text": "50%" },
+      { "id": "d", "text": "100%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c (50%) is correct. After 6 days of acute complete obstruction, approximately 50% of functioning nephrons are lost. Option a (10%) and option b (25%) underestimate the rapidity of nephron loss. Option d (100%) occurs after 6 weeks of complete obstruction, not 6 days. Key point: In the first few hours, intrarenal pressure rises sharply with reduced cortical blood flow. Without prompt relief, irreversible loss of the entire function of the obstructed kidney occurs within 6 weeks. Acute obstruction is relatively rare in children.",
+    "topic": "Pathophysiology"
+  },
+  {
+    "id": "ch07-Q25",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 25,
+    "stem": "An 8-year-old child is being evaluated for incidentally detected PUJ obstruction with 45% differential function and no symptoms. What is the most appropriate initial management?",
+    "options": [
+      { "id": "a", "text": "Conservative management with ultrasound follow-up" },
+      { "id": "b", "text": "Endoscopic balloon dilatation" },
+      { "id": "c", "text": "Immediate Anderson-Hynes pyeloplasty" },
+      { "id": "d", "text": "Laparoscopic nephrectomy" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a (conservative management) is correct. When PUJ obstruction is an asymptomatic incidental finding and differential function is ≥40%, conservative management is appropriate. Ultrasound follow-up should be maintained until dilatation resolves or stabilises. Option b (balloon dilatation) has inferior results to pyeloplasty. Option c (immediate pyeloplasty) is not indicated when function is preserved. Option d (nephrectomy) is inappropriate for a kidney with 45% function. Key point: Worsening hydronephrosis or the onset of symptoms are indications to proceed to pyeloplasty during follow-up.",
+    "topic": "Incidental PUJ obstruction"
+  },
+  {
+    "id": "ch07-Q26",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 26,
+    "stem": "A newborn is found to have a right retrocaval ureter on postnatal imaging following antenatal detection of hydronephrosis. The parents ask about the cause. What embryological explanation should be provided?",
+    "options": [
+      { "id": "a", "text": "Congenital stenosis of the proximal ureter" },
+      { "id": "b", "text": "Aberrant lower pole renal vessels compressing the ureter" },
+      { "id": "c", "text": "Abnormal development of the posterior cardinal veins (precursors of the IVC)" },
+      { "id": "d", "text": "Fibrosis of the retroperitoneum" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c (abnormal posterior cardinal veins) is correct. Retrocaval ureter originates from abnormal development of the posterior cardinal veins, the precursors of the inferior vena cava. It more commonly affects the right ureter. Option a (congenital stenosis) describes intrinsic PUJ obstruction, not retrocaval ureter. Option b (aberrant vessels) causes extrinsic PUJ obstruction, not retrocaval ureter. Option d (retroperitoneal fibrosis) is an acquired condition. Key point: MRI is indicated when retrocaval ureter is suspected on ultrasound. Laparoscopic or robotic-assisted repair is preferable to open surgery.",
+    "topic": "Retrocaval ureter"
+  },
+  {
+    "id": "ch07-Q27",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 27,
+    "stem": "A 6-month-old infant with primary obstructed megaureter has a ureteric diameter of 14 mm on ultrasound. What does this measurement indicate regarding prognosis?",
+    "options": [
+      { "id": "a", "text": "It is diagnostic of reflux rather than obstruction" },
+      { "id": "b", "text": "It is within normal limits and no follow-up is needed" },
+      { "id": "c", "text": "It is an indication for immediate ureteric reimplantation" },
+      { "id": "d", "text": "It indicates an increased risk of requiring surgery during follow-up" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d (increased risk of surgery) is correct. Ureteric diameter ≥14 mm on initial assessment indicates an increased risk of surgery being required during follow-up. Option a is incorrect; ultrasound cannot distinguish reflux from obstruction. Option b is incorrect; 14 mm is significantly dilated. Option c is incorrect; it is not an automatic indication for immediate surgery if other parameters are favourable. Key point: Severity of dilatation is a reasonable predictor of the likely success or failure of conservative management in megaureter.",
+    "topic": "Megaureter prognosis"
+  },
+  {
+    "id": "ch07-Q28",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 28,
+    "stem": "An 11-year-old boy undergoes pyeloplasty for PUJ obstruction. Postoperative follow-up ultrasound at 6 months shows persistent but reduced dilatation compared with preoperative imaging. What is the most appropriate next step?",
+    "options": [
+      { "id": "a", "text": "Reassure and continue ultrasound surveillance" },
+      { "id": "b", "text": "Immediate MAG3 renogram" },
+      { "id": "c", "text": "Re-do pyeloplasty" },
+      { "id": "d", "text": "Antegrade pyelography" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a (reassure and continue surveillance) is correct. If ultrasound clearly demonstrates that dilatation is resolving (even if not yet normal), it can be reasonably assumed that the operation has successfully relieved the obstruction. Option b (immediate renogram) is not necessary if ultrasound is reassuring. Option c (re-do pyeloplasty) is premature without evidence of failure. Option d (antegrade pyelography) is invasive and unnecessary. Key point: It may take considerable time for renogram drainage curves to normalise after pyeloplasty in grossly dilated kidneys. Ultrasound is the mainstay of postoperative follow-up.",
+    "topic": "Postoperative follow-up"
+  },
+  {
+    "id": "ch07-Q29",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 29,
+    "stem": "A paediatric urologist is discussing prognosis with the parents of an infant scheduled for surgical correction of an obstructed megaureter. What overall success rate should the surgeon quote for this procedure?",
+    "options": [
+      { "id": "a", "text": "90–95%" },
+      { "id": "b", "text": "70–80%" },
+      { "id": "c", "text": "50–60%" },
+      { "id": "d", "text": "98–100%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a (90–95%) is correct. The outcomes of surgical management of obstructed megaureter are generally very good, with reported overall success rates in the region of 90–95%. Option b (70–80%) is the success rate of conservative management of megaureter, not surgery. Option c (50–60%) underestimates surgical success. Option d (98–100%) is overly optimistic. Key point: Surgical management for obstructed megaureter consists of excision of the obstructing distal ureteric segment and reimplantation, with good long-term preservation of function.",
+    "topic": "Surgical outcomes"
+  },
+  {
+    "id": "ch07-Q30",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 30,
+    "stem": "A 4-year-old child presents with haematuria following minor abdominal trauma. Ultrasound reveals moderate hydronephrosis. What is the most likely explanation for the haematuria?",
+    "options": [
+      { "id": "a", "text": "Wilms tumour with intratumoural haemorrhage" },
+      { "id": "b", "text": "Renal calculus causing haematuria and obstruction" },
+      { "id": "c", "text": "Coagulation disorder unmasked by trauma" },
+      { "id": "d", "text": "An obstructed kidney is more susceptible to trauma-induced haematuria" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d (obstructed kidney susceptibility) is correct. Haematuria in PUJ obstruction may occur spontaneously but is more commonly associated with minor trauma, to which obstructed kidneys are more susceptible. Option a (Wilms tumour) can present as an abdominal mass mimicking a hydronephrotic kidney, but the distinction is readily made with imaging. Option b (calculus) may cause obstruction but is not the most likely explanation here. Option c (coagulation disorder) is not suggested by the history. Key point: A grossly dilated kidney can sometimes present as an abdominal mass mimicking Wilms tumour; ultrasound, CT, or MRI can readily distinguish between the two.",
+    "topic": "Presentation of PUJ obstruction"
+  },
+  {
+    "id": "ch07-Q31",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 31,
+    "stem": "Following an Anderson-Hynes pyeloplasty in a 3-year-old, the surgeon is deciding between leaving an indwelling JJ stent or an externalised pyeloureteral stent (nephrostent). The parents are concerned about the need for a second anaesthetic for stent removal. What advantage does the nephrostent offer?",
+    "options": [
+      { "id": "a", "text": "Better anastomotic healing" },
+      { "id": "b", "text": "Removal without need for a second anaesthetic" },
+      { "id": "c", "text": "Lower risk of urinary infection" },
+      { "id": "d", "text": "Lower cost" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b (removal without second anaesthetic) is correct. The externalised nephrostent can be easily removed without a second anaesthetic, usually 1–2 weeks post-pyeloplasty. Option a (better healing) is not established; published studies have not demonstrated superiority of one drainage method over another. Option c (lower infection risk) is not a proven advantage. Option d (lower cost) is not the primary advantage and may not be true. Key point: JJ stents require removal cystoscopically under a further general anaesthetic at 4–6 weeks. Some paediatric urologists prefer simple extrarenal drainage without any transanastomotic stent.",
+    "topic": "Postoperative drainage"
+  },
+  {
+    "id": "ch07-Q32",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 32,
+    "stem": "During pyeloplasty in a 6-month-old, the surgeon notes that the ureter appears to insert high on the anterior wall of the dilated renal pelvis. How should this finding be interpreted?",
+    "options": [
+      { "id": "a", "text": "It indicates the presence of crossing lower pole vessels" },
+      { "id": "b", "text": "It is generally a secondary phenomenon due to progressive pelvic dilatation" },
+      { "id": "c", "text": "It is diagnostic of a horseshoe kidney" },
+      { "id": "d", "text": "It is the primary cause of obstruction and requires specific surgical correction" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b (secondary phenomenon) is correct. A high insertion of the ureter on the anterior wall of the dilated renal pelvis is generally regarded as a secondary phenomenon caused by upward displacement of the PUJ due to progressive pelvic dilatation, rather than the primary cause of obstruction. Option a (crossing vessels) is a separate aetiology. Option c (horseshoe kidney) is a separate anatomical variant. Option d (primary cause) is incorrect; it is not the primary cause. Key point: The high insertion resolves spontaneously after standard pyeloplasty, as the pelvis is reduced in size and the PUJ is reconstructed.",
+    "topic": "High insertion PUJ"
+  },
+  {
+    "id": "ch07-Q33",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 33,
+    "stem": "A 12-year-old girl with a long history of intermittent abdominal pain has an ultrasound between episodes showing only mild hydronephrosis. During an acute episode of pain, ultrasound shows a dramatic increase in calyceal dilatation. MAG3 renogram shows good function. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Acute pyelonephritis" },
+      { "id": "b", "text": "Non-obstructive 'burnt out' megaureter" },
+      { "id": "c", "text": "Intermittent VUJ obstruction (obstructed megaureter)" },
+      { "id": "d", "text": "Psychogenic abdominal pain" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c (intermittent VUJ obstruction) is correct. This classic presentation of intermittent VUJ obstruction shows minimal or no dilatation between episodes (suggesting 'burnt out' megaureter) but dramatic calyceal dilatation during pain. Surgery completely resolves symptoms. Option a (pyelonephritis) would typically present with fever and infection. Option b (non-obstructive 'burnt out' megaureter) would not explain the dramatic change during pain. Option d (psychogenic pain) is a diagnosis of exclusion and does not explain the sonographic findings. Key point: Intermittent VUJ obstruction can be difficult to diagnose; imaging during an acute episode is key.",
+    "topic": "Intermittent VUJ obstruction"
+  },
+  {
+    "id": "ch07-Q34",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 34,
+    "stem": "A paediatric radiology fellow is studying the causes of upper tract dilatation. Which of the following is NOT listed as a recognised cause in the standard classification?",
+    "options": [
+      { "id": "a", "text": "Developmental anomalies of the upper urinary tract" },
+      { "id": "b", "text": "Pathologically high rates of urine production (flow uropathy)" },
+      { "id": "c", "text": "Renal artery stenosis" },
+      { "id": "d", "text": "Vesicoureteric reflux" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c (renal artery stenosis) is NOT a cause of upper tract dilatation; it causes hypertension, not dilatation. The four recognised causes are: urinary tract obstruction, VUR, developmental anomalies of the upper urinary tract, and pathologically high rates of urine production ('flow uropathy'). Option a (developmental anomalies), option b (high urine production), and option d (VUR) are all correctly included. Key point: Dilatation does not always signify obstruction. Non-obstructive causes include VUR, primary non-obstructive megaureter, residual dilatation after relief of obstruction, and high urine flow states.",
+    "topic": "Causes of upper tract dilatation"
+  },
+  {
+    "id": "ch07-Q35",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 35,
+    "stem": "An infant with bilateral prenatally detected hydronephrosis has an AP diameter of 28 mm on the right and 22 mm on the left. Differential function is 55% right and 45% left. Which management approach is most appropriate?",
+    "options": [
+      { "id": "a", "text": "Bilateral simultaneous pyeloplasty" },
+      { "id": "b", "text": "Bilateral nephrectomy" },
+      { "id": "c", "text": "Operate on the left kidney only" },
+      { "id": "d", "text": "Operate on the more dilated right kidney and monitor the left" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d (operate on the right, monitor left) is correct. In bilateral dilatation, less reliance can be placed on differential function, and greater weight must be given to the severity of dilatation. The right kidney (AP 28 mm) is more severely dilated and in the 20–29 mm range (40% pyeloplasty rate). Option a (bilateral simultaneous pyeloplasty) is rarely necessary. Option b (bilateral nephrectomy) is inappropriate. Option c (operate on the left) would address the less dilated kidney. Key point: Only rarely is it necessary to operate on both kidneys simultaneously or in quick succession. The less severely dilated kidney can be safely monitored.",
+    "topic": "Bilateral PUJ obstruction"
+  },
+  {
+    "id": "ch07-Q36",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 36,
+    "stem": "A 6-month-old infant presents with a dilated ureter on ultrasound following prenatal detection of hydroureteronephrosis. Before performing an isotope renogram, the clinician needs to exclude reflux as the cause of dilatation. Which investigation is essential?",
+    "options": [
+      { "id": "a", "text": "Intravenous urography" },
+      { "id": "b", "text": "Micturating cystourethrography (MCUG)" },
+      { "id": "c", "text": "Antegrade pyelography" },
+      { "id": "d", "text": "CT urogram" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b (MCUG) is correct. Ultrasound cannot distinguish between dilatation due to obstruction and dilatation associated with high-grade VUR. MCUG is therefore essential in the assessment of children with megaureter before renography. Option a (IVU) is rarely used in modern practice. Option c (antegrade pyelography) is invasive and reserved for complex cases. Option d (CT urogram) involves significant radiation and is not first-line. Key point: Once reflux has been excluded by MCUG, an isotope renogram quantifies differential function and assesses drainage to determine if obstruction is present.",
+    "topic": "Megaureter investigation"
+  },
+  {
+    "id": "ch07-Q37",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 37,
+    "stem": "A 6-year-old boy who had a left Anderson-Hynes pyeloplasty 2 years ago presents with recurrent left loin pain. Ultrasound shows worsening hydronephrosis. MAG3 renogram shows differential function declining from 42% to 28%. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Redo pyeloplasty (open or minimally invasive)" },
+      { "id": "b", "text": "Long-term antibiotic prophylaxis" },
+      { "id": "c", "text": "Observation with another renogram in 6 months" },
+      { "id": "d", "text": "Nephrectomy" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a (redo pyeloplasty) is correct. Most failed pyeloplasties are diagnosed within 3 years of surgery. Given symptomatic recurrence and deteriorating function (below 40%), revision surgery is indicated. Redo pyeloplasty has a high success rate of 80–100%. Option b (antibiotics) does not address the obstruction. Option c (observation) is inappropriate with worsening symptoms and function. Option d (nephrectomy) is premature; a functioning kidney with 28% differential is worth salvaging. Key point: In selected cases of failed pyeloplasty with a short (<10 mm) stricture in older children, antegrade or retrograde endopyelotomy may have a role.",
+    "topic": "Failed pyeloplasty"
+  },
+  {
+    "id": "ch07-Q38",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 38,
+    "stem": "A medical student is asked about the demographic features of PUJ obstruction during a paediatric urology placement. Which statement accurately describes the sex distribution and side predilection?",
+    "options": [
+      { "id": "a", "text": "Male predominance 3:1, right kidney more commonly affected" },
+      { "id": "b", "text": "Approximately equal sex distribution, left kidney more commonly affected (2:1)" },
+      { "id": "c", "text": "Female predominance 2:1, right kidney more commonly affected" },
+      { "id": "d", "text": "Approximately equal sex distribution, no side predilection" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b (male predominance ~2:1, left 2:1) is correct. The male-to-female ratio is approximately 2:1, and the left kidney is affected more commonly than the right by a ratio of approximately 2:1. Option a overestimates male predominance and incorrectly identifies the right side as more common. Option c incorrectly states female predominance. Option d is incorrect because there is a left-side predilection. Key point: PUJ obstruction is also associated with increased incidence of MCDK, horseshoe kidney, ectopic kidney, and duplex collecting systems (usually the lower moiety).",
+    "topic": "Epidemiology of PUJ obstruction"
+  },
+  {
+    "id": "ch07-Q39",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 39,
+    "stem": "A paediatric urologist is reviewing a MAG3 renogram in an 18-month-old with a known megaureter. The drainage curve is difficult to interpret. What is a recognised limitation of diuretic renogram drainage curves in the assessment of megaureter?",
+    "options": [
+      { "id": "a", "text": "They cannot distinguish between obstructive and non-obstructive dilatation at all" },
+      { "id": "b", "text": "Clearance from a capacious dilated upper tract is often delayed even without obstruction" },
+      { "id": "c", "text": "They do not provide any information on differential function" },
+      { "id": "d", "text": "They require general anaesthesia in all children" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b (delayed clearance in capacious tracts) is correct. Drainage curves may be difficult to interpret because clearance of isotope from a capacious, grossly dilated upper tract is often delayed even without obstruction. Additionally, isotope may drain from the kidney into the capacious ureter rather than the bladder, giving a false impression of non-obstruction. Option a is overly absolute; curves can distinguish obstruction in many cases. Option c is incorrect; renography does provide differential function data. Option d is false; sedation may be needed but not general anaesthesia in all cases. Key point: In practice, the diagnosis of significant obstruction in megaureter often relies on differential function and ultrasound assessment of dilatation severity in addition to drainage curve data.",
+    "topic": "Renogram interpretation"
+  },
+  {
+    "id": "ch07-Q40",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 40,
+    "stem": "A researcher is studying congenital anomalies associated with PUJ obstruction. Which of the following is NOT recognised as having an increased association with PUJ obstruction?",
+    "options": [
+      { "id": "a", "text": "Posterior urethral valves" },
+      { "id": "b", "text": "Multicystic dysplastic kidney" },
+      { "id": "c", "text": "Horseshoe kidney" },
+      { "id": "d", "text": "Ectopic kidney" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a (posterior urethral valves) is NOT listed as a specific association. The recognised associations are: MCDK, horseshoe kidney, ectopic kidney, and duplex collecting systems (usually lower moiety). Option b (MCDK), option c (horseshoe kidney), and option d (ectopic kidney) are all correctly associated. PUV causes bladder outlet obstruction and secondary upper tract changes but is not specifically associated with PUJ obstruction. Key point: The heterogeneous aetiology of PUJ obstruction includes intrinsic stenosis, extrinsic compression (crossing vessels), intraluminal causes (stones, fungal balls, polyps), and functional obstruction.",
+    "topic": "Associated anomalies"
+  },
+  {
+    "id": "ch07-Q41",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 41,
+    "stem": "A 6-month-old infant with prenatally detected primary obstructed megaureter has 38% differential function and experienced a single episode of mild febrile UTI that settled with antibiotics. Ureteric diameter is 10 mm. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Antibiotic prophylaxis and trial of conservative management" },
+      { "id": "b", "text": "Immediate ureteric reimplantation" },
+      { "id": "c", "text": "Cutaneous ureterostomy" },
+      { "id": "d", "text": "Nephrectomy" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a (antibiotic prophylaxis + conservative trial) is correct. A mild to moderate UTI is not an automatic indication for surgery when other parameters (differential function >35%, ureteric diameter ≤1 cm) are favourable. Option b (immediate reimplantation) would be indicated for recurrent or severe infection, not a single episode. Option c (cutaneous ureterostomy) is reserved for severe cases in small infants as a temporising measure. Option d (nephrectomy) is inappropriate for a kidney with 38% function. Key point: Surgery is indicated for impaired function (<40%), increasing dilatation, or recurrent/severe infection. Conservative management of megaureter has a 70–80% long-term success rate.",
+    "topic": "Megaureter management"
+  },
+  {
+    "id": "ch07-Q42",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 42,
+    "stem": "A paediatric urology consultant is teaching medical students about PUJ obstruction. In the current era, what is the most common way this condition comes to medical attention in infants?",
+    "options": [
+      { "id": "a", "text": "Urinary tract infection" },
+      { "id": "b", "text": "Palpable abdominal mass" },
+      { "id": "c", "text": "Haematuria following minor trauma" },
+      { "id": "d", "text": "Prenatal detection on antenatal ultrasound" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d (prenatal detection) is correct. PUJ obstruction is the most common clinically significant uropathy detected during pregnancy, and prenatal detection is now the most common mode of presentation. Option a (UTI) used to be the most common presentation before the advent of prenatal ultrasound. Option b (abdominal mass) is less common. Option c (haematuria) occurs with minor trauma but is not the most common. Key point: Some degree of fetal urinary tract dilatation is present in 1–2% of pregnancies. The challenge is to distinguish significant obstruction from benign, self-resolving dilatation.",
+    "topic": "Presentation"
+  },
+  {
+    "id": "ch07-Q43",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 43,
+    "stem": "A 5-year-old child with known non-refluxing, non-obstructed megaureter has been followed conservatively for 3 years with stable findings. She now presents with flank pain and ultrasound shows a stone in the dilated ureter. What complication of conservative management has occurred?",
+    "options": [
+      { "id": "a", "text": "Development of de-novo obstruction" },
+      { "id": "b", "text": "Ureteric stricture formation" },
+      { "id": "c", "text": "Fungal ball formation" },
+      { "id": "d", "text": "Stone formation associated with urinary stasis" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d (stone formation from stasis) is correct. Stone formation associated with stasis in a dilated but non-obstructed ureter has been reported as a late complication of otherwise successful conservative management of megaureter. Option a (de-novo obstruction) is not the mechanism; stasis predisposes to calculi. Option b (stricture) is not a described complication of conservative management. Option c (fungal ball) requires a fungal infection, not described here. Key point: This is a recognised but uncommon complication. It does not necessarily indicate failure of conservative management, and the stone can often be managed separately.",
+    "topic": "Complications of conservative management"
+  },
+  {
+    "id": "ch07-Q44",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 44,
+    "stem": "A 4-year-old child has a poorly functioning hydronephrotic kidney being considered for either pyeloplasty or nephrectomy. The surgeon needs to predict the likelihood of functional recovery after relief of obstruction. Which investigation provides the most reliable information?",
+    "options": [
+      { "id": "a", "text": "99mTc DMSA scintigraphy" },
+      { "id": "b", "text": "Grade of hydronephrosis on the O'Reilly curve" },
+      { "id": "c", "text": "AP pelvic diameter on ultrasound" },
+      { "id": "d", "text": "Presence or absence of symptoms" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a (DMSA scintigraphy) is correct. DMSA provides more accurate information on differential function in poorly functioning kidneys and serves as the most reliable predictor of potential recovery. Option b (O'Reilly curve) assesses drainage, not parenchymal function. Option c (AP diameter) is an anatomical measure that does not directly predict functional recovery. Option d (symptoms) is a clinical guide but not a predictor of recoverable function. Key point: In borderline cases, a period of temporary PCN drainage or JJ stent insertion may provide additional information about functional recovery potential.",
+    "topic": "Assessment of recoverable function"
+  },
+  {
+    "id": "ch07-Q45",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 45,
+    "stem": "A 7-year-old child with a horseshoe kidney and right PUJ obstruction undergoes pyeloplasty. Postoperatively, the obstruction persists. What is the most likely cause of this persistent obstruction?",
+    "options": [
+      { "id": "a", "text": "Neurogenic bladder dysfunction" },
+      { "id": "b", "text": "Compression by the renal isthmus or aberrant vasculature" },
+      { "id": "c", "text": "Anastomotic infection causing stricture" },
+      { "id": "d", "text": "Inadequate resection of the renal pelvis at surgery" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b (isthmus/vasculature compression) is correct. In horseshoe kidney, the commonest post-pyeloplasty complication is obstruction caused by the deviated course of the proximal ureter over the renal isthmus or, more commonly, by extrinsic compression by aberrant vasculature. Option a (neurogenic bladder) is not specifically associated with horseshoe kidney. Option c (anastomotic infection) is not the most likely cause. Option d (inadequate pelvic resection) is less likely than the anatomical factors unique to horseshoe kidney. Key point: Ureterocalicostomy may provide more effective drainage than redo pyeloplasty in horseshoe kidneys with recurrent obstruction.",
+    "topic": "Horseshoe kidney complications"
+  },
+  {
+    "id": "ch07-Q46",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 46,
+    "stem": "A 6-month-old infant has a virtually non-functioning hydronephrotic kidney with differential function estimated at approximately 12% on MAG3 renography. Before deciding between pyeloplasty and nephrectomy, the surgeon requests a more accurate assessment of differential function. Which imaging study should be performed?",
+    "options": [
+      { "id": "a", "text": "Dynamic contrast-enhanced MRI" },
+      { "id": "b", "text": "Repeat MAG3 renogram" },
+      { "id": "c", "text": "Ultrasound measurement of parenchymal thickness" },
+      { "id": "d", "text": "99mTc DMSA scintigraphy" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Option d (DMSA scintigraphy) is correct. Most paediatric urologists apply an arbitrary cut-off of 10–15% differential function for the pyeloplasty-vs-nephrectomy decision, and DMSA is the most reliable method for obtaining an accurate measure. Option a (MRI) provides good anatomical and functional information but DMSA remains the reference standard. Option b (repeat MAG3) would not provide greater accuracy than DMSA. Option c (ultrasound) is anatomical, not functional. Key point: To further assess recovery potential in borderline cases, a period of temporary PCN drainage or JJ stent insertion may be helpful.",
+    "topic": "Nephrectomy decision-making"
+  },
+  {
+    "id": "ch07-Q47",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 47,
+    "stem": "The parents of a 3-month-old with prenatally detected PUJ obstruction are considering conservative management. They ask about the likelihood that their child will eventually need surgery. Based on the Cochrane review cited in the chapter, what proportion of conservatively managed infants under 2 years require early pyeloplasty?",
+    "options": [
+      { "id": "a", "text": "5%" },
+      { "id": "b", "text": "75%" },
+      { "id": "c", "text": "20%" },
+      { "id": "d", "text": "50%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c (20%) is correct. The Cochrane review concluded that the majority of newborns and infants under 2 years managed conservatively do not experience significant deterioration in differential function, with only 20% coming to early pyeloplasty. Option a (5%) underestimates the intervention rate. Option b (75%) overestimates it. Option d (50%) is also too high. Key point: There have been very few randomised controlled trials comparing operative versus conservative management. Most outcome data are derived from observational studies. The 20% figure provides useful prognostic information for counselling families.",
+    "topic": "Cochrane review"
+  },
+  {
+    "id": "ch07-Q48",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 48,
+    "stem": "A 3-year-old child presents with acute right loin pain, vomiting, and microscopic haematuria. CT reveals a 5 mm calculus impacted at the PUJ with moderate hydronephrosis. What is the most appropriate initial management?",
+    "options": [
+      { "id": "a", "text": "Decompression by PCN or JJ stent followed by stone management" },
+      { "id": "b", "text": "Extracorporeal shock wave lithotripsy (ESWL)" },
+      { "id": "c", "text": "Urgent pyeloplasty with stone removal" },
+      { "id": "d", "text": "Conservative management with analgesia and hydration" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Option a (decompression then stone management) is correct. An impacted calculus at the PUJ causes acute obstruction, which can lead to rapid nephron loss (50% at 6 days). Acute relief of obstruction is required before definitive stone management. Option b (ESWL) does not relieve acute obstruction and may be used after decompression. Option c (urgent pyeloplasty) is overly invasive as initial management. Option d (conservative) risks irreversible renal damage. Key point: After decompression, the stone can be addressed by appropriate endourological or surgical means. The obstructed kidney is more susceptible to trauma, so haematuria after minor trauma is another presentation.",
+    "topic": "Acute calculus obstruction"
+  },
+  {
+    "id": "ch07-Q49",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 49,
+    "stem": "A MAG3 diuretic renogram in a 2-year-old shows an initially rising curve that falls rapidly after furosemide administration. The radiologist reports this as a non-obstructive pattern. How is this classified according to O'Reilly's system?",
+    "options": [
+      { "id": "a", "text": "Type 3b" },
+      { "id": "b", "text": "Type 2" },
+      { "id": "c", "text": "Type 3a" },
+      { "id": "d", "text": "Type 1" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Option c (Type 3a) is correct. Type 3a shows an initially rising curve that falls rapidly in response to diuretic, indicating non-obstructive dilatation. Option a (Type 3b) is equivocal—neither falls promptly nor continues to rise. Option b (Type 2) is a rising curve with no diuretic response, indicating obstruction. Option d (Type 1) is a normal pattern with prompt uptake and washout. Key point: Understanding the O'Reilly classification is essential for interpreting diuretic renography. Type 1 and 3a are normal/non-obstructed; Type 2 and 4 suggest obstruction; Type 3b is equivocal and requires clinical correlation.",
+    "topic": "O'Reilly curves"
+  },
+  {
+    "id": "ch07-Q50",
+    "chapter": "Upper Tract Obstruction",
+    "chapterSlug": "ch07_upper-tract-obstruction",
+    "chapterNumber": 7,
+    "questionNumber": 50,
+    "stem": "A newborn is found to have a right retrocaval ureter on postnatal imaging following antenatal detection of hydronephrosis. Which side is most commonly affected and what is the embryological basis?",
+    "options": [
+      { "id": "a", "text": "Left side; abnormal development of the anterior cardinal veins" },
+      { "id": "b", "text": "Right side; abnormal development of the posterior cardinal veins" },
+      { "id": "c", "text": "Bilateral equally; abnormal development of the subcardinal veins" },
+      { "id": "d", "text": "Left side; abnormal development of the supracardinal veins" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Option b (right side, posterior cardinal veins) is correct. Retrocaval ureter more commonly affects the right ureter and originates from abnormal development of the posterior cardinal veins, the precursors of the inferior vena cava. Option a incorrectly identifies the left side and anterior cardinal veins. Option c incorrectly suggests bilateral equal involvement. Option d incorrectly identifies the left side and supracardinal veins. Key point: MRI is indicated if this diagnosis is suggested by ultrasound. A laparoscopic or robotic-assisted approach to treatment is preferable to open surgery.",
+    "topic": "Retrocaval ureter"
+  }
+]

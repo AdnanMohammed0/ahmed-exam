@@ -1,0 +1,599 @@
+                                                                                                        3
+Imaging
+
+MELANIE P HIORNS
+
+
+Topics covered
+
+Ultrasonography (US) including contrast-               Dynamic diuresis renography
+   enhanced ultrasound (CEUS)                             (MAG3 and DTPA)
+Micturating cystourethrography (MCUG)                  Magnetic resonance imaging (MRI)
+Alternative methods of cystography                     Computed tomography (CT)
+   (IRC and DIC)                                       Abdominal X-ray (AXR)
+DMSA scintigraphy                                      Interventional techniques
+
+
+
+
+ INTRODUCTION                                          low cost investigation which does not expose the
+                                                       child to ionising radiation. The anatomical resolu-
+                                                       tion provided by US is usually excellent in children
+Imaging of the urinary tract provides valuable
+                                                       because they have less body fat and a smaller body
+information on anatomy, function, and fre-
+                                                       habitus. US is highly sensitive in the detection of
+quently, both. The imaging techniques described
+                                                       renal stones, cysts, and conditions associated with
+in this chapter are those of greatest relevance to
+                                                       dilatation. However, it is less sensitive for visualising
+contemporary urological imaging in children in
+                                                       abnormalities in nondilated ureters and provides no
+a standard healthcare setting. Some new modali-
+                                                       information on function. Another drawback is the
+ties such as magnetic resonance imaging (MRI)
+                                                       degree of operator/observer dependence. Contrast-
+and contrast-enhanced ultrasound (CEUS) are
+                                                       enhanced ultrasound (CEUS) is a dynamic imaging
+also being used increasingly in specialist centres.
+                                                       technique which can be used to assess renal perfu-
+                                                       sion when the contrast is given intravenously, or to
+                                                       study the structure of the urinary tract when it is
+ ULTRASOUND AND DOPPLER                                introduced via a catheter into the bladder.
+
+Ultrasound (US) is very well tolerated in children     Technical Aspects
+and is the investigation of first choice for sus-
+pected urinary tract pathology. It offers consider-    Children are routinely scanned in both the supine
+able advantages in this age group, being a painless,   and prone positions.
+
+
+                                                                                                             23
+24 Imaging
+
+
+
+   The bladder is scanned first because infants        echo-bright but lose their normal corticomedul-
+tend to void when their abdomen is exposed and         lary differentiation.
+older children who arrive with a full bladder are
+more comfortable if the bladder is scanned at the      Indications
+outset.
+   A significant post-void residual volume is          The principal indications for performing renal
+defined as one exceeding 10% of normal age-            US are for:
+adjusted bladder capacity. If the bladder is very
+full it may give rise to transient “physiological”     ●● Evaluation of congenital anomalies (including
+upper tract dilatation (hydronephrosis) and when          antenatally detected hydronephrosis)
+this is present the bladder should be rescanned        ●● Investigation of urinary tract infection
+after voiding.                                         ●● Imaging of stone disease (Figure 3.1) or neph-
+   US is not a reliable means of detecting vesico         rocalcinosis (Figure 3.2)
+ureteric reflux – which requires either a micturat-
+ing cystourethrogram (MCUG), indirect radionu-         US plays an important role in the evaluation of
+clide cystogram (IRC) or, where available, CEUS.       antenatally diagnosed hydronephrosis. It is also
+                                                       valuable for the assessment of ectopic kidneys
+Measurements in the Lower                              and duplicated systems (Figure 3.3) and renal
+Urinary Tract                                          cystic disease – although it is important to dis-
+                                                       tinguish the appearances from those of severe
+A bladder wall thickness of up to 3 mm is normal.      hydronephrosis (Figures 3.4, 3.5).
+Bladder volume is either calculated automatically         In the acute phase of a urinary tract infec-
+by the imaging software, or by reference to stan-      tion (UTI) ultrasound may reveal evidence of
+dard formulae. This methodology is not suitable        an obstructed or dilated urinary tract, calculi or
+for bladders which have been augmented or are          debris within the collecting system or features of
+irregular in shape. In such cases it is more accu-     focal pyelonephritis. The US findings may con-
+rate to directly measure the volume of urine           tribute to acute management, including the pos-
+drained from the bladder – for example at the          sible need for intervention.
+time of intermittent catheterisation.                     Even when the US findings do not influence
+                                                       acute management they may be helpful in identi-
+Measurements in the Upper                              fying congenital abnormalities predisposing the
+Urinary Tract                                          child to further UTIs. Although US can detect
+                                                       pyelonephritic scarring, Tc 99m dimercapto-
+Longitudinal dimensions of the kidneys are usu-        succinic acid (DMSA) and magnetic resonance
+ally obtained with the child in a supine position.     imaging ( MRI) with contrast are more sensitive
+Values for renal length can be compared with           examinations for this purpose.
+data in standard charts providing 5th and 95th            Ultrasound can visualise calculi as small as
+centile values for renal length at different ages.     1–2 mm in diameter and it is a more worthwhile
+An antero posterior (AP) diameter of the renal         investigation than plain radiography for the initial
+pelvis of <7 mm is regarded as normal whereas          investigation of suspected renal colic (Figure 3.1).
+an AP diameter greater than 10 mm is consid-              Unlike renal stones, mid ureteric stones
+ered to be abnormal. Normal renal parenchyma           are often difficult to visualise with US because
+should be of lower echogenicity than the adjacent      of overlying bowel gas and bowel contents.
+liver or spleen. The term “corticomedullary dif-       Ultrasound (usually in conjunction with mictur-
+ferentiation” is used to describe the slightly lower   ating cystourethrography (MCUG) can also be
+echogenicity of the pyramids (or medulla) by           used for the investigation of urethral abnormali-
+comparison with the cortex. The kidneys of chil-       ties such as syringocele, posterior urethral valves,
+dren with end-stage chronic renal failure are also     or stone disease. In suspected renal tumours US
+     Ultrasound and Doppler / Indications 25
+
+
+
+
+Figure 3.1 Urinary calculi. (a) Abdominal
+X-ray demonstrating stones in the right
+ureter. (b) Ultrasound demonstrat-
+ing the same stones in the distal ureter.
+(c) Ultrasound demonstrating further stones
+in the kidney with characteristic acoustic
+shadowing. (d) Ultrasound in a different
+patient showing a staghorn renal calculus.
+(e) DMSA demonstrating complete loss of
+function in this kidney.
+26 Imaging
+
+
+
+
+             Figure 3.2 Other examples of calcification
+             in the urinary tract. (a) Ultrasound showing
+             nephrocalcinosis and calculi occurring together
+             in the same kidney. The nephrocalcinosis shows
+             the typical arching calcification around the
+             renal pyramids and the stone casts an acoustic
+             shadow. (b) Stone in the urethra demonstrated
+             on plain X ray. (c) Bladder stone on ­abdominal
+             X-ray. (d) Ultrasound appearances of the
+             same stone. (e) Ultrasound in a different
+             patient showing the specks of echogenicity
+             in medullary calcinosis.
+                                                             Ultrasound and Doppler / Indications 27
+
+
+
+
+Figure 3.3 Imaging of duplex kidneys in different patients. (a) Ultrasound showing a scarred upper
+pole in the right upper moiety. (b) Ultrasound in another patient demonstrating marked dilatation
+of the upper pole due to distal ureteric obstruction by a ureterocele and moderate lower pole
+dilatation associated with lower pole reflux. (c) Micturating cystourethrogram (MCUG) in a different
+patient showing reflux into both the upper and lower moiety on the right. (d) Reflux demonstrated
+in the same patient by indirect MAG3 cystogram showing an increase in activity over the right
+kidney during voiding.
+28 Imaging
+
+
+
+                                                      information about the integrity of the kidney and
+                                                      the renal capsule and the presence of haematoma.
+                                                      It can also provide some information on renal
+                                                      blood flow and perfusion – which can be aug-
+                                                      mented by CEUS (Figure 3.6).
+
+                                                      Doppler Ultrasonography
+                                                      Doppler US is used to assess renal blood flow in
+                                                      transplant kidneys and in cases of renal artery
+                                                      stenosis or arteriovenous malformations. It is
+                                                      also used in the investigation of hypertension.
+                                                      Doppler ultrasonography can also be applied to
+                                                      venous flow to assess tumour extension within
+                                                      the renal vein or IVC and suspected renal vein
+                                                      thrombosis.
+
+                                                      Contrast-Enhanced Ultrasound
+                                                      (CEUS)
+                                                      This technique utilises the differing character-
+                                                      istics of US waves when they are reflected by
+                                                      interfaces within structures and tissues. The con-
+                                                      trast medium used for CEUS consists of a solu-
+                                                      tion of gas-filled microbubbles which can either
+                                                      be injected intravenously or introduced into the
+                                                      bladder via a catheter. Tissues or structures con-
+                                                      taining the microbubbles appear echogenic on
+                                                      US scanning. Contrast-enhanced ultrasound can
+                                                      be used to demonstrate areas of perfusion in a
+                                                      kidney or renal tumour or haemorrhage from a
+                                                      renal laceration (Figure 3.6). When the contrast is
+                                                      introduced into the bladder CEUS can be used for
+Figure 3.3 (Continued) Imaging of duplex              the dynamic assessment of vesico ureteric reflux
+kidneys in different patients. (e) DMSA scan          and has the advantage that several filling cycles
+in another patient demonstrating near total
+                                                      can be performed. CEUS can also be used to visu-
+loss of function in the lower pole of duplex
+kidney due to scarring/dysplasia. (f) Dilated
+                                                      alise the urethra during voiding to facilitate the
+distal ureter and associated ureterocele visu-        detection of obstructive and nonobstructive ure-
+alised on US.                                         thral pathology. It is also a useful technique for
+                                                      the evaluation of ambiguous genitalia and cloacal
+                                                      malformations because the solution of microbub-
+provides information on the contralateral kidney,     bles may demonstrate unexpected connections
+the integrity of the capsule of the affected kidney   between cavities which may be less apparent on
+and whether there is tumour thrombus within           conventional contrast examinations.
+the renal vein or the inferior vena cava (IVC).           However, CEUS requires availability of a high
+   Finally, US plays an important role in the         quality modern US scanner and a suitably trained
+initial imaging of renal trauma by providing          sonographer or radiologist.
+                                  Ultrasound and Doppler / Contrast-Enhanced Ultrasound (CEUS) 29
+
+
+
+
+Figure 3.4 Cystic disease. US appearances of (a) Autosomal recessive polycystic kidney disease
+with bright parenchyma and multiple tiny cysts. (b) Autosomal dominant polycystic kidney disease
+with multiple large hypoechoic cysts. (c) Cystic dysplasia with scattered cysts. (d) Multicystic
+dysplastic kidney with multiple cysts and septa containing no intervening renal parenchyma.
+
+
+
+
+Figure 3.5 Renal ultrasound in a patient with (a) Autosomal dominant polycystic kidney disease
+compared with a different patient with (b) Marked hydronephrosis. The initial appearances are very
+similar but a skilled sonographer can demonstrate that in the hydronephrotic kidney (b) the ‘cysts’
+all interconnect because they are in fact, calyces in a dilated collecting system.
+30 Imaging
+
+
+
+
+Figure 3.6 Renal trauma. (a) Ultrasound demonstrating a laceration in the mid-part of the right
+kidney. (b) Repeat ultrasound 3 months later showing shrinkage of the lower pole and reduction in
+blood flow on Doppler. (c) DMSA appearances at 3 months in this patient. (d) Contrast-enhanced
+ultrasound (CEUS) demonstrating active haemorrhage (visualised as a stream of ‘bubbles’) from a
+traumatic injury to the upper pole of a kidney.
+                Micturating cystourethrography (voiding cystourethrography) / Alternatives to MCUG 31
+
+
+
+ MICTURATING                                                Steep oblique or true lateral views are needed
+ CYSTOURETHROGRAPHY                                     to demonstrate posterior urethral valves (PUV)
+ (VOIDING                                               and it is important that the entire urethra is visu-
+ CYSTOURETHROGRAPHY)                                    alised to avoid missing rare anterior urethral
+                                                        lesions or meatal stenosis.
+
+Indications                                             Alternatives to MCUG
+The MCUG – or voiding cystourethrogram
+(VCUG) remains the most widely used and                 CEUS voiding ultrasonography
+readily available examination for detecting and         This is described above in section titled Contrast-
+grading vesicoureteric reflux (VUR). However,           Enhanced Ultrasound.
+it is important to be aware that VUR sometimes
+occurs as an intermittent phenomenon and it is
+possible to “miss” reflux if it does not occur during   Isotope cystography
+the course of the study. MCUG is the only form
+                                                        Direct isotope cystography (DIC) requires cath-
+of imaging which can provide detailed anatomical
+                                                        eterisation to introduce the isotope into the
+information on the urethra (Figure 3.7). For this
+                                                        bladder whereas in the technique of indirect
+reason it remains the key investigation for exclud-
+                                                        cystography ( IRC) the isotope (Tc-99m labelled
+ing or confirming the presence of an obstructing
+                                                        dimercaptoacetyltriglycine) — MAG3 is injected
+urethral abnormality in boys with bilateral hydro-
+                                                        intravenously and is then excreted into the urine.
+nephrosis. Other indications include; bladder wall
+                                                        In addition to being a more “physiological”
+thickening, poor urinary stream and incomplete
+                                                        investigation, the radiation burden of IRC is
+emptying – all of which may be indicative of an
+                                                        lower than MCUG. It also provides information
+underlying urethral obstruction. MCUG (some-
+                                                        on differential renal function when combined
+times supplemented by retrograde urethrography)
+                                                        with conventional renography. Good hydration
+is also widely used for the evaluation of urethral
+                                                        is essential to promote an adequate diuresis and
+trauma in males. A principal limitation of MCUG
+                                                        ensure that the isotope does not accumulate in
+is the burden of ionising radiation. However, the
+                                                        the kidneys and prevent adequate visualisation
+radiation dose can be significantly reduced by
+                                                        of the rest of the urinary tract. In the absence of
+using “grabbed” digital images and removing the
+                                                        reflux, activity over the kidneys decreases as the
+grid on the image intensifier.
+                                                        study progresses but when reflux is present, iso-
+                                                        tope which has already drained into the bladder
+Technical Aspects                                       is transported back to the kidney- giving rise to a
+                                                        detectable increase in activity in the renal region.
+A micturating cystourethrogram (MCUG) is                IRC can only be used to detect reflux during the
+routinely performed under antibiotic cover. If the      voiding or resting phases of bladder function and
+child is suffering from an active (or suspected)        not during bladder filling.
+UTI or is generally unwell the MCUG should be               The limitations of IRC include poor sensitiv-
+deferred until 4–6 weeks after the infection has        ity for the detection of lower grades of VUR and
+been eradicated.                                        unsuitability for use in infants or in children
+   Following urethral catheterisation (typically        of any age who are uncooperative or not toilet
+with a 6F feeding tube) the bladder is filled with      trained. In addition, the reliability of IRC for the
+water soluble contrast. Imaging during the void-        detection of VUR is reduced when there is sta-
+ing phase is important because in some children         sis of urine in a dilated upper tract. Nevertheless,
+(including those with an ectopic ureter) reflux         IRC can be a useful investigation for excluding
+may only occur when they void. Conversely, very         clinically significant VUR in older girls with
+early filling views are required to visualise ure-      recurrent UTIs, and for following up of known
+teroceles (Figure 3.8).                                 reflux in children of either sex.
+32 Imaging
+
+
+
+
+Figure 3.7 Examples of urethral abnormalities demonstrated by MCUG. (a) Typical appearance in
+posterior urethral valves with an abrupt change in calibre of the urethra at the level of the valve
+leaflet. (b) Heavily trabeculated bladder indicating long standing outflow obstruction. (c) Urethral
+stricture – best demonstrated with a simultaneous retrograde urethrogram. (d) MCUG alone does
+not delineate the distal extent of the stricture.
+                                         DMSA scintigraphy (static renography) / Technical Aspects 33
+
+
+
+
+Figure 3.8 Ureterocele. (a) MCUG showing a large ureterocele as a filling defect at the bladder
+base with (b) Associated reflux into the dilated lower moiety of a duplex kidney. (c) US demonstrat-
+ing the ureterocele at the bladder base. (d) MAG3 renogram demonstrating reflux on the left and
+the photopenic area of the ureterocele in the bladder.
+
+
+
+ DMSA SCINTIGRAPHY (STATIC                            The injected dose of Tc99m DMSA is calcu-
+ RENOGRAPHY)                                       lated according to body surface area – which is
+                                                   estimated from the child’s age and weight. Static
+                                                   images are acquired approximately 2–3 hours
+Technical Aspects                                  after the injection of isotope tracer.
+Technetium-99m DMSA binds to the proximal
+convoluted tubules with only 10% of the injected
+dose being excreted in the urine.
+34 Imaging
+
+
+
+Indications                                                DMSA is a sensitive modality for document-
+                                                        ing the presence and progression of renal scar-
+A DMSA scan provides static images of function-         ring. It is also very useful for identifying small
+ing tissue and can be used to quantify relative (dif-   and/or ectopic kidneys and cryptic or occult
+ferential) function between two kidneys. Normal         duplication anomalies (Figures 3.9, 3.10). By
+values for differential renal function are in the       demonstrating an “isthmus” of functioning tis-
+range 45%–55%. It is important to note, however,        sue crossing the midline, DMSA can play a use-
+that values for differential function are compara-      ful role in the diagnosis of horseshoe kidneys
+tive rather than absolute measures of renal func-       (Figure 3.11). It can also be used to confirm
+tion. Despite significant impairment of overall         the diagnosis of multicystic dysplastic kidney
+renal function DMSA can therefore yield mislead-        (MCDK) by demonstrating that it is entirely
+ingly “normal” values for differential function if      non functioning. During the acute phase of a
+both kidneys are equally affected by renal damage.      UTI, DMSA can demonstrate photopenic areas
+
+
+
+
+Figure 3.9 DMSA images of ectopically located renal tissue. (a) Ectopic left pelvic kidney.
+(b) Horseshoe kidney with functioning tissue crossing the midline. (c) Crossed fused ectopic kidney
+with (d) US demonstrating the two fused moieties in this patient.
+                                               DMSA scintigraphy (static renography) / Indications 35
+
+
+
+
+Figure 3.10 Pelvic kidney. (a) MCUG showing reflux into an abnormally sited kidney. (b) MAG3
+demonstrating functioning parenchyma in an abnormal pelvic position with rising renogram curve.
+
+
+
+
+Figure 3.11 Horseshoe kidney. (a) DMSA demonstrates the presence of functioning renal tissue
+crossing the midline. (b) Coronal reconstruction from a CT angiogram for vascular anatomy pre
+surgery also demonstrates the configuration of the kidney (a nephrostomy tube is in place in the
+right moiety).
+
+
+of renal parenchyma affected by pyelonephritis.    are still functioning in cases of renal trauma
+However, the changes seen during or shortly        (Figure 3.6). Disadvantages include the require-
+after acute pyelonephritis may be transient and    ment for venous cannulation, the limited yield
+in order to demonstrate areas of permanent         of anatomical information and the reduced
+renal scarring the scan should be delayed until    image quality in neonates with immature renal
+at least 8 weeks (preferably longer) after the     function. DMSA also imposes a higher radiation
+infection has been eradicated. DMSA can also       burden than dynamic renography (DR) with
+be used to delineate areas of renal tissue which   Tc-99m labelled MAG3.
+36 Imaging
+
+
+
+Dynamic Renography                                     Technical Aspects
+(MAG3 or DTPA)
+                                                       Differential renal function is usually acquired at
+Although Dynamic Renography (DR) is still being        about 1 to 2 minutes after the injection of the iso-
+used in the majority of centres it is likely to be     tope. Drainage from the kidney is estimated by
+largely replaced by functional MRI. The principal      assessing the renogram curve, with the normal
+advantages of DR include its ability to quantify       pattern being an early peak followed by a rapidly
+differential renal function and differential drain-    descending phase. A continually ascending curve
+age and the low radiation burden. Dynamic renog-       suggests a delay in excretion. In this situation the
+raphy is of particular value in the investigation of   administration of a diuretic may help to distin-
+pelviureteric obstruction (Figure 3.12), congenital    guish between stasis and obstruction. (See also
+drainage abnormalities (megaureters and other          Chapter 7.)
+structural or functional abnormalities of the renal        The most commonly used isotope is Tc99m
+pelvis or ureters) and in duplex systems. However,     dimercaptoacetyltriglycine (MAG3) (which relies
+it is of more limited value in children with reduced   on tubular extraction) whereas the use of Tc99m
+renal function and in those under 2 years of age –     diethylentriaminepentaacetic acid (DTPA) - which
+especially infants under 6 months.                     relies on filtration is declining.
+
+
+
+
+                                                       Figure 3.12 Pelviureteric junction obstruction.
+                                                       (a) US showing hydronephrosis (b) MAG 3 in
+                                                       the same case demonstrating delayed transit
+                                                       of isotope with poor drainage after micturition
+                                                       and (c) Rising excretion curve in the right
+                                                       kidney indicating accumulating isotope and
+                                                       poor drainage.
+                                 DMSA scintigraphy (static renography) / Computed Tomography (CT) 37
+
+
+
+Cross-Sectional Imaging                                 the duration of the scan. Infants under 6 months
+                                                        can be immobilised using a “feed and wrap” tech-
+This term is most commonly applied to computed          nique in which they sleep throughout the study.
+tomography (CT) and magnetic resonance imag-            Older infants can be scanned with sedation but
+ing (MRI). CT plays only a limited role in chil-        between the ages of 18 months and 5 years gen-
+dren because of the high ionising radiation dose.       eral anaesthesia is usually required.
+MRI does not involve any exposure to radiation             The child must be well hydrated and venous
+but has the disadvantage that sedation or general       access is necessary for the administration of furo-
+anaesthesia are often required to ensure the child      semide (to promote diuresis) and a gadolinium-
+remains absolutely still during the scan.               based contrast medium.
+                                                           The term “sequence” is applied to a selected
+Magnetic Resonance Imaging (MRI)                        group of different technical parameters which
+                                                        determine the characteristics of the resulting
+Unlike CT, MRI provides multiplanar images and          image. T1 weighted images provide anatomical
+also offers superior delineation of different types     detail whereas T2 weighted images are a better
+of tissue (both before and after contrast media).       guide to pathology. On T2 images, water returns
+For imaging of the urinary tract MRI offers the         a high signal (white) and therefore T2 weighted
+additional advantage of providing excellent             sequences are very useful for imaging structures
+delineation of urine-containing structures.             such as the renal pelvis, ureters and bladder. The
+                                                        use of gadolinium intravenous MRI contrast
+Indications                                             medium is very useful for assessing tumour vas-
+MR is now the examination of choice for the             cularity and in demonstrating kidney function
+assessment of malignant and benign renal                and excretion.
+tumours (Figures 3.13, 3.14). In this context, MR          MR urography (MRU) is being increasingly
+angiography can yield particularly useful infor-        used to provide accurate anatomical evaluation
+mation on tumour vasculature prior to surgery.          of abnormalities of both the upper and lower
+The role of preoperative MR angiography is not          urinary tract. Heavily weighted T2 sequences
+confined to malignant conditions and, for exam-         are generally used for this purpose because of
+ple, it can demonstrate the presence of aberrant        their ability to clearly delineate urine-containing
+“crossing vessels” prior to a pyeloplasty or vascular   structures. MRU has the added advantage of pro-
+hitch procedure for pelviureteric junction (PUJ)        viding high resolution images of the renal paren-
+obstruction (Figure 3.15). Because many paediat-        chyma and collecting system during all phases of
+ric urological procedures are now being performed       kidney function – vascular, filtration, and excre-
+laparoscopically, MR is playing an increasingly         tion. It is capable of providing detailed images
+important role by providing the surgeon with ana-       of the ureters and any part of the urinary tract
+tomical information which could previously only         which is dilated. The use of MRI is also being
+have been obtained at the time of open surgery.         extended to include the acquisition of the same
+    MR is also a very valuable means of defining        type of functional information which is provided
+complex upper tract anatomy – notably in duplex         by a MAG3 or DMSA scan.
+systems with ectopic insertion of ureters.                 In summary, MR is rapidly becoming regarded
+    MR angiography forms an important part of           as a standard “mainstream” form of diagnostic
+the work-up for renal transplantation by delin-         imaging in paediatric urology.
+eating vasculature within the abdomen prior to
+surgery (Figure 3.16).                                  Computed Tomography (CT)
+Technical Aspects                                       CT is not regarded as a “front line” investigation
+                                                        in paediatric urology because many of the roles
+Scan times can be up to 30 minutes or even longer,      fulfilled by CT in adults can be fulfilled by US in
+and the patient must remain absolutely still for        children. Nevertheless, CT remains an important
+38 Imaging
+
+
+
+
+Figure 3.13 Renal tumours. (a) MRI with intravenous contrast. Coronal plane image showing bilat-
+eral Wilms tumour in a horseshoe kidney. (b) DMSA in the same patient demonstrating the bilat-
+eral tumours as photopenic areas which do not contain normally functioning renal tissue. (c) CEUS
+showing poor washout of a hypoechoic lesion at the upper pole of a lesion confirmed as mesoblas-
+tic nephroma.
+                                                 DMSA scintigraphy (static renography) / Venography 39
+
+
+
+                                                       Technical Aspects
+                                                       Intravenous access is required for the administra-
+                                                       tion of contrast medium – with the exception of
+                                                       scans being performed to visualise calcification
+                                                       (calculi) for which contrast is not required. Because
+                                                       modern multidetector CT scanners acquire images
+                                                       very rapidly (typically in 5–10 seconds after the
+                                                       start of the scan) most children can be successfully
+                                                       scanned without requiring sedation or anaesthesia.
+                                                       Contrast is usually administered as a “split bolus”,
+                                                       typically with two boluses given 30–40 seconds
+                                                       apart. In this way both portal venous and arterial
+                                                       enhancement are obtained in a single scan. For a
+                                                       delayed scan in cases of trauma or suspected blad-
+                                                       der rupture the two boluses are given 3–5 minutes
+                                                       apart. Every effort is made to keep the radiation
+                                                       dose to a minimum but even with ultramodern
+                                                       CT scanners the radiation dose from a combined
+                                                       abdominal and pelvic CT examination is signifi-
+                                                       cantly higher than that of a chest X-ray.
+
+                                                       Abdominal X-Ray (AXR)
+                                                       AXR is no longer regarded as a routine investi-
+                                                       gation in paediatric urology and its role is now
+Figure 3.14 Nephroblastomatosis. (a) CT with           largely limited to the detection of urinary tract cal-
+intravenous contrast reconstructed in the
+                                                       culi, spinal anomalies, abdominal or pelvic mass
+coronal plane showing extensive nephroblasto-
+                                                       lesions and constipation. US can provide most of
+matosis in both kidneys (the misregistration at
+the level of the diaphragm is due to the patient       the information previously sought by AXR.
+taking a breath during the scan). (b) MRI in the
+same patient demonstrates the same finding (in         Arteriography
+the transverse plane).
+                                                       Arteriography may be indicated when renal
+                                                       artery stenosis is suspected. However, this is usu-
+investigation for the evaluation of major trauma       ally investigated by US (including Doppler) in
+because of its high sensitivity for the detection      the first instance and then by MRI. Conventional
+of contusions, lacerations, perinephric fluid col-     arteriography does, however, have the advantage
+lections, areas of avascularity, bladder rupture,      that it can be combined with renal artery angio-
+extra or intra peritoneal leakage of urine, and        plasty under the same anaesthetic. Arteriography
+injury to other organs. CT also retains a role         is also useful in middle aortic syndrome, and
+in the investigation of stone disease (includ-         again angioplasty may be used. Some renal and
+ing colic) – particularly in children with physi-      bladder arteriovenous malformations are treat-
+cal features such as marked scoliosis or obesity       able by embolisation.
+which limit the usefulness of US. MRI is a vastly
+superior technique for assessing tumours and           Venography
+has therefore superseded CT for this purpose.
+However, chest CT still plays a role for the assess-   Selective sampling of renal veins (for renin) and
+ment of pulmonary metastases.                          the IVC may be indicated in children whose
+40 Imaging
+
+
+
+
+Figure 3.15 Pelviureteric junction obstruction. MRI in a patient with a ‘crossing vessel’ causing pel-
+viureteric junction obstruction. (a) Heavily T2 weighted sequence showing marked hydronephrosis
+of the right kidney. (b) T1 weighted sequence after intravenous gadolinium. This demonstrates
+both the main right renal artery and the accessory artery ‘crossing’ the distended renal pelvis (and
+causing the PUJ obstruction. This example demonstrates the ability of MRI to delineate both the
+renal pelvic anatomy and the dynamic vascular anatomy in the same examination.
+
+
+
+
+                                                     hypertension is thought to arise from exces-
+                                                     sive renin production by a scarred or dysplas-
+                                                     tic kidney. Venography and embolisation are a
+                                                     widely accepted technique for the treatment of
+                                                     varicoceles.
+
+
+                                                     Antegrade Pyelography
+                                                     The principal indication lies in the investigation
+                                                     of distal obstruction in the upper urinary tract.
+                                                     Antegrade pyelography via percutaneous renal
+                                                     puncture can be performed by an interventional
+                                                     radiologist or by a urologist.
+
+                                                     Percutaneous Nephrostomy
+                                                     This is often performed under ultrasound control
+                                                     but may be combined with fluoroscopy. The pro-
+Figure 3.16 Pre-transplant “work-up” MR angi-        cedure is usually performed under general anaes-
+ography: coronal images following intravenous        thesia in children. Percutaneous nephrostomy
+gadolinium performed in the work-up for renal        is generally preferred to open surgical nephros-
+transplant showing a normal aorta, iliac and         tomy and drainage. Its main use is in the decom-
+femoral arteries                                     pression and drainage of acutely obstructed or
+                                   DMSA scintigraphy (static renography) / Renal and Tumour Biopsy 41
+
+
+
+infected hydronephrosis – usually due to PUJ
+obstruction.                                            ●● Dynamic and/or static renography is
+                                                           still widely used to assess functional
+Renal and Tumour Biopsy                                    parameters across a broad range of pae-
+                                                           diatric urological conditions. However,
+Although ultrasound guided procedures can                  MR urography is being increasingly
+generally be performed using sedation and local            used for this purpose.
+anaesthesia in compliant older children, general        ●● MR provides excellent anatomi-
+
+anaesthesia is required for the younger age group.         cal detail of normal and abnormal
+Multiple cores are obtained. Whenever possible             anatomy of the urinary tract without
+these undergo immediate microscopic exami-                 exposure to radiation. The principal
+nation to confirm that adequate tissue has been            limitation is the requirement for seda-
+obtained so as to minimise the possible need for a         tion or general anaesthesia in younger
+repeat procedure and further anaesthetic.                  children.
+                                                        ●● The use of CT in children is limited by
+
+                                                           the high radiation dosage. However, it
+    KEY POINTS                                             retains an important role in the evalua-
+                                                           tion of major abdominal trauma.
+   ●● Congenital abnormalities of the
+      urinary tract account for many of the
+      conditions encountered in paediatric           FURTHER READING
+      urology. A combination of imag-
+      ing techniques is usually required to          Dickerson EC, Dillman JR, Smith EA, DiPetro
+      provide the degree of anatomical and              MA, Lebowitz RL, Darge K. Paediatric
+      functional information needed to plan             MR urography: indications, techniques,
+      open or minimally invasive surgical               and approach to review. Radiographics.
+      management.                                       2015;35:1208–1230.
+   ●● Ultrasound is invariably the initial           Duran C, Beltran VP, Gonzalez A, Gomez C,
+      urological investigation of choice in             del Riego J. Contrast-enhanced voiding
+      children. The scope of ultrasound is              uro-sonography for vesicoureteral reflux
+      being extended by the introduction                diagnosis in children. Radiographics.
+      of contrast-enhanced ultrasound                   2017;37:1854–1869.
+      (CEUS) using microbubble contrast
+      media.
+

@@ -1,0 +1,1452 @@
+[
+    {
+        "id":  "ch16-Q01",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  1,
+        "stem":  "A newborn is noted to have a ventral penile curvature, an abnormal ventral meatus, and a dorsal hooded foreskin. Which of the following best defines the embryologic basis of this condition?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Hypoplasia of the tissues forming the ventral aspect of the penis beyond the division of the corpus spongiosum"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Failure of fusion of the urethral folds with intact corpus spongiosum"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Excessive androgen receptor expression in the genital tubercle"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Hyperplasia of the dorsal penile tissues with ventral migration of the meatus"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Hypospadias is defined as a hypoplasia of the tissues forming the ventral aspect of the penis beyond the division of the corpus spongiosum, characterized by a ventral triangular defect whose apex is the division of the corpus spongiosum.",
+        "topic":  "Embryology and definition"
+    },
+    {
+        "id":  "ch16-Q02",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  2,
+        "stem":  "The reported incidence of hypospadias varies geographically. Which of the following best represents the incidence in Europe?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "0.34%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "0.006–0.7%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "1.0–1.5%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "0.2%"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "The incidence of hypospadias varies from 0.006–0.7% in Asia, 0.2% in Europe, and 0.34% in North America.",
+        "topic":  "Etiology and incidence"
+    },
+    {
+        "id":  "ch16-Q03",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  3,
+        "stem":  "A 2-year-old boy presents with proximal hypospadias and a left undescended testis. The parents are concerned about associated anomalies. Which of the following is the most appropriate next step?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Full evaluation for disorders of sex development (DSD)"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Routine renal ultrasound to screen for urinary tract anomalies"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Observation as this is an expected association with no further workup needed"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Cystoscopy to look for a prostatic utricle"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "All patients with hypospadias who have undescended testes should be fully investigated for DSD, as up to 50% may have an underlying genetic, gonadal, or phenotypic abnormality.",
+        "topic":  "DSD and associated anomalies"
+    },
+    {
+        "id":  "ch16-Q04",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  4,
+        "stem":  "Which of the following environmental pollutants has been associated with hypospadias as a potential endocrine disruptor?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Phthalates"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Carbon monoxide"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Lead"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Mercury"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Phthalates, phytoestrogens (found in soy), and mycoestrogens have been identified as environmental pollutants associated with hypospadias, acting as endocrine disruptors.",
+        "topic":  "Etiology and environmental factors"
+    },
+    {
+        "id":  "ch16-Q05",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  5,
+        "stem":  "A newborn is diagnosed with hypospadias. The parents have no family history of the condition. Which of the following genetic patterns is most likely, given that this is a distal form of hypospadias?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Autosomal dominant inheritance"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Sporadic (non-inherited) anomaly"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "X-linked recessive inheritance"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Mitochondrial inheritance"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Distal forms of hypospadias are more likely to occur as sporadic (non-inherited) anomalies, whereas genetic factors apply mainly to the more severe forms of proximal hypospadias.",
+        "topic":  "Genetics"
+    },
+    {
+        "id":  "ch16-Q06",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  6,
+        "stem":  "The incidence of hypospadias in first-degree relatives is approximately:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "1–2%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "20–25%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "50%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "7–10%"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "The incidence of hypospadias in first-degree relatives is of the order of 7–10%, rising to 20% in siblings of boys with severe hypospadias.",
+        "topic":  "Genetics"
+    },
+    {
+        "id":  "ch16-Q07",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  7,
+        "stem":  "Which of the following genes, implicated in hypospadias, is involved in androgen production and signaling?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "SHH"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "SRD5A2"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "DGKK"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "WT1"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "SRD5A2 is involved in androgen production and signaling. SHH and WT1 are involved in genital tubercle development, and DGKK is also implicated in hypospadias but not specifically in androgen signaling.",
+        "topic":  "Genetics"
+    },
+    {
+        "id":  "ch16-Q08",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  8,
+        "stem":  "A 6-month-old boy with perineal hypospadias is found to have bilateral undescended testes. The incidence of undescended testis in such severe forms of hypospadias is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "5–10%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "15%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "50%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "80%"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "The overall incidence of undescended testis is 5–10%, rising to 50% in those with severe perineal or penoscrotal forms of hypospadias.",
+        "topic":  "DSD and associated anomalies"
+    },
+    {
+        "id":  "ch16-Q09",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  9,
+        "stem":  "The authors\u0027 classification of hypospadias recognizes three main types. Which of the following is the third category?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Megameatus intact prepuce variant"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Hypospadias with a distal division of the corpus spongiosum"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Hypospadias persisting despite multiple previous operations"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Hypospadias with a proximal division of the corpus spongiosum"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "The authors\u0027 classification recognizes: (1) hypospadias with distal division of corpus spongiosum, (2) proximal division with chordee, and (3) hypospadias persisting despite multiple previous operations (formerly \u0027hypospadias cripples\u0027).",
+        "topic":  "Classification"
+    },
+    {
+        "id":  "ch16-Q10",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  10,
+        "stem":  "A surgeon is planning a hypospadias repair and wants to classify the severity based on the level of division of the corpus spongiosum rather than the meatal position. This approach is preferred because:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Meatal position cannot be determined until surgical exploration"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "The meatal position always correlates with surgical complexity"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Spongiosum division is visible on prenatal ultrasound"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "The level of spongiosum division better distinguishes anterior hypospadias with little or no chordee from posterior forms"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "The level of division of the corpus spongiosum may provide a more accurate means of distinguishing anterior hypospadias with little or no chordee from posterior hypospadias with chordee and ventral hypoplasia.",
+        "topic":  "Classification"
+    },
+    {
+        "id":  "ch16-Q11",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  11,
+        "stem":  "A 9-month-old boy undergoes hypospadias repair. The surgeon degloves the penis and the chordee resolves. In what percentage of patients does simple degloving correct the chordee?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "95%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "20%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "50%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "80%"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Degloving the penis by fully mobilizing the overlying skin will correct the chordee in most patients (80%).",
+        "topic":  "Chordee correction"
+    },
+    {
+        "id":  "ch16-Q12",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  12,
+        "stem":  "After degloving and excision of atretic spongiosum, ventral curvature persists in a child undergoing proximal hypospadias repair. The next appropriate step in chordee correction is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Corporotomy with corporeal grafting"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Dissection and elevation of the urethral plate off the corpora cavernosa"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Amputation of the distal glans"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Penile disassembly"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "After degloving and excision of atretic spongiosum, the next step is dissection of the urethral plate, carefully elevating it off the corpora cavernosa. If chordee persists, dorsal plication is then performed.",
+        "topic":  "Chordee correction"
+    },
+    {
+        "id":  "ch16-Q13",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  13,
+        "stem":  "A 14-year-old presents with recurrent ventral curvature after having undergone hypospadias repair in childhood. This phenomenon is attributed to:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Tendency for ventral curvature to recur at puberty despite dorsal plication"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Plication suture migration"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Failed initial chordee correction due to inadequate degloving"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Progressive urethral plate contraction"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Despite dorsal plication, there is a tendency for ventral curvature to recur at puberty. If dorsal plication is insufficient or if preferred, a more extensive corporal procedure (corporoplasty) may be indicated.",
+        "topic":  "Chordee correction"
+    },
+    {
+        "id":  "ch16-Q14",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  14,
+        "stem":  "Which of the following is NOT a cause of penile chordee in hypospadias?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Intrinsic flexion deformity of the corpora cavernosa"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Abnormal tethering of the penile shaft skin"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Tethering of the urethral plate to the corpora cavernosa"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Dorsal atrophy of the corpus spongiosum"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Chordee results from: abnormal tethering of skin, tethering of the urethral plate to the corpora cavernosa, atretic corpora spongiosum tissue, or intrinsic flexion deformity of the corpora cavernosa. Dorsal atrophy is not described as a cause.",
+        "topic":  "Chordee correction"
+    },
+    {
+        "id":  "ch16-Q15",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  15,
+        "stem":  "What is the recommended age range for surgical correction of hypospadias?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "2 years to 4 years"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Birth to 3 months"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "5 years to 7 years"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "6 months to 18 months"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Surgical correction is generally recommended between 6 months and 18 months of age to achieve optimal cosmetic and functional outcomes, and to complete surgery before genital awareness begins at around 18 months.",
+        "topic":  "Surgical principles"
+    },
+    {
+        "id":  "ch16-Q16",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  16,
+        "stem":  "In the Snodgrass (TIP) urethroplasty, the urethral plate is incised vertically in the midline. What is the primary purpose of this incision?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "To allow tubularization without tension and permit epithelialization that contributes to neourethral circumference"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "To excise the urethral plate completely"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "To create a dorsal graft bed"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "To release proximal chordee"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "The vertical incision (Snodgrass modification) allows the urethral plate to be tubularized without tension, and epithelialization of the incision may contribute to the circumference of the neourethra.",
+        "topic":  "TIP urethroplasty"
+    },
+    {
+        "id":  "ch16-Q17",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  17,
+        "stem":  "During a TIP repair, a surgeon places a vascularized de-epithelialized pedicle of tissue over the neourethra. The primary purpose of this step is to:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Reduce fistula formation"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Augment the caliber of the neourethra"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Provide blood supply to the urethral plate"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Correct residual chordee"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "A vascularized de-epithelialized pedicle of tissue is placed over the anastomosis to reduce fistula formation by providing a \u0027waterproofing\u0027 layer between the neourethra and the skin.",
+        "topic":  "TIP urethroplasty"
+    },
+    {
+        "id":  "ch16-Q18",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  18,
+        "stem":  "A 10-month-old undergoes TIP urethroplasty. Regarding postoperative urinary drainage, which of the following is correct according to the authors?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "A 6–8 Fr dripping stent is always required for a minimum of 14 days"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "A Foley catheter is preferred to prevent stent dislodgement"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "A stent is rarely needed in children under 12 months of age"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Suprapubic diversion is mandatory"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "The authors note that a stent is rarely needed in children under 12 months of age. No stent is necessary in many infants undergoing surgery for distal hypospadias.",
+        "topic":  "TIP urethroplasty"
+    },
+    {
+        "id":  "ch16-Q19",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  19,
+        "stem":  "A patient has a urethral plate that is wide and sufficiently supple to be tubularized over an 8 Fr catheter without needing a relaxing incision. This technique is known as the:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Snodgrass procedure"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Duplay procedure"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Mathieu procedure"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "MAGPI procedure"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "If the urethral plate is wide and supple enough to be tubularized over an 8 Fr catheter without needing a relaxing incision, it can be rolled into a tube using the Duplay procedure (simple tubularization).",
+        "topic":  "TIP urethroplasty"
+    },
+    {
+        "id":  "ch16-Q20",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  20,
+        "stem":  "In the TIP repair, some surgeons modify the technique by inlaying a free graft into the incision in the urethral plate. Which of the following is the rationale for this modification?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "To increase the vascularity of the urethral plate"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "To reduce the risk of contraction and stenosis of the neourethra"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "To correct severe chordee"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "To lengthen the penile shaft"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Some surgeons favor inlaying a free graft of preputial skin into the incision in the urethral plate in the hope of reducing the risk of contraction and stenosis of the neourethra.",
+        "topic":  "TIP urethroplasty"
+    },
+    {
+        "id":  "ch16-Q21",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  21,
+        "stem":  "A child with severe proximal hypospadias with significant chordee is scheduled for repair. Which of the following is the most appropriate surgical approach?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "MAGPI procedure"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Single-stage TIP urethroplasty"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Two-stage repair with free graft"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Mathieu procedure"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Two-stage repair is generally reserved for severe proximal or perineal hypospadias with chordee and for \u0027hypospadias cripples\u0027. Single-stage repair is appropriate for distal, midshaft, and proximal hypospadias without significant chordee.",
+        "topic":  "Two-stage repair"
+    },
+    {
+        "id":  "ch16-Q22",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  22,
+        "stem":  "In the first stage of a two-stage hypospadias repair, after chordee correction, the most commonly used graft material is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Buccal mucosa"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Bladder mucosa"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Inner preputial skin"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Postauricular Wolfe skin graft"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "The most commonly used graft material is inner preputial skin. Postauricular Wolfe skin grafts can also be used for primary repair. Buccal mucosa and bladder mucosa are less frequently used for standard two-stage repairs but have a role in salvage repairs.",
+        "topic":  "Two-stage repair"
+    },
+    {
+        "id":  "ch16-Q23",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  23,
+        "stem":  "During the first stage of a two-stage repair, \u0027windows\u0027 are made in the graft and midline quilting sutures are placed. The purpose of the windows is to:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Accommodate future urethral tubularization"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Increase graft vascularity from the sides"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Prevent urethral fistula formation"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Allow hematomas to escape"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "\u0027Windows\u0027 are made in the graft to allow hematomas to escape, and a few midline quilting sutures are placed to anchor the graft to its base.",
+        "topic":  "Two-stage repair"
+    },
+    {
+        "id":  "ch16-Q24",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  24,
+        "stem":  "The interval between the first and second stages of a two-stage hypospadias repair is typically:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "2 weeks"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "1 month"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "6 months"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "2 years"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "After 1 week the dressing and catheter from the first stage are removed. The second stage is usually performed after 6 months. This step involves tubularization of the graft into the neourethra.",
+        "topic":  "Two-stage repair"
+    },
+    {
+        "id":  "ch16-Q25",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  25,
+        "stem":  "Which of the following procedures is suitable only for cases in which the urethra is mobile and simple traction can move the meatus to the tip of the glans?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "MAGPI"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "TIP urethroplasty"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Koyanagi procedure"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Mathieu procedure"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "The MAGPI (meatal advancement and glanuloplasty incorporated) procedure is only suitable for cases in which the urethra is mobile, confirmed if simple traction can move the meatus to the tip of the glans.",
+        "topic":  "MAGPI / Urethral repositioning"
+    },
+    {
+        "id":  "ch16-Q26",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  26,
+        "stem":  "A 3-year-old boy underwent the MAGPI procedure for glanular hypospadias. On follow-up, the meatus has moved back proximally. This complication is known as:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Meatal stenosis"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Partial meatal regression"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Complete dehiscence"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Urethrocele formation"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Partial meatal regression is a relatively common problem with the MAGPI procedure and leads to an inferior cosmetic result.",
+        "topic":  "MAGPI / Urethral repositioning"
+    },
+    {
+        "id":  "ch16-Q27",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  27,
+        "stem":  "The Mathieu (meatal-based flap) procedure is limited by the maximum flap length, which should be no more than:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "1.5 cm in all cases"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Three times the width of the base"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Two times the width of the base"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "The length of the glans"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "The maximum length of the Mathieu flap should be no more than three times the width of the base, and this technique is unsuited for a urethroplasty exceeding 1.5 cm.",
+        "topic":  "Meatal-based flap (Mathieu)"
+    },
+    {
+        "id":  "ch16-Q28",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  28,
+        "stem":  "A cosmetic drawback commonly associated with the Mathieu procedure is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "A dorsal meatus"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Megameatus"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "A slit-like meatus"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "A crescentic meatus giving a poor cosmetic result"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "In the Mathieu repair, the meatus is often crescentic in appearance, giving a poor cosmetic result. Wide glans mobilization and a midline dorsal incision of the urethral plate may reduce this problem.",
+        "topic":  "Meatal-based flap (Mathieu)"
+    },
+    {
+        "id":  "ch16-Q29",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  29,
+        "stem":  "In the preputial onlay island flap procedure, after creating the pedicle flap from the inner prepuce, the flap is brought to the ventral surface:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Around the side of the penis"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Through a buttonhole in the scrotum"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Through a midline dorsal incision"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Under the corpora cavernosa"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "The preputial flap is brought around the side of the penis to its ventral surface and sutured to the urethral plate.",
+        "topic":  "Preputial flap"
+    },
+    {
+        "id":  "ch16-Q30",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  30,
+        "stem":  "The Koyanagi procedure for severe proximal hypospadias utilizes which of the following tissues to create an extended urethral plate?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "A tubularized scrotal flap"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "The urethral plate, neighboring ventral strip tissues, and the inner aspect of the preputial hood"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Buccal mucosa graft only"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Postauricular skin only"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "The Koyanagi procedure uses the urethral plate, the neighboring strip of ventral tissues, and the inner aspect of the preputial hood transferred ventrally with its pedicle. This large vascularized material allows the penis to straighten and an extended plate to be built.",
+        "topic":  "Preputial flap"
+    },
+    {
+        "id":  "ch16-Q31",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  31,
+        "stem":  "A surgeon is managing a child with chordee but a normally located meatus on the glans with a circumferential prepuce. Which of the following statements is most accurate?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "This is a distinct entity unrelated to hypospadias"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "This condition requires no treatment"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "This represents a form of hypospadias where the distal penile urethra is flimsy despite a glanular meatus"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "This is always caused by a short urethra"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Chordee without hypospadias is usually a misnomer—it represents a form of hypospadias in which the distal penile urethra is flimsy despite the presence of a glanular meatus and circumferential prepuce.",
+        "topic":  "Chordee without hypospadias"
+    },
+    {
+        "id":  "ch16-Q32",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  32,
+        "stem":  "The megameatus intact prepuce (MIP) variant is most commonly discovered:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "On prenatal ultrasound"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "At birth during routine examination"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "In a boy about to undergo circumcision for cultural or medical reasons"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "When the child starts toilet training"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Because there is no external clue to the presence of MIP, it sometimes comes to light for the first time in a boy who is about to undergo circumcision for cultural or medical reasons.",
+        "topic":  "Megameatus intact prepuce"
+    },
+    {
+        "id":  "ch16-Q33",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  33,
+        "stem":  "A child presents with a urethrocutaneous fistula 3 months after hypospadias repair. Before attempting fistula repair, it is imperative to:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Exclude meatal and/or distal urethral strictures"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Perform a voiding cystourethrogram"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Administer a course of antibiotics"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Wait at least 2 years after the original repair"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Before attempting to repair a fistula, it is imperative to exclude meatal and/or distal urethral strictures, since the presence of distal obstruction will predispose to recurrence of the fistula.",
+        "topic":  "Complications — Fistula"
+    },
+    {
+        "id":  "ch16-Q34",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  34,
+        "stem":  "A 5-year-old boy develops a urethrocutaneous fistula after hypospadias repair. What is the recommended minimum interval between the original repair and fistula closure?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "No interval—immediate closure"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "2 weeks"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "6 months"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "1 year"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Although early closure was favored in the past, it is now recommended that an interval of at least 6 months should elapse between the original repair and fistula closure.",
+        "topic":  "Complications — Fistula"
+    },
+    {
+        "id":  "ch16-Q35",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  35,
+        "stem":  "Simple closure (freshening and closing the fistula edges and overlying skin) for a hypospadias fistula is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Associated with a high recurrence rate and not recommended by the authors"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "The gold standard with \u003e95% success"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Recommended with a simultaneous meatotomy"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Only suitable for fistulae \u003c1 mm"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Simple closure is associated with a high recurrence rate and is not recommended by the authors. A flap-based repair with a vascularized subcutaneous layer is more effective, with a 90% success rate.",
+        "topic":  "Complications — Fistula"
+    },
+    {
+        "id":  "ch16-Q36",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  36,
+        "stem":  "A large fistula is identified after hypospadias repair that represents a failure of the original urethroplasty. The most appropriate management is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Formal repeat urethroplasty"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Simple fistula closure"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Cauterization of the fistula tract"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Observation with spontaneous closure expected"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "When a fistula is very large and represents a failure of the original urethroplasty, surgery limited to fistula closure is generally doomed to failure. A formal repeat urethroplasty is required for a satisfactory result.",
+        "topic":  "Complications — Fistula"
+    },
+    {
+        "id":  "ch16-Q37",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  37,
+        "stem":  "A child presents with a narrowed urinary stream and spraying after hypospadias repair. On examination, the meatal caliber is less than 8 Fr. This complication is best managed initially with:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Buccal mucosa graft"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Immediate formal meatotomy"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Repeat urethroplasty"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Gentle dilatation of the meatus"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Meatal stenosis (\u003c8 Fr caliber) can be treated initially with gentle dilatation, which can be an outpatient procedure for minor degrees or under general anesthesia for moderate/severe stenosis.",
+        "topic":  "Complications — Meatal stenosis"
+    },
+    {
+        "id":  "ch16-Q38",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  38,
+        "stem":  "Urethral stenosis after hypospadias repair has become a rare complication because:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "All patients receive prophylactic antibiotics"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Modern procedures avoid a circular (circumferential) anastomosis"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Postoperative stenting has been eliminated"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Dorsal plication prevents stricture formation"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Urethral stenosis has become a rare complication because modern procedures avoid a circular (circumferential) anastomosis, which was a major risk factor for stricture formation.",
+        "topic":  "Complications — Urethral stenosis"
+    },
+    {
+        "id":  "ch16-Q39",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  39,
+        "stem":  "A baggy, dilated section of neourethra is noted in a child after hypospadias repair. This is associated with postvoid dribbling and poor urinary stream. Which of the following is the most appropriate term for this finding?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Megameatus"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Balanitis xerotica obliterans"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Urethrocele"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Urethral diverticulum"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Urethrocele refers to a dilated, \u0027baggy\u0027 section of neourethra, often resulting from distal obstruction causing \u0027back pressure\u0027 distension, or from absence/deficiency of supportive corpus spongiosum.",
+        "topic":  "Complications — Urethrocele"
+    },
+    {
+        "id":  "ch16-Q40",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  40,
+        "stem":  "Balanitis xerotica obliterans (BXO) after hypospadias surgery is characterized by:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Acute bacterial infection of the glans requiring intravenous antibiotics"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Chronic inflammation and fibrosis of the glans and meatus causing scarring and stenosis"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Allergic reaction to suture material"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Spontaneous resolution without intervention"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "BXO is a rare complication caused by chronic inflammation and fibrosis of the glans and meatus, resulting in scarring and meatal stenosis. Topical steroids help some patients, but most require formal meatoplasty.",
+        "topic":  "Complications — BXO"
+    },
+    {
+        "id":  "ch16-Q41",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  41,
+        "stem":  "According to the authors, which of the following is their preferred method for achieving a bloodless operating field during hypospadias surgery?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Adrenaline infiltration alone"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Bipolar diathermy alone"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Tourniquet followed by compressive dressing"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Monopolar diathermy"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "The authors\u0027 current policy is to use a tourniquet followed by a compressive dressing at the end of the operation. A tourniquet, adrenaline, and bipolar diathermy are the three described techniques.",
+        "topic":  "Surgical principles — Hemostasis"
+    },
+    {
+        "id":  "ch16-Q42",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  42,
+        "stem":  "The suture material currently preferred by the authors for hypospadias repair is:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "4-0 silk"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "5-0 chromic catgut"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "7-0 or 6-0 polydioxanone (PDS)"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "3-0 nylon"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "The authors currently prefer 7-0 or 6-0 polydioxanone (PDS): fine absorbable monofilament sutures that provide excellent strength and are absorbed before suture tracts form.",
+        "topic":  "Surgical principles — Sutures"
+    },
+    {
+        "id":  "ch16-Q44",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  43,
+        "stem":  "A surgeon is planning a salvage hypospadias repair where there is extensive scarring and residual chordee. Which of the following graft materials is most widely used for this purpose?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Inner preputial skin"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Postauricular skin"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Buccal mucosa"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Split-thickness skin graft"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "For salvage repair with extensive scarring and residual chordee, buccal mucosa (harvested from the lower lip or cheek) is more widely used. Postauricular skin is suitable but buccal mucosa is the preferred option.",
+        "topic":  "Salvage repair"
+    },
+    {
+        "id":  "ch16-Q45",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  44,
+        "stem":  "A child is undergoing assessment before hypospadias repair and the glans width is measured at 12 mm. Regarding the association between glans size and surgical outcomes:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Larger glans width predicts higher fistula rates"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Glans width has no correlation with surgical outcomes"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Only glans length is prognostic"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "A glans width ≤14 mm is associated with an increased risk of complications"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Anatomic factors such as glans width correlate with surgical outcomes, with a glans width ≤14 mm being associated with an increased risk of complications.",
+        "topic":  "Hormonal therapy"
+    },
+    {
+        "id":  "ch16-Q46",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  45,
+        "stem":  "Regarding preoperative testosterone administration before hypospadias repair, which of the following best describes the authors\u0027 position?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "It is recommended only for proximal hypospadias"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "It is contraindicated due to risk of premature epiphyseal closure"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "It is strongly recommended for all patients"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Due to paucity of literature and insufficient evidence, the authors do not advocate its use"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Some surgeons administer preoperative testosterone to increase penile length, glans circumference, and tissue vascularity. However, due to paucity of literature and insufficient evidence, the authors do not advocate its use.",
+        "topic":  "Hormonal therapy"
+    },
+    {
+        "id":  "ch16-Q47",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  46,
+        "stem":  "The re-operation rate following correction of distal hypospadias is approximately:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "5%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "15%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "50%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "1%"
+                        }
+                    ],
+        "correctOptionId":  "a",
+        "explanation":  "Re-operation rates following correction of distal hypospadias are approximately 5%, but rise to 50% for proximal hypospadias and 23% following secondary repairs.",
+        "topic":  "Outcome"
+    },
+    {
+        "id":  "ch16-Q48",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  47,
+        "stem":  "In Bracka\u0027s series of 600 patients managed by two-stage repair, the overall fistula rate following the second procedure was:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "15%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "6%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "25%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "1%"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "In Bracka\u0027s series, the overall fistula rate following the second procedure was 6%, with \u0027redo\u0027 or \u0027salvage\u0027 repairs having a higher fistula rate of 10% compared with 3% for primary procedures.",
+        "topic":  "Outcome — Two-stage repair"
+    },
+    {
+        "id":  "ch16-Q49",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  48,
+        "stem":  "A 25-year-old man who underwent hypospadias repair in childhood is concerned about sexual function. Which of the following is most accurate regarding psychosexual outcomes?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Most men report unsatisfactory sexual function"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "Up to 80% of men report satisfactory sexual function, but they may be more apprehensive about seeking sexual contact"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "All men eventually develop erectile dysfunction"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Sexual function is universally unaffected with no psychological impact"
+                        }
+                    ],
+        "correctOptionId":  "b",
+        "explanation":  "Studies have found that the majority of men (80%) report satisfactory sexual function, but they may be more apprehensive to seek out sexual contact. Fertility is normal unless there are coexisting undescended testes.",
+        "topic":  "Psychosexual outcome"
+    },
+    {
+        "id":  "ch16-Q50",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  49,
+        "stem":  "A 30-year-old man who underwent hypospadias correction in childhood has no recollection of his surgery. Compared with men who remember undergoing hypospadias surgery, this patient is more likely to have:",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "Greater dissatisfaction with cosmetic appearance"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "No difference in any measured outcome"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "Higher rate of urinary complications"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "Improved body image and greater satisfaction with overall appearance"
+                        }
+                    ],
+        "correctOptionId":  "d",
+        "explanation":  "Men who had no recollection of their surgery had an improved body image and greater satisfaction with their overall appearance when compared with men who could remember having undergone hypospadias surgery. This is why surgical correction is recommended before 18 months of age.",
+        "topic":  "Psychosexual outcome"
+    },
+    {
+        "id":  "ch16-Q51",
+        "chapter":  "Hypospadias",
+        "chapterSlug":  "ch16_hypospadias",
+        "chapterNumber":  16,
+        "questionNumber":  50,
+        "stem":  "Severe perineal or penoscrotal hypospadias is associated with a persistent prostatic utricle in approximately what percentage of cases?",
+        "options":  [
+                        {
+                            "id":  "a",
+                            "text":  "5%"
+                        },
+                        {
+                            "id":  "b",
+                            "text":  "10%"
+                        },
+                        {
+                            "id":  "c",
+                            "text":  "20%"
+                        },
+                        {
+                            "id":  "d",
+                            "text":  "50%"
+                        }
+                    ],
+        "correctOptionId":  "c",
+        "explanation":  "Severe forms of hypospadias (perineal or penoscrotal) are associated with a persistent prostatic utricle in 20% of cases. When present, it can create difficulties with urethral catheterization of the bladder.",
+        "topic":  "DSD and associated anomalies"
+    }
+]

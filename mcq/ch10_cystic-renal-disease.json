@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch10-Q01",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 1,
+    "stem": "A 1-day-old neonate is noted to have palpable bilateral flank masses on routine examination. An ultrasound shows diffusely enlarged kidneys with loss of corticomedullary differentiation but a preserved renal outline. Which form of cystic renal disease is most likely?",
+    "options": [
+      { "id": "a", "text": "Autosomal dominant polycystic kidney disease (ADPKD)" },
+      { "id": "b", "text": "Multicystic dysplastic kidney (MCDK)" },
+      { "id": "c", "text": "Autosomal recessive polycystic kidney disease (ARPKD)" },
+      { "id": "d", "text": "Simple renal cyst" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: ARPKD is the form of polycystic renal disease most commonly encountered in children and typically presents at birth with palpable bilateral flank masses. The ultrasound findings of diffusely enlarged kidneys with loss of corticomedullary differentiation but preserved renal outline are classic for ARPKD.\n\n[A] is wrong because ADPKD is the commonest form in adults, not neonates. It typically presents later in life with discrete cysts rather than the diffuse echogenic enlargement seen here.\n\n[B] is wrong because MCDK is usually unilateral and presents as a knobbly, irregular mass, not bilateral smooth enlargement.\n\n[D] is wrong because simple renal cysts are rare in children, typically unilateral, and do not cause bilateral flank masses or loss of corticomedullary differentiation.\n\nTeaching point: ARPKD is the most common polycystic renal disease in children, while ADPKD predominates in adults. The ultrasound findings of bilateral echogenic enlargement with loss of corticomedullary differentiation are hallmark features.",
+    "topic": "Classification"
+  },
+  {
+    "id": "ch10-Q02",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 2,
+    "stem": "A neonate presents with abdominal distension and respiratory distress. Ultrasound shows bilaterally enlarged kidneys with loss of corticomedullary differentiation. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Autosomal dominant polycystic kidney disease" },
+      { "id": "b", "text": "Autosomal recessive polycystic kidney disease" },
+      { "id": "c", "text": "Bilateral multicystic dysplastic kidneys" },
+      { "id": "d", "text": "Bilateral hydronephrosis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: ARPKD presents with enlarged kidneys causing abdominal distension and respiratory distress at birth. The kidneys have a normal outline with loss of corticomedullary differentiation on ultrasound, which is the classic imaging appearance.\n\n[A] is wrong because ADPKD rarely presents in the neonatal period. It is typically asymptomatic in childhood and manifests later in life with discrete cysts rather than diffuse echogenic enlargement.\n\n[C] is wrong because bilateral MCDK is invariably lethal and the kidneys would appear as clusters of non-communicating cysts, not diffusely echogenic with loss of differentiation.\n\n[D] is wrong because hydronephrosis would demonstrate a dilated collecting system on ultrasound, not diffuse parenchymal changes with loss of corticomedullary differentiation.\n\nTeaching point: The triad of neonatal abdominal distension, respiratory distress, and bilaterally enlarged echogenic kidneys on ultrasound is highly suggestive of ARPKD.",
+    "topic": "ARPKD — Presentation"
+  },
+  {
+    "id": "ch10-Q03",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 3,
+    "stem": "A couple has one child with ARPKD. They ask about the risk for future children. What is the correct recurrence risk?",
+    "options": [
+      { "id": "a", "text": "5%" },
+      { "id": "b", "text": "10%" },
+      { "id": "c", "text": "25%" },
+      { "id": "d", "text": "50%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: ARPKD is an autosomal recessive condition caused by mutations of the PKHD1 gene on chromosome 6. For autosomal recessive disorders, each sibling of an affected child has a 25% risk of being affected, a 50% chance of being an asymptomatic carrier, and a 25% chance of being unaffected and not a carrier.\n\n[A] is wrong because 5% is not the recurrence risk for any standard Mendelian inheritance pattern.\n\n[B] is wrong because 10% is not associated with autosomal recessive inheritance.\n\n[D] is wrong because 50% is the recurrence risk for autosomal dominant conditions, not autosomal recessive conditions like ARPKD.\n\nTeaching point: For autosomal recessive conditions such as ARPKD, the recurrence risk in siblings is 25%, regardless of how many children are already affected.",
+    "topic": "ARPKD — Genetics"
+  },
+  {
+    "id": "ch10-Q04",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 4,
+    "stem": "The parents of a child newly diagnosed with ARPKD meet with a genetic counsellor. Genetic testing of the affected child will most likely reveal a mutation in which gene?",
+    "options": [
+      { "id": "a", "text": "PKHD1 on chromosome 6" },
+      { "id": "b", "text": "PKD1 on chromosome 16" },
+      { "id": "c", "text": "PKD2 on chromosome 4" },
+      { "id": "d", "text": "TSC2 on chromosome 16" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: ARPKD is caused by mutations of the PKHD1 gene located on chromosome 6. This gene encodes fibrocystin/polyductin, a protein involved in ciliary signalling pathways in renal tubular epithelial cells.\n\n[B] is wrong because PKD1 mutations cause ADPKD, not ARPKD. PKD1 accounts for ~85% of ADPKD cases.\n\n[C] is wrong because PKD2 mutations cause the remaining ~15% of ADPKD cases, not ARPKD.\n\n[D] is wrong because TSC2 mutations cause tuberous sclerosis complex, which may present with renal angiomyolipomas and cysts but is not ARPKD.\n\nTeaching point: ARPKD is caused by PKHD1 mutations on chromosome 6; ADPKD is caused by PKD1 (chromosome 16) or PKD2 (chromosome 4) mutations.",
+    "topic": "ARPKD — Genetics"
+  },
+  {
+    "id": "ch10-Q05",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 5,
+    "stem": "A renal biopsy is obtained from a neonate with suspected ARPKD. The pathologist describes cysts that are cylindrical and radially orientated. Which of the following best characterises these cysts?",
+    "options": [
+      { "id": "a", "text": "Cylindrical, radially orientated cysts less than 2 mm in diameter" },
+      { "id": "b", "text": "Non-communicating cysts of varying size lined by flattened epithelium" },
+      { "id": "c", "text": "Large unilocular cysts confined to the renal cortex" },
+      { "id": "d", "text": "Saccular cysts arising from the collecting ducts exceeding 1 cm" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: In ARPKD the renal parenchyma is extensively replaced by cylindrical, radially orientated cysts which are usually less than 2 mm in diameter. This distinct histological pattern reflects the underlying ductal plate malformation.\n\n[B] is wrong because this describes the histological appearance of MCDK, not ARPKD. MCDK cysts are non-communicating, of varying size, and lined by cuboidal or flattened epithelium.\n\n[C] is wrong because large unilocular cysts are not characteristic of ARPKD. This description better fits simple renal cysts or multilocular renal cyst.\n\n[D] is wrong because saccular cysts exceeding 1 cm are not seen in ARPKD. The cysts in ARPKD are typically less than 2 mm, which is a key histological feature.\n\nTeaching point: ARPKD is characterised histologically by small (<2 mm), cylindrical, radially orientated cysts, in contrast to the larger, non-communicating cysts seen in MCDK.",
+    "topic": "ARPKD — Pathology"
+  },
+  {
+    "id": "ch10-Q06",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 6,
+    "stem": "A 3-year-old child with ARPKD develops hepatosplenomegaly and evidence of portal hypertension. This complication is most directly attributable to which associated pathological process?",
+    "options": [
+      { "id": "a", "text": "Cerebral aneurysm formation" },
+      { "id": "b", "text": "Retinal angiomatosis" },
+      { "id": "c", "text": "Biliary dysgenesis with hepatic fibrosis" },
+      { "id": "d", "text": "Pancreatic cyst formation" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: ARPKD is accompanied by varying degrees of liver involvement characterised by bile duct abnormalities termed biliary dysgenesis. This leads to congenital hepatic fibrosis, which can cause portal hypertension, hepatosplenomegaly, and may ultimately require combined liver-kidney transplantation.\n\n[A] is wrong because cerebral aneurysms are an extrarenal manifestation of ADPKD, not ARPKD.\n\n[B] is wrong because retinal angiomatosis is associated with von Hippel-Lindau disease, not ARPKD.\n\n[D] is wrong because pancreatic cysts are not a recognised feature of ARPKD. They can be seen in ADPKD.\n\nTeaching point: ARPKD is a hepatorenal fibrocystic disease; the liver involvement (biliary dysgenesis/congenital hepatic fibrosis) is an integral part of the condition, not a separate complication.",
+    "topic": "ARPKD — Pathology"
+  },
+  {
+    "id": "ch10-Q07",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 7,
+    "stem": "A 32-week fetus is noted to have enlarged echogenic kidneys on prenatal ultrasound. Which additional ultrasonographic findings would most strongly predict severe impairment of postnatal renal function?",
+    "options": [
+      { "id": "a", "text": "Polyhydramnios and increased bladder volume" },
+      { "id": "b", "text": "Oligohydramnios and reduced bladder volume" },
+      { "id": "c", "text": "Normal amniotic fluid volume with echogenic kidneys" },
+      { "id": "d", "text": "Unilateral renal enlargement with contralateral atrophy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: When ARPKD is visualised prenatally, oligohydramnios and reduced bladder volume are strong predictors of severely impaired renal function. These findings indicate poor fetal urine output and significant renal compromise.\n\n[A] is wrong because polyhydramnios (excess amniotic fluid) and increased bladder volume suggest good fetal renal function, not impairment. Polyhydramnios is associated with other conditions such as duodenal atresia.\n\n[C] is wrong because normal amniotic fluid volume suggests adequate fetal renal function and is less concerning for severe postnatal impairment.\n\n[D] is wrong because unilateral enlargement with contralateral atrophy is not a feature of ARPKD; ARPKD is always bilateral. This pattern might be seen in other conditions such as MCDK with contralateral compensatory hypertrophy.\n\nTeaching point: In prenatally detected ARPKD, oligohydramnios and reduced bladder volume are the key poor prognostic indicators, reflecting severely reduced fetal urine output.",
+    "topic": "ARPKD — Prenatal Diagnosis"
+  },
+  {
+    "id": "ch10-Q08",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 8,
+    "stem": "Respiratory distress in a neonate with ARPKD is caused by which combination of factors?",
+    "options": [
+      { "id": "a", "text": "Diaphragmatic splinting from enlarged kidneys and pulmonary hypoplasia from oligohydramnios" },
+      { "id": "b", "text": "Pulmonary oedema from fluid overload and cardiac failure" },
+      { "id": "c", "text": "Congenital diaphragmatic hernia and surfactant deficiency" },
+      { "id": "d", "text": "Pneumothorax and pleural effusion" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: Respiratory distress in ARPKD results from two mechanisms — the mass effect of grossly enlarged kidneys splinting the diaphragm, and pulmonary hypoplasia secondary to oligohydramnios (which limits lung development in utero).\n\n[B] is wrong because pulmonary oedema and cardiac failure are not primary features of ARPKD. While hypertension may develop, respiratory distress at birth is mechanical, not cardiogenic.\n\n[C] is wrong because congenital diaphragmatic hernia and surfactant deficiency are separate conditions not associated with ARPKD.\n\n[D] is wrong because pneumothorax and pleural effusion are not direct features of ARPKD, though a pneumothorax could occur as a complication of respiratory support.\n\nTeaching point: Neonatal respiratory distress in ARPKD has a dual mechanical aetiology: diaphragmatic splinting by enlarged kidneys and pulmonary hypoplasia from oligohydramnios.",
+    "topic": "ARPKD — Presentation"
+  },
+  {
+    "id": "ch10-Q09",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 9,
+    "stem": "Milder forms of ARPKD that escape detection in the neonatal period typically present later in childhood with:",
+    "options": [
+      { "id": "a", "text": "Recurrent urinary tract infections" },
+      { "id": "b", "text": "Haematuria and flank pain" },
+      { "id": "c", "text": "Acute anuria and electrolyte disturbances" },
+      { "id": "d", "text": "Hypertension or manifestations of liver involvement" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Milder forms of ARPKD may remain undetected until later childhood when they present with hypertension or manifestations of liver involvement (such as hepatosplenomegaly from portal hypertension due to congenital hepatic fibrosis).\n\n[A] is wrong because recurrent UTIs are not a typical presenting feature of ARPKD. They are more commonly associated with structural urinary tract abnormalities or VUR.\n\n[B] is wrong because haematuria and flank pain are more typical of ADPKD presentation in older children and adults, not milder ARPKD.\n\n[C] is wrong because acute anuria and electrolyte disturbances suggest acute renal failure, which is more characteristic of severe neonatal-onset ARPKD rather than milder late-presenting forms.\n\nTeaching point: Mild ARPKD should be considered in the differential diagnosis of older children presenting with unexplained hypertension or hepatosplenomegaly.",
+    "topic": "ARPKD — Presentation"
+  },
+  {
+    "id": "ch10-Q10",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 10,
+    "stem": "In a severely affected infant with ARPKD and life-threatening respiratory distress, unilateral nephrectomy may be considered primarily to:",
+    "options": [
+      { "id": "a", "text": "Prevent the development of hypertension" },
+      { "id": "b", "text": "Reduce the risk of Wilms tumour" },
+      { "id": "c", "text": "Alleviate diaphragmatic splinting caused by a particularly large kidney" },
+      { "id": "d", "text": "Facilitate peritoneal dialysis catheter placement" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Unilateral nephrectomy may be considered to alleviate diaphragmatic splinting due to the presence of particularly large kidneys causing respiratory compromise. This is a life-saving measure in extreme cases where ventilatory support alone is insufficient.\n\n[A] is wrong because although uncontrolled hypertension may eventually require nephrectomy, the immediate indication in a neonate with respiratory distress is mechanical relief, not blood pressure control.\n\n[B] is wrong because there is no association between ARPKD and Wilms tumour. This is a theoretical concern for MCDK, not ARPKD.\n\n[D] is wrong because while children with ESRD from ARPKD may eventually require dialysis, this is not the primary reason for nephrectomy in the acute setting of respiratory distress.\n\nTeaching point: Nephrectomy in ARPKD is reserved for extreme cases of respiratory compromise from mass effect, or later for uncontrolled hypertension or to create space for transplantation.",
+    "topic": "ARPKD — Treatment"
+  },
+  {
+    "id": "ch10-Q11",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 11,
+    "stem": "A child with ARPKD develops portal hypertension. This complication results from:",
+    "options": [
+      { "id": "a", "text": "Renal vein compression by enlarged kidneys" },
+      { "id": "b", "text": "Biliary dysgenesis and congenital hepatic fibrosis" },
+      { "id": "c", "text": "Portosystemic shunt thrombosis" },
+      { "id": "d", "text": "Polycystic liver disease" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Portal hypertension in ARPKD arises from biliary dysgenesis (also termed congenital hepatic fibrosis or ductal plate malformation), which is the characteristic liver involvement in this condition. A small number of children may ultimately require combined liver-kidney transplantation.\n\n[A] is wrong because although enlarged kidneys can cause mass effect, they do not directly compress the portal vein to cause portal hypertension.\n\n[C] is wrong because portosystemic shunt thrombosis is not a recognised complication of ARPKD.\n\n[D] is wrong because polycystic liver disease is associated with ADPKD, not ARPKD. The liver disease in ARPKD is fibrotic rather than cystic.\n\nTeaching point: ARPKD involves both kidneys (ectatic collecting ducts) and liver (biliary dysgenesis/congenital hepatic fibrosis), making it a hepatorenal fibrocystic disease.",
+    "topic": "ARPKD — Treatment"
+  },
+  {
+    "id": "ch10-Q12",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 12,
+    "stem": "The parents of a 4-week-old infant with ARPKD who survived the neonatal period ask about long-term survival. The reported 5-year survival rate for children who survive the first month of life is approximately:",
+    "options": [
+      { "id": "a", "text": "50%" },
+      { "id": "b", "text": "67%" },
+      { "id": "c", "text": "87%" },
+      { "id": "d", "text": "95%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: For children with ARPKD who survive the neonatal period, the reported 5-year survival rate is 87%. The mortality rate is highest in the first month of life, after which survival improves significantly.\n\n[A] is wrong because 50% underestimates the survival for those who survive the neonatal period. This figure might be closer to the historical survival rate before modern intensive care.\n\n[B] is wrong because 67% is the reported 15-year survival rate, not the 5-year survival rate.\n\n[D] is wrong because 95% overestimates the prognosis. While survival has improved, ARPKD still carries significant long-term morbidity and mortality.\n\nTeaching point: The highest mortality in ARPKD occurs in the first month of life; those who survive this period have a reasonably favourable 5-year survival (87%), though this declines to 67% at 15 years.",
+    "topic": "ARPKD — Prognosis"
+  },
+  {
+    "id": "ch10-Q13",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 13,
+    "stem": "A medical student is preparing a presentation on inherited renal diseases and needs to cite the approximate live birth incidence of ADPKD. Which range is most accurate?",
+    "options": [
+      { "id": "a", "text": "1:200 to 1:1000" },
+      { "id": "b", "text": "1:500 to 1:1500" },
+      { "id": "c", "text": "1:10000 to 1:40000" },
+      { "id": "d", "text": "1:2500 to 1:4300" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: ADPKD is the commonest form of inherited renal disease with a reported incidence of between 1:200 and 1:1000 live births. Approximately 10% of adults on end-stage renal replacement programmes have ADPKD.\n\n[B] is wrong because 1:500 to 1:1500 is close but the upper end underestimates the true incidence. The accepted range is 1:200 to 1:1000.\n\n[C] is wrong because 1:10000 to 1:40000 is the incidence range for ARPKD, not ADPKD.\n\n[D] is wrong because 1:2500 to 1:4300 is the prevalence range for unilateral MCDK, not ADPKD.\n\nTeaching point: ADPKD is one of the most common inherited disorders overall, with an incidence of 1:200–1:1000, far exceeding that of ARPKD (1:10,000–1:40,000).",
+    "topic": "ADPKD — Epidemiology"
+  },
+  {
+    "id": "ch10-Q14",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 14,
+    "stem": "A genetics fellow is presenting a case of ADPKD and states that 85% of cases are caused by mutations of the PKD1 gene. On which chromosome is this gene located?",
+    "options": [
+      { "id": "a", "text": "Chromosome 4" },
+      { "id": "b", "text": "Chromosome 6" },
+      { "id": "c", "text": "Chromosome 16" },
+      { "id": "d", "text": "Chromosome 22" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: The PKD1 gene is located on chromosome 16 and accounts for approximately 85% of ADPKD cases. Most of the remaining cases are due to PKD2 mutations on chromosome 4.\n\n[A] is wrong because chromosome 4 is the location of the PKD2 gene, which accounts for the minority (~15%) of ADPKD cases, not PKD1.\n\n[B] is wrong because chromosome 6 is the location of the PKHD1 gene, which causes ARPKD, not ADPKD.\n\n[D] is wrong because chromosome 22 is not associated with either form of polycystic kidney disease.\n\nTeaching point: PKD1 on chromosome 16 → 85% of ADPKD (more severe); PKD2 on chromosome 4 → 15% of ADPKD (milder, later onset ESRD).",
+    "topic": "ADPKD — Genetics"
+  },
+  {
+    "id": "ch10-Q15",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 15,
+    "stem": "A pathologist examines a partial nephrectomy specimen from a 30-year-old patient with ADPKD. The cysts are most likely to be lined by which type of epithelium?",
+    "options": [
+      { "id": "a", "text": "Squamous epithelium" },
+      { "id": "b", "text": "Transitional epithelium" },
+      { "id": "c", "text": "Tubular epithelium" },
+      { "id": "d", "text": "Cuboidal or flattened epithelium" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: In ADPKD, cysts are lined by tubular epithelium, reflecting their origin from renal tubular epithelial cells. The intervening renal parenchyma may be normal or show evidence of glomerulosclerosis.\n\n[A] is wrong because squamous epithelium is not found lining ADPKD cysts. Squamous metaplasia might be seen in other pathological contexts but not in ADPKD cyst lining.\n\n[B] is wrong because transitional epithelium lines the renal pelvis, ureters, and bladder, not the cysts of ADPKD which arise from tubular epithelium.\n\n[D] is wrong because cuboidal or flattened epithelium is characteristic of MCDK cysts, not ADPKD. This distinction is histologically important.\n\nTeaching point: ADPKD cysts arise from tubular epithelium, whereas MCDK cysts are lined by cuboidal or flattened epithelium — a key histological difference.",
+    "topic": "ADPKD — Pathology"
+  },
+  {
+    "id": "ch10-Q16",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 16,
+    "stem": "A 40-year-old woman with known ADPKD presents to the emergency department with a sudden, severe headache. A CT angiogram of the head reveals no haemorrhage but shows an incidental 5 mm vascular abnormality. Which extrarenal manifestation of ADPKD is this most likely to represent?",
+    "options": [
+      { "id": "a", "text": "Biliary dysgenesis and hepatic fibrosis" },
+      { "id": "b", "text": "Hepatic cysts and cerebral aneurysms" },
+      { "id": "c", "text": "Retinal angiomas and pancreatic cysts" },
+      { "id": "d", "text": "Cardiac rhabdomyomas and pulmonary lymphangiectasia" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Extrarenal manifestations of ADPKD include hepatic cysts and cerebral aneurysms. The sudden severe headache raises concern for a cerebral aneurysm, which is a recognised and potentially life-threatening extrarenal feature of ADPKD.\n\n[A] is wrong because biliary dysgenesis and hepatic fibrosis are features of ARPKD, not ADPKD. The liver involvement in ADPKD is cystic rather than fibrotic.\n\n[C] is wrong because retinal angiomas are associated with von Hippel-Lindau disease, not ADPKD. Pancreatic cysts can occur in ADPKD but are less common than hepatic cysts.\n\n[D] is wrong because cardiac rhabdomyomas are associated with tuberous sclerosis complex, not ADPKD. Pulmonary lymphangiectasia is not a recognised extrarenal manifestation.\n\nTeaching point: Cerebral aneurysms are a critical extrarenal manifestation of ADPKD; patients with concerning neurological symptoms warrant urgent cerebral imaging.",
+    "topic": "ADPKD — Pathology"
+  },
+  {
+    "id": "ch10-Q17",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 17,
+    "stem": "A 10-year-old asymptomatic child undergoes abdominal ultrasound for minor trauma. Bilateral renal cysts are found. The family history is negative for renal disease. Which diagnosis is most likely?",
+    "options": [
+      { "id": "a", "text": "Bilateral MCDK" },
+      { "id": "b", "text": "Tuberous sclerosis complex" },
+      { "id": "c", "text": "Autosomal recessive polycystic kidney disease" },
+      { "id": "d", "text": "Autosomal dominant polycystic kidney disease" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: ADPKD may be identified as an incidental finding of bilateral renal cysts in asymptomatic children undergoing ultrasonography for other indications. The presence of bilateral cysts strongly points to ADPKD, even in the absence of a positive family history (which may reflect a de novo mutation or undiagnosed family member).\n\n[A] is wrong because bilateral MCDK is invariably lethal and would not present as an incidental finding in a 10-year-old asymptomatic child.\n\n[B] is wrong because while tuberous sclerosis can cause renal cysts, the classic finding is renal angiomyolipomas rather than bilateral simple cysts. Tuberous sclerosis also has characteristic extrarenal features.\n\n[C] is wrong because ARPKD presents in neonates or early childhood with enlarged echogenic kidneys, not incidentally discovered discrete cysts in an asymptomatic older child.\n\nTeaching point: Incidental bilateral renal cysts in a child, even without family history, should raise suspicion for ADPKD and prompt further evaluation and screening.",
+    "topic": "ADPKD — Presentation"
+  },
+  {
+    "id": "ch10-Q18",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 18,
+    "stem": "A 12-year-old child with ADPKD is found to have hypertension at a routine check-up. Which class of medication is recommended as first-line therapy for hypertension in this setting?",
+    "options": [
+      { "id": "a", "text": "Beta-blockers" },
+      { "id": "b", "text": "Angiotensin-converting enzyme inhibitors or angiotensin 2 receptor blockers" },
+      { "id": "c", "text": "Calcium channel blockers" },
+      { "id": "d", "text": "Thiazide diuretics" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Hypertension in ADPKD is primarily managed with ACE inhibitors or angiotensin 2 receptor blockers. These agents target the renin-angiotensin-aldosterone system, which is activated by cyst expansion causing renal ischaemia.\n\n[A] is wrong because beta-blockers are not first-line therapy for hypertension in ADPKD, though they may be used as adjunctive therapy in specific circumstances.\n\n[C] is wrong because calcium channel blockers are not the preferred first-line agents, although they may be used if ACE inhibitors are contraindicated or not tolerated.\n\n[D] is wrong because thiazide diuretics are not first-line for ADPKD-related hypertension. They may be less effective given the underlying renal pathophysiology.\n\nTeaching point: ACE inhibitors/ARBs are the antihypertensives of choice in ADPKD because they target the renin-mediated mechanism of hypertension in cystic kidney disease.",
+    "topic": "ADPKD — Management"
+  },
+  {
+    "id": "ch10-Q19",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 19,
+    "stem": "Tolvaptan has been introduced to delay cyst development and decline in renal function in adults with ADPKD. Its mechanism of action is:",
+    "options": [
+      { "id": "a", "text": "Competitive vasopressin receptor 2 antagonist" },
+      { "id": "b", "text": "Calcium channel blocker" },
+      { "id": "c", "text": "Mammalian target of rapamycin (mTOR) inhibitor" },
+      { "id": "d", "text": "Vasopressin receptor 2 agonist" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: Tolvaptan is a competitive vasopressin receptor 2 antagonist that delays the rate of cyst development and decline in renal function in adults with ADPKD and mild to moderate chronic kidney disease. It works by reducing cyclic AMP levels in tubular epithelial cells, which slows cyst growth.\n\n[B] is wrong because calcium channel blockers are antihypertensives and do not have a specific anti-cystogenic effect in ADPKD.\n\n[C] is wrong because mTOR inhibitors (e.g., everolimus) have been studied in ADPKD but are not the standard therapy. Tolvaptan is a vasopressin antagonist, not an mTOR inhibitor.\n\n[D] is wrong because a vasopressin agonist would increase cyclic AMP and potentially accelerate cyst growth, the opposite of the desired effect.\n\nTeaching point: Tolvaptan (vasopressin V2 receptor antagonist) slows ADPKD progression by reducing cAMP-mediated cyst growth; it is approved for adults with rapidly progressive disease.",
+    "topic": "ADPKD — Management"
+  },
+  {
+    "id": "ch10-Q20",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 20,
+    "stem": "Adults with ADPKD due to PKD1 mutations develop end-stage renal disease at a younger age than those with PKD2 mutations. This reflects:",
+    "options": [
+      { "id": "a", "text": "A more severe form of polycystic disease with earlier cyst development" },
+      { "id": "b", "text": "An X-linked component to PKD1 disease" },
+      { "id": "c", "text": "Increased frequency of cerebral aneurysms in PKD1 mutation carriers" },
+      { "id": "d", "text": "Better response to Tolvaptan in PKD2 disease" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: PKD1 mutations cause a more severe form of ADPKD with earlier cyst development and faster progression to ESRD compared with PKD2 mutations. This is reflected in the younger average age at which PKD1 patients develop ESRD.\n\n[B] is wrong because both PKD1 and PKD2 are autosomal genes; there is no X-linked component to either form of ADPKD.\n\n[C] is wrong although cerebral aneurysms are an extrarenal manifestation of ADPKD, their frequency is not the explanation for earlier ESRD in PKD1 patients.\n\n[D] is wrong because while Tolvaptan may be used in ADPKD, the difference in ESRD age between PKD1 and PKD2 reflects natural history, not differential treatment response.\n\nTeaching point: The PKD1 genotype (chromosome 16) confers a more severe ADPKD phenotype with earlier ESRD onset compared to PKD2 (chromosome 4).",
+    "topic": "ADPKD — Prognosis"
+  },
+  {
+    "id": "ch10-Q21",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 21,
+    "stem": "A 28-year-old pregnant woman is told at her 20-week scan that the fetus has a multicystic dysplastic kidney. She asks how common this finding is. The prevalence of unilateral MCDK among live births is best estimated as:",
+    "options": [
+      { "id": "a", "text": "1:200 to 1:1000" },
+      { "id": "b", "text": "1:2500 to 1:4300" },
+      { "id": "c", "text": "1:5000 to 1:10000" },
+      { "id": "d", "text": "1:10000 to 1:40000" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Published studies put the prevalence of unilateral MCDK between 1:2500 and 1:4300 live births. Bilateral MCDK (invariably lethal) is estimated to occur in 1:20000 pregnancies.\n\n[A] is wrong because 1:200 to 1:1000 is the incidence of ADPKD, not MCDK.\n\n[C] is wrong because 1:5000 to 1:10000 underestimates the prevalence of MCDK. The true prevalence is higher (1:2500–1:4300).\n\n[D] is wrong because 1:10000 to 1:40000 is the incidence range for ARPKD, not MCDK.\n\nTeaching point: MCDK is more common than previously recognised (1:2500–1:4300 live births), and the majority of cases are now detected incidentally on prenatal ultrasound.",
+    "topic": "MCDK — Epidemiology"
+  },
+  {
+    "id": "ch10-Q22",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 22,
+    "stem": "A fetal medicine specialist diagnoses bilateral multicystic dysplastic kidneys on a 20-week ultrasound. The parents are counselled that the expected outcome is:",
+    "options": [
+      { "id": "a", "text": "Compatible with normal life with medical management" },
+      { "id": "b", "text": "End-stage renal disease by adolescence requiring transplantation" },
+      { "id": "c", "text": "Invariably lethal" },
+      { "id": "d", "text": "Spontaneous resolution with normal postnatal renal function" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Bilateral MCDK is invariably lethal. Because both kidneys are non-functional, the fetus develops oligohydramnios leading to pulmonary hypoplasia, which is incompatible with extrauterine life.\n\n[A] is wrong because bilateral MCDK is not compatible with life. Even with modern medical management, the absence of functional renal tissue precludes survival.\n\n[B] is wrong because the condition is lethal at or before birth; children do not survive to adolescence. End-stage renal disease by adolescence is more typical of conditions like ARPKD or nephronophthisis.\n\n[D] is wrong because MCDKs, while they may involute postnatally, never regain function. Bilateral involvement means no functional renal tissue is present.\n\nTeaching point: Bilateral MCDK is uniformly fatal due to oligohydramnios and pulmonary hypoplasia; unilateral MCDK, in contrast, has an excellent prognosis.",
+    "topic": "MCDK — Epidemiology"
+  },
+  {
+    "id": "ch10-Q23",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 23,
+    "stem": "During a laparoscopic nephrectomy for a suspected MCDK, the surgeon identifies an atretic segment of the proximal ureter. This finding is most characteristic of which condition?",
+    "options": [
+      { "id": "a", "text": "Multicystic dysplastic kidney" },
+      { "id": "b", "text": "Ureteropelvic junction obstruction" },
+      { "id": "c", "text": "Posterior urethral valves" },
+      { "id": "d", "text": "Primary obstructive megaureter" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: MCDK is typically associated with the presence of an occluded atretic segment in the proximal ureter. This ureteric atresia is thought to be a key aetiological factor in the development of MCDK, although it is sometimes seen in conjunction with distal ureteric obstruction.\n\n[B] is wrong because UPJ obstruction involves a narrowing at the pelviureteric junction, not an atretic segment of the proximal ureter. The renal parenchyma in UPJ obstruction is not dysplastic in the same way as MCDK.\n\n[C] is wrong because posterior urethral valves cause bladder outlet obstruction and bilateral hydronephrosis, not ureteric atresia.\n\n[D] is wrong because primary obstructive megaureter involves a functional or anatomical obstruction at the distal ureter, not an atretic proximal segment.\n\nTeaching point: The presence of an atretic proximal ureter is a characteristic anatomical hallmark of MCDK and is thought to play a role in its pathogenesis.",
+    "topic": "MCDK — Aetiology"
+  },
+  {
+    "id": "ch10-Q24",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 24,
+    "stem": "A second child in a family is diagnosed with MCDK, prompting genetic counselling. Although usually sporadic, when MCDK occurs in a familial pattern it is most consistent with which inheritance?",
+    "options": [
+      { "id": "a", "text": "X-linked recessive trait" },
+      { "id": "b", "text": "Autosomal dominant trait with variable penetrance" },
+      { "id": "c", "text": "Autosomal recessive trait with complete penetrance" },
+      { "id": "d", "text": "Mitochondrial inheritance" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Although MCDK is usually a sporadic anomaly, examples of familial occurrence have been reported in which MCDK is inherited as an autosomal dominant trait with variable penetrance. This means that not all carriers of the genetic change will manifest the condition.\n\n[A] is wrong because MCDK does not show an X-linked inheritance pattern. X-linked conditions typically affect males more severely and are not consistent with the reported familial pattern.\n\n[C] is wrong because MCDK is not inherited in an autosomal recessive pattern; the recurrence risk in families with one affected child is not 25%.\n\n[D] is wrong because mitochondrial inheritance (passed exclusively through the mother) is not a recognised pattern for MCDK.\n\nTeaching point: MCDK is usually sporadic, but when familial, it follows an autosomal dominant pattern with variable penetrance, meaning the recurrence risk is less predictable than typical dominant disorders.",
+    "topic": "MCDK — Genetics"
+  },
+  {
+    "id": "ch10-Q25",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 25,
+    "stem": "A neonate has a palpable abdominal mass with a knobbly, irregular contour on examination. This is most consistent with:",
+    "options": [
+      { "id": "a", "text": "Hydronephrosis" },
+      { "id": "b", "text": "Polycystic kidney disease" },
+      { "id": "c", "text": "Renal vein thrombosis" },
+      { "id": "d", "text": "Multicystic dysplastic kidney" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: On palpation, the surface of a MCDK is knobbly and irregular in contour, which contrasts with the smoother surface of other neonatal renal masses such as hydronephrosis or polycystic kidney disease.\n\n[A] is wrong because hydronephrosis typically presents as a smooth, reniform mass due to a fluid-filled collecting system, without the irregular knobbly contour.\n\n[B] is wrong because polycystic kidney disease (both ARPKD and ADPKD) typically presents with smooth, symmetrically enlarged kidneys, not a knobbly irregular mass.\n\n[C] is wrong because renal vein thrombosis usually presents with haematuria, hypertension, and a smooth enlarged kidney, not a knobbly irregular mass.\n\nTeaching point: The knobbly, irregular surface of a MCDK on palpation is a distinctive clinical finding that helps differentiate it from other causes of neonatal abdominal mass.",
+    "topic": "MCDK — Presentation"
+  },
+  {
+    "id": "ch10-Q26",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 26,
+    "stem": "A 32-week fetal ultrasound reveals a unilateral MCDK. The parents are concerned about the need for immediate postnatal surgery. The clinician explains that in the majority of prenatally detected cases, the MCDK will NOT be clinically apparent at birth. The percentage of prenatally diagnosed MCDKs that are palpable as a mass is approximately:",
+    "options": [
+      { "id": "a", "text": "Less than 10%" },
+      { "id": "b", "text": "Approximately 30%" },
+      { "id": "c", "text": "Approximately 50%" },
+      { "id": "d", "text": "More than 80%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: The majority of prenatally diagnosed MCDKs (>90%) are small and not clinically apparent at birth. The minority that present as palpable masses were historically the only cases recognised before the era of routine prenatal ultrasound.\n\n[B] is wrong because 30% overestimates the proportion. The actual figure is less than 10%.\n\n[C] is wrong because 50% is incorrect. Most prenatally detected MCDKs are not palpable.\n\n[D] is wrong because >80% is the opposite of the truth; only a small minority are palpable.\n\nTeaching point: The vast majority (>90%) of prenatally detected MCDKs are not palpable at birth, which explains why the true prevalence was historically underestimated.",
+    "topic": "MCDK — Presentation"
+  },
+  {
+    "id": "ch10-Q27",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 27,
+    "stem": "A neonatal ultrasound demonstrates a collection of multiple non-communicating cysts with absent renal sinus and no solid parenchymal tissue. These sonographic features are most characteristic of:",
+    "options": [
+      { "id": "a", "text": "A simple renal cyst with septations" },
+      { "id": "b", "text": "Echogenic kidneys with loss of corticomedullary differentiation" },
+      { "id": "c", "text": "Multicystic dysplastic kidney" },
+      { "id": "d", "text": "Cystic Wilms tumour" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: The distinctive ultrasonographic features of MCDK include multiple non-communicating round or oval cysts, presence of interfaces between cysts, absent renal sinus, non-medial location of the largest cyst, and absence of solid parenchymal renal tissue.\n\n[A] is wrong because a simple renal cyst is a single anechoic fluid-filled structure, not a collection of multiple non-communicating cysts. Septations would be atypical.\n\n[B] is wrong because echogenic kidneys with loss of corticomedullary differentiation describe the ultrasound appearance of ARPKD, not MCDK.\n\n[D] is wrong because cystic Wilms tumour contains solid components, whereas a genuine MCDK by definition contains no solid parenchymal tissue.\n\nTeaching point: A kidney that contains solid tissue on imaging is, by definition, not a MCDK — genuine MCDKs have no solid parenchymal elements.",
+    "topic": "MCDK — Diagnosis"
+  },
+  {
+    "id": "ch10-Q28",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 28,
+    "stem": "A paediatric radiologist is reviewing ultrasound images of a potentially multicystic kidney. Which of the following features, if present, would definitively exclude the diagnosis of MCDK?",
+    "options": [
+      { "id": "a", "text": "Non-medial location of the largest cyst" },
+      { "id": "b", "text": "Presence of echogenic interfaces between cysts" },
+      { "id": "c", "text": "Absence of a discernible renal sinus" },
+      { "id": "d", "text": "Presence of solid parenchymal renal tissue" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: A kidney which contains solid renal tissue is, by definition, not a MCDK. This is an important diagnostic criterion. The presence of solid tissue suggests an alternative diagnosis such as a cystic Wilms tumour or an intermediate form of dysplastic kidney.\n\n[A] is wrong because non-medial location of the largest cyst is actually a characteristic feature of MCDK, not an excluding feature.\n\n[B] is wrong because the presence of interfaces between cysts is another characteristic finding of MCDK.\n\n[C] is wrong because absent renal sinus is also a typical feature of MCDK on ultrasound.\n\nTeaching point: The presence of any solid renal tissue or any radionuclide uptake on DMSA scan definitively excludes the diagnosis of a genuine MCDK.",
+    "topic": "MCDK — Diagnosis"
+  },
+  {
+    "id": "ch10-Q29",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 29,
+    "stem": "On a DMSA radionuclide scan, a genuine MCDK is characterised by which pattern of uptake?",
+    "options": [
+      { "id": "a", "text": "Reduced but measurable differential function (10–20%)" },
+      { "id": "b", "text": "Delayed excretion with preserved cortical uptake" },
+      { "id": "c", "text": "Complete absence of radionuclide uptake (0% differential function)" },
+      { "id": "d", "text": "Increased tracer uptake consistent with inflammation" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Genuine MCDKs are characterised by a complete absence of uptake of radionuclide tracer (0% differential function) on a DMSA scan. Any uptake of radionuclide denotes the presence of some functioning tissue and effectively excludes the diagnosis of MCDK.\n\n[A] is wrong because any measurable function on DMSA excludes the diagnosis of MCDK. Kidneys with some function are classified as intermediate forms of dysplastic kidney.\n\n[B] is wrong because delayed excretion with preserved cortical uptake suggests an obstructive process, not MCDK. MCDK has no function to excrete.\n\n[D] is wrong because increased tracer uptake suggests inflammation or a hyperfunctioning state, not MCDK.\n\nTeaching point: DMSA scan showing 0% differential function is diagnostic of MCDK; any measurable function means it is not a genuine MCDK but rather a dysplastic kidney with functioning elements.",
+    "topic": "MCDK — Diagnosis"
+  },
+  {
+    "id": "ch10-Q30",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 30,
+    "stem": "A kidney with some radionuclide uptake on DMSA scan (e.g. 15% differential function) but which otherwise resembles MCDK on ultrasound should be classified as:",
+    "options": [
+      { "id": "a", "text": "A genuine MCDK with some residual function" },
+      { "id": "b", "text": "An intermediate form of dysplastic kidney that probably poses a greater risk of complications than a genuine MCDK" },
+      { "id": "c", "text": "A normal variant that requires no follow-up" },
+      { "id": "d", "text": "ADPKD with asymmetric presentation" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Any uptake of radionuclide denotes the presence of functioning tissue and effectively excludes MCDK. Such kidneys represent an intermediate form of dysplastic kidney which probably poses a greater risk of potential complications (including hypertension and possibly malignancy) than a genuine MCDK.\n\n[A] is wrong because a genuine MCDK, by definition, has 0% function. A kidney with 15% function is not a MCDK.\n\n[C] is wrong because such a kidney represents a significant abnormality requiring follow-up, not a normal variant.\n\n[D] is wrong because ADPKD involves bilateral cystic disease, not a unilateral dysplastic kidney with partial function.\n\nTeaching point: The presence of any measurable function on DMSA effectively excludes the diagnosis of MCDK and reclassifies the kidney as a dysplastic kidney with functioning elements, which carries a higher complication risk.",
+    "topic": "MCDK — Diagnosis"
+  },
+  {
+    "id": "ch10-Q31",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 31,
+    "stem": "A child with a confirmed MCDK undergoes a micturating cystourethrogram as part of the diagnostic evaluation. Vesicoureteric reflux is demonstrated. In approximately what percentage of children with MCDK is VUR found on routine MCUG?",
+    "options": [
+      { "id": "a", "text": "5%" },
+      { "id": "b", "text": "20%" },
+      { "id": "c", "text": "40%" },
+      { "id": "d", "text": "60%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Contralateral or ipsilateral VUR can be demonstrated on routine MCUG in around 20% of children with MCDK. However, such VUR is usually low-grade, has a high tendency for spontaneous resolution, and usually poses a low risk of symptomatic UTI.\n\n[A] is wrong because 5% underestimates the association. The actual rate is approximately 20%.\n\n[C] is wrong because 40% overestimates the prevalence of VUR in MCDK.\n\n[D] is wrong because 60% is too high; only about 1 in 5 children with MCDK have demonstrable VUR.\n\nTeaching point: VUR is present in ~20% of MCDK cases but is typically low-grade and self-resolving; routine MCUG is no longer performed by many paediatric urologists unless there is upper tract dilatation or a documented UTI.",
+    "topic": "MCDK — Associated VUR"
+  },
+  {
+    "id": "ch10-Q32",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 32,
+    "stem": "A child with a known MCDK presents with a febrile urinary tract infection. What is the most appropriate next step?",
+    "options": [
+      { "id": "a", "text": "Start empirical antibiotics and perform a MCUG" },
+      { "id": "b", "text": "Proceed directly to nephrectomy" },
+      { "id": "c", "text": "Repeat ultrasound in 6 months" },
+      { "id": "d", "text": "Perform a DMSA scan to confirm the diagnosis" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: A documented urinary tract infection in a child with MCDK is an indication for a MCUG to evaluate for underlying VUR. Empirical antibiotics should be started as per standard UTI management while awaiting the MCUG.\n\n[B] is wrong because a single UTI is not an indication for nephrectomy. Infection in MCDK is usually related to concurrent VUR rather than the MCDK itself.\n\n[C] is wrong because repeating ultrasound alone is insufficient; a MCUG is needed to assess for VUR which may require treatment.\n\n[D] is wrong because the diagnosis of MCDK is already established; a DMSA scan is not the appropriate next step for a febrile UTI.\n\nTeaching point: A febrile UTI in a child with MCDK warrants MCUG to assess for VUR, which is found in ~20% of cases but is usually low-grade and managed conservatively.",
+    "topic": "MCDK — Diagnosis"
+  },
+  {
+    "id": "ch10-Q33",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 33,
+    "stem": "A 10-year-old child with a prenatally detected MCDK undergoes a follow-up ultrasound. The MCDK is no longer visualised. This finding is consistent with known natural history data showing what proportion of prenatally detected MCDKs involute by 10 years of age?",
+    "options": [
+      { "id": "a", "text": "30–40%" },
+      { "id": "b", "text": "50–60%" },
+      { "id": "c", "text": "60–70%" },
+      { "id": "d", "text": "80–90%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: After 10 years, 60–70% of prenatally detected MCDKs can no longer be visualised on ultrasound. The involution rate is approximately 30% by 1 year, 50% by 5 years, and 60–70% by 10 years.\n\n[A] is wrong because 30–40% is the involution rate at 1 year, not 10 years.\n\n[B] is wrong because 50–60% is closer to the rate at 5 years, not 10 years.\n\n[D] is wrong because 80–90% overestimates the involution rate at 10 years; it is 60–70%.\n\nTeaching point: MCDK has a strong tendency for spontaneous involution, with 60–70% undetectable by ultrasound at 10 years; this explains why some adults diagnosed with unilateral renal agenesis may have had an involuted MCDK.",
+    "topic": "MCDK — Natural History"
+  },
+  {
+    "id": "ch10-Q34",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 34,
+    "stem": "A 50-year-old man is incidentally found to have unilateral renal agenesis on abdominal imaging. What is the most likely developmental explanation for this finding?",
+    "options": [
+      { "id": "a", "text": "The kidney never formed due to absent ureteric bud" },
+      { "id": "b", "text": "He was born with a MCDK that underwent complete spontaneous involution" },
+      { "id": "c", "text": "The kidney was surgically removed in infancy and the scar is not visible" },
+      { "id": "d", "text": "Crossed renal ectopia with fusion" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: A significant proportion of individuals diagnosed with unilateral renal agenesis as adults may, in fact, have been born with MCDKs that underwent spontaneous involution. The high rate of MCDK involution (60–70% by 10 years) supports this explanation.\n\n[A] is wrong while true renal agenesis (complete failure of kidney formation) does occur, it is less common than involuted MCDK as an explanation for a non-visualised kidney in adults.\n\n[C] is wrong because a surgical nephrectomy would typically leave some evidence on imaging or in the patient's history.\n\n[D] is wrong because crossed renal ectopia with fusion would result in both kidneys being present, just abnormally located, not absent.\n\nTeaching point: Many cases of apparent unilateral renal agenesis in adults likely represent completely involuted MCDK, underscoring the high rate of spontaneous involution.",
+    "topic": "MCDK — Natural History"
+  },
+  {
+    "id": "ch10-Q35",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 35,
+    "stem": "A 6-year-old child with a confirmed (ultrasound and DMSA-proven) MCDK is found to have elevated blood pressure during a routine check. A literature review is conducted to determine whether the MCDK could be responsible. The best estimate of hypertension attributable to genuine MCDK is approximately:",
+    "options": [
+      { "id": "a", "text": "0.5%" },
+      { "id": "b", "text": "5–8%" },
+      { "id": "c", "text": "10–15%" },
+      { "id": "d", "text": "20–25%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: A literature review of 29 published studies totalling 1115 MCDKs identified an incidence of hypertension of 0.5%. A large prospective study found no instances of hypertension in 202 children with MCDKs followed for a median of 8.1 years. The weight of evidence points to a very low risk.\n\n[B] is wrong because 5–8% overestimates the risk significantly. The reported rate is 0.5%.\n\n[C] is wrong because 10–15% is inconsistent with the available evidence. Many case reports of hypertension associated with MCDK are questionable because they likely involved dysplastic kidneys with functioning tissue rather than genuine MCDK.\n\n[D] is wrong because 20–25% is far higher than the evidence supports.\n\nTeaching point: The risk of hypertension from a genuine MCDK is very low (~0.5%) and does not justify prophylactic nephrectomy; hypertension in a child with MCDK should prompt evaluation of the contralateral kidney.",
+    "topic": "MCDK — Hypertension"
+  },
+  {
+    "id": "ch10-Q36",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 36,
+    "stem": "Why does nephrectomy for a MCDK not completely eliminate the risk of subsequent hypertension?",
+    "options": [
+      { "id": "a", "text": "The ureteric stump can become a source of renin production" },
+      { "id": "b", "text": "Surgical trauma may induce renovascular hypertension" },
+      { "id": "c", "text": "Hypertension can arise from pathology in the contralateral solitary kidney" },
+      { "id": "d", "text": "MCDK removal does not address the underlying genetic predisposition to hypertension" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Removing the MCDK does not necessarily abolish the risk of hypertension because there are well-documented instances of hypertension arising from pathology in the contralateral solitary kidney. This is why lifelong blood pressure monitoring is recommended even after nephrectomy.\n\n[A] is wrong because the ureteric stump is not a significant source of renin production after nephrectomy.\n\n[B] is wrong because surgical trauma is not a recognised cause of hypertension following MCDK nephrectomy.\n\n[D] is wrong because there is no known genetic predisposition to hypertension specifically linked to MCDK. The risk relates to the solitary contralateral kidney.\n\nTeaching point: Lifelong blood pressure monitoring is recommended for all patients with a history of MCDK, regardless of whether nephrectomy was performed, because of the risk of hypertension developing in the solitary contralateral kidney.",
+    "topic": "MCDK — Hypertension"
+  },
+  {
+    "id": "ch10-Q37",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 37,
+    "stem": "Parents of a child with MCDK ask about the risk of Wilms tumour. The paediatric urologist explains that based on registry data and prospective studies, the risk is estimated to be:",
+    "options": [
+      { "id": "a", "text": "Approximately 1:100" },
+      { "id": "b", "text": "Approximately 1:1000" },
+      { "id": "c", "text": "Probably no higher than 1:5000" },
+      { "id": "d", "text": "Approximately 1:100000" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Published data suggest the risk of developing Wilms tumour in a MCDK is very low — probably no higher than 1:5000. A review of 105 published series and registry data on 900 MCDKs identified a total of only 3 cases of Wilms tumour, and two large prospective UK studies of >600 prenatally detected MCDKs found no Wilms tumours.\n\n[A] is wrong because 1:100 is a significant overestimate of the risk. This level of risk would justify prophylactic nephrectomy, which is not supported by evidence.\n\n[B] is wrong because 1:1000 still overestimates the risk. The data suggest ≤1:5000.\n\n[D] is wrong because 1:100000 underestimates the risk; while very low, it is not that low.\n\nTeaching point: The Wilms tumour risk in genuine MCDK is very low (≤1:5000) and does not justify prophylactic nephrectomy; surveillance can be discontinued after age 5-6 years when the theoretical risk has passed.",
+    "topic": "MCDK — Malignancy"
+  },
+  {
+    "id": "ch10-Q38",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 38,
+    "stem": "Two large prospective UK studies following more than 600 children with prenatally detected MCDK provided reassuring data regarding the absence of which complication?",
+    "options": [
+      { "id": "a", "text": "Spontaneous involution" },
+      { "id": "b", "text": "Contralateral compensatory hypertrophy" },
+      { "id": "c", "text": "Urinary tract infection" },
+      { "id": "d", "text": "Wilms tumour" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: No Wilms tumours were encountered in two prospective long-term studies in the UK totalling more than 600 prenatally detected MCDKs. This provides strong evidence that the malignancy risk is extremely low.\n\n[A] is wrong because spontaneous involution is a well-documented phenomenon in MCDK, not a complication. The studies found involution, not absence of it.\n\n[B] is wrong because contralateral compensatory hypertrophy is a common and expected finding (90% of children with MCDK demonstrate it), not a complication.\n\n[C] is wrong because UTIs can and do occur in children with MCDK, usually associated with concurrent VUR. The studies did not find absence of UTIs.\n\nTeaching point: The reassuring data from large prospective UK studies on prenatally detected MCDK showed zero cases of Wilms tumour, supporting the current conservative, non-surgical approach to management.",
+    "topic": "MCDK — Malignancy"
+  },
+  {
+    "id": "ch10-Q39",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 39,
+    "stem": "A paediatric urologist is evaluating a child with MCDK for possible nephrectomy. Which of the following is a recognised valid indication for nephrectomy?",
+    "options": [
+      { "id": "a", "text": "Parental preference after counselling" },
+      { "id": "b", "text": "Low-grade ipsilateral vesicoureteric reflux" },
+      { "id": "c", "text": "Clinically apparent renal mass causing discomfort or symptoms" },
+      { "id": "d", "text": "Absence of compensatory hypertrophy in the contralateral kidney" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Valid indications for nephrectomy in MCDK include: (1) a clinically apparent renal mass causing discomfort or other symptoms, and (2) diagnostic uncertainty (presence of solid component or functioning tissue). These are the only evidence-based indications.\n\n[A] is wrong because parental preference alone is not a legitimate indication. Parents are strongly influenced by how information is presented, particularly if malignancy is mentioned, and this should not drive surgical decision-making.\n\n[B] is wrong because low-grade VUR in MCDK usually resolves spontaneously and can be managed conservatively.\n\n[D] is wrong because the absence of compensatory hypertrophy warrants closer follow-up of the contralateral kidney but is not an indication for nephrectomy of the MCDK.\n\nTeaching point: Nephrectomy for MCDK is reserved for symptomatic large masses or diagnostic uncertainty; prophylactic nephrectomy for cancer risk or parental preference is not supported by evidence.",
+    "topic": "MCDK — Surgical Management"
+  },
+  {
+    "id": "ch10-Q40",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 40,
+    "stem": "A paediatric urologist is planning the follow-up schedule for a child with MCDK. At what age may routine ultrasound surveillance be discontinued, as the theoretical risk of Wilms tumour has passed?",
+    "options": [
+      { "id": "a", "text": "2–3 years" },
+      { "id": "b", "text": "5–6 years" },
+      { "id": "c", "text": "10–12 years" },
+      { "id": "d", "text": "18 years" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Some paediatric urologists discontinue regular ultrasound surveillance after age 5–6 years, which is the age at which any theoretical risk of Wilms tumour has passed. Wilms tumour most commonly presents before age 5.\n\n[A] is wrong because 2–3 years is too early; the risk of Wilms tumour, though very low, extends beyond this age.\n\n[C] is wrong because 10–12 years is unnecessarily long. Surveillance can be safely discontinued after age 5–6.\n\n[D] is wrong because 18 years is far too long. The risk of Wilms tumour is essentially zero after age 5–6 in the context of MCDK.\n\nTeaching point: Although the Wilms tumour risk in MCDK is very low, some clinicians continue ultrasound surveillance until age 5–6 years, after which it is safely discontinued.",
+    "topic": "MCDK — Conservative Management"
+  },
+  {
+    "id": "ch10-Q41",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 41,
+    "stem": "A 4-year-old child with unilateral MCDK undergoes a follow-up renal ultrasound. The contralateral kidney shows compensatory hypertrophy. This finding occurs in approximately what proportion of children with MCDK?",
+    "options": [
+      { "id": "a", "text": "30%" },
+      { "id": "b", "text": "50%" },
+      { "id": "c", "text": "75%" },
+      { "id": "d", "text": "90%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: 90% of children with MCDK demonstrate compensatory hypertrophy in their contralateral kidney. This is an expected physiological response to having a single functioning kidney.\n\n[A] is wrong because 30% significantly underestimates the rate of compensatory hypertrophy.\n\n[B] is wrong because 50% also underestimates the rate; the actual figure is 90%.\n\n[C] is wrong because 75% is closer but still underestimates the true rate.\n\nTeaching point: Compensatory hypertrophy of the contralateral kidney occurs in 90% of children with MCDK. The 10% who do not develop hypertrophy warrant closer follow-up as they may be at greater risk of hyperfiltration injury.",
+    "topic": "MCDK — Natural History"
+  },
+  {
+    "id": "ch10-Q42",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 42,
+    "stem": "During follow-up of a child with MCDK, a renal ultrasound reveals contralateral hydronephrosis. Further imaging confirms pelviureteric junction obstruction. This association is known to occur in what proportion of children with MCDK?",
+    "options": [
+      { "id": "a", "text": "1–2%" },
+      { "id": "b", "text": "5–10%" },
+      { "id": "c", "text": "15–20%" },
+      { "id": "d", "text": "25–30%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Varying degrees of contralateral PUJ obstruction are present in 5–10% of children with MCDK and are managed conservatively or surgically according to their severity.\n\n[A] is wrong because 1–2% underestimates the frequency of this association.\n\n[C] is wrong because 15–20% overestimates the association. The correct range is 5–10%.\n\n[D] is wrong because 25–30% is too high for PUJ obstruction in MCDK.\n\nTeaching point: Contralateral PUJ obstruction is the most common associated anomaly in MCDK, occurring in 5–10% of cases, and should be looked for on follow-up imaging.",
+    "topic": "MCDK — Associated Anomalies"
+  },
+  {
+    "id": "ch10-Q43",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 43,
+    "stem": "A 2-year-old child presents with an abdominal mass and haematuria. CT demonstrates a multilocular cystic lesion arising from the kidney. Regarding the epidemiology of this condition, multilocular renal cyst has a bimodal age distribution with peaks occurring in:",
+    "options": [
+      { "id": "a", "text": "Early childhood (2–5 years) and late adulthood (60+ years)" },
+      { "id": "b", "text": "Infancy and early adult life" },
+      { "id": "c", "text": "Adolescence and middle age (40–50 years)" },
+      { "id": "d", "text": "The neonatal period and late childhood (8–12 years)" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Multilocular renal cyst (cystic nephroma) has a bimodal age distribution, with one peak in infancy and a second peak in early adult life. Children account for 30–50% of all cases.\n\n[A] is wrong because while infancy is correct as one peak, late adulthood is not the second peak; the second peak is in early adult life.\n\n[C] is wrong because adolescence and middle age do not represent the typical bimodal peaks for this condition.\n\n[D] is wrong because the neonatal period is not one of the peaks; the first peak is in infancy (beyond the neonatal period).\n\nTeaching point: Multilocular renal cyst (cystic nephroma) has a characteristic bimodal age distribution — infancy and early adult life — which can be a clue to the diagnosis.",
+    "topic": "Multilocular Renal Cyst"
+  },
+  {
+    "id": "ch10-Q44",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 44,
+    "stem": "A 3-year-old child presents with haematuria and an abdominal mass. CT shows a multilocular cystic renal lesion. The main diagnostic challenge is distinguishing this from:",
+    "options": [
+      { "id": "a", "text": "Simple renal cyst" },
+      { "id": "b", "text": "Cystic Wilms tumour" },
+      { "id": "c", "text": "Multicystic dysplastic kidney" },
+      { "id": "d", "text": "Renal abscess" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Multilocular renal cyst can create diagnostic difficulty because of similarities with cystic forms of Wilms tumour. Even with sophisticated imaging (CT, MRI), it may sometimes be difficult to distinguish between the two, necessitating histological confirmation.\n\n[A] is wrong because a simple renal cyst is a unilocular cyst with a thin wall and anechoic contents, which is easily distinguishable from a multilocular cystic lesion.\n\n[C] is wrong because MCDK consists of multiple non-communicating cysts with no solid tissue and 0% function on DMSA, which differs from multilocular renal cyst.\n\n[D] is wrong because a renal abscess presents with signs of infection (fever, pain, elevated inflammatory markers) and has characteristic ultrasound features of a complex fluid collection with surrounding inflammation.\n\nTeaching point: The main differential diagnosis for multilocular renal cyst (cystic nephroma) in children is cystic Wilms tumour; because of this diagnostic challenge, nephrectomy is often performed rather than nephron-sparing surgery.",
+    "topic": "Multilocular Renal Cyst"
+  },
+  {
+    "id": "ch10-Q45",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 45,
+    "stem": "A 4-year-old child has undergone nephrectomy for a multilocular renal cyst. The parents are concerned about the risk of malignancy. Which statement about the malignant potential of this lesion in children is most accurate?",
+    "options": [
+      { "id": "a", "text": "It is a premalignant lesion in children, mandating routine surveillance imaging" },
+      { "id": "b", "text": "It has a high risk of malignant transformation, requiring adjuvant chemotherapy" },
+      { "id": "c", "text": "It is not generally regarded as a premalignant lesion in children" },
+      { "id": "d", "text": "It is invariably benign with no reported cases of associated malignancy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Although malignancy associated with multilocular renal cyst has been reported in adult life, it is not generally regarded as a premalignant lesion in children. The lesion is generally considered benign in the paediatric population.\n\n[A] is wrong because it is not considered premalignant in children, so routine surveillance imaging is not mandated for malignancy risk.\n\n[B] is wrong because it has a low risk of malignant transformation in children; adjuvant chemotherapy is not indicated.\n\n[D] is wrong because although rare, malignancy has been reported in association with multilocular renal cyst in adult life, so it is not invariably benign across all ages.\n\nTeaching point: Multilocular renal cyst (cystic nephroma) in children is generally benign and not considered premalignant, which influences the approach to management and follow-up.",
+    "topic": "Multilocular Renal Cyst"
+  },
+  {
+    "id": "ch10-Q46",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 46,
+    "stem": "A rare but recognised association exists between multilocular renal cyst (cystic nephroma) and which of the following conditions?",
+    "options": [
+      { "id": "a", "text": "Neurofibromatosis type 1" },
+      { "id": "b", "text": "Denys-Drash syndrome" },
+      { "id": "c", "text": "Beckwith-Wiedemann syndrome" },
+      { "id": "d", "text": "Pleuropulmonary blastoma" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: A very rare association has been reported between multilocular renal cyst and pleuropulmonary blastoma, which is a premalignant lung cyst condition. This association is important to be aware of when evaluating children with multilocular renal lesions.\n\n[A] is wrong because neurofibromatosis type 1 is associated with pheochromocytoma, renal artery stenosis, and other tumours, but not multilocular renal cyst.\n\n[B] is wrong because Denys-Drash syndrome (WT1 mutation) is associated with Wilms tumour, gonadal dysgenesis, and nephropathy, not multilocular renal cyst.\n\n[C] is wrong because Beckwith-Wiedemann syndrome is associated with Wilms tumour and other embryonal tumours, not multilocular renal cyst.\n\nTeaching point: Multilocular renal cyst has a rare association with pleuropulmonary blastoma, so the lungs should be evaluated when this diagnosis is made.",
+    "topic": "Multilocular Renal Cyst"
+  },
+  {
+    "id": "ch10-Q47",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 47,
+    "stem": "A 7-year-old child undergoes abdominal ultrasound for recurrent abdominal pain and is found to have bilateral simple renal cysts. The family history is negative for renal disease. This finding is most suggestive of:",
+    "options": [
+      { "id": "a", "text": "Autosomal dominant polycystic kidney disease" },
+      { "id": "b", "text": "Autosomal recessive polycystic kidney disease" },
+      { "id": "c", "text": "Tuberous sclerosis complex" },
+      { "id": "d", "text": "Von Hippel-Lindau disease" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: The presence of bilateral renal cysts, even in a child with negative family history, strongly suggests ADPKD. A single simple cyst may occasionally be an early manifestation of ADPKD, but bilateral cysts are highly characteristic.\n\n[B] is wrong because ARPKD presents with diffusely enlarged echogenic kidneys, not discrete simple cysts. The ultrasound appearance is entirely different.\n\n[C] is wrong because tuberous sclerosis typically presents with renal angiomyolipomas rather than simple cysts, and would likely have other clinical features.\n\n[D] is wrong because von Hippel-Lindau disease involves renal cell carcinoma and cysts, but is less common than ADPKD as a cause of bilateral simple cysts in a child.\n\nTeaching point: Bilateral simple renal cysts in a child, even without family history, should raise suspicion for ADPKD and warrants further evaluation including family screening.",
+    "topic": "Simple Renal Cyst"
+  },
+  {
+    "id": "ch10-Q48",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 48,
+    "stem": "A paediatric radiologist notes that simple renal cysts are a common incidental finding on abdominal imaging in adults but are rarely encountered in children. This observation most strongly supports which theory regarding their aetiology?",
+    "options": [
+      { "id": "a", "text": "They are inherited in an autosomal dominant pattern with age-dependent penetrance" },
+      { "id": "b", "text": "They are acquired rather than congenital in origin" },
+      { "id": "c", "text": "They represent a mild form of ADPKD" },
+      { "id": "d", "text": "They are caused by recurrent urinary tract infections during childhood" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The rarity of simple renal cysts in children compared with adults has been interpreted as evidence that they are acquired rather than congenital. If they were congenital, one would expect a more uniform age distribution.\n\n[A] is wrong because simple cysts do not follow an autosomal dominant inheritance pattern. ADPKD, which does, typically presents with bilateral cysts.\n\n[C] is wrong while a single cyst can occasionally be an early manifestation of ADPKD, the observation that simple cysts are common in the general elderly population argues against all being formes frustes of ADPKD.\n\n[D] is wrong because there is no evidence linking simple renal cysts to UTIs.\n\nTeaching point: The age distribution of simple renal cysts (rare in children, common in adults) strongly suggests they are acquired lesions that develop over time.",
+    "topic": "Simple Renal Cyst"
+  },
+  {
+    "id": "ch10-Q49",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 49,
+    "stem": "An asymptomatic simple renal cyst is discovered incidentally on ultrasound in a 6-year-old child. After 3 years of follow-up, the cyst remains unchanged in size and the child remains asymptomatic. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Laparoscopic deroofing to prevent future complications" },
+      { "id": "b", "text": "Annual CT surveillance for malignant transformation" },
+      { "id": "c", "text": "Percutaneous aspiration with alcohol sclerotherapy" },
+      { "id": "d", "text": "Discontinue ultrasound surveillance as the cyst is asymptomatic and stable" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Asymptomatic simple renal cysts in children can be safely managed conservatively. Ultrasound follow-up can be discontinued after 2–3 years if the cyst remains asymptomatic and unchanged in size, as the risk of complications is extremely low.\n\n[A] is wrong because laparoscopic deroofing is reserved for symptomatic cysts that cause pain or mass effect, not for asymptomatic stable cysts.\n\n[B] is wrong because simple renal cysts have no malignant potential; CT surveillance is not indicated and would expose the child to unnecessary radiation.\n\n[C] is wrong because percutaneous aspiration with sclerotherapy is reserved for symptomatic cysts; it carries a risk of recurrence and is not indicated for asymptomatic cysts.\n\nTeaching point: Asymptomatic simple renal cysts in children can be safely observed, with surveillance discontinued after 2–3 years of stability. Intervention is indicated only for symptoms.",
+    "topic": "Simple Renal Cyst"
+  },
+  {
+    "id": "ch10-Q50",
+    "chapter": "Cystic Renal Disease",
+    "chapterSlug": "ch10_cystic-renal-disease",
+    "chapterNumber": 10,
+    "questionNumber": 50,
+    "stem": "A child with MCDK is discharged from urological follow-up after the MCDK involutes. The parents are advised that lifelong annual blood pressure monitoring is recommended because:",
+    "options": [
+      { "id": "a", "text": "Residual MCDK tissue can cause renin-mediated hypertension even after involution" },
+      { "id": "b", "text": "The solitary contralateral kidney carries a long-term risk of hyperfiltration injury and hypertension" },
+      { "id": "c", "text": "Hypertension is often the first sign of malignant transformation in an involuted MCDK" },
+      { "id": "d", "text": "Blood pressure fluctuates significantly in children with a history of MCDK" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Lifelong blood pressure monitoring is recommended for patients with a history of MCDK because of the potential long-term risk of hyperfiltration injury and hypertension developing in the solitary contralateral kidney. This risk persists regardless of whether the MCDK involuted spontaneously or was removed surgically.\n\n[A] is wrong because once the MCDK has involuted completely, there is no residual tissue to cause renin-mediated hypertension.\n\n[C] is wrong because malignant transformation in an involuted MCDK is not a recognised phenomenon; the Wilms tumour risk is extremely low and not the basis for blood pressure monitoring.\n\n[D] is wrong because there is no evidence that blood pressure fluctuates significantly in children with a history of MCDK more than in the general population.\n\nTeaching point: Lifelong annual blood pressure monitoring is recommended after MCDK involution or nephrectomy because the solitary contralateral kidney is at risk of hyperfiltration injury and hypertension over the long term.",
+    "topic": "MCDK — Follow-up"
+  }
+]

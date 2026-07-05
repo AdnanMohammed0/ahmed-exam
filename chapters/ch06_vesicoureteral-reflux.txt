@@ -1,0 +1,653 @@
+                                                                                               6
+Vesicoureteral Reflux
+
+ROHIT TEJWANI and JONATHAN C ROUTH
+
+
+
+Topics covered
+
+Etiology and genetic basis of VUR                    Treatment options for children with
+CAKUT and reflux nephropathy                            VUR
+Clinical features                                    Nonoperative management with continuous
+Investigation and diagnostic Imaging                    antibiotic prophylaxis
+Diagnosis of VUR in children with UTI’s              Endoscopic correction
+Screening for VUR in siblings                        Ureteroneocystostomy
+Screening for VUR in prenatally detected             Other surgical options
+   hydronephrosis
+
+
+
+
+ INTRODUCTION                                            It has long been recognized that urinary tract
+                                                     infection (UTI) and pyelonephritis are impor-
+                                                     tant causes of morbidity in childhood. By the
+Vesicoureteral reflux (VUR) is defined as the ret-
+                                                     mid- to late-20th century, VUR was known to
+rograde flow of urine from the bladder into the
+                                                     play a central role in linking UTI, pyelonephri-
+upper urinary tract. It can be classified as pri-
+                                                     tis, renal parenchymal scarring, and end-stage
+mary or secondary. Primary VUR is due to an
+                                                     renal disease (ESRD). As a result of better under-
+intrinsic failure of the valve mechanism at the
+                                                     standing of the natural history of VUR and the
+ureterovesical junction whereas secondary VUR
+                                                     availability of safe and effective prophylactic
+results from sustained exposure of the valve
+                                                     antibiotics, continuous antibiotic prophylaxis
+mechanism to the effects of elevated intravesical
+                                                     (CAP) became adopted as the mainstay of the
+pressure. Secondary VUR is a feature of bladder
+                                                     initial management of children with VUR in
+outflow obstruction such as posterior urethral
+                                                     the 1970s. However, surgical management by
+valves or functional abnormalities such as neu-
+                                                     ureteroneocystostomy (ureteric reimplantation)
+rogenic bladder or severe dysfunctional voiding.
+                                                     remained the treatment of choice for children
+This chapter is largely devoted to primary VUR
+                                                     experiencing recurrent/breakthrough UTIs
+because secondary VUR is covered in more detail
+                                                     or unresolved VUR. In the 1980s, endoscopic
+in the other relevant chapters (9 and 13).
+
+                                                                                                    69
+70 Vesicoureteral Reflux
+
+
+
+correction by injection of biocompatible mate-        by aberrant interaction with the metanephric
+rials (STING procedure) was introduced as a           mesenchyme leading to congenital renal dyspla-
+less invasive alternative to open surgery. More       sia or hypoplasia. Attempts to identify a single
+recently, robotic and laparoscopic ureteroneo-        “reflux gene” have been unrewarding and there
+cystostomy have been added to the range of sur-       have been very few studies with sufficient power
+gical options.                                        to define the genetic basis of this condition. The
+    Numerous studies and controlled trials have       available evidence indicates that nonsyndromic
+been undertaken to compare the effectiveness of       VUR has a polygenetic basis characterized by
+conservative and surgical management in prevent-      an autosomal dominant pattern of transmis-
+ing UTIs and renal scarring. However, these studies   sion with variable penetrance and expression.
+often yielded conflicting or inconclusive findings    Amongst the genes expressed in the ureteric bud
+which failed to demonstrate any convincing advan-     which have been have been implicated in VUR
+tage of one form of treatment over another. This      are RET, PAX2, EYA1, SALL1, SIX1, SIX2, BMP4,
+probably reflects the difficulty in designing and     TNXB, and GATA3. Similarly, genes expressed
+conducting studies to take account of the many        in the metanephric tissue (SLIT2, ROBO2, and
+different variables in study populations. Meta-       SOX17), have been linked to congenital renal
+analyses have demonstrated a definite benefit from    malformations associated with VUR as have
+CAP in reducing the frequency of recurrent UTIs.      other genes expressed in the developing kidney
+However, the incidence of de novo renal scarring      such as WNT4, FGF20, AGT, REN, ACE, AGTR1,
+is relatively low in both medically and surgically    and UMOD.
+treated patients and successful surgical correction      It is hoped that ongoing and future genetic
+of VUR has also been demonstrated to reduce the       research may yield valuable insights into the
+risk of recurrent UTIs.                               genetic basis of VUR which could contribute to
+    Against this background of uncertainty, numer-    advances in diagnosis and management.
+ous professional organizations and national bod-
+ies have published guidelines for the diagnosis and
+management of UTI and VUR.
+                                                       CAKUT (CONGENITAL
+                                                       ANOMALY OF THE KIDNEYS
+                                                       AND URINARY TRACT) AND
+ ETIOLOGY AND GENETIC BASIS                            REFLUX NEPHROPATHY
+ OF VUR
+                                                      VUR is the commonest congenital anomaly of
+The true incidence of VUR in children is diffi-       the kidneys and urinary tract (CAKUT). It is a
+cult to ascertain with accuracy but the available     major risk factor in the etiology of UTI and an
+evidence indicates that it can be found in 1–2%       important factor in bladder/bowel dysfunction
+of younger children, decreasing in the older age      (BBD). VUR is frequently identified as a causative
+groups. There is ample evidence that VUR has          or contributory factor in children with end-stage
+a strong genetic basis – with the incidence of        renal disease (ESRD). The presence of VUR is
+VUR in infant siblings of affected children being     associated with a threefold increase in the inci-
+approximately 30%, rising to 50% in the offspring     dence of acute pyelonephritis and pyelonephritic
+of affected parents. Primary VUR is thought to        parenchymal scarring. However, the presence
+represent the outcome of a developmental anom-        of VUR is not an essential prerequisite because
+aly of the ureteral bud which typically results       both pyelonephritis and scarring can occur in the
+in a laterally placed ureteral orifice and defec-     absence of VUR.
+tive valve mechanism caused by an abnormally             The term “reflux nephropathy” encom-
+short intramural/submucosal tunnel. Severe            passes patterns of renal damage which may be
+ureteral bud anomalies may be accompanied             the outcome of congenial dysplasia, acquired
+                                                                     CAKUT / Asymptomatic Presentation 71
+
+
+
+pyelonephritic scarring or, frequently, a combina-     under the age of four are considerably more
+tion of both mechanisms. However, the weight of        susceptible. In addition to gender-related differ-
+experimental and clinical evidence indicates that      ences there is considerable geographic, racial,
+the reflux of sterile urine at physiological void-     and ethnic variation in rates of reflux nephrop-
+ing pressures does not cause renal scarring or         athy worldwide. Which of the different forms of
+impairment of renal growth. Reflux nephropa-           medical and surgical management is most effec-
+thy accounts for more than 20% of children on          tive in protecting the kidney against acquired
+end-stage renal failure programs and also poses        reflux nephropathy remains the subject of con-
+a significant long-term risk of less severe forms of   siderable controversy.
+chronic kidney disease.
+    Severe congenital renal damage (renal dys-
+plasia) is seen mainly in conjunction with high        Presentation
+grade (IV–V) VUR (Figure 6.1). Histological
+studies of nephrectomy specimens in adults             Symptomatic presentation
+with severe reflux nephropathy have shown that
+                                                       Urinary tract infection (UTI) is the common-
+whereas congenital renal damage is seen more
+commonly in males, pyelonephritic scarring is          est form of clinical presentation. The incidence of
+a far more important cause of long-term renal          VUR identified during the investigation of chil-
+damage in females. Although, renal morphol-            dren with symptomatic UTIs has been historically
+ogy is usually normal at the time of birth in          quoted to be as high 30%. However, this figure
+children with low to moderate grades of VUR            is almost certainly lower in children with mild,
+a small proportion may have renal hypoplasia –         predominantly lower tract UTIs. VUR is strongly
+a variant in which the normal renal outline is         associated with Bladder and Bowel Dysfunction
+preserved but the kidney is reduced in size and        (BBD) – a clinical syndrome defined by the
+contains fewer nephrons than a normal kidney.          coexistence of functional constipation and lower
+Pyelonephritic scarring can occur at any age           urinary tract symptoms (LUTS). Comorbid con-
+but the kidneys of infants and young children          ditions associated with BBD include psychiatric/
+                                                       developmental disorders, and obesity.
+                                                          Loin pain can occur as a symptom of pyelone-
+                                                       phritis and pain may rarely denote the presence
+                                                       of secondary pelvi-ureteric junction obstruc-
+                                                       tion. However, pain is not generally considered
+                                                       to be a feature of uncomplicated primary VUR.
+                                                       VUR sometimes comes to light for the first time
+                                                       in patients presenting with renal insufficiency
+                                                       and/or hypertension who may have little if any,
+                                                       history of documented symptomatic UTIs. In
+                                                       such cases the reflux nephropathy may be con-
+                                                       genital in etiology or the late consequence of
+                                                       undiagnosed pyelonephritis in early childhood.
+
+
+                                                       Asymptomatic Presentation
+                                                       This includes VUR detected during screening of
+Figure 6.1 DMSA scan in a one month old infant
+with prenatally detected unilateral grade V VUR;       asymptomatic siblings and the offspring of par-
+9% differential function in the affected kidney.       ents with VUR and VUR identified during the
+No urinary tract infection prior to the DMSA.          investigation of infants with prenatally detected
+Findings demonstrate severe loss of function           urinary tract dilatation (prenatal hydronephrosis
+due to congenital dysplasia.                           [PNH]).
+72 Vesicoureteral Reflux
+
+
+
+ INVESTIGATION
+
+Because the majority of children with VUR ini-
+tially present with UTI, the diagnostic process
+usually commences with an ultrasound (US) scan
+of the urinary tract.
+    Ultrasound has the advantage of being a non-
+invasive investigation which does not entail any
+exposure to radiation. However, it is only capable
+of detecting those higher grades of VUR which          Figure 6.2 Grades of reflux (classification devised
+give rise to detectable dilatation of the upper        by international reflux study committee). Grade I:
+urinary tract. US is an unreliable routine screen-     reflux into ureter only: Grade II reflux into non-
+                                                       dilated upper tract (pelvis and calyces); Grade III
+ing test because of the high false negative rates
+                                                       reflux accompanied by mild to moderate dilata-
+in detecting lower nondilating grades of VUR.          tion without “blunting” of calyces; Grade IV:
+Nevertheless, US may still yield relevant infor-       moderate dilatation with some loss of normal
+mation such as increased post void residual urine      calyceal appearances: Grade V gross dilatation
+volume and bladder wall thickening in children         and tortuosity with severe “blunting” of calyces.
+whose VUR is linked to dysfunctional void-
+ing. Renal scarring can also be visualized on          Study in the 1970s (Figure 6.2). Nevertheless, the
+US – although 99 m-Tc dimercaptosuccinic acid          grading of VUR remains somewhat subjective –
+(DMSA) is the most sensitive imaging modality          prompting some investigators to develop new diag-
+for this purpose. Contrast-enhanced ultrasound         nostic parameters such as the ureteral diameter
+(CEUS) is a variant of ultrasonography which           ratio (UDR) or the VUR index (VURx).
+employs instillation into the bladder of a solution       Radionuclide cystography (RNC) was first
+containing microbubbles which appear echogenic         introduced in the 1970s as an alternative to flu-
+on US scanning. It has been advocated for the          oroscopic VCUG, with the advantages that is
+diagnosis of VUR but because it requires urethral      does not require urethral catheterization and the
+catheterization and specialized equipment it has       radiation dose is lower (Figure 6.3). The technical
+not found wide scale acceptance. (See Chapter 3.)      details are described in Chapter 3. However, the
+                                                       advantages of RNC are offset by poor sensitivity
+                                                       for the visualization of lower grades of VUR and
+ VOIDING                                               unsuitability for use in infants and younger chil-
+ CYSTOURETHROGRAPHY (VCUG)                             dren who are not yet toilet trained.
+
+Fluoroscopic voiding cystourethrography (VCUG)
+remains the definitive “gold standard” investigation    DIAGNOSTIC IMAGING FOR
+for the diagnosis and evaluation of VUR. Following
+                                                        VUR AFTER URINARY TRACT
+urethral catheterization, the bladder is filled with
+water soluble contrast and X-ray screening is per-
+                                                        INFECTION
+formed during the filling and voiding phases.
+Various technical modifications have been intro-       In the past, VCUG was routinely included in stan-
+duced to reduce the exposure to radiation. Unlike      dard protocols and guidelines for the investiga-
+other modalities VCUG not only permits grading         tion of children with UTIs. However, this resulted
+of VUR but can also provide valuable additional        in many children (particularly those with lower
+anatomical information on the lower urinary tract      tract UTIs) being over-investigated and subjected
+which may be of considerable relevance in some         to unnecessary and invasive investigations which
+cases. The most widely used grading system is the      yielded negative results. There were also impor-
+one originally devised by the International Reflux     tant cost implications. To address these concerns
+                                             Diagnostic imaging for VUR after urinary tract infection 73
+
+
+
+
+Figure 6.3 Representative images from indirect radionuclide cystogram.
+
+evidence-based guidelines have been published by         There is broad agreement in the guidelines
+a number of professional organizations includ-       that further investigations are indicated for those
+ing the American Academy of Pediatrics (AAP),        children who experience recurrent or febrile UTIs
+European Association of Urology and European         and those in whom the initial renal and bladder
+Society for Paediatric Urology (EAU/ESPU),           ultrasound scan demonstrated any abnormal-
+European Society of Paediatric Radiology (ESPR),     ity (notably upper tract dilatation or evidence
+and National Institute for Health and Clinical       of renal damage). In addition, UTI caused by
+Excellence (NICE) in the United Kingdom. A           an “atypical” organism such as Pseudomonas or
+more detailed review of these guidelines is con-     Proteus is generally regarded as an indication for
+tained in Chapter 5. The current AAP guidelines      further investigation.
+recommend that the use of renal and bladder              In practice, however, many clinicians continue
+ultrasound (RBUS) scan should initially be lim-      to routinely recommend a Renal and Bladder
+ited to children who have experienced a febrile      Ultrasound for any child who has experienced a
+UTI while the NICE guidelines state that RBUS is     documented or presumed UTI.
+not necessary in a child aged over 6 months who          The principal dilemma lies in deciding on the
+has experienced a single “uncomplicated” lower       extent of further investigation (notably VCUG
+tract UTI. There is considerable variation between   and DMSA) in children with normal appearances
+guidelines with regard to the indications and tim-   of the urinary tract on ultrasound. Some of these
+ing of VCUG and DMSA in the diagnostic path-         children (mainly girls with nondilating VUR)
+way. It should be noted, however, that relatively    would probably benefit from further investigation
+few studies have been undertaken to validate the     because the discovery of VUR might make them
+different guidelines.                                candidates for intervention, notably endoscopic
+74 Vesicoureteral Reflux
+
+
+
+correction, which could reduce their risk of fur-           within the context of the institution and healthcare
+ther UTIs and possible scarring. Conversely,                system in which they practice.
+children who do not have VUR would have
+undergone an unnecessary and invasive investi-
+gation which would not alter their management.               SCREENING FOR VUR IN
+    The standard approach, which has been termed             SIBLINGS AND THE CHILDREN
+“bottom up”, is to proceed to VCUG in the first              OF PARENTS WITH VUR
+instance with DMSA being performed later if it
+appears to be indicated by the VCUG findings.
+                                                            The rationale for sibling screening is based on an
+However, a fundamentally different philosophy
+                                                            assumption that if VUR in a sibling is diagnosed
+(known colloquially as the “top-down” approach)
+                                                            early, measures can be implemented to prevent
+has been advocated more recently which relies
+                                                            future UTI and renal scarring. Guidelines published
+on RBUS and DMSA in the first instance. In the
+                                                            by both the AAP and EAU recommend that parents
+“top down approach” the use of a VCUG is lim-
+                                                            should be informed about the increased genetic risk
+ited to those children with evidence of renal scar-
+                                                            of VUR in siblings and should be offered sibling
+ring. Proponents of this approach argue that even
+                                                            screening. However, the only feasible screening test
+if VUR is present if it is not accompanied by any
+                                                            is renal and bladder ultrasound (RBUS) – which
+changes in the renal parenchyma it is unlikely to
+                                                            has only a limited ability to detect VUR. Only if a
+be of clinical significance or pose a threat of future
+                                                            sibling is found to have an abnormality on RBUS
+renal damage. Moreover, intervention is unlikely to
+                                                            is VCUG recommended. If parents do not opt for
+be required if the kidneys appear entirely normal
+                                                            screening, they (and the child’s primary care physi-
+on RBUS and DMSA. If this argument is valid, the
+                                                            cian) should be made aware that any documented or
+“top down” approach offers the advantages of fewer
+                                                            suspected UTIs should be treated promptly and any
+children being submitted to potentially distressing
+                                                            unexplained febrile episodes should be regarded as
+investigations and possible cost savings. However,
+                                                            UTIs unless proven otherwise. The occurrence of
+the validity of this approach remains unproven and
+                                                            UTI in a sibling of a child with VUR requires full
+the findings of a recent meta-analysis have indi-
+                                                            evaluation, including VCUG.
+cated that DMSA lacks the sensitivity and specific-
+                                                                The effectiveness of sibling screening in prevent-
+ity to serve as a reliable screening for identifying
+                                                            ing UTIs and renal scarring has never been reliably
+children with high grade VUR. Criticism has been
+                                                            established by randomized controlled studies – not
+leveled at the NICE guidelines’ highly selective
+                                                            least because of the difficulty in undertaking such
+indications for VCUG in the light of study find-
+                                                            studies. By one estimate, however, more than 30
+ings which suggest that moderate or high grades of
+                                                            asymptomatic siblings would need to be screened
+VUR are missed in a significant proportion of chil-
+                                                            at a cost of US$56,000 in order to prevent a single
+dren when these guidelines are applied.
+                                                            febrile UTI. In summary, there is currently only very
+    Faced with an abundance of (sometimes conflict-
+                                                            limited evidence to indicate that sibling screening is
+ing) guidelines how should the clinician decide how
+                                                            a worthwhile and cost effective measure. Screening
+best to investigate a possible diagnosis of VUR in a
+                                                            is probably most useful in the first year or two of life
+child with UTI? Much will depend on factors such as
+                                                            but of very limited benefit in older siblings.
+the age and gender of the child, their medical history
+and clinical presentation, the diagnostic protocols
+employed by the institution’s radiology department           SCREENING FOR VUR IN
+and possible cost implications. It is also essential that
+                                                             CHILDREN WITH PRENATAL
+the parents are given all the information they need to
+make a fully informed contribution to the decision-
+                                                             HYDRONEPHROSIS (PNH)
+making process. In consultation with the parents,
+however, it is ultimately for clinicians to decide on       VUR may be manifest as dilatation of the fetal
+an evidence-based approach which is best suited to          urinary tract – prenatal hydronephrosis (PNH)
+the needs of the individual child (and their parents)       detected on prenatal ultrasonography. However,
+                                                               Treatment options for children with VUR 75
+
+
+
+prenatal ultrasonography cannot reliably distin-        of duplex kidney should also be added to this list
+guish VUR from other causes of fetal urinary tract      because of the high incidence of VUR into lower
+dilatation and a postnatal VCUG is required to          pole moieties.
+confirm the diagnosis. Prenatally detected VUR is
+predominantly a condition of boys – in whom it
+is typically characterized by high grade VUR. By
+contrast, when VUR is diagnosed following clini-         TREATMENT OPTIONS FOR
+cal presentation with UTI, girls outnumber boys          CHILDREN WITH VUR
+by a ratio of approximately five to one.
+    In the past, postnatal VCUG was performed           Following the introduction of VCUG for the rou-
+routinely in all infants with PNH – including           tine investigation of UTI in children in the 1960s
+those with mild dilatation or “pelvi caliectasis”       and 1970s it became clear that VUR was far more
+(corresponding to grades I and II in the Society        common than had previously been recognized.
+for Fetal Urology [SFU]) classification. When           This led to the introduction and wide scale use of
+performed routinely in infants with mild dilata-        surgical procedures for the correction of VUR. By
+tion VCUG demonstrates an incidence of VUR of           the end of the 1970s, however, a more conservative
+around 10%–15%. However, this VUR is usually            approach had evolved which was underpinned by
+low grade and of doubtful clinical significance.        emerging evidence that VUR (particularly lower
+There is no convincing evidence that routine            grades) has a strong tendency to resolve sponta-
+screening of all infants with prenatally detected       neously during childhood (Table 6.1). In addition,
+hydronephrosis by VCUG is a worthwhile or cost          the findings of clinical studies were being pub-
+effective means of preventing UTIs and renal            lished which appeared to endorse the effective-
+scarring. For these reasons, American Urological        ness of continuous antibiotic prophylaxis (CAP).
+Association and Society for Fetal Urology guide-        In the mid-1980s the treatment options were
+lines now advocate a more selective role for            further expanded by the introduction of a mini-
+VCUG based on the following prenatal or early           mally invasive surgical intervention in the form
+postnatal ultrasonographic criteria; ureteral dila-     of endoscopic correction.
+tation (hydroureter), bladder abnormalities and             The primary goal in the management of a
+moderate or severe grades of PNH, i.e. grades III–      child with VUR can be defined as the preven-
+IV on the SFU scale. US appearances suggestive          tion of febrile UTIs and pyelonephritic scarring.
+
+Table 6.1 Rates of spontaneous resolution and successful correction of vesicoureteral reflux pooled
+results of systematic reviews
+
+                                                                                 Endoscopic injection
+               Spontaneous       Spontaneous                                        dextranomer/
+               resolution at     resolution at                Open                 hyaluronic acid
+                  1 year            5 years           ureteroneocystostomy            polymer
+                 Resolution        Resolution         % Successful correction   % Successful correction
+                   Rate              Rate                     VUR                       VUR
+Grade I             39%               92%                      99%                        89%
+Grade II            28%               81%                      99%                        83%
+Grade III           10%               42%                      98%                        71%
+Grade IV             6%               16%                      99%                        59%
+Grade V               -                -                       81%                        62%
+Weighted            17%               53%                      97%                        72%
+  average:
+  all grades
+76 Vesicoureteral Reflux
+
+
+
+However, another important goal is reducing           habitual constipation, is recognized and actively
+the morbidity arising from recurrent lower tract      treated. The success of medical management
+UTIs which often impacts on general health and        may be compromised if bowel function is not
+educational and social activities.                    addressed because it is likely to exacerbate dys-
+   As far as possible, decisions on optimal man-      functional voiding and increase the risk of UTIs.
+agement should be evidence based and individu-
+alized according to the child’s gender, age, grade
+of VUR, clinical history (frequency and severity
+of UTIs), renal function, and any associated dis-      MEDICAL MANAGEMENT
+turbance of bowel function. These decisions will
+also be strongly guided by parental preferences       This relies mainly on the use of continuous anti-
+and the experience and clinical judgement of the      biotic prophylaxis (CAP) combined with other
+clinician. The options currently available can be     measures intended to reduce the risk of UTIs and
+summarized as:                                        normalize bladder function.
+                                                          Since it was first described by Smellie and
+●● Medical management with continuous antibi-         colleagues in the 1970s, CAP has been widely
+   otic prophylaxis.                                  regarded as the standard approach for the initial
+●● Endoscopic correction by injection of bulking      management of VUR. In the majority of children
+   agents.                                            with grades I to III VUR there is a high prob-
+●● Open or minimally invasive surgical cor-           ability that it will resolve spontaneously during
+   rection by ureteroneocystostomy (ureteral          the course of childhood. The use of CAP in these
+   reimplantation).                                   children is intended to prevent UTIs and possible
+                                                      scarring while the VUR is in the process of resolv-
+                                                      ing. Depending on their availability in differ-
+                                                      ent countries the most widely used prophylactic
+ TREATMENT OF BLADDER/                                antibiotics are a trimethoprim-sulfamethoxazole
+ BOWEL DYSFUNCTION                                    combination, trimethoprim alone, nirofuran-
+                                                      toin, and cephalexin. A major drawback of medi-
+As already noted, there is a close relationship       cal management by CAP is the extent to which
+between bladder and bowel dysfunction and             its success is dependent on patient (and paren-
+VUR and bladder symptomatology. When assess-          tal) compliance with long-term antibiotic usage.
+ing a child with VUR it is essential to enquire       Some studies have suggested that compliance
+about their bladder function. Ongoing dysfunc-        rates may be as low as 40%.
+tional voiding which is associated with infre-            CAP has been the subject of several high-
+quent or incomplete voiding is likely to increase     quality randomized trials, including the
+susceptibility to ascending bacterial infection. In   PRIVENT study, Swedish Reflux Trial, and
+addition, elevated intravesical pressure second-      RIVUR study. In addition, there have been a num-
+ary to detrusor instability associated with dys-      ber of systematic reviews of the published data on
+functional voiding may exacerbate the severity of     CAP. A detailed review of the trial data is beyond
+any VUR which is present or prolong the duration      the scope of this chapter but the key findings can
+of VUR which might otherwise have ceased spon-        be briefly summarized as follows: the weight of
+taneously. Failure to address underlying bladder      published data confirms that CAP significantly
+dysfunction will not only compromise the effec-       reduces the incidence of febrile and symptom-
+tiveness of medical management but will reduce        atic UTIs in children with VUR. For example, in
+the chances of success following surgical manage-     the Swedish Reflux Trial (in children with grades
+ment. The different types of functional voiding       III–IV VUR) the incidence of febrile UTIs in the
+disorder and the various treatment options are        CAP arm of the study was 19% whereas the inci-
+considered in Chapter 12. It is also important to     dence of febrile UTIs in children allocated to the
+ensure that any associated bowel disorder, notably    “surveillance” arm of the study was three times
+                                                   Technical aspects / Results of Endoscopic Correction 77
+
+
+
+higher (57%). The evidence in relation to CAP and        (PDMS) – macroplastique and autologous chon-
+renal scarring is less clear cut. While some stud-       drocytes. However, these were superseded by the
+ies have identified an apparent reduction in new         introduction of dextranomer/hyaluronic acid (Dx/
+scar formation in children on CAP other studies          HA) copolymer “Deflux.” In the United States, this
+have failed to find any statistically significant dif-   continues to be the only injectable agent approved
+ference between children on CAP and controls.            by the Food and Drug Administration (FDA).
+In part this probably reflects the fact that most
+scarring has already occurred by the time VUR
+is first diagnosed and the incidence of de novo
+scarring thereafter is relatively low, regardless of      TECHNICAL ASPECTS
+which type of management is adopted.
+    Some studies have reported that the benefit          Although various modifications have been
+of CAP is independent of age, gender, and grade          described, the basic technique entails cysto-
+of VUR. However, the majority of studies have            scopic visualization of the ureteral orifice using
+demonstrated that girls (particularly those with         an instrument with a “working channel” to
+low to moderate grades of VUR) are consider-             accommodate a rigid or flexible needle. Under
+ably more likely to benefit from CAP than boys.          vision, the mucosa is punctured and the needle
+Indeed, after the first year of life the overall inci-   is advanced into a submucosal plane to facilitate
+dence of UTIs in boys with primary VUR is low,           injection of the implantable agent in the immedi-
+regardless of how they are managed.                      ate vicinity of the ureteral orifice. In the standard
+    The results of the various reflux trials should      technique, the injection is placed in a 6 o’clock
+be interpreted with some caution because only            position at the ureteral orifice but if the orifice
+two (the PRIVENT and RIVUR trials) were                  is sufficiently wide to admit the tip of the cysto-
+judged by the authors of a recent metanalysis to         scope, an intra-ureteral injection is preferred. The
+be at low risk of bias. There is growing body of evi-    implant is injected until a mound or “volcanic”
+dence that children on CAP are at increased risk         bulge is formed and the ureteral orifice is elevated
+of developing antibiotic resistant bacterial coloni-     sufficiently to create a crescent shaped or slit-like
+zation and/or infection. This is likely to prove an      orifice with a nipple-like appearance (Figure 6.4).
+increasingly relevant consideration for clinicians       After the injection has been completed the needle
+and parents when deciding on treatment.                  is left in position for 10–15 seconds to allow the
+                                                         gel to set and to minimize leakage.
+                                                             Significantly, higher success rates (>93%) have
+                                                         been claimed for a technique termed the “double
+ SURGICAL MANAGEMENT                                     hydrodistention injection technique (HIT)”.
+
+The options comprise endoscopic correction or            Results of Endoscopic Correction
+ureteroneocystostomy (ureteral reimplantation)
+performed by either an open or minimally inva-           Caution is needed when interpreting the published
+sive technique.                                          success rates, not least because of differences in
+                                                         the definition of what constitutes a “success-
+Endoscopic Correction by Injection                       ful” correction of VUR. Studies published from
+of Periureteral Bulking Agents                           North American centers have typically defined
+                                                         success as the complete correction of VUR, i.e. no
+This approach was first described by Matouschek          VUR visualized on follow up imaging. By con-
+in 1981 and further developed and popularized            trast the authors of some European studies have
+by Puri and O’Donnell. Historically, various             extended their definition of “success” to include
+injectable materials were used for endoscopic            VUR which is still present but which has been
+correction including polytetrafluoroethylene             downgraded to grades I–II from a higher grade.
+(PTFE) – Teflon, collagen, polydimethylsiloxane          Reported success rates 3 months after treatment
+78 Vesicoureteral Reflux
+
+
+
+
+Figure 6.4 Correction of VUR by submucosal injection of dextran/hyaluronic acid polymer. See text
+for technical details.
+
+
+are in the region of 75–80% (Table 6.1). However     obstruction requiring intervention is rare (<1%
+length of follow has a major impact on success       of cases). Some authors have claimed that even in
+rates, which typically decrease in relation to       cases where endoscopic injection does not achieve
+length of follow up. Moreover, more than one         complete radiological correction of VUR, it may
+injection may be required to achieve correction      nevertheless contribute to a reduction in UTIs
+of VUR. In the Swedish Reflux Trial, the initial     and clinical improvement in bladder function. In
+success rate of endoscopic correction was 86% but    the United States, the uptake of endoscopic cor-
+20% of treated children went on to develop recur-    rection was not mirrored by any decrease in the
+rent VUR over the next 2 years.                      number of ureteroneocystostomies. Moreover, in
+   The majority of published studies have focused    recent years the number of endoscopic correc-
+on radiological outcomes, with little or no infor-   tions has plateaued. While, there is some evidence
+mation on clinical outcomes with regard to UTI       that initial enthusiasm for endoscopic correction
+or renal scarring. The Swedish Reflux Study          may be waning, most pediatric urologists believe
+reported comparable rates of UTI in children         that it can be a useful intervention when used
+managed by CAP or endoscopic correction (15%         selectively. Examples include girls with VUR of
+and 23%, respectively) but the incidence of new      moderate severity (grades II–IV) VUR and chil-
+scarring was higher in those treated by endo-        dren with low to moderate grades of VUR who
+scopic correction 12% vs. 6% p = 0.55.               experience recurrent symptomatic breakthrough
+   Apart from failure to correct the VUR, com-       UTIs despite CAP. It is also the case that many
+plications are relatively rare – the most impor-     parents may regard a simple surgical intervention
+tant being distal ureteral obstruction. Transient    to correct their child’s VUR as a preferable alter-
+partial obstruction has been reported to occur in    native to prolonged antibiotic usage and the risks
+up to 5% of children but more severe or persistent   of antibiotic resistance.
+                                  Technical aspects / Ureteroneocystostomy (Ureteral Reimplantation) 79
+
+
+
+Ureteroneocystostomy (Ureteral                          also be reliably corrected using the Cohen tech-
+Reimplantation)                                         nique. However, it is important that both duplex
+                                                        ureters are mobilized together within their com-
+Open ureteroneocystostomy was widely adopted            mon sheath and share the same submucosal tun-
+into pediatric urological practise in the 1950s and     nel in the bladder. Any attempt to re-implant the
+1960s. Published success rates (defined by the          lower pole ureter on its own by separating the two
+complete correction of VUR) have been consis-           ureters carries a risk of causing devasculariza-
+tently reported to exceed 95% and ureteroneocys-        tion and/or damage to one or both ureters. In the
+tostomy has been shown to significantly reduce          Politano-Leadbetter technique, the ureter is ini-
+the risk of febrile UTI.                                tially mobilized intravesically. The ureter is then
+    Despite technical differences in the vari-          taken outside the bladder via the hiatus before
+ous procedures the fundamental aim is similar:          being re-introduced into the bladder via a new
+namely to replicate the normal one way valve            hiatus created on the posterior bladder wall and
+mechanism at the uretrovesical junction by              drawn down to the trigone through a submuco-
+increasing the submucosal and/or intramural             sal tunnel. Although largely superseded by the
+length of the distal ureteral segment as it enters      Cohen cross trigonal technique, the Politano-
+the bladder.                                            Leadbetter procedure retains a valuable role for
+    The widely used Cohen technique is a cross-         grossly dilated refluxing ureters – particularly
+trigonal advancement procedure designed to              when it is combined with a Psoas Hitch proce-
+elongate the submucosal course of the distal            dure and reconstruction or ureteral tapering
+ureter within the bladder (Figure 6.5). Its appeal      (Figure 6.6).
+lies in its relative simplicity, high success rate in      The extravesical technique originally described
+correcting VUR (97% or thereabouts) and low             by Lich and Gregoir (Figure 6.7) has the advantage
+incidence of postoperative obstruction. Reflux          of causing less postoperative bladder discomfort.
+into the lower pole ureter of a duplex kidney can       However, the extra vesical technique is less suited
+
+
+
+
+Figure 6.5 Ureteroneocystostomy by Cohen transtrigonal reimplantation technique. (a) Intravesical
+mobilization of ureter. (b) Creation of submucosal tunnel. (c) Ureter re implanted across the width
+of the trigone. The Cohen technique can be performed bilaterally and applied to duplex ureters
+and other variants.
+80 Vesicoureteral Reflux
+
+
+
+
+Figure 6.6 Tapering technique. (a) Forceps applied to dilated distal ureter to delineate portion of be
+excised during tapering. (b) After tapering, and prior to reimplantation of ureter in submucosal tunnel.
+
+to dilated ureters and carries a well-documented     indications, timing, and choice of technique.
+risk of postoperative voiding dysfunction, which     The technical aspects are considered in more
+may occasionally amount to urinary retention.        detail in Chapter 23. Concerns have been
+In summary, ureteroneocystostomy remains a           raised regarding possible commercial influence,
+highly effective option for children with high       higher complication rates, and lack of evidence
+grade and/or symptomatic VUR (Table 6.1).            that minimally invasive procedures offer any
+                                                     significant advantages over current open sur-
+Minimally Invasive                                   gical techniques. However, some of these con-
+Ureteroneocystostomy                                 cerns are being addressed as minimally invasive
+                                                     techniques evolve and become more widely
+The role of minimally invasive techniques for        adopted. This is clearly an area of ongoing tech-
+the correction of VUR has been the subject           nical research and development but for the time
+of considerable controversy and there is con-        being many clinicians and parents will continue
+siderable variation between different centers        to favor open ureteroneocystostomy as opposed
+and pediatric urologists with regard to the          to a minimally invasive approach.
+                                                      Technical aspects / Other Surgical Procedures 81
+
+
+
+
+Figure 6.7 Extravesical (Lich-Gregoir) technique. Unsuitable for dilated ureters. (a) Ureter exposed
+and mobilized extravesically. (b) Detrusor muscle incised in the line of the ureter. Bladder mucosa
+exposed but not opened. (c) Detrusor closed around distal ureter to enclose it with submucosal
+tunnel.
+
+Other Surgical Procedures                            are experiencing symptomatic breakthrough
+                                                     UTIs on CAP.
+In some situations it may be necessary to consider      Nephroureterectomy may be a logical alter-
+other forms of surgical intervention.                native to ureteroneocystostomy in children expe-
+   For example, ureteroneocystostomy is prob-        riencing recurrent symptomatic UTIs who have
+ably best avoided in small infants with high grade   high grade VUR associated with a poorly or non-
+VUR complicated by severe febrile UTIs because       functioning unilateral dysplastic and/or scarred
+of the difficulty in creating an antireflux submu-   kidney – particularly if this is thought to pose a
+cosal tunnel of adequate length in grossly dilated   potential long-term risk of hypertensive damage
+ureters. In addition, there are also concerns        to the contralateral kidney. A minimally invasive
+regarding long-term bladder dysfunction. In          approach is well suited for this purpose. The man-
+such cases a cutaneous vesicostomy or refluxing      agement of recurrent high grade VUR or obstruc-
+ureterostomy will provide effective temporary        tion following previous ureteroneocystostomy
+bladder decompression and drainage. Closure          in a dilated ureter can be challenging. However,
+can either be performed as an isolated procedure     Trans uretero ureterostomy (TUU) can prove
+or in combination with definitive correction of      useful in these situations and may also be occa-
+VUR during the second or third year of life.         sionally suitable as a primary procedure in cases
+   There is growing evidence to support the use      of bilateral high grade VUR. TUU should only be
+of circumcision boys with high grade VUR who         considered if both ureters are dilated.
+82 Vesicoureteral Reflux
+
+
+
+                                                         Peters CA, Skoog SJ, Arant BS, Jr., Copp HL,
+    KEY POINTS                                              Elder JS, Hudson RG, et al. Summary of the
+                                                            AUA guideline on management of primary
+   ●● VUR is an important cause of morbid-                  vesicoureteral reflux in children. J Urol.
+      ity in children because of its role in                2010;184(3):1134–1144.
+      urinary tract infection, pyelonephritis            Rivur Trial Investigators, Hoberman A,
+      and renal scarring and its association                Greenfield SP, Mattoo TK, Keren R, Mathews
+      with renal dysplasia.                                 R, et al. Antimicrobial prophylaxis for
+   ●● Reflux nephropathy may result from                    children with vesicoureteral reflux. N Engl J
+      congenital or acquired renal damage -                 Med. 2014;370(25):2367–2376.
+      or a combination of both mechanisms.               Routh JC, Bogaert GA, Kaefer M, Manzoni
+   ●● VUR is strongly associated with                       G, Park JM, Retik AB, et al. Vesicoureteral
+      bladder and bowel dysfunction.                        reflux: current trends in diagnosis, screening,
+      Management of these conditions is an                  and treatment. Eur Urol. 2012;61(4):773–782.
+      essential adjunct to management of the             Shaikh N, Hoberman A, Keren R, Gotman N,
+      VUR itself.                                           Docimo SG, Mathews R, et al. Recurrent
+   ●● The role of different imaging tech-                   urinary tract infections in children with
+      niques for the diagnosis of VUR                       bladder and bowel dysfunction. Pediatrics.
+      remains controversial.                                2016;137(1).
+   ●● Continuous antibiotic prophylaxis                  Skoog SJ, Peters CA, Arant BS, Jr., Copp
+      significantly reduces the incidence of                HL, Elder JS, Hudson RG, et al. Pediatric
+      symptomatic UTIs in children with                     Vesicoureteral Reflux Guidelines Panel
+      VUR but carries a higher risk of induc-               summary report: clinical practice guide-
+      ing antibiotic resistant bacteria.                    lines for screening siblings of children
+   ●● Endoscopic correction and uretero-                    with vesicoureteral reflux and neonates/
+      neocystostomy are effective ways of                   infants with prenatal hydronephrosis. J Urol.
+      correcting VUR but may not always                     2010;184(3):1145–1151.
+      prevent the occurrence of further UTIs.            Wang HH, Gbadegesin RA, Foreman JW,
+                                                            Nagaraj SK, Wigfall DR, Wiener JS, et al.
+                                                            Efficacy of antibiotic prophylaxis in chil-
+FURTHER READING                                             dren with vesicoureteral reflux: system-
+                                                            atic review and meta-analysis. J Urol.
+Holmdahl G, Brandstrom P, Lackgren G, Sillen
+                                                            2015;193(3):963–969.
+   U, Stokland E, Jodal U, et al. The Swedish
+   reflux trial in children: II. Vesicoureteral reflux
+   outcome. J Urol. 2010;184(1):280–285.

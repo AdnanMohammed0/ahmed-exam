@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch08-Q01",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 1,
+    "stem": "A 3-year-old girl presents with continuous dribbling urinary incontinence despite normal voided volumes. Which of the following is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Ureterocele" },
+      { "id": "b", "text": "Ectopic ureter" },
+      { "id": "c", "text": "Vesicoureteral reflux" },
+      { "id": "d", "text": "Bladder exstrophy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Continuous dribbling incontinence with normal voiding is the classic presentation of an infra-sphincteric ectopic ureter. The ectopic ureter drains distal to the external sphincter, causing constant leakage that is superimposed on a normal pattern of voiding and continence.\n\nA is wrong because: A ureterocele typically presents with urinary tract infection or voiding dysfunction, not continuous dribbling incontinence with normal voided volumes.\n\nC is wrong because: Vesicoureteral reflux presents with febrile UTIs and may cause incontinence only if there is associated bladder dysfunction, not continuous dribbling with normal voiding.\n\nD is wrong because: Bladder exstrophy is an obvious anatomical abnormality present at birth with visible bladder mucosa exposed on the abdominal wall, not an occult cause of incontinence.\n\nTeaching point: An infra-sphincteric ectopic ureter is the classic cause of continuous dribbling incontinence in a girl who otherwise voids normally.",
+    "topic": "Ectopic ureter — clinical presentation"
+  },
+  {
+    "id": "ch08-Q02",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 2,
+    "stem": "A 4-year-old girl is found to have a complete left duplex system on VCUG performed for recurrent UTIs. The pediatric urology trainee is asked to describe the expected position of the ureteral orifices. According to the Weigert-Meyer rule, which statement is correct?",
+    "options": [
+      { "id": "a", "text": "The upper pole ureter opens superolaterally and the lower pole ureter opens inferomedially" },
+      { "id": "b", "text": "The upper pole ureter opens inferomedially and the lower pole ureter opens superolaterally" },
+      { "id": "c", "text": "Both ureters open at the same position on the trigone" },
+      { "id": "d", "text": "The upper pole ureter always opens into the bladder neck" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The Weigert-Meyer rule states that in complete duplication, the upper pole ureter drains inferomedially (more caudally) while the lower pole ureter drains superolaterally. This is the opposite of what one might expect based on the physical positions of the upper and lower poles.\n\nA is wrong because: This describes the opposite of the Weigert-Meyer rule. The upper pole ureter drains inferomedially, not superolaterally.\n\nC is wrong because: In complete duplication, the two ureteral orifices are in different positions on the trigone, as described by the Weigert-Meyer rule.\n\nD is wrong because: The upper pole ureter drains inferomedially on the trigone, not necessarily into the bladder neck. While it may be ectopic and drain more distally, this is not a universal feature of complete duplication.\n\nTeaching point: The Weigert-Meyer rule is a high-yield concept: upper pole ureter inserts inferomedially (ectopic tendency), lower pole inserts superolaterally (short tunnel → reflux).",
+    "topic": "Weigert-Meyer rule"
+  },
+  {
+    "id": "ch08-Q03",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 3,
+    "stem": "A 3-year-old with a known complete duplex kidney presents with a febrile UTI. VCUG demonstrates reflux into the lower pole moiety. What is the most common complication affecting the lower pole moiety of a complete duplex kidney?",
+    "options": [
+      { "id": "a", "text": "Ureterocele" },
+      { "id": "b", "text": "Vesicoureteral reflux" },
+      { "id": "c", "text": "Pelvi-ureteric junction obstruction" },
+      { "id": "d", "text": "Ectopic ureter" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Vesicoureteral reflux into the lower pole occurs in approximately 50% of children with complete duplication. The lower pole ureter has a short intramural tunnel due to its superolateral insertion, providing an inadequate flap-valve mechanism.\n\nA is wrong because: Ureteroceles affect the upper pole moiety, not the lower pole, in a complete duplex system.\n\nC is wrong because: Pelvi-ureteric junction obstruction in duplex systems occurs in the lower pole of a partial (bifid) duplex kidney, not in complete duplication.\n\nD is wrong because: Ectopic ureter is an anomaly of the upper pole moiety, not the lower pole, in complete duplex systems.\n\nTeaching point: The lower pole of a complete duplex is predisposed to VUR due to its short intramural tunnel, while the upper pole is predisposed to obstruction (ureterocele, ectopic ureter).",
+    "topic": "Lower pole VUR in duplex systems"
+  },
+  {
+    "id": "ch08-Q04",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 4,
+    "stem": "An antenatal ultrasound reveals a duplex right kidney with a dilated upper pole. Postnatal VCUG shows a 'drooping flower' appearance. This finding is most consistent with:",
+    "options": [
+      { "id": "a", "text": "Reflux into the upper pole moiety" },
+      { "id": "b", "text": "Reflux into the lower pole moiety" },
+      { "id": "c", "text": "A ureterocele prolapsing into the urethra" },
+      { "id": "d", "text": "Pelvi-ureteric junction obstruction of the lower pole" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The 'drooping flower' sign on VCUG is characteristic of reflux into the lower pole of a complete duplex system. The dilated, refluxing lower pole ureter displaces the opacified upper pole moiety, creating an appearance likened to a drooping flower.\n\nA is wrong because: Reflux into the upper pole of a complete duplex system is rare. The drooping flower sign specifically describes lower pole reflux.\n\nC is wrong because: A prolapsing ureterocele causes a filling defect in the bladder or urethra on VCUG, not a drooping flower appearance.\n\nD is wrong because: Pelvi-ureteric junction obstruction would cause hydronephrosis on ultrasound but would not produce a drooping flower sign on VCUG.\n\nTeaching point: The drooping flower sign is a pathognomonic VCUG finding for lower pole VUR in complete duplication and is a classic exam image.",
+    "topic": "VCUG findings — drooping flower sign"
+  },
+  {
+    "id": "ch08-Q05",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 5,
+    "stem": "A 6-week-old girl presents with a cystic mass at the introitus. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Gartner duct cyst" },
+      { "id": "b", "text": "Prolapsed ureterocele" },
+      { "id": "c", "text": "Vaginal rhabdomyosarcoma" },
+      { "id": "d", "text": "Skene gland cyst" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: A prolapsed ureterocele (caecoureterocele) can present as a visible cystic swelling at the introitus in female infants. It is the most common cause of urethral obstruction in girls and represents the largest variety of ectopic ureterocele extending through the urethra.\n\nA is wrong because: Gartner duct cysts are remnants of the mesonephric duct located along the anterolateral vaginal wall and do not typically present as a cystic mass at the introitus in a 6-week-old.\n\nC is wrong because: Vaginal rhabdomyosarcoma (sarcoma botryoides) presents as a grape-like polypoid mass, typically in older toddlers, not as a solitary cystic mass at the introitus in a neonate.\n\nD is wrong because: Skene gland cysts are paraurethral cysts that present on the posterior lip of the urethral meatus, not as a cystic mass at the introitus.\n\nTeaching point: A prolapsed caecoureterocele is the most frequent cause of urethral obstruction in girls and should be considered when a cystic mass is seen at the introitus in a female infant.",
+    "topic": "Prolapsed ureterocele"
+  },
+  {
+    "id": "ch08-Q06",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 6,
+    "stem": "A term newborn is found to have a duplex kidney on routine postnatal ultrasound following prenatal suspicion. The parents ask how common this condition is. Based on autopsy and radiological data, what is the reported overall incidence of upper tract duplication?",
+    "options": [
+      { "id": "a", "text": "0.1–0.5%" },
+      { "id": "b", "text": "1–3%" },
+      { "id": "c", "text": "5–8%" },
+      { "id": "d", "text": "10–15%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The overall incidence of upper tract duplication is 1–3% based on autopsy and radiological data. Partial duplication is more common, while complete duplication occurs in less than 1% of individuals.\n\nA is wrong because: 0.1–0.5% is too low. This figure is closer to the incidence of complete duplication alone or ectopic ureters, not the overall rate.\n\nC is wrong because: 5–8% is too high. This figure corresponds to the familial incidence in close relatives, not the general population incidence.\n\nD is wrong because: 10–15% is far too high for upper tract duplication in the general population.\n\nTeaching point: Upper tract duplication occurs in 1–3% of the population, making it a relatively common congenital anomaly. Partial duplication accounts for the majority of cases and is usually asymptomatic.",
+    "topic": "Incidence of duplication"
+  },
+  {
+    "id": "ch08-Q07",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 7,
+    "stem": "A pediatric urology fellow is studying the embryological basis of duplication anomalies. In the development of complete ureteral duplication, what is the underlying embryological mechanism?",
+    "options": [
+      { "id": "a", "text": "Bifurcation of a single ureteral bud before entering the metanephros" },
+      { "id": "b", "text": "Two separate ureteral buds arising from the mesonephric duct" },
+      { "id": "c", "text": "Failure of the mesonephric duct to degenerate" },
+      { "id": "d", "text": "Abnormal division of the metanephric blastema" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Complete duplication occurs when the mesonephric duct gives rise to two separate ureteral buds, each of which makes contact with the metanephric blastema and induces formation of a separate renal moiety.\n\nA is wrong because: Bifurcation of a single ureteral bud before entering the metanephros results in partial (incomplete) duplication, where the ureters join before entering the lower urinary tract.\n\nC is wrong because: Failure of the mesonephric duct to degenerate does not cause duplication; it is associated with other anomalies such as seminal vesicle cysts.\n\nD is wrong because: Duplication is a ureteral bud abnormality, not a blastema abnormality. The metanephric blastema is acted upon by the ureteral bud.\n\nTeaching point: The key distinction: partial duplication = bifurcation of one ureteral bud; complete duplication = two separate ureteral buds from the mesonephric duct.",
+    "topic": "Embryology of duplication"
+  },
+  {
+    "id": "ch08-Q08",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 8,
+    "stem": "An infant is diagnosed with a duplex system ureterocele on prenatal ultrasound. The parents ask whether the ureterocele is confined to the bladder or extends further. What percentage of duplex system ureteroceles are classified as ectopic (extending beyond the bladder neck)?",
+    "options": [
+      { "id": "a", "text": "10%" },
+      { "id": "b", "text": "25%" },
+      { "id": "c", "text": "50%" },
+      { "id": "d", "text": "80%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Up to 50% of duplex ureteroceles are termed 'ectopic' because they extend extravesically and encroach upon the bladder outlet and proximal urethra.\n\nA is wrong because: 10% is the proportion of ureteroceles associated with a single (non-duplex) system, not the proportion that are ectopic.\n\nB is wrong because: 25% is not supported by the text; the correct figure is approximately 50%.\n\nD is wrong because: 80% is the proportion of ureteroceles that occur in females, not the proportion that are ectopic.\n\nTeaching point: Ectopic (extravesical) ureteroceles account for about half of all duplex ureteroceles and are clinically significant because they can cause bladder outlet obstruction and voiding dysfunction.",
+    "topic": "Ectopic ureterocele prevalence"
+  },
+  {
+    "id": "ch08-Q09",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 9,
+    "stem": "A 7-year-old girl has constant wetting between normal voids. Ultrasound shows a duplex left kidney. MR urography is the most appropriate next investigation. What is the most likely underlying finding?",
+    "options": [
+      { "id": "a", "text": "Large intravesical ureterocele" },
+      { "id": "b", "text": "Occult upper pole with infra-sphincteric ectopic ureter" },
+      { "id": "c", "text": "Lower pole pelvi-ureteric junction obstruction" },
+      { "id": "d", "text": "Bladder diverticulum" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: MR urography is the first-line investigation in girls with suspected ectopic ureter. It can detect an occult duplex system with a poorly functioning dysplastic upper pole and an infra-sphincteric ectopic ureter that may not be visible on other imaging modalities.\n\nA is wrong because: An intravesical ureterocele does not typically cause continuous incontinence; it may cause UTIs or voiding dysfunction but not the classic pattern of constant wetting between normal voids.\n\nC is wrong because: Lower pole PUJ obstruction would cause intermittent flank pain and hydronephrosis, not continuous urinary incontinence.\n\nD is wrong because: A bladder diverticulum may cause UTIs or incomplete emptying but does not produce continuous dribbling incontinence with normal voiding.\n\nTeaching point: MR urography is now the first-line investigation for suspected ectopic ureter in girls, offering anatomical and functional detail without ionizing radiation.",
+    "topic": "MR urography for ectopic ureter"
+  },
+  {
+    "id": "ch08-Q10",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 10,
+    "stem": "A male infant is found to have a complete duplex system with an ectopic upper pole ureter. The surgical team discusses possible drainage sites. In males, an ectopic ureter arising from the upper pole of a duplex system can drain into all of the following EXCEPT:",
+    "options": [
+      { "id": "a", "text": "Vas deferens" },
+      { "id": "b", "text": "Seminal vesicle" },
+      { "id": "c", "text": "Ejaculatory duct" },
+      { "id": "d", "text": "Vagina" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: The vagina is a female structure and thus cannot be a drainage site in males. This is a trick answer in this EXCEPT question.\n\nA is wrong because: In males, an ectopic ureter can drain into the vas deferens. In fact, ectopic ureters in males always drain at a supra-sphincteric level into mesonephric duct derivatives.\n\nB is wrong because: The seminal vesicle is a recognized site of ectopic ureteral drainage in males.\n\nC is wrong because: The ejaculatory duct is a recognized site of ectopic ureteral drainage in males.\n\nTeaching point: In males, ectopic ureters always drain at a supra-sphincteric level (proximal urethra, vas, seminal vesicle, ejaculatory duct), whereas in females they can drain at infra-sphincteric sites (urethra, vagina, introitus).",
+    "topic": "Ectopic ureter in males"
+  },
+  {
+    "id": "ch08-Q11",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 11,
+    "stem": "A pediatric urologist performs an endoscopic incision of an intravesical ureterocele in a 6-month-old girl. The parents are counseled about the risk of inducing de novo vesicoureteral reflux. What is the approximate rate at which this occurs?",
+    "options": [
+      { "id": "a", "text": "10%" },
+      { "id": "b", "text": "30%" },
+      { "id": "c", "text": "50%" },
+      { "id": "d", "text": "80%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Endoscopic incision induces de novo reflux in approximately 50% of cases. This leads to a significant incidence of urinary infection and a requirement for secondary surgical intervention in at least 20% of patients.\n\nA is wrong because: 10% is too low; this is closer to the rate of orthotopic ureteroceles among all ureteroceles.\n\nB is wrong because: 30% underestimates the risk; the reported rate is approximately 50%.\n\nD is wrong because: 80% is too high; while the rate is substantial, it is approximately 50%, not 80%.\n\nTeaching point: The main drawback of endoscopic ureterocele incision is the high rate (50%) of de novo VUR, which is why at least 20% of patients require secondary surgery.",
+    "topic": "Endoscopic incision — complications"
+  },
+  {
+    "id": "ch08-Q12",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 12,
+    "stem": "A 2-year-old with a duplex kidney requires assessment of differential function between the upper and lower pole moieties. Which imaging modality is considered the most accurate for this purpose?",
+    "options": [
+      { "id": "a", "text": "MAG3 renogram" },
+      { "id": "b", "text": "DMSA scintigraphy" },
+      { "id": "c", "text": "MR urography" },
+      { "id": "d", "text": "Contrast-enhanced CT" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: DMSA scintigraphy is more accurate than MAG3 for quantifying differential function in the two moieties of a duplex kidney. It is the functional imaging modality of choice for assessing split renal function in duplex systems.\n\nA is wrong because: MAG3 provides information on drainage as well as differential function, but it is less accurate than DMSA for quantifying split function in the two moieties of a duplex kidney.\n\nC is wrong because: MR urography can yield information on function and provides excellent anatomical detail, but DMSA remains the most accurate for quantifying differential function between moieties.\n\nD is wrong because: Contrast-enhanced CT is not the standard modality for assessing split function in duplex moieties and involves significant radiation exposure.\n\nTeaching point: DMSA is the gold standard for quantifying differential function between renal moieties in a duplex kidney, while MAG3 is better for drainage assessment.",
+    "topic": "DMSA for duplex kidney function"
+  },
+  {
+    "id": "ch08-Q13",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 13,
+    "stem": "An 18-month-old girl is found to have a duplex left kidney with a non-functioning upper pole and a moderately dilated ureter. She is asymptomatic. What is the most appropriate initial management?",
+    "options": [
+      { "id": "a", "text": "Endoscopic puncture of the ureterocele" },
+      { "id": "b", "text": "Upper pole heminephrectomy" },
+      { "id": "c", "text": "Conservative management with antibiotic prophylaxis" },
+      { "id": "d", "text": "Total nephroureterectomy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Studies have reported successful conservative management of prenatally detected duplication with non-functioning/cystic dysplastic upper pole tissue or non-obstructed moieties. Avoiding unnecessary surgery in asymptomatic infants is important, though long-term follow-up data beyond 10 years are limited.\n\nA is wrong because: Endoscopic puncture is indicated for decompression of an obstructed system or for acute infection, not for an asymptomatic child with a non-functioning upper pole.\n\nB is wrong because: Upper pole heminephrectomy is a surgical option but is not the first-line management in an asymptomatic infant. Conservative management should be attempted first.\n\nD is wrong because: Total nephroureterectomy is overly aggressive for a duplex kidney where only the upper pole is non-functioning and the lower pole may have normal function.\n\nTeaching point: Conservative management of asymptomatic prenatally detected duplex anomalies is increasingly recognized as appropriate, but long-term outcomes beyond 10 years remain unknown.",
+    "topic": "Conservative management of duplication"
+  },
+  {
+    "id": "ch08-Q14",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 14,
+    "stem": "A 6-year-old girl with complete ureteral duplication and high-grade reflux into the lower pole is scheduled for ureteral reimplantation. The surgeon plans to reimplant both ureters together in their common sheath. What is the primary reason for this approach?",
+    "options": [
+      { "id": "a", "text": "To reduce operative time" },
+      { "id": "b", "text": "To avoid jeopardizing the vascularity of both ureters" },
+      { "id": "c", "text": "To prevent contralateral reflux" },
+      { "id": "d", "text": "To allow easier ureteral tapering" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Both ureters share a common blood supply within their common sheath. Mobilizing and reimplanting them together preserves the shared vascularity, which could be compromised if the ureters were separated.\n\nA is wrong because: While common sheath reimplantation may be efficient, the primary reason is vascular protection, not operative time.\n\nC is wrong because: Common sheath reimplantation does not prevent contralateral reflux; it preserves the blood supply to the ipsilateral ureters.\n\nD is wrong because: Ureteral tapering, if needed, is more technically challenging within a common sheath, not easier.\n\nTeaching point: When reimplanting duplex ureters, always keep them in their common sheath to protect the shared blood supply — separating them risks ureteral ischemia.",
+    "topic": "Common sheath reimplantation"
+  },
+  {
+    "id": "ch08-Q15",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 15,
+    "stem": "An 8-week-old infant who did not have prenatal imaging presents with a febrile UTI. Ultrasound reveals a duplex system ureterocele. What is the most common clinical presentation in infants with duplex system ureteroceles who are not identified prenatally?",
+    "options": [
+      { "id": "a", "text": "Urinary incontinence" },
+      { "id": "b", "text": "Urinary tract infection" },
+      { "id": "c", "text": "Visible cystic mass" },
+      { "id": "d", "text": "Failure to thrive" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: In infants not identified prenatally, the most common clinical presentation is urinary tract infection in the early months of life. The obstructed upper pole system provides a reservoir for bacterial growth.\n\nA is wrong because: Urinary incontinence is a presentation more typical of older children with ectopic ureters, not infants with ureteroceles.\n\nC is wrong because: A visible cystic mass (prolapsed ureterocele) is a rare presentation, not the most common one.\n\nD is wrong because: Failure to thrive can occur but is far less common than UTI as the presenting feature.\n\nTeaching point: UTI in early infancy is the most common presentation of undiagnosed duplex ureteroceles, highlighting the importance of considering duplication anomalies in infants with febrile UTIs.",
+    "topic": "UTI presentation in ureterocele"
+  },
+  {
+    "id": "ch08-Q16",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 16,
+    "stem": "A 9-month-old has an incidental finding of a ureterocele on ultrasound performed for unrelated reasons. The ureterocele is entirely within the bladder and does not interfere with voiding. Which type of ureterocele is most consistent with these features?",
+    "options": [
+      { "id": "a", "text": "Duplex ectopic ureterocele" },
+      { "id": "b", "text": "Caecoureterocele" },
+      { "id": "c", "text": "Single-system orthotopic ureterocele" },
+      { "id": "d", "text": "Prolapsing ureterocele" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Single-system (orthotopic) ureteroceles are almost always entirely intravesical and do not interfere with voiding. They are associated with a single (non-duplex) upper tract, comprising about 10% of all ureteroceles.\n\nA is wrong because: Duplex ectopic ureteroceles extend beyond the bladder neck and can cause voiding dysfunction and obstruction.\n\nB is wrong because: A caecoureterocele is the largest variety of ectopic ureterocele, extending far into the urethra, and would not be entirely intravesical.\n\nD is wrong because: A prolapsing ureterocele protrudes through the urethra and is associated with obstruction, not an incidental intravesical finding.\n\nTeaching point: Orthotopic (single-system) ureteroceles are a distinct subgroup — always intravesical, rarely cause obstruction, and are associated with a non-duplex system.",
+    "topic": "Orthotopic ureterocele"
+  },
+  {
+    "id": "ch08-Q17",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 17,
+    "stem": "A 5-year-old girl is diagnosed with unilateral complete duplication. The parents ask about the likelihood of the other side being involved. What is the reported rate of bilaterality in upper tract duplication?",
+    "options": [
+      { "id": "a", "text": "10%" },
+      { "id": "b", "text": "25%" },
+      { "id": "c", "text": "40%" },
+      { "id": "d", "text": "60%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Duplication occurs bilaterally in 40% of cases, although the anatomical pattern is often different between the two sides. This means contralateral duplication is common and should be actively sought.\n\nA is wrong because: 10% is too low; the actual rate of bilaterality is 40%.\n\nB is wrong because: 25% underestimates the true rate of bilateral involvement.\n\nD is wrong because: 60% is too high; the correct figure from the source text is 40%.\n\nTeaching point: When duplication is found on one side, always investigate the contralateral side — bilateral involvement occurs in 40% of cases.",
+    "topic": "Bilateral duplication rate"
+  },
+  {
+    "id": "ch08-Q18",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 18,
+    "stem": "A 4-year-old with complete duplex kidney and lower pole VUR is being followed conservatively. The parents ask how the natural history compares to VUR in single systems. Compared with single-system VUR, the rate of spontaneous resolution of lower pole VUR in complete duplex systems is:",
+    "options": [
+      { "id": "a", "text": "Higher" },
+      { "id": "b", "text": "Lower" },
+      { "id": "c", "text": "Approximately equal" },
+      { "id": "d", "text": "Unknown" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The rate of spontaneous resolution of VUR in duplex systems is lower than in single systems. Therefore, greater consideration should be given to surgical intervention if the child is experiencing symptomatic UTIs.\n\nA is wrong because: The rate is not higher; the anatomical disadvantage of the short intramural tunnel makes spontaneous resolution less likely.\n\nC is wrong because: The rates are not equal; the abnormal insertion of the lower pole ureter reduces the likelihood of spontaneous resolution.\n\nD is wrong because: The outcome is known — the text states the rate is lower than in single systems.\n\nTeaching point: Lower pole VUR in complete duplication is less likely to resolve spontaneously than primary VUR, so a lower threshold for surgical intervention is appropriate.",
+    "topic": "Reflux — spontaneous resolution"
+  },
+  {
+    "id": "ch08-Q19",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 19,
+    "stem": "A 4-year-old boy has a duplex right kidney with a non-functioning upper pole and recurrent breakthrough UTIs. VCUG shows no reflux. What is the most appropriate surgical management?",
+    "options": [
+      { "id": "a", "text": "Endoscopic correction of VUR" },
+      { "id": "b", "text": "Upper pole heminephrectomy" },
+      { "id": "c", "text": "Ureteral reimplantation alone" },
+      { "id": "d", "text": "Total nephroureterectomy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Upper pole heminephrectomy is appropriate when the upper moiety is non-functioning or poorly functioning and causing recurrent infections. With no VUR demonstrated on VCUG, there is no indication for reimplantation.\n\nA is wrong because: There is no VUR identified on VCUG, so endoscopic correction of VUR is not indicated.\n\nC is wrong because: Ureteral reimplantation is indicated for VUR, which has been ruled out. It would not address the non-functioning upper pole.\n\nD is wrong because: Total nephroureterectomy is overly aggressive. The lower pole may have normal function that should be preserved.\n\nTeaching point: Heminephrectomy preserves functioning lower pole parenchyma while removing the dysplastic, infection-prone upper pole in a duplex kidney.",
+    "topic": "Heminephrectomy indication"
+  },
+  {
+    "id": "ch08-Q20",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 20,
+    "stem": "A surgeon is planning management for a child with a duplex kidney, a non-functioning upper pole, and an associated ureterocele. The surgeon describes the 'simplified approach.' What does this procedure entail?",
+    "options": [
+      { "id": "a", "text": "Endoscopic incision alone" },
+      { "id": "b", "text": "Upper pole heminephrectomy with ureteral aspiration of the distal stump" },
+      { "id": "c", "text": "Ureteroureterostomy with common sheath reimplant" },
+      { "id": "d", "text": "Pyelopyelostomy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The 'simplified approach' consists of upper pole heminephrectomy and excision of the accessible ureter through a loin incision. After transecting the ureter, urine is aspirated from the ureterocele and residual distal ureter, leaving the decompressed stump in situ.\n\nA is wrong because: Endoscopic incision alone is less invasive but is rarely curative for extravesical ureteroceles and carries a high rate of requiring secondary surgery.\n\nC is wrong because: Ureteroureterostomy with common sheath reimplant is a more complex procedure used when the upper pole has salvageable function, not a simplified approach.\n\nD is wrong because: Pyelopyelostomy is a ureter-sparing technique used when preserving upper pole function is desired, not a simplified approach for a non-functioning pole.\n\nTeaching point: The simplified approach avoids the need for a second incision to excise the distal ureter and ureterocele, and is definitive in 80–90% of appropriately selected patients.",
+    "topic": "Simplified approach — heminephrectomy"
+  },
+  {
+    "id": "ch08-Q21",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 21,
+    "stem": "A pediatric urologist performs the simplified approach (upper pole heminephrectomy with ureteral aspiration) for a child with a duplex kidney and ureterocele. The parents are told that most children do not need further surgery. What percentage of patients require subsequent excision of the ureteral stump and reimplantation?",
+    "options": [
+      { "id": "a", "text": "Less than 5%" },
+      { "id": "b", "text": "10–20%" },
+      { "id": "c", "text": "40–50%" },
+      { "id": "d", "text": "70–80%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: When used selectively, the simplified approach is definitive treatment in 80–90% of patients, with only 10–20% requiring subsequent excision of the ureteral stump and ureterocele combined with lower pole reimplantation.\n\nA is wrong because: Less than 5% underestimates the need for secondary surgery, which occurs in 10–20% of cases.\n\nC is wrong because: 40–50% overestimates the secondary surgery rate; this is closer to the rate of de novo VUR after endoscopic incision.\n\nD is wrong because: 70–80% is far too high and would make the approach not worthwhile.\n\nTeaching point: The simplified approach provides definitive treatment for the majority (80–90%) of appropriately selected patients with a non-functioning upper pole and ureterocele.",
+    "topic": "Simplified approach outcomes"
+  },
+  {
+    "id": "ch08-Q22",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 22,
+    "stem": "A 5-year-old girl with a known right duplex system presents with recurrent UTIs. VCUG demonstrates VUR into the lower pole. She has failed antibiotic prophylaxis. Which surgical approach is most appropriate?",
+    "options": [
+      { "id": "a", "text": "Endoscopic correction alone" },
+      { "id": "b", "text": "Upper pole heminephrectomy" },
+      { "id": "c", "text": "Common sheath ureteral reimplantation" },
+      { "id": "d", "text": "Ureterocele incision" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: For moderate or high-grade VUR in a duplex system that has failed medical management, ureteral reimplantation is usually required. Both ureters should be mobilized and reimplanted together in their common sheath to preserve shared vascularity.\n\nA is wrong because: Endoscopic correction has lower success rates for VUR in duplex systems compared to single systems, and the patient has already failed medical management.\n\nB is wrong because: Upper pole heminephrectomy addresses a non-functioning upper pole, not lower pole VUR.\n\nD is wrong because: Ureterocele incision is for decompressing an obstructed ureterocele, not for treating lower pole VUR.\n\nTeaching point: For high-grade or persistent VUR in complete duplication, common sheath reimplantation is the standard surgical approach to preserve the shared blood supply of both ureters.",
+    "topic": "Common sheath reimplantation for VUR"
+  },
+  {
+    "id": "ch08-Q23",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 23,
+    "stem": "A first-year urology resident is asked to define a ureterocele during morning rounds. Which of the following is the correct definition?",
+    "options": [
+      { "id": "a", "text": "Dilation of the entire ureter" },
+      { "id": "b", "text": "Cystic dilation of the intravesical segment of the distal ureter" },
+      { "id": "c", "text": "Ectopic insertion of the ureter into the bladder neck" },
+      { "id": "d", "text": "A diverticulum of the bladder wall at the ureteral hiatus" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: A ureterocele is defined as a cystic dilation of the intravesical segment of the distal ureter. It may be intravesical (entirely within the bladder) or extravesical/ectopic (extending beyond the bladder neck into the urethra).\n\nA is wrong because: Dilation of the entire ureter describes hydroureter or megaureter, not the localized cystic dilation of the intravesical segment that defines a ureterocele.\n\nC is wrong because: Ectopic insertion of the ureter describes an ectopic ureter, not a ureterocele. A ureterocele can coexist with an ectopic ureter but is a distinct entity.\n\nD is wrong because: A diverticulum of the bladder wall at the ureteral hiatus describes a paraureteral (Hutch) diverticulum, not a ureterocele.\n\nTeaching point: A ureterocele is a cystic dilation of the distal ureter within the bladder wall, not to be confused with hydroureter, ectopic ureter, or bladder diverticulum.",
+    "topic": "Definition of ureterocele"
+  },
+  {
+    "id": "ch08-Q24",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 24,
+    "stem": "A 2-year-old girl with a duplex system undergoes excision of a caecoureterocele via a transvesical approach. The parents are counseled about potential complications. Which of the following is a recognized risk specific to this procedure?",
+    "options": [
+      { "id": "a", "text": "Hyperkalemia" },
+      { "id": "b", "text": "Sphincter weakness incontinence" },
+      { "id": "c", "text": "Contralateral renal agenesis" },
+      { "id": "d", "text": "Nephrocalcinosis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Excision of a caecoureterocele requires a technically challenging operation at the bladder neck. Parents should be advised of possible sphincter weakness incontinence, though this is more often due to a preexisting congenital deficiency than a surgical complication.\n\nA is wrong because: Hyperkalemia is not a recognized complication of caecoureterocele excision; it may be associated with renal failure but not this specific procedure.\n\nC is wrong because: Contralateral renal agenesis is unrelated to the surgical excision of a ureterocele.\n\nD is wrong because: Nephrocalcinosis is not a complication of ureterocele surgery; it is associated with metabolic disorders.\n\nTeaching point: Bladder neck reconstruction during caecoureterocele excision carries a risk of sphincter weakness incontinence, but published evidence suggests this is more often due to preexisting anatomical deficiency than surgical injury.",
+    "topic": "Caecoureterocele — surgical risk"
+  },
+  {
+    "id": "ch08-Q25",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 25,
+    "stem": "A pediatric urologist plans a distal ureteroureterostomy for a child with a duplex kidney. Before performing this procedure, which of the following must be confirmed?",
+    "options": [
+      { "id": "a", "text": "The upper pole has >40% function" },
+      { "id": "b", "text": "There is no reflux into the lower pole ureter" },
+      { "id": "c", "text": "The ureterocele has been drained endoscopically" },
+      { "id": "d", "text": "Contralateral kidney is normal" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Before performing ureteroureterostomy, it is important to confirm there is no reflux into the lower pole ureter (via VCUG). If reflux is present, the ureteroureterostomy must be combined with an antireflux procedure, or both ureters should be reimplanted in their common sheath.\n\nA is wrong because: Ureteroureterostomy can be performed even with a poorly functioning upper pole; it is not dependent on a specific function threshold.\n\nC is wrong because: Prior endoscopic drainage is not a prerequisite for ureteroureterostomy.\n\nD is wrong because: While contralateral renal status is always relevant, it is not a specific prerequisite for performing ureteroureterostomy.\n\nTeaching point: A VCUG must be performed before ureteroureterostomy to rule out lower pole VUR — if reflux is present, the procedure must be modified to include antireflux measures.",
+    "topic": "Ureteroureterostomy — prerequisites"
+  },
+  {
+    "id": "ch08-Q26",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 26,
+    "stem": "A newborn is diagnosed with upper tract duplication. The parents ask whether other family members could be affected. What is the incidence of upper tract duplication in close relatives?",
+    "options": [
+      { "id": "a", "text": "1%" },
+      { "id": "b", "text": "8%" },
+      { "id": "c", "text": "15%" },
+      { "id": "d", "text": "25%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Upper tract duplication has a familial tendency with an incidence of 8% in close relatives of affected individuals, which is higher than the general population incidence of 1–3%.\n\nA is wrong because: 1% is too low for familial incidence; this is closer to the general population incidence of complete duplication.\n\nC is wrong because: 15% is higher than the reported familial incidence of 8%.\n\nD is wrong because: 25% is much too high; there is no evidence for such a high familial rate.\n\nTeaching point: The 8% familial incidence means siblings of an affected child should be considered at increased risk, supporting the role of genetic factors in duplication anomalies.",
+    "topic": "Familial incidence of duplication"
+  },
+  {
+    "id": "ch08-Q27",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 27,
+    "stem": "A 2-year-old girl presents with recurrent foul-smelling vaginal discharge. She is toilet-trained and has normal voiding but reports occasional dampness. What diagnosis should be considered?",
+    "options": [
+      { "id": "a", "text": "Bacterial vaginosis" },
+      { "id": "b", "text": "Infra-sphincteric ectopic ureter with vaginal pooling of urine" },
+      { "id": "c", "text": "Ureterocele prolapse" },
+      { "id": "d", "text": "Vesicovaginal fistula" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Small volumes of urine collecting in the vagina from an infra-sphincteric ectopic ureter may become infected and present as vaginal discharge. This is a relatively common presenting symptom in girls that does not usually trigger urinary tract imaging, but in the context of dampness, an ectopic ureter should be considered.\n\nA is wrong because: Bacterial vaginosis is rare in prepubertal girls and would not explain the occasional dampness or normal voiding pattern.\n\nC is wrong because: Ureterocele prolapse presents as a visible cystic mass at the introitus, not as vaginal discharge.\n\nD is wrong because: Vesicovaginal fistula would cause continuous leakage, not intermittent dampness with normal voiding.\n\nTeaching point: Vaginal discharge in a toilet-trained girl with intermittent dampness should raise suspicion for an infra-sphincteric ectopic ureter with urine pooling in the vagina.",
+    "topic": "Ectopic ureter — vaginal discharge"
+  },
+  {
+    "id": "ch08-Q28",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 28,
+    "stem": "A trainee is reviewing imaging of a child with partial ureteral duplication and reads a report mentioning 'yo-yo reflux.' Which of the following best describes this anomaly?",
+    "options": [
+      { "id": "a", "text": "Reflux from the lower pole to the upper pole in complete duplication" },
+      { "id": "b", "text": "Crossflow of urine between two ureters of a partial duplication above their convergence" },
+      { "id": "c", "text": "Reflux from the bladder into both moieties of a complete duplex kidney" },
+      { "id": "d", "text": "Cyclic reflux that alternates between the upper and lower pole" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Yo-yo reflux describes the possible crossflow of urine between the two ureters of a partial duplication (the limbs of a Y-shaped ureter) above their point of convergence. It is a doubtful clinical entity in children of unknown clinical significance.\n\nA is wrong because: Yo-yo reflux occurs in partial duplication, not complete duplication.\n\nC is wrong because: Reflux from the bladder into both moieties is not yo-yo reflux; it is bilateral VUR, which when seen on VCUG usually indicates partial duplication.\n\nD is wrong because: The term does not describe cyclic alternation but rather crossflow above the convergence point.\n\nTeaching point: Yo-yo reflux is a radiologically described phenomenon in partial duplication that is of doubtful clinical significance in children, though it has been postulated as a cause of loin pain in adults.",
+    "topic": "Yo-yo reflux"
+  },
+  {
+    "id": "ch08-Q29",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 29,
+    "stem": "A full-term female neonate had a prenatal ultrasound showing left hydronephrosis. Postnatal ultrasound reveals a dilated upper pole collecting system and a cystic structure in the bladder. VCUG shows no reflux. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Left ureteropelvic junction obstruction" },
+      { "id": "b", "text": "Left duplex kidney with upper pole ureterocele" },
+      { "id": "c", "text": "Posterior urethral valves" },
+      { "id": "d", "text": "Prune-belly syndrome" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The combination of a duplex kidney with dilated upper pole and a cystic structure (ureterocele) in the bladder on ultrasound is classic for an upper pole ureterocele. The dilated upper pole is the obstructed moiety drained by the ureterocele.\n\nA is wrong because: Ureteropelvic junction obstruction causes hydronephrosis of the renal pelvis but does not produce a cystic structure within the bladder.\n\nC is wrong because: Posterior urethral valves occur in males and cause bilateral hydronephrosis with a thickened bladder, not a unilateral duplex system with a bladder cyst.\n\nD is wrong because: Prune-belly syndrome includes deficient abdominal wall musculature, undescended testes, and dilated urinary tract, not an isolated duplex finding.\n\nTeaching point: A prenatal finding of hydronephrosis with a postnatal bladder cyst on ultrasound is virtually diagnostic of a ureterocele in a duplex system.",
+    "topic": "Prenatal diagnosis of ureterocele"
+  },
+  {
+    "id": "ch08-Q30",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 30,
+    "stem": "A 10-year-old girl presents with acute urinary retention. On examination, a cystic mass is noted at the introitus. What is the most common cause of urethral obstruction in girls?",
+    "options": [
+      { "id": "a", "text": "Urethral stricture" },
+      { "id": "b", "text": "Prolapsed ectopic ureterocele" },
+      { "id": "c", "text": "Rhabdomyosarcoma" },
+      { "id": "d", "text": "Urolithiasis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Although rare overall, prolapsed ectopic ureterocele is the most frequent cause of urethral obstruction in girls. It can present as acute urinary retention with a visible cystic mass at the introitus.\n\nA is wrong because: Urethral strictures are uncommon in girls and are not the most frequent cause of urethral obstruction in this population.\n\nC is wrong because: Rhabdomyosarcoma (sarcoma botryoides) can cause obstruction but is far less common than prolapsed ureterocele.\n\nD is wrong because: Urolithiasis causing urethral obstruction is rare in girls and is not the most common cause.\n\nTeaching point: Always consider a prolapsed ectopic ureterocele in a girl presenting with acute urinary retention and a visible cystic mass at the introitus.",
+    "topic": "Urethral obstruction in girls"
+  },
+  {
+    "id": "ch08-Q31",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 31,
+    "stem": "A pediatric urologist is performing endoscopic incision of an extravesical ureterocele in a 3-month-old girl. Compared to incision of an intravesical ureterocele, which additional step is recommended?",
+    "options": [
+      { "id": "a", "text": "A second incision distal to the bladder neck" },
+      { "id": "b", "text": "Stenting of the ureter for 6 weeks" },
+      { "id": "c", "text": "Concurrent antibiotic injection" },
+      { "id": "d", "text": "Bladder neck incision" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: For extravesical ureteroceles, an additional incision distal to the bladder neck at the lowest part of the ureterocele is advisable. This prevents the decompressed ureterocele from filling with urine and causing bladder neck obstruction during voiding.\n\nB is wrong because: Ureteral stenting for 6 weeks is not the recommended additional step; the key modification is a second distal incision.\n\nC is wrong because: Concurrent antibiotic injection is not a standard modification for extravesical ureterocele incision.\n\nD is wrong because: Bladder neck incision is not indicated; the additional incision is made in the ureterocele itself, distal to the bladder neck.\n\nTeaching point: When incising an extravesical ureterocele endoscopically, a second distal incision is essential to prevent the decompressed ureterocele from acting as a flap valve and causing bladder outlet obstruction.",
+    "topic": "Extravesical ureterocele incision"
+  },
+  {
+    "id": "ch08-Q32",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 32,
+    "stem": "A 3-year-old with complete duplication is found to have lower pole VUR on VCUG. The attending explains the anatomical basis for this predisposition. What anatomical feature of the lower pole ureter predisposes it to vesicoureteral reflux?",
+    "options": [
+      { "id": "a", "text": "Dilated ureteral orifice" },
+      { "id": "b", "text": "Short intramural tunnel due to superolateral insertion" },
+      { "id": "c", "text": "Associated ureterocele causing orifice distortion" },
+      { "id": "d", "text": "Paraureteral diverticulum" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The lower pole ureter inserts superolaterally on the trigone, resulting in a shorter intramural tunnel. This shorter tunnel provides an inadequate flap-valve mechanism, predisposing to VUR.\n\nA is wrong because: While the orifice may be somewhat laterally displaced, it is the short intramural tunnel length — not primary dilation of the orifice — that is the key anatomical factor.\n\nC is wrong because: Ureteroceles affect the upper pole ureter, not the lower pole. Lower pole VUR is not caused by ureterocele distortion.\n\nD is wrong because: A paraureteral diverticulum can be associated with VUR but is not the specific anatomical feature that explains the predisposition in complete duplication.\n\nTeaching point: The superolateral insertion of the lower pole ureter results in a short intramural tunnel — a direct anatomical consequence of the Weigert-Meyer rule that explains the high rate (50%) of lower pole VUR.",
+    "topic": "Lower pole reflux — anatomical basis"
+  },
+  {
+    "id": "ch08-Q33",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 33,
+    "stem": "A 5-year-old with a duplex kidney has extensive loss of function in the lower moiety on DMSA scan. The parents ask about the cause. Extensive loss of function in the lower moiety of a duplex kidney is most commonly due to:",
+    "options": [
+      { "id": "a", "text": "Pyelonephritic scarring" },
+      { "id": "b", "text": "Congenital dysplasia" },
+      { "id": "c", "text": "Ureteral obstruction" },
+      { "id": "d", "text": "Renal vein thrombosis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Extensive loss of function in the ipsilateral lower moiety is usually due to congenital dysplasia rather than pyelonephritic scarring. This has important management implications, as dysplastic tissue does not benefit from infection prevention alone.\n\nA is wrong because: While pyelonephritic scarring can cause function loss, the text specifically states that extensive loss is usually due to congenital dysplasia, not infection-related scarring.\n\nC is wrong because: Ureteral obstruction typically affects the upper pole in a duplex system, not the lower pole.\n\nD is wrong because: Renal vein thrombosis is not a common cause of lower moiety dysfunction in duplex kidneys.\n\nTeaching point: Lower pole dysfunction in a duplex kidney is more often due to primary congenital dysplasia than acquired pyelonephritic scarring, which guides management toward resection rather than conservation.",
+    "topic": "Lower pole dysplasia"
+  },
+  {
+    "id": "ch08-Q34",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 34,
+    "stem": "A 4-year-old girl presents with continuous dribbling incontinence. Imaging reveals bilateral single ectopic ureters. Which of the following is true regarding this condition?",
+    "options": [
+      { "id": "a", "text": "It occurs predominantly in males" },
+      { "id": "b", "text": "Both ureters drain at the bladder neck" },
+      { "id": "c", "text": "Bladder capacity is usually normal" },
+      { "id": "d", "text": "Bladder augmentation may be required after reimplantation" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Bilateral single ectopic ureters are extremely rare and occur mainly in females. The bladder typically has reduced functional capacity with congenital weakness of the bladder neck, often requiring augmentation and sphincter-enhancing surgery after reimplantation.\n\nA is wrong because: This condition occurs mainly in females, not males.\n\nB is wrong because: Both ureters drain ectopically into the proximal urethra (infra-sphincteric), not at the bladder neck.\n\nC is wrong because: Bladder capacity is greatly reduced in this condition, not normal, secondary to the abnormal ureteral insertion and congenital bladder neck weakness.\n\nTeaching point: Bilateral single ectopic ureters require complex, multi-staged surgery often including ureteral reimplantation, bladder augmentation, and possibly bladder neck reconstruction or closure with a Mitrofanoff procedure.",
+    "topic": "Bilateral single ectopic ureters"
+  },
+  {
+    "id": "ch08-Q35",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 35,
+    "stem": "A 6-month-old girl on antibiotic prophylaxis for a prenatally detected duplex system develops a febrile UTI. Ultrasound shows a large intravesical ureterocele with a dilated upper pole. What is the most appropriate next step?",
+    "options": [
+      { "id": "a", "text": "Proceed directly to upper pole heminephrectomy" },
+      { "id": "b", "text": "Perform endoscopic puncture of the ureterocele" },
+      { "id": "c", "text": "Change antibiotic and continue observation" },
+      { "id": "d", "text": "Perform common sheath reimplantation" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Endoscopic puncture is the least invasive intervention and is indicated to decompress an obstructed upper pole system, reduce infection risk, and protect the upper pole parenchyma. It can be used as a temporizing measure in children presenting with severe infection.\n\nA is wrong because: Upper pole heminephrectomy is more invasive and not the first step. Endoscopic decompression should be attempted first.\n\nC is wrong because: The patient has already failed antibiotic prophylaxis with a breakthrough febrile UTI. Continuing observation is not appropriate.\n\nD is wrong because: Common sheath reimplantation is a major open surgical procedure for VUR, not for acute decompression of an obstructed ureterocele.\n\nTeaching point: Endoscopic ureterocele puncture is the first-line intervention for an obstructed, infected duplex system, serving both therapeutically and as a temporizing measure.",
+    "topic": "Endoscopic puncture indication"
+  },
+  {
+    "id": "ch08-Q36",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 36,
+    "stem": "A 1-year-old is found to have a ureterocele on ultrasound. The radiologist notes it is associated with a single (non-duplex) system. What is the approximate percentage of ureteroceles that occur in this setting?",
+    "options": [
+      { "id": "a", "text": "1%" },
+      { "id": "b", "text": "10%" },
+      { "id": "c", "text": "25%" },
+      { "id": "d", "text": "50%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: While the majority (about 80–90%) of ureteroceles occur in duplex systems, approximately 10% are associated with a single (non-duplex) upper urinary tract. These are termed 'orthotopic' or 'single-system' ureteroceles.\n\nA is wrong because: 1% underestimates the proportion; the correct figure is approximately 10%.\n\nC is wrong because: 25% overestimates the proportion of single-system ureteroceles.\n\nD is wrong because: 50% would imply half of all ureteroceles are single-system, which is incorrect.\n\nTeaching point: Single-system (orthotopic) ureteroceles represent about 10% of all ureteroceles, are almost always intravesical, and are associated with mild or moderate dilatation and preserved ipsilateral renal function.",
+    "topic": "Single-system ureterocele incidence"
+  },
+  {
+    "id": "ch08-Q37",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 37,
+    "stem": "A 6-year-old girl presents with continuous urinary incontinence. Bedside ultrasound suggests a possible duplex system. Which investigation is rapidly becoming the first-line imaging choice for suspected ectopic ureter in girls?",
+    "options": [
+      { "id": "a", "text": "Intravenous urography" },
+      { "id": "b", "text": "MR urography" },
+      { "id": "c", "text": "CT urography" },
+      { "id": "d", "text": "Retrograde pyelography" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: MR urography is rapidly becoming the first-line investigation of choice in girls whose urinary incontinence is suspected to be related to a possible ectopic ureter. It provides functional and anatomical information without radiation exposure, though it requires sedation or general anesthesia.\n\nA is wrong because: Intravenous urography (IVU) has largely been replaced by MR and CT urography and involves ionizing radiation.\n\nC is wrong because: CT urography involves significant radiation exposure, which is particularly undesirable in children, and is not the first-line choice.\n\nD is wrong because: Retrograde pyelography is invasive and requires cystoscopy, making it unsuitable as a first-line investigation.\n\nTeaching point: MR urography is now preferred for evaluating suspected ectopic ureter in girls because it combines anatomical detail with functional information without ionizing radiation.",
+    "topic": "MR urography for incontinence workup"
+  },
+  {
+    "id": "ch08-Q38",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 38,
+    "stem": "A 3-month-old male infant has a left duplex kidney with a non-functioning upper pole. The parents are concerned about a 1-cm cystic lesion at the urethral meatus. What is this most likely to be?",
+    "options": [
+      { "id": "a", "text": "Urethral polyp" },
+      { "id": "b", "text": "Prolapsed caecoureterocele" },
+      { "id": "c", "text": "Paraurethral cyst" },
+      { "id": "d", "text": "Urethral prolapse" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: A caecoureterocele is the largest variety of ectopic ureterocele, extending down into the urethra and potentially appearing as a cystic mass at the external urethral meatus in the perineum.\n\nA is wrong because: Urethral polyps are uncommon in infants and do not typically present as a cystic lesion at the meatus.\n\nC is wrong because: Paraurethral cysts (Skene duct cysts) are typically smaller and located adjacent to the urethral opening, not associated with an ipsilateral duplex kidney.\n\nD is wrong because: Urethral prolapse involves circumferential protrusion of urethral mucosa, not a unilateral cystic lesion.\n\nTeaching point: A prolapsed caecoureterocele should be suspected when a cystic mass at the urethral meatus is found in an infant with a known ipsilateral duplex kidney.",
+    "topic": "Caecoureterocele"
+  },
+  {
+    "id": "ch08-Q39",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 39,
+    "stem": "An 8-year-old presents with intermittent flank pain. Ultrasound reveals a partial (incomplete) duplex kidney with hydronephrosis of the lower pole. In a child with partial ureteral duplication, which of the following is the most common clinically significant finding?",
+    "options": [
+      { "id": "a", "text": "Ureterocele" },
+      { "id": "b", "text": "Pelvi-ureteric junction obstruction of the lower pole" },
+      { "id": "c", "text": "Ectopic ureter" },
+      { "id": "d", "text": "Continuous incontinence" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: In partial duplication, pelvi-ureteric junction obstruction almost invariably occurs in the lower pole (bifid pelvis). This is the most common clinically significant complication associated with partial duplication.\n\nA is wrong because: Ureteroceles are associated with complete duplication, not partial duplication.\n\nC is wrong because: Ectopic ureters are associated with complete duplication, not partial duplication.\n\nD is wrong because: Continuous incontinence is a feature of infra-sphincteric ectopic ureters in complete duplication, not a complication of partial duplication.\n\nTeaching point: The clinically significant complications differ by type: in partial duplication, think PUJ obstruction (lower pole) and yo-yo reflux; in complete duplication, think ureterocele/ectopic ureter (upper pole) and VUR (lower pole).",
+    "topic": "Partial duplication complications"
+  },
+  {
+    "id": "ch08-Q40",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 40,
+    "stem": "A pediatric urologist is considering ureteral clipping for a child with a symptomatic ectopic ureter and a non-functioning upper moiety. What is a major concern regarding this novel technique?",
+    "options": [
+      { "id": "a", "text": "High rate of ureteral necrosis" },
+      { "id": "b", "text": "Uncertainty about long-term outcomes of upper pole hydronephrosis" },
+      { "id": "c", "text": "Inability to access the ureter laparoscopically" },
+      { "id": "d", "text": "Persistent incontinence" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: While initial results of ureteral clipping are promising, follow-up has been relatively short and there are uncertainties regarding the long-term outcome of hydronephrosis that develops in the upper pole following occlusion of the ectopic ureter.\n\nA is wrong because: Ureteral necrosis has not been reported as a major concern with this technique.\n\nC is wrong because: The technique specifically uses a laparoscopic approach and access is described as feasible.\n\nD is wrong because: Persistent incontinence is the problem the procedure is designed to treat, not a concern; the clipping prevents urine passage, thereby resolving incontinence.\n\nTeaching point: Ureteral clipping is a novel, minimally invasive option for ectopic ureters with non-functioning upper moieties, but long-term data on the consequences of creating upper tract obstruction remain unknown.",
+    "topic": "Ureteral clipping"
+  },
+  {
+    "id": "ch08-Q41",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 41,
+    "stem": "A female neonate is diagnosed with a complete duplex system on postnatal imaging. The parents are counseled about the rarity of this finding. What is the incidence of complete ureteral duplication in the general population?",
+    "options": [
+      { "id": "a", "text": "Less than 1%" },
+      { "id": "b", "text": "3–5%" },
+      { "id": "c", "text": "5–10%" },
+      { "id": "d", "text": "10–15%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: Complete duplication is much rarer than partial duplication, occurring in less than 1% of individuals, mainly females. The overall incidence of all duplication is 1–3%, with partial forms being the majority.\n\nB is wrong because: 3–5% is higher than the overall incidence of all duplication (1–3%), making it too high for complete duplication alone.\n\nC is wrong because: 5–10% is far too high; this exceeds even the overall incidence of all duplication types.\n\nD is wrong because: 10–15% is not supported by the literature; complete duplication is rare.\n\nTeaching point: Distinguish between overall duplication incidence (1–3%, mostly partial) and complete duplication incidence (<1%, more clinically significant).",
+    "topic": "Incidence of complete duplication"
+  },
+  {
+    "id": "ch08-Q42",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 42,
+    "stem": "A 7-year-old girl with a known right duplex system and low-grade VUR into the lower pole has been managed with antibiotic prophylaxis for 2 years. She remains asymptomatic with no breakthrough UTIs. Repeat VCUG shows persistent grade I VUR. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Proceed to common sheath reimplantation" },
+      { "id": "b", "text": "Endoscopic correction of VUR" },
+      { "id": "c", "text": "Continue observation with antibiotic prophylaxis" },
+      { "id": "d", "text": "Discontinue antibiotics and observe" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: This child has been asymptomatic on prophylaxis with no breakthrough UTIs. Despite persistent low-grade VUR, ongoing active intervention is not necessary. Observation off antibiotics is reasonable for asymptomatic low-grade VUR.\n\nA is wrong because: Common sheath reimplantation is indicated for high-grade or symptomatic VUR, not for asymptomatic grade I VUR.\n\nB is wrong because: Endoscopic correction has lower success rates for VUR in duplex systems, and intervention is not warranted for asymptomatic low-grade reflux.\n\nC is wrong because: Continuing antibiotics indefinitely for asymptomatic grade I VUR is not justified. The child has been stable and antibiotics can be safely discontinued.\n\nTeaching point: The management of VUR in duplex systems follows similar principles to single systems — low-grade asymptomatic VUR can be observed, and the threshold for surgery is lower only when symptomatic.",
+    "topic": "Low-grade VUR management in duplex"
+  },
+  {
+    "id": "ch08-Q43",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 43,
+    "stem": "A 2-year-old girl presents with continuous incontinence. MR urography reveals a duplex right kidney with an ectopic ureter draining into the vagina. The upper pole has negligible function. What is the most appropriate surgical treatment?",
+    "options": [
+      { "id": "a", "text": "Upper pole heminephrectomy" },
+      { "id": "b", "text": "Ureteroureterostomy" },
+      { "id": "c", "text": "Common sheath reimplantation" },
+      { "id": "d", "text": "Endoscopic incision" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: For an infra-sphincteric ectopic ureter with a non-functioning upper pole, upper pole heminephrectomy is sufficient. It removes the renal parenchyma responsible for excreting the urine that causes incontinence, without the need for distal ureterectomy.\n\nB is wrong because: Ureteroureterostomy is used when the upper pole has salvageable function that warrants preservation, not when function is negligible.\n\nC is wrong because: Common sheath reimplantation is indicated for VUR or for preserving a functioning upper pole, not for a non-functioning pole with an ectopic ureter.\n\nD is wrong because: Endoscopic incision is for ureterocele decompression, not for treating an ectopic ureter causing incontinence.\n\nTeaching point: For an infra-sphincteric ectopic ureter with a non-functioning upper pole, heminephrectomy alone is curative — removing the distal ureter is unnecessary.",
+    "topic": "Ectopic ureter — heminephrectomy"
+  },
+  {
+    "id": "ch08-Q44",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 44,
+    "stem": "A pediatric urologist is performing endoscopic ureterocele puncture. The trainee asks about the optimal incision site. How should the horizontal incision be sited to minimize complications?",
+    "options": [
+      { "id": "a", "text": "Vertically to avoid the ureteral orifice" },
+      { "id": "b", "text": "Close to the junction of the ureterocele and bladder wall" },
+      { "id": "c", "text": "At the dome of the ureterocele" },
+      { "id": "d", "text": "Within the urethral segment only" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The horizontal incision should be sited close to the junction between the ureterocele and bladder wall to prevent creation of a potentially obstructive flap and to reduce the risk of inducing reflux.\n\nA is wrong because: A vertical incision is not recommended; the standard approach is a horizontal incision at the base.\n\nC is wrong because: Incision at the dome may create an obstructive flap of ureterocele wall and is not the optimal site.\n\nD is wrong because: For an intravesical ureterocele, the incision is made within the bladder, not just in the urethral segment.\n\nTeaching point: The correct site for endoscopic ureterocele incision is horizontal, close to the junction with the bladder wall — this minimizes the risk of both post-incision reflux and obstruction from a flap valve.",
+    "topic": "Endoscopic incision technique"
+  },
+  {
+    "id": "ch08-Q45",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 45,
+    "stem": "A pediatric urology clinic sees both male and female infants with ectopic ureters. The attending notes a striking sex difference in prevalence. In which sex is an ectopic ureter more commonly found?",
+    "options": [
+      { "id": "a", "text": "Equal in males and females" },
+      { "id": "b", "text": "Predominantly in males, 4:1 male-to-female ratio" },
+      { "id": "c", "text": "Predominantly in females" },
+      { "id": "d", "text": "Slightly more common in males, 3:2 ratio" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Ectopic ureter occurs mostly in females. While the exact numerical ratio is not specified in the chapter, both ectopic ureters and ureteroceles show a strong female predominance.\n\nA is wrong because: There is a clear sex difference; ectopic ureters are not equally distributed between sexes.\n\nB is wrong because: Males are not predominantly affected; the condition is more common in females.\n\nD is wrong because: Ectopic ureter is not slightly more common in males; it is predominantly a female condition.\n\nTeaching point: Ectopic ureters and ureteroceles both show a strong female predominance — this is a consistent epidemiological feature that aids clinical suspicion.",
+    "topic": "Ectopic ureter sex distribution"
+  },
+  {
+    "id": "ch08-Q46",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 46,
+    "stem": "A 3-year-old with a duplex kidney is being evaluated with both DMSA and MAG3 scintigraphy. The radiologist explains the advantages of each modality. Which of the following is an advantage of MAG3 renography over DMSA scintigraphy in evaluating duplex kidneys?",
+    "options": [
+      { "id": "a", "text": "Better quantification of upper vs lower pole function" },
+      { "id": "b", "text": "Provides information on drainage as well as differential function" },
+      { "id": "c", "text": "Lower radiation dose" },
+      { "id": "d", "text": "Better detection of occult duplex systems" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Dynamic renography with MAG3 provides information on drainage as well as differential function. This makes it particularly useful for assessing whether there is obstruction in addition to quantifying function.\n\nA is wrong because: DMSA is more accurate than MAG3 for quantifying differential function between the two moieties of a duplex kidney.\n\nC is wrong because: Both involve ionizing radiation, and the relative doses depend on the protocol. This is not described as a distinguishing advantage.\n\nD is wrong because: DMSA is better for detecting occult duplex systems by demonstrating poorly functioning dysplastic upper pole parenchyma.\n\nTeaching point: Choose DMSA for accurate split function assessment; choose MAG3 when you also need drainage information — the two are complementary in duplex kidney evaluation.",
+    "topic": "MAG3 vs DMSA"
+  },
+  {
+    "id": "ch08-Q47",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 47,
+    "stem": "A boy with bilateral single ectopic ureters has undergone ureteral reimplantation but remains incontinent with a small-capacity bladder. As a last resort, which procedure may be required to achieve continence?",
+    "options": [
+      { "id": "a", "text": "Ileal conduit diversion" },
+      { "id": "b", "text": "Bladder neck closure with a Mitrofanoff procedure" },
+      { "id": "c", "text": "Artificial urinary sphincter" },
+      { "id": "d", "text": "Ureteral clipping" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: For bilateral single ectopic ureters, if continence cannot be achieved after reimplantation, bladder augmentation, and sphincter-enhancing surgery, the last resort is surgical closure of the bladder neck combined with a Mitrofanoff (catheterizable channel) procedure.\n\nA is wrong because: Ileal conduit diversion is an incontinent diversion and would not achieve continence.\n\nC is wrong because: An artificial urinary sphincter may be considered before resorting to bladder neck closure, but in severe cases with a small-capacity bladder and congenital sphincter deficiency, it may not be feasible or effective.\n\nD is wrong because: Ureteral clipping is for ectopic ureters with non-functioning upper poles, not for bladder neck incompetence.\n\nTeaching point: Bilateral single ectopic ureters represent one of the most challenging continence problems in pediatric urology, sometimes ultimately requiring bladder neck closure and catheterizable channel for continence.",
+    "topic": "Bilateral single ectopic ureters — surgical management"
+  },
+  {
+    "id": "ch08-Q48",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 48,
+    "stem": "A 6-year-old undergoes VCUG during evaluation of recurrent UTIs. The study demonstrates reflux into both the upper and lower pole moieties of a right duplex kidney. This finding is most indicative of:",
+    "options": [
+      { "id": "a", "text": "Complete duplication with bilateral VUR" },
+      { "id": "b", "text": "Partial duplication" },
+      { "id": "c", "text": "Two separate ureteroceles" },
+      { "id": "d", "text": "Bilateral single ectopic ureters" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Reflux into the upper pole of a complete duplex system is rare. When a VCUG demonstrates reflux into both poles of a duplex kidney, this is usually indicative of a partial duplication (where the two ureters join above the bladder and the common ureter is refluxing).\n\nA is wrong because: In complete duplication, reflux into the upper pole is rare; the typical pattern is isolated lower pole reflux.\n\nC is wrong because: Ureteroceles are associated with obstruction, not with reflux into both poles.\n\nD is wrong because: Bilateral single ectopic ureters drain ectopically and are not associated with reflux into both poles of a single kidney.\n\nTeaching point: Bilateral reflux on VCUG in a duplex kidney suggests the anatomy is that of a partial duplication with a common refluxing ureteral orifice rather than complete duplication with two separate orifices.",
+    "topic": "VCUG in partial duplication"
+  },
+  {
+    "id": "ch08-Q49",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 49,
+    "stem": "A surgeon and parents are discussing the simplified approach for a child with a duplex system ureterocele. The surgeon notes this approach avoids a second incision for distal ureterectomy. What does the simplified approach (heminephrectomy with ureteral aspiration) avoid?",
+    "options": [
+      { "id": "a", "text": "Antibiotic prophylaxis" },
+      { "id": "b", "text": "The need for a second incision to excise the distal ureter and ureterocele" },
+      { "id": "c", "text": "Endoscopic evaluation" },
+      { "id": "d", "text": "VCUG follow-up" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The simplified approach avoids the need for a second (groin) incision to remove the distal ureter and ureterocele. Instead, after upper pole heminephrectomy through a flank incision, the distal ureteral stump is decompressed by aspirating urine from the ureterocele and leaving it in situ.\n\nA is wrong because: Antibiotic prophylaxis is still used in the simplified approach; it is not avoided.\n\nC is wrong because: Endoscopic evaluation (cystoscopy) may still be part of the overall management but is not specifically avoided by this technique.\n\nD is wrong because: VCUG follow-up is still relevant for assessing lower pole VUR and is not avoided.\n\nTeaching point: The key advantage of the simplified approach is avoiding a second incision for distal ureterectomy; the decompressed ureteral stump and ureterocele are left in situ and rarely cause problems.",
+    "topic": "Simplified approach benefit"
+  },
+  {
+    "id": "ch08-Q50",
+    "chapter": "Duplication, Ureteroceles, Ectopic Ureters",
+    "chapterSlug": "ch08_duplication-ureteroceles-ectopic-ureters",
+    "chapterNumber": 8,
+    "questionNumber": 50,
+    "stem": "A pathology specimen from an upper pole heminephrectomy shows renal dysplasia. The attending explains the embryological basis. Which statement best describes the embryological origin of renal dysplasia in the upper pole of a complete duplex system?",
+    "options": [
+      { "id": "a", "text": "Due to postnatal ureteral obstruction" },
+      { "id": "b", "text": "Caused by reflux from the lower pole" },
+      { "id": "c", "text": "A ureteral bud from an aberrant position penetrates an abnormal part of the metanephric blastema" },
+      { "id": "d", "text": "Secondary to intrauterine infection" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: A ureteral bud derived from an aberrant (ectopic) position on the mesonephric duct is more likely to penetrate an abnormal part of the metanephric blastema, resulting in defective nephrogenesis and renal dysplasia. This explains why the upper pole in complete duplication is often dysplastic.\n\nA is wrong because: The dysplasia is congenital and developmental, not acquired from postnatal obstruction. Obstruction may compound the damage but is not the primary cause.\n\nB is wrong because: Reflux from the lower pole does not cause upper pole dysplasia; the two poles have separate ureteral insertions in complete duplication.\n\nD is wrong because: Intrauterine infection is not the cause of the characteristic dysplasia seen in duplex upper poles.\n\nTeaching point: The upper pole dysplasia in complete duplication is a primary embryological defect resulting from abnormal ureteral bud-blastema interaction, not a secondary phenomenon from obstruction or reflux.",
+    "topic": "Embryology of renal dysplasia in duplex"
+  }
+]

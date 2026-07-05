@@ -1,0 +1,722 @@
+                                                                                                9
+Posterior Urethral Valves and Other
+Urethral Abnormalities
+
+DIVYESH Y DESAI and PATRICK G DUFFY
+
+
+Topics covered
+
+Posterior urethral valves                             Long-term management
+Anatomy/pathophysiology                               Anterior urethral diverticulum
+Presentation/investigation                            Urethral duplication
+Treatment                                             Other urethral pathology
+Prognosis
+
+
+
+
+ POSTERIOR URETHRAL VALVES                            persists despite successful treatment of the
+                                                      valves themselves.
+                                                          Posterior urethral valves carried a mortal-
+Introduction                                          ity rate of almost 100% during the early years
+Urethral obstruction in children is usually           of the 20th century and remained as high as
+congenital in origin – with posterior urethral        50% until the 1950s. By contrast, the mortal-
+valves (PUV) being by far the commonest cause.        ity reported in one recent series was only 0.3%.
+Posterior urethral valves give rise to changes in     However, this reduction in early mortality has
+the upper urinary tract which reflect the sever-      come at the expense of a greater proportion of the
+ity and duration of bladder outflow obstruction       surviving children suffering from chronic renal
+in fetal life. Severe obstruction which has been      failure. Posterior urethral valves are confined to
+present from early gestation is associated with       males, in whom the incidence is of the order 1 in
+varying degrees of congenital renal dysplasia,        4000–6000 live births. Although some familial
+which is the principal cause of renal insufficiency   cases have been reported, including in siblings,
+and chronic kidney disease (CKD) in PUV               no established genetic predisposition has been
+patients. Long-term morbidity also includes           identified and PUV generally behaves as a spo-
+symptomatic bladder dysfunction which often           radic anomaly.
+
+
+
+                                                                                                    115
+116 Posterior Urethral Valves and Other Urethral Abnormalities
+
+
+
+Anatomy
+Hugh Hampton Young in 1919 described the
+first classification of posterior urethral valves
+based on postmortem dissection studies. He
+described three types, Type I being the com-
+monest (95%) which consisted of co-apting leaf-
+lets with a proximal attachment to the distal
+verumontanum extending through the region
+of the external urethral sphincter to attach to
+the anterior urethral wall. Type III valves are
+uncommon (5%) and are best described as a
+transverse perforated membrane in the bulbar
+urethra with no attachment to the verumon-
+tanum. Type II valves, are described as leaflets
+that extend upwards from the verumontanum to
+the anterior aspect of the posterior urethra. It is
+                                                      Figure 9.1 Endoscopic appearance of intact
+unlikely that Type II valves constitute a genu-       valve membrane prior to endoscopic ablation.
+ine pathological entity and they are generally
+regarded as being non-obstructive mucosal folds
+of no clinical significance.                             Studies of experimentally induced fetal blad-
+    Some authors have challenged Young’s classi-      der outflow obstruction in various animal models
+fication which identified three distinct patterns     have established the following:
+of valvular obstruction. Dewan and Ransley’s
+anatomical and endoscopic studies point to a          ●● Early outflow obstruction leads to abnor-
+single configuration comprising an obliquely             malities in bladder wall components with an
+orientated congenital obstructive posterior ure-         increase in the collagen element, aberrant
+thral membrane (COPUM) with a variably sized             innervation and renal dysplasia. The charac-
+eccentric aperture located within it which arises        teristic histological features of renal dysplasia
+from the verumontanum and extends through                include the persistence of primitive tubules
+the region of the external urethral sphincter to         and the presence of abnormal mesenchymal
+attach to the anterior urethral wall (Figure 9.1).       derivatives such as cartilage interspersed
+It has been argued that urethral instrumenta-            between normal renal tissue.
+tion, including catheterisation, disrupts the         ●● Obstruction in later gestation results in the
+valve membrane in the midline to create the              typical features of chronic bladder out-
+appearance of two separate, side-by-side valve           flow obstruction and raised intravesical
+leaflets described as the classical Type I valves        pressure, without the occurrence of renal
+by Young.                                                dysplasia.
+                                                      ●● Intrauterine intervention to relieve
+
+                                                         experimentally induced obstruction in fetal
+Pathophysiology                                          animal has been shown to result in resolution
+                                                         of hydro-ureteronephrosis. This is accompa-
+Posterior urethral valves are thought to originate       nied by reversal of the detrusor hypertrophy
+from abnormal interaction between the meso-              and more normal innervation of bladder wall
+nephric ducts and the urogenital sinus around the        muscle.
+seventh week of gestation. Dilatation of the fetal
+urinary tract secondary to obstruction caused by      In man, the clinical features of PUV may be at
+PUV can detected on ultrasonography as early as       any point on a wide spectrum of pathology rang-
+14 weeks gestation.                                   ing from relatively mild obstructive changes to
+                                                             Posterior urethral valves / Presentation 117
+
+
+
+gross changes in the bladder and upper tracts         Table 9.1 Ultrasound features of posterior
+accompanied by severe renal dysplasia.                urethral valves in the fetus
+   Thus, the long-term prognosis in an individual
+                                                      Male fetus
+with posterior urethral valves is determined by
+                                                      Bilateral upper tract dilatation
+a combination of abnormal development of the
+urethra, bladder, kidneys and the ureters, and        Persistently distended full bladder
+secondary consequences of congenital outflow          Predictors of poor functional outcome and
+obstruction on the development and function of           early-onset renal failure
+bladder and the upper urinary tract.                  Detection before 24 weeks’ gestation
+   The relative contribution made by these differ-    Bladder wall thickening
+ent factors to the long-term outcome for bladder      Echo-bright kidneys (renal dysplasia)
+and renal function is often difficult to determine,   Oligohydramnios
+and therefore predicting long-term outcomes
+can be difficult. The urinary tracts of boys with
+posterior urethral valves must therefore be moni-     b2-microglobulin have been studied as possible
+tored through childhood, adolescence and early        predictive markers of renal function. However,
+adulthood.                                            there is considerable overlap with normal values
+                                                      and their prognostic sensitivity is less reliable
+Presentation                                          than information yielded by detailed evaluation
+                                                      of the ultrasound appearances. In addition to
+The fetus                                             dilatation and renal dysplasia (bright kidneys),
+                                                      predictive findings may include pulmonary
+More than 80% of cases are detected on prena-         hypoplasia, urinary ascites and perinephric uri-
+tal ultrasound. Although the underlying urethral      nomas (Table 9.1). In cases where dilatation does
+anomaly dates from the seventh to the ninth week      not develop until later in gestation, the prognosis
+of gestation, dilatation of the urinary tract may     is generally good.
+not develop until later in pregnancy. In 55% of
+prenatally detected cases of PUV abnormal ultra-
+sound findings are visualised on routine mater-       The neonate
+nal ultrasound scans performed between 16 and
+                                                      When symptoms are present these usually relate
+20 weeks. In the remaining cases, the appear-
+                                                      to bladder outflow obstruction or, less commonly,
+ances of the fetal urinary tract are normal in the
+                                                      to clinical manifestations of impaired renal func-
+second trimester, and the condition only becomes
+                                                      tion. Clinical features of listlessness, poor feed-
+apparent on scans performed in later pregnancy –
+                                                      ing, irritability and failure to thrive are common.
+mainly for obstetric indications.
+                                                      The urinary stream, if witnessed, is usually poor.
+    Functional outcome is closely linked to the
+                                                      The bladder is palpable in most instances; the
+gestational age at which dilatation becomes
+                                                      kidneys may also be palpated. Urinary ascites
+apparent, and studies have shown that when the
+                                                      is occasionally present and does not necessarily
+condition is detected at 16–20 weeks the prog-
+                                                      denote a poor prognosis.
+nosis is more likely to be poor, especially if oli-
+gohydramnios is present. Oligohydramnios is a
+manifestation of fetal oliguria or anuria. In preg-   The infant
+nancies which proceed to term, a severely affected
+newborn infant may demonstrate features of            Presentation in infancy is generally with urinary
+Potter’s syndrome (characteristic Potter’s facies     infection and in the majority of cases there are
+and skeletal “moulding” deformities) with death       no immediately obvious signs of PUV. Gram-
+supervening in the early neonatal period due to       negative sepsis and renal failure with gross
+pulmonary hypoplasia. Biochemical constitu-           electrolyte disturbance were common forms of
+ents of fetal urine such as sodium, calcium and       presentation but with increasing detection by
+118 Posterior Urethral Valves and Other Urethral Abnormalities
+
+
+
+prenatal ultrasound and greater awareness of
+the features of urinary infection in infants it has
+become much less common for PUV to present
+with sepsis than in the past. Chronically impaired
+renal function is usually manifest as poor growth
+and general failure to thrive.
+
+
+The older child
+Presentation may include manifestations of renal
+failure such as growth retardation, urinary infec-
+tions, haematuria or voiding symptoms (typically
+prolonged voiding, rather than a poor urinary          Figure 9.3 Ultrasound illustrating the diagnostic
+                                                       “keyhole sign.” Dilated (thick-walled) bladder
+stream). However, “late presenting” cases of
+                                                       and dilated posterior urethra.
+PUVs are often at the milder end of the spectrum
+of severity and may occasionally be diagnosed
+during the investigation of diurnal or nocturnal
+enuresis.                                              can be made with more certainty if these findings
+                                                       are also accompanied by dilatation of the posterior
+Investigations                                         urethra – the so-called “keyhole sign” (Figure 9.3).
+
+Prenatal                                               Postnatal
+
+The presence of posterior urethral valves can only     Ultrasonography is the initial investigation.
+be inferred from the ultrasound appearances of         Relevant findings in the upper tracts may
+a distended fetal bladder and dilated upper tracts     include; dilatation (which is sometimes unilat-
+(Figure 9.2). Alternative diagnoses include urethral   eral), perinephric urinoma (a rare occurrence)
+atresia (which is always lethal), prune-belly syn-     and changes in the renal cortex denoting dys-
+drome, megacystis–microcolon intestinal hypo-          plasia (e.g. “echo bright” parenchyma and cysts).
+peristalsis syndrome and high grade primary            Ultrasound appearances of the bladder include;
+vesicoureteric reflux. However, the diagnosis of PUV   bladder wall thickening, trabeculation and sac-
+                                                       culation. There may or may not be residual urine
+                                                       retained in the bladder. If voiding views can be
+                                                       obtained, ultrasound may demonstrate dilata-
+                                                       tion of the posterior urethra.
+                                                           Micturating cystourethrography (MCUG) pro-
+                                                       vides the definitive diagnosis, with a range of find-
+                                                       ings, as illustrated in Figures 9.4–9.6. Vesicoureteric
+                                                       reflux is present in 40–60% of cases at the time of
+                                                       initial evaluation and is unilateral in approximately
+                                                       two-thirds of cases.
+                                                           Initial assessment also includes measure-
+                                                       ment of electrolyte balance and renal function. It
+                                                       should be noted, however, that serum creatinine
+                                                       levels in the first 48 hours of life are a reflection
+Figure 9.2 Prenatal ultrasound demonstrating           of maternal renal function and it is not until the
+marked dilatation of both fetal kidneys and the        infant is a few days of age that the plasma creati-
+fetal bladder. The fetal spine and thorax are          nine becomes a reliable measure of his own renal
+clearly visible in both these longitudinal images.     function.
+                                                                Posterior urethral valves / Treatment 119
+
+
+
+
+                                                      Figure 9.5 Newborn preterm infant, prenatal
+                                                      diagnosis. Heavily trabeculated bladder with
+                                                      diverticulum, prominent bladder neck and
+                                                      demarcation between dilated posterior urethra
+                                                      and non-dilated distal urethra at the site of the
+                                                      valve membrane.
+Figure 9.4 Newborn infant: micturating cysto-
+urethrogram (MCU). Grossly dilated posterior
+urethra, indentation by prominent bladder neck,
+small trabeculated bladder.
+
+
+Treatment
+The fetus
+The rationale for fetal intervention is based on
+the findings of studies in experimental ani-
+mals which indicated that obstructive renal
+damage could be ameliorated by intrauterine
+decompression of the obstructed fetal bladder.
+However, the extent to which these experimen-
+tal findings can be applied to the clinical setting
+in humans is debatable. Initially, fetal interven-
+tion in humans took the form of hysterotomy
+and open fetal surgery but this was soon super-
+seded by ultrasound guided insertion of a shunt
+between the obstructed fetal bladder and amni-        Figure 9.6 MCU in a boy presenting in the
+otic cavity. (See Chapter 4) One metanalysis of       first year of life with urinary infection. Smooth-
+10 published studies identified a higher survival     walled non-trabeculated bladder, unilateral
+rate in shunted fetuses and a higher percentage       grade IV reflux.
+120 Posterior Urethral Valves and Other Urethral Abnormalities
+
+
+
+of infants with normal renal function at 6              The neonate
+months to 2 years of age. However, the results
+of comparative studies are difficult to critically      To minimise risks of metabolic disturbance and
+assess because of differences in selection crite-       urinary tract infection (UTI), the obstructed uri-
+ria and other weakness of methodology. In the           nary tract should be decompressed promptly by
+United Kingdom the multicentre percutaneous             either urethral or suprapubic bladder catheter
+shunting in lower urinary tract obstruction             drainage. Once this has been achieved, there is no
+(PLUTO) trial was established with the aim of           compelling urgency to proceed to definitive treat-
+evaluating and comparing survival rates and             ment of the posterior urethral valves. Plasma bio-
+outcomes for renal and bladder function follow-         chemistry should be monitored during the first
+ing vesicoamniotic shunting. Although the trial         7–21 days to obtain a measurement of baseline
+was discontinued because of inability to recruit        renal function (nadir creatinine) which serves as
+sufficient numbers of subjects, preliminary data        a reasonably reliable predictor of the later func-
+did not appear to identify any significant benefit      tional outcome.
+for renal function.
+    Fetal cystoscopy and intrauterine valve abla-       Endoscopic valve ablation
+tion has been reported as an alternative to vesico
+amniotic shunting and there is limited evidence         The definitive management of posterior urethral
+to suggest that this approach might that have a         valves consists of surgical resection or ablation of
+higher early survival rate. However, it has only        the obstructing valve membrane. For this purpose,
+been used on a very limited scale and no long-          modern miniaturised endoscopes (Figure 9.7)
+term results are available.
+    In summary, although the published results of
+fetal intervention have generally been disappoint-
+ing, vesico amniotic shunting may have a limited
+role to play when used on a selective basis.
+    Termination of pregnancy is probably the
+most common form of prenatal intervention,
+particularly when severe dilatation and associ-
+ated oligohydramnios are detected in early preg-
+nancy. In these circumstances decompression of
+the obstructed urinary tract is of little benefit for
+renal function, since irreversible renal dysplasia
+is almost invariably present.
+    Elective preterm delivery can be regarded as
+another form of intervention, but it is probably
+of limited benefit except in cases where there is
+evidence of rapidly progressing late-onset dila-
+tation. In deciding the optimum timing for elec-
+tive early delivery the predicted benefit for renal
+function must be carefully balanced against
+the risk of pulmonary immaturity in preterm
+infants.
+    Regardless of the controversies surrounding
+                                                        Figure 9.7 Cold knife and cutting resectoscope
+fetal intervention, there is a universal consensus      loop for use with neonatal resectoscope. The
+that prenatal diagnosis has proved beneficial by        availability of instruments designed for neonatal
+facilitating prompt postnatal treatment of PUVs         use including lasers has simplified management
+and a corresponding reduction in the risk of            and greatly reduced the incidence of instrumen-
+severe sepsis and pyelonephritic renal damage.          tation-induced urethral trauma.
+                                                               Posterior urethral valves / Treatment 121
+
+
+
+                                                     frequently than in the past and there is no con-
+                                                     vincing evidence that it leads to any improvement
+                                                     in the prognosis for renal function. Nevertheless,
+                                                     there are still indications for urinary diversion in
+                                                     individual cases.
+
+
+                                                     Vesicostomy
+                                                     Primary cutaneous vesicostomy drainage is
+                                                     used for the management of boys with markedly
+                                                     impaired renal function and/or gross vesicoure-
+                                                     teric reflux. In our centre its use for this purpose
+                                                     has been largely superseded by refluxing ureter-
+                                                     ostomy. However, primary cutaneous vesicos-
+                                                     tomy remains a useful option in situations when
+                                                     miniaturised instruments are unavailable.
+                                                        The stoma is created at the apex of the blad-
+Figure 9.8 Position of the cutting loop prior to     der to minimise the risk of prolapse. Closure is
+ablation of the valve membrane.                      undertaken after subsequent valve ablation at
+                                                     around 6–18 months of age depending on the ini-
+                                                     tial indication for selecting vesicostomy and the
+can be used safely even in small premature neo-      child’s level of renal function (Figure 9.9).
+nates. The valve leaflets are incised from mar-
+gin to base (rather than fully resected). These
+incisions are conventionally performed in the
+5 and 7 o’clock positions (Figure 9.8) – with
+a further incision at the 12 o’clock position if
+required. To minimise the risk of any dam-
+age to surrounding tissues we prefer to incise
+the valve membrane with a cold knife blade
+rather than a cutting diathermy loop. Incision
+of the valve membrane at two or three sites is
+sufficient to relieve the obstruction. It is not
+necessary to attempt complete removal of the
+valve tissue and, indeed this carries some risk
+of damage to adjoining tissues. Practice var-
+ies with regard to catheter drainage following
+the procedure but this is advisable if significant
+intraoperative bleeding has been encountered.
+We favour a follow-up cystoscopy 6–12 weeks
+later to ensure completeness of valve ablation.
+Some paediatric urologists combine this proce-
+dure with a circumcision performed under the
+same anaesthetic.
+   The majority of boys can be effectively and
+safely managed by definitive primary surgi-
+cal treatment of their posterior urethral valves.
+Urinary tract diversion is performed less            Figure 9.9 Cutaneous vesicostomy.
+122 Posterior Urethral Valves and Other Urethral Abnormalities
+
+
+
+Supravesical diversion                                a paediatric nephrologist. The urological priority
+                                                      is to ensure prompt and effective drainage of the
+Bilateral end ureterostomies or pyelostomies are      obstructed urinary tract. Definitive treatment of
+rarely performed because:                             the posterior urethral valves should be delayed
+                                                      until the infant’s general condition has been
+●● Defunctioning the bladder may adversely            stabilised and the infection has been effectively
+   affect its development and later function.         treated – usually after 2–7 days. Vesicostomy or
+●● Vesicostomy usually provides equally effective     refluxing ureterostomy may sometimes be the
+   drainage and is easier to manage by parents.       most appropriate primary intervention, with
+                                                      treatment of the valves being deferred until clo-
+                                                      sure of the vesicostomy or ureterostomy around
+Refluxing ureterostomy                                the time of toilet training.
+
+This is an elegant way of overcoming the high
+                                                      The older child
+storage and voiding pressures in the bladder
+which may persist in infancy despite success-         With few exceptions, endoscopic ablation of the
+ful valve ablation. A low lying loop of dilated       valves is the initial treatment.
+ureter is exteriorised in a configuration which
+permits external drainage of urine into a nappy
+whilst retaining continuity of drainage between       Prognosis
+the kidney and bladder. Refluxing ureterostomy
+has a number of advantages including; maximis-        Approximately one-third of individuals have sig-
+ing drainage from the ipsilateral kidney, serving     nificantly impaired renal function and approxi-
+as a “safety valve” to protect both kidneys from      mately 20% develop stage 5 CKD (end-stage renal
+elevated bladder pressure during storage and          failure). However, the full extent of renal insuf-
+voiding, maintaining a pattern of bladder empty-      ficiency associated with PUV in the long-term
+ing and filling (termed “cycling”) and retaining      does not become fully apparent until adolescence
+the potential for normal bladder emptying in the      or early adulthood. Factors implicated in the aeti-
+future. The urinary tract is usually reconstituted    ology of chronic renal failure include:
+between 2 and 3 years of age in preparation for
+toilet training.                                      ●● Primary renal dysplasia.
+                                                      ●● Secondary damage from bladder outflow
+Urinary leaks                                            obstruction. This occurs principally in utero,
+                                                         but may also occur in the postnatal period if
+Urinary ascites and perinephric collections or           undiagnosed obstruction persists after birth.
+“urinomas” respond to a short period of bladder       ●● Urinary infection and pyelonephritis –
+
+drainage. Large or persistent perirenal collections      mainly in association with vesicoureteric
+may occasionally require ultrasound-guided per-          reflux.
+cutaneous aspiration or open drainage.                ●● Secondary damage from ongoing high pres-
+
+                                                         sure bladder dysfunction which persists
+The infant                                               despite successful valve ablation.
+
+Urinary infection in infants with previously          The incidence of CKD in the first decade of life
+undiagnosed PUVs is often complicated by sep-         is not reduced by prenatal diagnosis because this
+ticaemia and gross disturbances of electrolyte        is largely determined before birth by the severity
+and acid–base balance – of which hyperkalaemic        of congenital renal dysplasia. However, prenatal
+acidosis is the most serious. The metabolic distur-   diagnosis may nevertheless be of some benefit in
+bances and sepsis demand vigorous treatment,          those boys who do not have renal dysplasia by
+which should be undertaken in cooperation with        reducing the obstructive and/or infective damage
+                                  Posterior urethral valves / Follow-Up and Long-Term Management 123
+
+
+
+to their kidneys which might otherwise have           POSTNATAL
+occurred if the diagnosis of PUV had been             ●● Presentation in the first 12 months of life (if
+delayed until later in infancy or childhood.             not already detected prenatally)
+   The importance of ongoing bladder dysfunc-         ●● Persistently elevated plasma creatinine level at
+tion, which is manifest clinically as impaired           6 months of age
+continence, has received greater recognition in       ●● Proteinuria
+recent years. Published evidence of urodynamic        ●● Bilateral vesicoureteric reflux
+studies has demonstrated that patterns of blad-       ●● Impaired continence at 5 years of age
+der dysfunction tend to change over time, with           upwards
+detrusor overactivity being superseded by a pat-
+tern of detrusor decompensation, sometimes            INDICATORS OF GOOD RENAL FUNCTION
+termed “myogenic” failure. This is accompanied        ●●   Presentation in later childhood
+by weakening detrusor contractility and pro-          ●●   Protection of the upper tracts by a “pop-off”
+gressive increase in bladder capacity. Obligatory
+                                                           phenomenon
+polyuria in the early stages of chronic renal
+insufficiency results in large residual volumes of
+                                                      The most common “pop-off” mechanism is
+poorly concentrated urine being retained within
+                                                      unilateral high-grade vesicoureteric reflux. The
+the bladder.
+                                                      combination of unilateral high grade VUR and
+   Urodynamic studies undertaken in the
+                                                      a non-functioning or poorly functioning ipsi-
+authors’ unit have shown a uniform pattern of
+                                                      lateral dysplastic kidney is termed the “VURD”
+bladder dysfunction 1 year after successful relief
+                                                      (VU reflux dysplasia) syndrome. This is believed
+of outflow obstruction by valve ablation. During
+                                                      to act as a “safety valve” which confers some
+the filling phase, the functional capacity of the
+                                                      degree of protection to the developing contralat-
+bladder is reduced but bladder compliance is
+                                                      eral kidney by reducing its exposure to the high
+unimpaired despite the detrusor overactivity. The
+                                                      intravesical pressure in the obstructed bladder.
+voiding phase is characterised by a distinctive
+                                                      However, the importance of the “pop-off” phe-
+biphasic or polyphasic detrusor pressure profile
+                                                      nomenon as a protective mechanism has prob-
+coupled with high voiding detrusor pressures and
+                                                      ably been overstated. Although it may impart
+incomplete bladder emptying.
+                                                      some medium-term benefit, a proportion of boys
+   By the age of 5 years, however, bladder func-
+                                                      nevertheless progress into renal failure regard-
+tion has changed and falls into three distinct pat-
+                                                      less of the VURD syndrome. Other less common
+terns based on voiding dynamics. A proportion
+                                                      forms of “pop-off” mechanisms include urinary
+of boys have proceeded to develop a largely nor-
+                                                      ascites, perinephric urinoma and a large bladder
+mal voiding pattern on urodynamic evaluation.
+                                                      diverticulum.
+A second group continue to exhibit a biphasic or
+polyphasic detrusor pressure profile with high
+detrusor pressures on voiding and incomplete          Follow-Up and Long-Term
+bladder emptying. Finally, a small proportion         Management
+of boys are already showing evidence of bladder
+decompensation (“myogenic failure”).                  All boys with PUVs require long-term follow-up.
+                                                      A suggested protocol is illustrated in Table 9.2.
+Predictors of a poor renal function                   Once overall function has stabilised, differential
+                                                      renal function is monitored by MAG3 (mercap-
+PRENATAL                                              toacetyltriglycine) renography or by dimercap-
+●● Maternal oligohydramnios, regardless of the        tosuccinic acid (DMSA) scintigraphy. Successful
+   gestational age                                    relief of the outflow obstruction by valve ablation
+●● Early detection (<20 weeks) on prenatal ultra-     generally results in some reduction of the severity
+   sound of echogenic “bright” renal cortex and       of upper tract dilatation. However, some degree
+   pelvicaliceal dilatation                           of dilatation tends to persist during childhood.
+124 Posterior Urethral Valves and Other Urethral Abnormalities
+
+
+
+Table 9.2 Follow-up protocol for patients with        less likely in the presence of bladder dysfunc-
+posterior urethral valves                             tion or when the ipsilateral kidney is poorly
+                                                      functioning.
+Routine at every visit
+                                                          Neonatal circumcision is performed routinely
+Height and weight
+                                                      by some surgeons to minimise the risk of UTI.
+Blood pressure                                        Although this was previously performed on a
+Urinary tract ultrasonography                         largely anecdotal basis it is now supported by a
+Urine dipstick, serum creatinine and electrolytes     body of stronger evidence. Even if circumcision
+As indicated                                          has not been performed as a prophylactic measure
+Isotope renography (MAG3 or DMSA) –                   it should be actively considered in any boy with
+   baseline at age 3 months and at age 5 years        PUV who experiences breakthrough urinary
+Flow rate – after successful toilet training and      infections despite antibiotic prophylaxis. Other
+   annually                                           forms of surgical intervention, such as open or
+Video urodynamics – age 5 years and repeated          endoscopic correction of VUR or nephroureter-
+   if any change in symptoms or increasing PVR        ectomy are rarely indicated
+Formal estimation of GFR – age 1 and 5 years,
+   pre- and post-pubertal growth
+                                                      Bladder dysfunction
+This may be unilateral but is more commonly           Around two thirds of boys experience some
+bilateral. Possible explanations include:             degree of lower urinary tract symptoms and
+                                                      15–30% suffer from varying degrees of urinary
+●● Incomplete relief of bladder outflow               incontinence. As already noted, urodynamic
+   obstruction.                                       studies typically demonstrate detrusor overactiv-
+●● Persisting vesicoureteric reflux.                  ity and hypercontractility between 1 and 3 years
+●● Ureterovesical obstruction secondary to            of age. As this pattern gradually resolves, bladder
+   occlusion of the ureterovesical junction by a      capacity increases and voiding pressures reduce
+   thick-walled bladder (rare).                       to more normal levels between the ages of 4 and
+●● Exposure of the upper tracts to high pressures     7 years. By adolescence and early adulthood this
+   generated by bladder dysfunction (reduced          pattern of bladder dysfunction has often been
+   compliance, detrusor instability).                 superseded by hypocontractility and large post
+●● Ureteric decompensation, particularly in           void residual volumes. Although most boys have
+   conjunction with polyuria.                         become dry by the end of adolescence, men with
+                                                      a history of PUV continue to have a higher inci-
+Dilatation which shows no sign of improvement         dence of lower urinary tract symptoms.
+in the first few months after valve ablation is an        Because of the potentially harmful behav-
+indication for endoscopic re-evaluation to exclude    iour of the bladder despite valve ablation, some
+the possibility of residual valvular obstruction or   paediatric urologists advocate the routine use
+stricture formation.                                  anticholinergics – which, in some cases may be
+    Persistent or increasing dilatation in mid to     accompanied by clean intermittent catheterisa-
+late childhood may occur in response to the high      tion. However, there is no agreement on the dura-
+obligatory output of dilute urine which occurs        tion of this form of management and, as yet, no
+when the concentrating ability of the kidneys         convincing evidence that it leads to improved
+declines with the onset of early chronic renal        outcomes for renal or bladder function in the
+failure (tubular defect). Investigation should        longer term.
+therefore be aimed at reassessing glomerular and          Diurnal enuresis secondary to bladder
+tubular renal function.                               dysfunction and detrusor overactivity often
+    Vesicoureteric reflux resolves in 30–60% of       responds to detrusor antispasmodics such as
+cases following valve ablation. However, this is      oxybutynin or alternative anticholinergics.
+              Other urethral abnormalities / Anterior Urethral Valves, Diverticula and Megalourethra 125
+
+
+
+Intermittent catheterisation should be consid-        bladder with a vascularised segment of dilated
+ered when detrusor decompensation is associ-          ureter (ureterocystoplasty) rather than bowel.
+ated with large volumes of residual urine. In         Ureterocystoplasty is often more applicable to
+practice, urethral self-catheterisation rarely        boys with PUVs as they are more likely to have
+proves acceptable to boys with posterior ure-         a dilated ureter associated with a non-function-
+thral valves because, in contrast to patients with    ing ipsilateral kidney than children undergoing
+neuropathic bladder, they have a normally sen-        augmentation for neuropathic bladder.
+sate urethra and experience urethral discomfort
+during catheterisation. In addition, secondary
+bladder neck hypertrophy often makes it diffi-
+cult to negotiate the catheter into the bladder.       OTHER URETHRAL
+For these reasons, effective long-term inter-          ABNORMALITIES
+mittent catheterisation is usually dependent
+on the creation of a continent catheterisable
+(Mitrofanoff) channel. When used selectively,         Anterior Urethral Valves, Diverticula
+the combination of Mitrofanoff procedure and          and Megalourethra
+CIC has been reported to result in a marked
+improvement in quality of life for boys and           These anomalies, which are also confined to
+adolescents with severe urinary incontinence.         males, are much less common than posterior
+However, whilst this approach is also associated      urethral valves. Although distinct entities in
+with a reduction in the severity of upper tract       their own are right, these anomalies can also be
+dilatation it does not appear to avert or delay the   regarded as constituting a continuum of urethral
+onset of end-stage renal failure because this is      pathology. For example, it is difficult to define the
+largely determined by preexisting renal damage        point at which the urethral dilatation proximal
+and congenital dysplasia.                             to anterior urethral valves can be regarded as a
+                                                      diverticulum, and similarly the point at which an
+                                                      extensive diverticulum becomes a megalourethra.
+Augmentation cystoplasty
+The role of augmentation cystoplasty is con-          Anterior urethral valves
+troversial because it inevitably introduces a
+requirement for CIC (usually by a Mitrofannoff        As classically described, these take the form of
+channel) and, as yet, has not been demonstrated       either a fenestrated diaphragmatic membrane
+to contribute to any long-term preservation of        or a mucosal cusp arising from the ventral wall
+renal function. At the present time, bladder aug-     of the urethra. In 40% of cases the valve is sited
+mentation is probably best considered for boys        at the bulbar urethra, whereas in 30% it is at the
+under 3–4 years of age with severe renal impair-      penoscrotal junction and in 30% in the penile
+ment for whom renal transplantation is on the         urethra. The presentation is with obstructive
+horizon. As previously described, the stor-           symptoms, such as a poor urinary stream, hesi-
+age and voiding characteristics of the “valves        tancy or urinary retention. Secondary changes in
+bladder” are still potentially hostile and it may     the upper urinary tracts are rare. MCUG demon-
+not be possible to await spontaneous improve-         strates the obstruction, and treatment is by endo-
+ments in bladder function before proceed-             scopic incision.
+ing to renal transplantation. In this situation,
+bladder augmentation is preferable to urinary         Urethral diverticulum
+diversion as a means of ensuring that the lower
+urinary tract is safe for transplantation. The        In the more common wide-mouthed form, the
+long-term complications of enterocystoplasty          diverticulum is usually located in the region
+(mucus stone formation, metabolic distur-             of the penoscrotal junction. The distal lip may
+bance, etc) can be avoided by augmenting the          give rise to a form of valvular obstruction as
+126 Posterior Urethral Valves and Other Urethral Abnormalities
+
+
+
+the diverticulum becomes progressively dis-           the collateral form the duplicate urethras run side
+tended. The presentation is either with obstruc-      by side. The most common sagittal configuration
+tive symptoms or with postmicturition dribbling.      is represented by an orthotopic principal urethral
+The rarer saccular lesions have a narrow neck         channel with an epispadiac accessory urethra
+and may occur anywhere along the length of the        lying dorsal to it. In some cases both urethras
+penile urethra, including in the fossa navicularis.   leave the bladder separately and remain separate
+This form of diverticulum tends to present with       throughout their length, whereas in other cases
+urinary infection and may very occasionally be        the two urethras unite distally to form a single
+associated with stone formation within the diver-     channel. In the so-called “spindle” variety the
+ticulum. Treatment is by endoscopic incision or       urethra separates into two components before
+resection of the obstructing lip. If the diverticu-   reuniting again more distally. In “Y” patterns
+lum is large it may be necessary to perform open      of duplications, an accessory urethra diverges
+excision by a perineal approach.                      from the main channel to emerge in the peri-
+                                                      anal region or the perineum. Reconstruction is
+                                                      dependent upon individual anatomy but nearly
+Megalourethra                                         always entails excision of the narrower accessory
+                                                      urethra.
+This rare condition is characterised by marked
+dilatation of the penile urethra in the absence
+of any evident obstruction. Megalourethra may         Posterior Urethral Polyps
+be associated with lack of corpus spongiosum
+or, in the extreme form, with complete absence        These fibroendothelial lesions arise from the
+of the corpora cavernosa. In such cases the penis     verumontanum. Small polyps are usually discov-
+amounts to little more than a floppy sac com-         ered incidentally during the course of endoscopy
+prised of skin externally and urethral mucosa         for some unrelated indication. Larger lesions
+internally. Megalourethra often occurs in con-        comprising a polypoid head floating freely on
+junction with other congenital abnormalities,         an extended stalk have a tendency to extend
+particularly prune-belly syndrome.                    upwards through the bladder neck to give rise
+                                                      to acute, transient episodes of urinary reten-
+                                                      tion. Haematuria or frank urethral bleeding may
+Cowper’s Gland Cysts                                  also occur. Diagnosis is by cystourethroscopy or
+(Syringocoele)                                        MCUG (Figure 9.10). Most polyps can be excised
+                                                      endoscopically, although an open transvesical
+These paired structures, located on either side       approach may be required for complete excision
+of the urethra at the level of the urogenital dia-    of large polyps.
+phragm, are each drained by a duct which runs
+distally through the corpus spongiosum to enter
+the bulbar urethra. Distension of the ducts, or of
+                                                      Urethral Strictures
+the glands themselves, may cause urethral com-        The aetiology, investigation and management
+pression or, if the anterior wall of the cyst rup-    of post-traumatic strictures are considered in
+tures into the urethra, may result in the formation   Chapter 22. Occasionally a urethral stricture is
+of an obstructive membrane. The management is         discovered in a boy who has no previous history of
+the same as for anterior diverticulum.                external injury, urethral instrumentation or cath-
+                                                      eterisation. In very young boys the aetiology can
+Urethral Duplications                                 be assumed to be congenital, but in the older age
+                                                      group the possibility of previously unrecognised
+These rare anomalies may be sagittal or collateral.   trauma is an alternative explanation. Whether
+Of these, the sagittal pattern is more common         congenital or acquired, such strictures are gen-
+and takes the form of two channels running one        erally mild and respond well to endoscopic ure-
+above the other in the sagittal plane whereas in      throtomy. Formal urethroplasty is rarely required.
+                                                               Other urethral abnormalities / Urethritis 127
+
+
+
+                                                       other features, cystourethroscopy is not indi-
+                                                       cated, as it rarely makes a practical contribution
+                                                       to clinical management. However, when ure-
+                                                       throscopy is performed, the findings are charac-
+                                                       terised by erythema of the anterior and bulbar
+                                                       urethra, with a granular appearance and strands
+                                                       of fibrinous exudate. There is no specific treat-
+                                                       ment other than, perhaps, a 6 weeks course of
+                                                       analgesic anti-inflammatory medication such as
+                                                       Ibuprofen. Other suggested treatments for ure-
+                                                       thritis have included steroids and a period of
+                                                       indwelling catheter drainage. However, there is
+                                                       no reliable evidence that the duration or severity
+                                                       of the urethritis is reduced by either approach.
+                                                       The condition is self-limiting, although it some-
+                                                       times runs a protracted course.
+Figure 9.10 MCUG outlining a posterior urethral
+polyp prolapsing from its point of origin into
+the membranous and bulbar urethra.
+                                                           KEY POINTS
+Cobb’s Collar
+                                                          ●● The original classification of PUV
+The clinical status of this anomaly is arguable. Its         devised by Young is outdated.
+principal significance is as an occasional radiolog-         Congenital urethral obstruction gener-
+ical finding on MCUG which appears as a short,               ally conforms to a uniform anatomical
+narrowed segment of urethra immediately distal               pattern, although there is considerable
+to the urogenital membrane. On endoscopy, the                variability in the severity of obstruc-
+findings consist of little more than a soft, non-            tion and the degree of congenital dam-
+obstructing concentric ring. Cobb’s collar has               age to the upper tracts.
+sometimes been implicated as a possible cause             ●● The majority of cases are detected pre-
+
+of voiding disorders, notably enuresis. However,             natally. The gestational age at diagnosis
+it is more generally believed that in children it            and the characteristics of the prenatal
+is essentially an incidental radiological or endo-           ultrasound findings provide a guide
+scopic finding without any clinical significance.            to prognosis. Prenatal intervention
+                                                             improves the outcome of lung function
+Urethritis                                                   in the presence of severe oligohydram-
+                                                             nios but there is little if any evidence
+Although well recognised by paediatric urolo-                that prenatal intervention benefits renal
+gists, the occurrence of urethritis in boys and              function.
+adolescents is poorly documented in the litera-           ●● Despite relief of the urethral obstruc-
+
+ture. The clinical features of this uncommon                 tion in early postnatal life, bladder
+condition are non-specific and its aetiology is              function is abnormal in up to 70%
+poorly understood. Urethritis occurs mainly                  of boys. The pattern evolves during
+in boys aged 6 years and upward. The present-                childhood and if unaddressed may
+ing features include dysuria, penile discomfort              contribute to deteriorating upper
+and urethral discharge or urethral bleeding –                tract function and the onset of renal
+usually consisting of no more than spotting on               failure in late childhood or early
+the underclothes. Attempts to culture a specific             adult life.
+organism are unrewarding. In the absence of
+128 Posterior Urethral Valves and Other Urethral Abnormalities
+
+
+
+                                                    Cuckow P. Posterior urethral valves. In: Stringer
+   ●●   Approximately one-third of individu-            MD, Oldham KT, Mouriquand PDE (eds),
+        als with posterior urethral valves are          Paediatric Surgery and Urology: Long-
+        destined to develop chronic renal               Term Outcomes. Cambridge: Cambridge
+        failure (as a consequence of dysplasia,         University Press, 2006: 540–554.
+        obstruction, infection and bladder          Holmdahl G, Sillen U. Boys with posterior ure-
+        dysfunction). Careful follow-up should          thral valves: outcome concerning renal func-
+        be maintained into adulthood.                   tion, bladder function and paternity at ages
+                                                        31 to 44. J Urol. 2005;174:1031–1034.
+                                                    Glick Philip L, Harrison Michael R, Noall Rhoda A,
+FURTHER READING                                         Villa Robin L. Correction of congenital hydro-
+                                                        nephrosis in utero III. Early mid-trimester
+Nassr AA, Shazly SAM, Abdelmagied AM,                   ureteral obstruction produces renal dysplasia.
+   Araujo Ju’nior E, Tonni G, Kilby MD, Ruano           J Paediatric Surg. 1983;18(6):681–687.
+   R. Effectiveness of vesicoamniotic shunt in      Zderic SA, Canning DA. Posterior urethral
+   fetuses with congenital lower urinary tract          valves. In: Docimo SG, Canning D, Khoury
+   obstruction: an updated systematic review            A, Pippi Salle JL (eds), Textbook of Clinical
+   and meta-analysis. Ultrasound Obstet                 Pediatric Urology, 6th Edition. London:
+   Gynecol. 2017;49:696–703.                            Taylor & Francis, 2019: 1087–1107.

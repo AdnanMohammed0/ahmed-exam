@@ -1,0 +1,906 @@
+﻿[
+  {
+    "id": "ch12-Q01",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 1,
+    "stem": "A 4-year-old boy has never been reliably dry at night or during the day. Which of the following best describes this pattern of incontinence?",
+    "options": [
+      { "id": "a", "text": "Secondary nocturnal enuresis" },
+      { "id": "b", "text": "Polysymptomatic nocturnal enuresis" },
+      { "id": "c", "text": "Non-monosymptomatic enuresis" },
+      { "id": "d", "text": "Primary urinary incontinence" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because:\nPrimary urinary incontinence is defined as the involuntary loss of urine in a child who has never achieved a sustained period of being reliably dry for 6 consecutive months. This boy has never been dry at night or during the day, which precisely meets this definition.\n\nA is wrong because:\nSecondary nocturnal enuresis requires a prior dry period of at least 6 months, which this child has never attained.\n\nB is wrong because:\nPolysymptomatic (non-monosymptomatic) nocturnal enuresis refers to nocturnal wetting accompanied by daytime lower urinary tract symptoms, not to the lifelong absence of dryness.\n\nC is wrong because:\nNon-monosymptomatic enuresis describes nocturnal enuresis with daytime symptoms such as urgency or frequency; this classification addresses associated features rather than the onset pattern.\n\nTeaching point: Primary incontinence = never dry; secondary incontinence = relapse after >=6 months of dryness; this distinction guides the search for precipitating organic or psychological causes.",
+    "topic": "Definitions and classification",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 8, "D5_Cognitive_Level": 6, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q02",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 2,
+    "stem": "Parents of a 4-year-old girl are concerned because she has daytime wetting episodes several times per week. They ask how common this problem is. What is the approximate prevalence of daytime incontinence at this age?",
+    "options": [
+      { "id": "a", "text": "2%" },
+      { "id": "b", "text": "15%" },
+      { "id": "c", "text": "10%" },
+      { "id": "d", "text": "5%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because:\nDaytime incontinence affects approximately 15% of 4-year-old children, with prevalence declining steadily to about 2% by age 9 years as neuromaturation of bladder control progresses. This makes it a very common presenting complaint in paediatric practice.\n\nA is wrong because:\n2% represents the prevalence at age 9 years, not at age 4 years, when the rate is substantially higher.\n\nC is wrong because:\n10% is lower than the actual figure of approximately 15% for 4-year-olds with daytime incontinence.\n\nD is wrong because:\n5% underestimates the prevalence; this figure is closer to the rate seen in older school-age children.\n\nTeaching point: Daytime incontinence affects ~15% of 4-year-olds and resolves spontaneously in most cases; only ~2% remain affected by age 9 years.",
+    "topic": "Definitions and epidemiology",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 8, "D5_Cognitive_Level": 5, "D6_Difficulty_Calibration": 6, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q03",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 3,
+    "stem": "A 16-year-old boy is still wetting the bed three times per week. His parents ask whether this will ever resolve. Which of the following best describes the epidemiology of nocturnal enuresis at this age?",
+    "options": [
+      { "id": "a", "text": "It affects approximately 10% of adolescents" },
+      { "id": "b", "text": "It affects approximately 5% of adolescents" },
+      { "id": "c", "text": "It continues to affect 1-2% of adolescents" },
+      { "id": "d", "text": "It affects less than 0.5% of adolescents" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because:\nNocturnal enuresis affects 20% of 4- to 5-year-olds and steadily declines through childhood at a spontaneous resolution rate of approximately 15% per year, reaching 1-2% by adolescence. It is twice as common in boys at all ages.\n\nA is wrong because:\n10% overestimates the prevalence in adolescents; this figure is closer to the prevalence at age 7-8 years.\n\nB is wrong because:\n5% is still too high for adolescence; this approximates the rate at age 10-11 years.\n\nD is wrong because:\nLess than 0.5% underestimates the true figure; 1-2% of adolescents are affected.\n\nTeaching point: Nocturnal enuresis resolves at ~15% per year; 1-2% of adolescents remain affected, and the condition is twice as common in boys.",
+    "topic": "Epidemiology",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 8, "D5_Cognitive_Level": 5, "D6_Difficulty_Calibration": 6, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q04",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 4,
+    "stem": "A child has difficulty with voluntary inhibition of the voiding reflex during toilet training. Which factor is most important for successful toilet training?",
+    "options": [
+      { "id": "a", "text": "Maturation of sacral parasympathetic nerves" },
+      { "id": "b", "text": "Development of sensory C-fibres" },
+      { "id": "c", "text": "Increased bladder capacity" },
+      { "id": "d", "text": "Development of voluntary inhibition of the voiding reflex" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because:\nThe most important factor in successful toilet training is the development of voluntary inhibition of the voiding reflex, which reflects maturation of cortical and pontine inhibitory pathways over the sacral micturition centre. Psychological, social, and behavioural factors all influence this critical neurodevelopmental milestone.\n\nA is wrong because:\nMaturation of sacral parasympathetic nerves is necessary for the voiding reflex itself but does not provide the voluntary cortical control essential for toilet training.\n\nB is wrong because:\nSensory C-fibres are primarily involved in nociception and pathological bladder overactivity, not in the voluntary control of micturition.\n\nC is wrong because:\nIncreased bladder capacity develops naturally with age but is a permissive factor, not the critical element for achieving volitional control.\n\nTeaching point: Voluntary inhibition of the voiding reflex reflects maturation of cortical and pontine inhibitory pathways; this is the key neurodevelopmental milestone for achieving continence. Toilet training typically begins at 18-24 months, with 90-95% of children achieving daytime continence by age 4 years.",
+    "topic": "Neurology and development of continence",
+    "scores": { "D1_Clinical_Authenticity": 8, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q05",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 5,
+    "stem": "During a urodynamic study of a child with incontinence, the investigator notes changes when stimulating the thoracolumbar sympathetic outflow. Stimulation of the thoracolumbar sympathetic nerves (T10-L2) results in which of the following effects on the lower urinary tract?",
+    "options": [
+      { "id": "a", "text": "Contraction of the detrusor muscle" },
+      { "id": "b", "text": "Relaxation of the bladder neck musculature" },
+      { "id": "c", "text": "Relaxation of detrusor and contraction of bladder neck" },
+      { "id": "d", "text": "Contraction of pelvic floor striated muscles" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because:\nSympathetic noradrenergic outflow from T10-L2 activates beta-adrenoceptors on the detrusor body (causing relaxation) and alpha-adrenoceptors on the bladder neck and posterior urethral sphincter (causing contraction). This dual effect promotes urine storage by increasing bladder compliance and outlet resistance.\n\nA is wrong because:\nDetrusor contraction is mediated by parasympathetic sacral cholinergic input via M3 muscarinic receptors, not by sympathetic stimulation.\n\nB is wrong because:\nThe bladder neck musculature contracts under sympathetic alpha-adrenergic stimulation to maintain continence during storage; it does not relax.\n\nD is wrong because:\nContraction of pelvic floor striated muscles is mediated by the somatic pudendal nerve (S2-S4), not by the thoracolumbar sympathetic outflow.\n\nTeaching point: Sympathetic (T10-L2, noradrenaline) = storage (beta-2/3 detrusor relaxation + alpha-1 bladder neck contraction); parasympathetic (S2-S4, ACh-M3) = voiding; somatic (pudendal, nicotinic ACh) = external sphincter control.",
+    "topic": "Neurology of continence",
+    "scores": { "D1_Clinical_Authenticity": 8, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 8, "D6_Difficulty_Calibration": 8, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q06",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 6,
+    "stem": "A mother of a 7-year-old boy reports that he voids only 4 to 5 times per day. She is concerned this is too infrequent. Compared with the voiding frequency in infancy, what is the normal voiding frequency at age 7 years?",
+    "options": [
+      { "id": "a", "text": "20 times per day" },
+      { "id": "b", "text": "10 times per day" },
+      { "id": "c", "text": "5 times per day" },
+      { "id": "d", "text": "15 times per day" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because:\nNormal voiding frequency decreases from approximately 20 times per day in the first year of life to about 5 times per day by age 7 years, as functional bladder capacity increases six- to eight-fold. Voiding 4-5 times daily is therefore entirely normal at this age.\n\nA is wrong because:\n20 times per day is the normal frequency in infancy (first year), not at age 7 years.\n\nB is wrong because:\n10 times per day is closer to the frequency seen in toddlers aged 2-3 years, not school-age children.\n\nD is wrong because:\n15 times per day reflects the infant pattern and would be abnormally frequent in a 7-year-old.\n\nTeaching point: Voiding frequency declines from ~20/day in infancy to ~5/day by age 7 as bladder capacity increases from ~30 mL to ~270 mL (calculated as [age + 2] x 30).",
+    "topic": "Development of continence",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 8, "D5_Cognitive_Level": 5, "D6_Difficulty_Calibration": 6, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q07",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 7,
+    "stem": "A 6-year-old girl has urinary incontinence only when she laughs. She is dry at all other times. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Giggle incontinence" },
+      { "id": "b", "text": "Genuine stress incontinence" },
+      { "id": "c", "text": "Urge syndrome" },
+      { "id": "d", "text": "Vaginal reflux" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because:\nGiggle incontinence is a distinctive childhood condition in which complete bladder emptying occurs only during paroxysmal giggling or laughter, with perfect continence at all other times. It predominantly affects girls and is believed to represent a neurological phenomenon analogous to cataplexy, not a structural sphincter defect.\n\nB is wrong because:\nGenuine stress incontinence involves leakage of small amounts of urine with coughing, sneezing, or high-impact activity, not the complete bladder emptying triggered specifically by laughter.\n\nC is wrong because:\nUrge syndrome presents with urgency, frequency, and holding manoeuvres such as Vincent curtsy, not isolated incontinence triggered only by laughter.\n\nD is wrong because:\nVaginal reflux causes post-void dribbling shortly after leaving the toilet, not incontinence specifically with laughter.\n\nTeaching point: Giggle incontinence triggers complete bladder emptying only with laughter; methylphenidate is the most consistently effective treatment for severely affected patients.",
+    "topic": "Clinical assessment",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q08",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 8,
+    "stem": "During examination of a child with daytime wetting, a palpably enlarged bladder that can be expressed by suprapubic pressure is virtually pathognomonic of which condition?",
+    "options": [
+      { "id": "a", "text": "Neurological disease" },
+      { "id": "b", "text": "Posterior urethral valves" },
+      { "id": "c", "text": "Ectopic ureter" },
+      { "id": "d", "text": "Chronic urinary tract infection" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because:\nA palpably enlarged bladder that can be emptied by suprapubic pressure (Cred manoeuvre) is virtually pathognomonic of neurological disease, particularly when accompanied by constipation. This reflects a lower motor neuron pattern of bladder dysfunction with loss of detrusor contractility and sphincter denervation.\n\nB is wrong because:\nPosterior urethral valves cause a tense, distended bladder, but it is not typically expressible by suprapubic pressure; expression is a hallmark of neuropathic dysfunction.\n\nC is wrong because:\nAn ectopic ureter causes continuous dribbling incontinence without a palpably enlarged bladder, as the bladder itself fills and empties normally.\n\nD is wrong because:\nChronic UTI alone would not produce a palpably enlarged bladder that can be expressed; this finding strongly suggests a neuropathic aetiology.\n\nTeaching point: A palpable expressible bladder is pathognomonic of neuropathic bladder until proven otherwise and warrants spinal MRI and neurological evaluation.",
+    "topic": "Clinical examination",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 8, "D6_Difficulty_Calibration": 8, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q09",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 9,
+    "stem": "A 7-year-old girl wets her underwear shortly after leaving the toilet. She reports that urine leaks out after she stands up. What is the most likely cause?",
+    "options": [
+      { "id": "a", "text": "Ectopic ureter" },
+      { "id": "b", "text": "Detrusor overactivity" },
+      { "id": "c", "text": "Genuine stress incontinence" },
+      { "id": "d", "text": "Vaginal reflux" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because:\nVaginal reflux occurs when urine pools in the vagina during voiding and then leaks out after the girl stands up. It is commonly caused by labial adhesions or the habit of sitting with legs tightly closed on the toilet, which directs urine into the vaginal introitus rather than the toilet.\n\nA is wrong because:\nAn ectopic ureter causes continuous dribbling incontinence day and night, not post-void dribbling occurring only after standing.\n\nB is wrong because:\nDetrusor overactivity (urge syndrome) causes urgency and frequent leakage episodes, not the specific pattern of leakage immediately after voiding.\n\nC is wrong because:\nGenuine stress incontinence produces leakage with coughing, sneezing, or physical activity, not post-void dribbling.\n\nTeaching point: Vaginal reflux is diagnosed by history of post-void dribbling; management includes separating labial adhesions and teaching the girl to sit with knees apart and lean forward while voiding.",
+    "topic": "Clinical assessment",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q10",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 10,
+    "stem": "A 6-year-old girl with daytime incontinence is noted to have a patch of hair over her lower spine on examination. A blind-ending pit is noted over the tip of the coccyx. Which finding should raise suspicion of occult spinal dysraphism?",
+    "options": [
+      { "id": "a", "text": "Blind-ending pit overlying the tip of the coccyx" },
+      { "id": "b", "text": "A hairy patch over the lower spine" },
+      { "id": "c", "text": "Bilateral pes planus" },
+      { "id": "d", "text": "Mild genu valgum" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because:\nA hairy patch (hypertrichosis) over the lower spine is a recognised cutaneous marker of occult spinal dysraphism, along with subcutaneous swellings, haemangiomata, dermal sinuses, and lipomata. These lesions overlie the spinal defect and signal the need for further imaging.\n\nA is wrong because:\nA blind-ending pit overlying the tip of the coccyx is a common normal variant (simple sacral dimple) and is not usually of neurological significance.\n\nC is wrong because:\nBilateral pes planus (flat feet) is a common orthopaedic variant in children and is not associated with spinal dysraphism.\n\nD is wrong because:\nMild genu valgum (knock-knees) is a normal developmental finding and does not raise suspicion for spinal pathology.\n\nTeaching point: Almost 90% of occult spinal dysraphism cases have overlying cutaneous lesions; concerning stigmata requiring MRI include: (1) hairy patches, (2) lipomata, (3) haemangiomata, (4) dermal sinuses, and (5) subcutaneous swellings. Low sacral dimples at the coccyx tip are usually benign.",
+    "topic": "Clinical examination",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 8, "D6_Difficulty_Calibration": 8, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 9, "D10_Format_Compliance": 10 }
+  }
+,
+  {
+    "id": "ch12-Q11",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 11,
+    "stem": "A 5-year-old boy with urinary incontinence is found to have sacral agenesis. Which investigation is regarded as the definitive study for detecting associated spinal cord abnormalities?",
+    "options": [
+      { "id": "a", "text": "Lumbosacral spinal X-ray" },
+      { "id": "b", "text": "CT myelography" },
+      { "id": "c", "text": "Video urodynamics" },
+      { "id": "d", "text": "Spinal MRI" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because:\nSpinal MRI is now the definitive investigation for detecting spinal cord abnormalities associated with sacral agenesis, including tethered cord, syringomyelia, intraspinal lipomas, and epidermoid cysts. It provides superior soft-tissue resolution without ionising radiation, making it the gold standard.\n\nA is wrong because:\nLumbosacral spinal X-ray can identify bony anomalies such as sacral agenesis or spina bifida occulta but cannot directly visualise the spinal cord or nerve roots.\n\nB is wrong because:\nCT myelography was historically used but has been largely superseded by MRI, which is non-invasive and provides superior delineation of intraspinal pathology.\n\nC is wrong because:\nVideo urodynamics assesses bladder function and lower urinary tract dynamics but does not image the spinal cord directly.\n\nTeaching point: Spinal MRI is the gold standard for evaluating suspected spinal dysraphism; it visualises cord tethering, syrinxes, and intraspinal lipomas that may cause neuropathic bladder.",
+    "topic": "Investigations",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 6, "D6_Difficulty_Calibration": 6, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q12",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 12,
+    "stem": "An 8-year-old girl with daytime wetting undergoes a bladder ultrasound. The post-void residual volume is calculated as a percentage of age-adjusted bladder capacity. What is the maximum acceptable post-void residual volume on ultrasound in a child with daytime wetting?",
+    "options": [
+      { "id": "a", "text": "25% of age-adjusted bladder capacity" },
+      { "id": "b", "text": "50% of age-adjusted bladder capacity" },
+      { "id": "c", "text": "10% of age-adjusted bladder capacity" },
+      { "id": "d", "text": "5% of age-adjusted bladder capacity" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because:\nPost-void residual (PVR) volume should not normally exceed 10% of age-adjusted bladder capacity. Age-adjusted bladder capacity (in mL) is estimated as (age in years + 2) x 30. A PVR above 10% suggests incomplete bladder emptying and warrants further evaluation.\n\nA is wrong because:\n25% represents an abnormally elevated PVR that indicates significant incomplete bladder emptying requiring investigation.\n\nB is wrong because:\n50% indicates severe urinary retention, as seen in lazy bladder syndrome or neuropathic dysfunction, and is grossly abnormal.\n\nD is wrong because:\n5% is a more stringent threshold than the accepted 10% upper limit of normal used in clinical practice.\n\nTeaching point: Normal PVR is <10% of age-adjusted bladder capacity ([age + 2] x 30 mL); elevated PVR suggests dysfunctional voiding, lazy bladder, or neuropathic dysfunction.",
+    "topic": "Investigations",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 8, "D5_Cognitive_Level": 6, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q13",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 13,
+    "stem": "A 9-year-old girl has continuous dribbling incontinence that is less noticeable at night when she is lying down. Which investigation is most likely to identify the cause?",
+    "options": [
+      { "id": "a", "text": "Frequency-volume chart" },
+      { "id": "b", "text": "MR urography" },
+      { "id": "c", "text": "Video urodynamics" },
+      { "id": "d", "text": "Cystourethroscopy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because:\nMR urography is the most sensitive investigation for detecting an occult duplex collecting system with an ectopic ureter, the classic cause of continuous dribbling incontinence in girls. The postural variation (less leakage when supine) occurs because gravity keeps urine in the upper pole moiety when lying down, reducing drainage through the ectopic orifice.\n\nA is wrong because:\nA frequency-volume chart documents voiding patterns but cannot identify the anatomical abnormality of an ectopic ureter.\n\nC is wrong because:\nVideo urodynamics may show normal bladder function in ectopic ureter since the bladder itself is normal; the incontinence arises from a ureter that bypasses the sphincter.\n\nD is wrong because:\nCystourethroscopy often fails to identify the ectopic ureteric orifice, which can be located outside the bladder (e.g., in the vagina or distal urethra).\n\nTeaching point: Continuous dribbling incontinence in a girl with normal voiding is ectopic ureter until proven otherwise; MR urography is the investigation of choice.",
+    "topic": "Investigations",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 8, "D6_Difficulty_Calibration": 8, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 9, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q14",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 14,
+    "stem": "A 5-year-old girl has continuous dribbling incontinence day and night. She has never been dry. What is the most likely organic cause?",
+    "options": [
+      { "id": "a", "text": "Ectopic ureter" },
+      { "id": "b", "text": "Labial adhesions" },
+      { "id": "c", "text": "Posterior urethral valves" },
+      { "id": "d", "text": "Urge syndrome" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because:\nEctopic ureter is the most common organic cause of continuous day-and-night dribbling incontinence in girls. The ureter inserts distal to the external urethral sphincter (commonly into the vaginal vestibule or distal urethra), so urine constantly leaks regardless of bladder filling or posture.\n\nB is wrong because:\nLabial adhesions cause intermittent post-void dribbling from vaginal reflux, not continuous day-and-night incontinence.\n\nC is wrong because:\nPosterior urethral valves occur exclusively in boys and present with poor urinary stream and incomplete bladder emptying, not continuous dribbling in a girl.\n\nD is wrong because:\nUrge syndrome is a functional condition causing urgency, frequency, and intermittent daytime leakage, not continuous incontinence from birth.\n\nTeaching point: Continuous dribbling incontinence since birth in a girl is pathognomonic of ectopic ureter until proven otherwise; investigate with MR urography.",
+    "topic": "Organic causes - ectopic ureter",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q15",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 15,
+    "stem": "A 6-year-old girl has post-void dribbling and her mother has noticed labial adhesions. The girl sits with her legs together on the toilet. Which of the following is the recommended first-line management?",
+    "options": [
+      { "id": "a", "text": "Anticholinergic therapy" },
+      { "id": "b", "text": "Biofeedback therapy" },
+      { "id": "c", "text": "Surgical separation under anaesthesia" },
+      { "id": "d", "text": "Conservative management or separation of labial adhesions" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because:\nFirst-line management for labial adhesions causing vaginal reflux is conservative separation, achieved with topical oestrogen cream applied to the fusion line for 2-4 weeks or gentle manual separation in the clinic. The girl should also be advised to sit with legs apart, lean forward, and perform a gentle cough or Valsalva after voiding to empty the vagina.\n\nA is wrong because:\nAnticholinergic therapy (e.g., oxybutynin) treats detrusor overactivity, not the mechanical problem of labial adhesions causing vaginal reflux.\n\nB is wrong because:\nBiofeedback therapy is indicated for dysfunctional voiding and detrusor-sphincter dyssynergia, not for labial adhesions.\n\nC is wrong because:\nSurgical separation under anaesthesia is reserved for severe or refractory cases that fail to respond to conservative topical therapy.\n\nTeaching point: Vaginal reflux from labial adhesions is managed conservatively first (topical oestrogen + proper toileting posture); surgery is rarely needed.",
+    "topic": "Organic causes - labial adhesions",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q16",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 16,
+    "stem": "A 14-year-old girl has primary amenorrhoea and presents with difficulty voiding and lower abdominal pain. Examination reveals a bulging, blue-tinged hymen. What is the most likely cause of her urinary symptoms?",
+    "options": [
+      { "id": "a", "text": "Imperforate hymen with haematocolpos" },
+      { "id": "b", "text": "Ectopic ureter" },
+      { "id": "c", "text": "Female epispadias" },
+      { "id": "d", "text": "Labial adhesions" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because:\nImperforate hymen with haematocolpos (accumulated menstrual blood distending the vagina) typically presents at puberty with primary amenorrhoea, cyclical lower abdominal pain, and bladder outflow obstruction due to extrinsic urethral compression. The bulging, blue-tinged hymen is pathognomonic on inspection.\n\nB is wrong because:\nEctopic ureter causes continuous dribbling incontinence from birth, not acute difficulty voiding with primary amenorrhoea in adolescence.\n\nC is wrong because:\nFemale epispadias presents with sphincter weakness incontinence from birth and characteristic genital findings (bifid clitoris, wide urethra), not with acute urinary retention.\n\nD is wrong because:\nLabial adhesions cause post-void dribbling in younger girls, not acute bladder outflow obstruction with primary amenorrhoea in an adolescent.\n\nTeaching point: Imperforate hymen presents at puberty with primary amenorrhoea, cyclical pain, and urinary retention; treatment is simple hymenotomy, which immediately relieves symptoms. Imperforate hymen affects approximately 0.1% of female newborns.",
+    "topic": "Organic causes - outflow obstruction",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 8, "D6_Difficulty_Calibration": 8, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 9, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q17",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 17,
+    "stem": "A 12-year-old gymnast reports leakage of urine during vault exercises and trampolining. She is dry at other times. Which treatment may be considered first?",
+    "options": [
+      { "id": "a", "text": "Alpha-adrenergic agonist (e.g., ephedrine)" },
+      { "id": "b", "text": "Bladder neck sling procedure" },
+      { "id": "c", "text": "Oxybutynin" },
+      { "id": "d", "text": "Desmopressin" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because:\nStress incontinence in young athletes results from urethral sphincter incompetence during high-impact activity. Alpha-adrenergic agonists (e.g., ephedrine) increase bladder outlet resistance by stimulating alpha-receptors at the bladder neck and may be tried empirically before resorting to surgical options in more severe cases.\n\nB is wrong because:\nA bladder neck sling is an invasive surgical procedure reserved for severe, refractory stress incontinence after conservative measures have failed.\n\nC is wrong because:\nOxybutynin is an anticholinergic used for detrusor overactivity and urge incontinence, not for stress incontinence due to sphincter weakness.\n\nD is wrong because:\nDesmopressin reduces nocturnal urine production and is used for monosymptomatic nocturnal enuresis, not for daytime stress leakage.\n\nTeaching point: Stress incontinence in young athletes may respond to alpha-agonists that increase bladder neck tone; pelvic floor physiotherapy and behavioural modifications should also be tried initially.",
+    "topic": "Genuine stress incontinence",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 9, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 8, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 9, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q18",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 18,
+    "stem": "A 7-year-old girl has sphincter weakness incontinence since birth. On examination she has a bifid clitoris and a wide urethral meatus. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Common urogenital sinus" },
+      { "id": "b", "text": "Female epispadias" },
+      { "id": "c", "text": "Ectopic ureter" },
+      { "id": "d", "text": "Labial adhesions" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because:\nFemale epispadias is a congenital anomaly characterised by a bifid clitoris, wide urethral meatus, and deficient dorsal support of the urethra. It is invariably associated with sphincter weakness incontinence from birth due to inadequate bladder neck closure and requires surgical reconstruction for continence.\n\nA is wrong because:\nCommon urogenital sinus presents with a single perineal opening and typically causes urinary obstruction or recurrent UTIs, not isolated sphincter weakness incontinence with the described genital findings.\n\nC is wrong because:\nEctopic ureter causes continuous dribbling incontinence but does not produce the external genital findings of a bifid clitoris or wide urethral meatus.\n\nD is wrong because:\nLabial adhesions cause post-void dribbling due to vaginal reflux, not congenital sphincter weakness incontinence from birth.\n\nTeaching point: Female epispadias = bifid clitoris + wide urethral meatus + congenital sphincter weakness; definitive treatment is bladder neck reconstruction surgery.",
+    "topic": "Female epispadias",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 8, "D6_Difficulty_Calibration": 8, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 9, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q19",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 19,
+    "stem": "During a teaching session on paediatric incontinence, a trainee asks how often cutaneous lesions are found in children with occult spinal dysraphism. Approximately what proportion of children with occult spinal dysraphism have cutaneous lesions on examination of the spine?",
+    "options": [
+      { "id": "a", "text": "25%" },
+      { "id": "b", "text": "50%" },
+      { "id": "c", "text": "Almost 90%" },
+      { "id": "d", "text": "100%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because:\nAlmost 90% of children with occult spinal dysraphism have associated cutaneous lesions overlying the spine, including hairy patches, lipomata, haemangiomata, dermal sinuses, and subcutaneous swellings. This is why meticulous inspection of the spine is mandatory in any child with unexplained urinary incontinence.\n\nA is wrong because:\n25% significantly underestimates the prevalence; the vast majority of affected children have a cutaneous marker.\n\nB is wrong because:\n50% is too low; nearly 9 out of 10 children with occult spinal dysraphism have visible skin changes.\n\nD is wrong because:\nA small minority (approximately 10%) of cases have no cutaneous manifestations, so 100% is incorrect.\n\nTeaching point: The spine must be carefully inspected in every child with unexplained incontinence; cutaneous stigmata are present in ~90% of occult spinal dysraphism and guide the need for spinal MRI.",
+    "topic": "Spinal neurological disorders",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 8, "D5_Cognitive_Level": 5, "D6_Difficulty_Calibration": 6, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q20",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 20,
+    "stem": "A 6-year-old boy presents with daytime wetting and a poor urinary stream. Ultrasound shows bladder wall thickening and post-void residual. MCUG demonstrates posterior urethral valves. After valve ablation, why might incontinence persist?",
+    "options": [
+      { "id": "a", "text": "Persistent urethral stricture" },
+      { "id": "b", "text": "Persistent detrusor overactivity requiring anticholinergics" },
+      { "id": "c", "text": "Concomitant ectopic ureter" },
+      { "id": "d", "text": "Neurological disease" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because:\nEven after successful endoscopic valve ablation, persistent detrusor overactivity is common due to long-standing bladder outlet obstruction that has caused detrusor hypertrophy, fibrosis, and altered compliance. Anticholinergic medication may be required for ongoing incontinence despite relief of the anatomical obstruction.\n\nA is wrong because:\nPersistent urethral stricture is a potential complication of valve ablation but is not the most common reason for ongoing incontinence; secondary detrusor dysfunction is the typical cause.\n\nC is wrong because:\nEctopic ureter is not associated with posterior urethral valves; it occurs in girls and causes continuous dribbling, not obstruction.\n\nD is wrong because:\nNeurological disease is not typically associated with posterior urethral valves; the incontinence after ablation is due to secondary myogenic changes from chronic obstruction.\n\nTeaching point: Posterior urethral valves cause secondary detrusor overactivity that may persist after valve ablation; these children require lifelong monitoring of bladder and renal function, as up to 30% may progress to end-stage renal disease in adolescence or adulthood.",
+    "topic": "Bladder outflow obstruction",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 8, "D6_Difficulty_Calibration": 8, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 9, "D10_Format_Compliance": 10 }
+  }
+,
+  {
+    "id": "ch12-Q21",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 21,
+    "stem": "A 4-year-old boy presents with poor stream and daytime wetting. Cystoscopy is planned to investigate for bladder outflow obstruction. Which of the following is the most common cause of bladder outflow obstruction in boys presenting with urinary incontinence?",
+    "options": [
+      { "id": "a", "text": "Posterior urethral valves" },
+      { "id": "b", "text": "Meatal stenosis" },
+      { "id": "c", "text": "Urethral stricture" },
+      { "id": "d", "text": "Syringocele" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because:\nPosterior urethral valves (PUV) are the most common cause of congenital bladder outlet obstruction in boys. Other causes include meatal stenosis, urethral stricture, syringocele (Cowper duct cyst), and pathological phimosis, but PUV is the most frequent obstructive lesion requiring endoscopic intervention.\n\nB is wrong because:\nMeatal stenosis can cause obstruction and a fine stream but is less common than PUV and typically presents later with spraying or dysuria.\n\nC is wrong because:\nUrethral stricture in children is usually iatrogenic (post-catheterisation, post-hypospadias repair) and is less common than PUV.\n\nD is wrong because:\nSyringocele is a less common cause of urethral obstruction in boys compared to posterior urethral valves.\n\nTeaching point: Posterior urethral valves are the most common cause of congenital bladder outlet obstruction in boys; suspect them in any male infant or child with poor stream, UTI, or daytime incontinence.",
+    "topic": "Bladder outflow obstruction",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 8, "D5_Cognitive_Level": 6, "D6_Difficulty_Calibration": 6, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q22",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 22,
+    "stem": "A 7-year-old girl has urgency and occasionally wets herself on the way to the toilet. She crouches down and presses her heel into her perineum to prevent leakage. What is this manoeuvre called?",
+    "options": [
+      { "id": "a", "text": "Valsalva manoeuvre" },
+      { "id": "b", "text": "Cred manoeuvre" },
+      { "id": "c", "text": "Q-tip test" },
+      { "id": "d", "text": "Vincent curtsy" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because:\nVincent curtsy sign describes a child crouching with the heel pressed into the perineum to prevent impending urine leakage. This manoeuvre compresses the urethra against the pubic symphysis and activates the pelvic floor, providing mechanical continence during an urgency episode.\n\nA is wrong because:\nThe Valsalva manoeuvre involves forced expiration against a closed glottis, increasing intra-abdominal pressure; this would worsen, not prevent, urinary leakage.\n\nB is wrong because:\nThe Cred manoeuvre involves suprapubic pressure to manually express urine from a neuropathic bladder; it is performed by the carer, not the child.\n\nC is wrong because:\nThe Q-tip test is used in adult urology to assess urethral hypermobility in stress incontinence; it has no relevance to paediatric holding manoeuvres.\n\nTeaching point: Vincent curtsy is pathognomonic of urge syndrome; the heel-perineum pressure is an instinctive holding manoeuvre that provides mechanical urethral compression during an urgency episode.",
+    "topic": "Urge syndrome",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 6, "D6_Difficulty_Calibration": 6, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q23",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 23,
+    "stem": "A 7-year-old boy with daytime wetting has a frequency-volume chart showing he voids only twice during a 6-hour school day. He then has urgency and leakage on the way home. Which condition is most likely?",
+    "options": [
+      { "id": "a", "text": "Deferred voiding" },
+      { "id": "b", "text": "Diurnal frequency syndrome" },
+      { "id": "c", "text": "Urge syndrome" },
+      { "id": "d", "text": "Lazy bladder" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because:\nDeferred voiding (voiding postponement) occurs when a child voluntarily ignores the urge to void while preoccupied with enjoyable activities, leading to infrequent daytime voids (only twice in 6 hours) and subsequent urgency with leakage. It is common at age 4-6 years, is self-limiting, and typically requires reassurance rather than active treatment.\n\nB is wrong because:\nDiurnal frequency syndrome presents with frequent small-volume voids (every 10-15 minutes), not infrequent voiding with postponement.\n\nC is wrong because:\nUrge syndrome involves urgency, frequency, and holding manoeuvres such as Vincent curtsy, but not the pattern of voluntarily ignoring the urge for prolonged periods.\n\nD is wrong because:\nLazy bladder (underactive bladder) presents with a palpably distended bladder, high post-void residual, and infrequent voiding due to poor detrusor contractility, not voluntary postponement.\n\nTeaching point: Deferred voiding is a behavioural pattern in young children who postpone voiding due to engagement in activities; it is self-limiting and requires reassurance and parental education, not medication.",
+    "topic": "Deferred voiding",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q24",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 24,
+    "stem": "An 8-year-old girl with recurrent UTIs and daytime wetting undergoes uroflowmetry. The flow pattern is described as varying in intensity and interrupted. Which of the following best describes this characteristic urinary flow pattern?",
+    "options": [
+      { "id": "a", "text": "Staccato or interrupted voiding" },
+      { "id": "b", "text": "Continuous flow with low flow rate" },
+      { "id": "c", "text": "Normal flow with high post-void residual" },
+      { "id": "d", "text": "Intermittent flow with normal flow rate" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because:\nStaccato or interrupted voiding describes a urinary flow pattern of varying intensity with intermittent pauses, which is characteristic of dysfunctional voiding. Urodynamic studies demonstrate detrusor-sphincter dyssynergia, where the pelvic floor and external sphincter fail to relax during detrusor contraction, producing the fluctuating flow pattern.\n\nB is wrong because:\nContinuous flow with a low flow rate suggests an underactive detrusor or fixed bladder outlet obstruction, not the fluctuating pattern of sphincter dyssynergia.\n\nC is wrong because:\nNormal flow with high post-void residual is typical of lazy bladder syndrome, not the staccato pattern of dysfunctional voiding.\n\nD is wrong because:\nIntermittent flow with normal flow rate could suggest abdominal straining, but the classic staccato pattern is defined by varying intensity and interruption during a single voiding effort.\n\nTeaching point: Staccato voiding on uroflowmetry is the hallmark of dysfunctional voiding; treatment focuses on biofeedback to retrain pelvic floor relaxation during micturition.",
+    "topic": "Dysfunctional voiding",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 8, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q25",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 25,
+    "stem": "An 8-year-old girl with dysfunctional voiding is found to have vesicoureteric reflux on MCUG. Her parents ask how often this association occurs. What is the approximate prevalence of VUR in children with dysfunctional voiding?",
+    "options": [
+      { "id": "a", "text": "30%" },
+      { "id": "b", "text": "5%" },
+      { "id": "c", "text": "10%" },
+      { "id": "d", "text": "60%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because:\nVesicoureteric reflux (VUR) is present in approximately 30% of children with dysfunctional voiding. This is predominantly secondary reflux caused by elevated intravesical pressures from detrusor-sphincter dyssynergia, and it often resolves when the underlying voiding dysfunction is effectively treated.\n\nB is wrong because:\n5% significantly underestimates the association; VUR is a well-recognised and common complication of dysfunctional voiding.\n\nC is wrong because:\n10% is too low; the true prevalence is closer to one-third of affected children.\n\nD is wrong because:\n60% overestimates the association; while VUR is common in dysfunctional voiding, it does not affect the majority.\n\nTeaching point: VUR in dysfunctional voiding is usually secondary to high intravesical pressures and may resolve with successful treatment of the voiding dysfunction, potentially avoiding the need for surgical reimplantation.",
+    "topic": "Dysfunctional voiding",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 8, "D5_Cognitive_Level": 6, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q26",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 26,
+    "stem": "A 9-year-old girl with severe dysfunctional voiding is referred for urotherapy. Her mother asks what this treatment involves. Urotherapy for dysfunctional voiding centres on which of the following principles?",
+    "options": [
+      { "id": "a", "text": "Pharmacological suppression of detrusor contractions" },
+      { "id": "b", "text": "Night-time fluid restriction" },
+      { "id": "c", "text": "Surgical reconstruction of the bladder neck" },
+      { "id": "d", "text": "Re-educating the voiding mechanism using biofeedback" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because:\nUrotherapy centres on re-educating the voiding mechanism through cognitive bladder training and biofeedback. Children learn to relax the pelvic floor and external urethral sphincter during voiding using real-time visual or auditory feedback from uroflowmetry and electromyography sensors, correcting the underlying detrusor-sphincter dyssynergia.\n\nA is wrong because:\nPharmacological suppression of detrusor contractions with anticholinergics treats urge syndrome, not the core problem of detrusor-sphincter dyssynergia in dysfunctional voiding.\n\nB is wrong because:\nNight-time fluid restriction is a component of enuresis management, not a treatment for daytime dysfunctional voiding.\n\nC is wrong because:\nSurgical reconstruction of the bladder neck is reserved for anatomical sphincter weakness (e.g., epispadias) and has no role in functional voiding dysfunction.\n\nTeaching point: Biofeedback therapy teaches voluntary relaxation of the pelvic floor during voiding, correcting detrusor-sphincter dyssynergia; it is the cornerstone of treatment for dysfunctional voiding.",
+    "topic": "Urotherapy and biofeedback",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 6, "D6_Difficulty_Calibration": 6, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q27",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 27,
+    "stem": "A 10-year-old girl with dysfunctional voiding is about to start biofeedback therapy. Her parents want to understand the objective of this treatment. In biofeedback training for children with dysfunctional voiding, what is the primary goal?",
+    "options": [
+      { "id": "a", "text": "Increase bladder capacity" },
+      { "id": "b", "text": "Strengthen the pelvic floor muscles" },
+      { "id": "c", "text": "Reduce fluid intake" },
+      { "id": "d", "text": "Train the child to relax the sphincter and pelvic floor during voiding" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because:\nThe primary goal of biofeedback in dysfunctional voiding is to train the child to voluntarily relax the external urethral sphincter and pelvic floor muscles during voiding. This directly addresses the detrusor-sphincter dyssynergia that prevents efficient bladder emptying and causes the staccato flow pattern.\n\nA is wrong because:\nIncreasing bladder capacity is not the immediate goal of biofeedback; the focus is on coordinating sphincter relaxation with detrusor contraction.\n\nB is wrong because:\nStrengthening the pelvic floor is counterproductive in dysfunctional voiding; these children need to learn to relax, not contract, the pelvic floor during voiding.\n\nC is wrong because:\nReducing fluid intake is not part of biofeedback; adequate hydration is necessary for a regular voiding schedule.\n\nTeaching point: Biofeedback trains pelvic floor relaxation during voiding to overcome detrusor-sphincter dyssynergia; it is the most effective treatment for dysfunctional voiding in motivated children.",
+    "topic": "Urotherapy and biofeedback",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 6, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q28",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 28,
+    "stem": "A 6-year-old child with functional daytime incontinence is brought to clinic. The parents want to know what can be done before considering medication. Which of the following is an essential component of simple first-line treatment for functional daytime incontinence?",
+    "options": [
+      { "id": "a", "text": "Immediate initiation of anticholinergic therapy" },
+      { "id": "b", "text": "Enuresis alarm" },
+      { "id": "c", "text": "Regular voiding 5-6 times per day and age-appropriate fluid intake" },
+      { "id": "d", "text": "Sacral nerve stimulation" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because:\nSimple first-line treatment for functional daytime incontinence involves establishing a regular voiding regimen of 5-6 times per day at 2-3 hourly intervals with age-appropriate fluid intake. This addresses the most common underlying contributors: infrequent voiding, concentrated urine that irritates the bladder, and poor toileting habits.\n\nA is wrong because:\nImmediate initiation of anticholinergic therapy is not first-line; simple behavioural measures should always be attempted before pharmacological intervention.\n\nB is wrong because:\nAn enuresis alarm is indicated for monosymptomatic nocturnal enuresis, not for functional daytime incontinence.\n\nD is wrong because:\nSacral nerve stimulation is an invasive third-line therapy reserved for refractory cases after comprehensive behavioural and pharmacological management has failed.\n\nTeaching point: A timed voiding regimen (5-6 times/day) with adequate hydration is the cornerstone of first-line management for functional daytime incontinence; medication is reserved for those who fail behavioural therapy.",
+    "topic": "Simple treatments",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 6, "D6_Difficulty_Calibration": 6, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q29",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 29,
+    "stem": "A 5-year-old boy is brought to clinic because he wets himself while playing outdoors. His parents report that he ignores the urge to urinate and only goes inside when he has already started wetting. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Start oxybutynin" },
+      { "id": "b", "text": "Start desmopressin" },
+      { "id": "c", "text": "Refer for psychological input" },
+      { "id": "d", "text": "Reassurance and observation as the condition is self-limiting" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because:\nThis is classic deferred voiding (voiding postponement), a common behavioural pattern in children aged 4-6 years. The child voluntarily ignores the urge to void while engrossed in play. The condition is self-limiting and requires no treatment beyond reassurance, explanation, and parental education about regular toilet breaks.\n\nA is wrong because:\nOxybutynin is an anticholinergic for detrusor overactivity and is not indicated for behavioural voiding postponement.\n\nB is wrong because:\nDesmopressin is used for nocturnal enuresis due to nocturnal polyuria and has no role in daytime wetting from deferred voiding.\n\nC is wrong because:\nPsychological referral is not routinely indicated for deferred voiding, which is a normal developmental phase; reassurance and observation are sufficient.\n\nTeaching point: Deferred voiding at age 4-6 years is a self-limiting behavioural phase; management is reassurance and parental education about regular scheduled toilet breaks, not medication.",
+    "topic": "Deferred voiding",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q30",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 30,
+    "stem": "A 9-year-old girl presents with daytime incontinence, recurrent UTIs, and a palpable lower abdominal swelling after voiding. Ultrasound shows a large post-void residual but normal upper tracts. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Hinman syndrome" },
+      { "id": "b", "text": "Lazy bladder (underactive bladder)" },
+      { "id": "c", "text": "Dysfunctional voiding" },
+      { "id": "d", "text": "Posterior urethral valves" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because:\nLazy bladder (underactive bladder) typically affects girls aged 8-10 years and presents with daytime incontinence, recurrent UTIs, and a visibly or palpably distended bladder after voiding due to poor detrusor contractility. The upper tracts are characteristically normal, distinguishing it from neuropathic or obstructive causes.\n\nA is wrong because:\nHinman syndrome would show upper tract dilatation and a trabeculated fir-tree bladder on imaging, not normal upper tracts with isolated large PVR.\n\nC is wrong because:\nDysfunctional voiding involves detrusor-sphincter dyssynergia with a staccato flow pattern and typically does not produce a grossly palpable bladder.\n\nD is wrong because:\nPosterior urethral valves occur exclusively in boys and present with poor stream, not the clinical picture of a distended bladder in a girl.\n\nTeaching point: Lazy bladder = underactive detrusor + large PVR + normal upper tracts; management is cognitive bladder retraining with timed voiding, not anticholinergics.",
+    "topic": "Lazy bladder",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 8, "D6_Difficulty_Calibration": 8, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  }
+,
+  {
+    "id": "ch12-Q31",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 31,
+    "stem": "A 10-year-old girl with lazy bladder syndrome is troubled by daytime incontinence. Her parents ask about the best treatment option. Which treatment has the best outcome for children troubled by lazy bladder syndrome?",
+    "options": [
+      { "id": "a", "text": "Anticholinergic medication" },
+      { "id": "b", "text": "Desmopressin" },
+      { "id": "c", "text": "Cognitive bladder retraining" },
+      { "id": "d", "text": "Alpha-adrenergic agonists" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because:\nCognitive bladder retraining has the best outcome for lazy bladder syndrome. This involves timed voiding schedules (every 2-3 hours), double-voiding techniques, and biofeedback to improve detrusor contractility and bladder sensation. Anticholinergics are specifically contraindicated as they further impair detrusor function; clean intermittent catheterisation (CIC) may be needed in severe cases.\n\nA is wrong because:\nAnticholinergic medication reduces detrusor contractility and would worsen the underactive bladder; it is contraindicated in lazy bladder syndrome.\n\nB is wrong because:\nDesmopressin reduces urine production and is used for nocturnal enuresis, not for improving detrusor contractility.\n\nD is wrong because:\nAlpha-adrenergic agonists increase bladder outlet resistance and are used for stress incontinence, not for underactive bladder.\n\nTeaching point: Lazy bladder is managed with timed voiding and double-voiding; anticholinergics are contraindicated as they worsen detrusor underactivity; CIC may be required in severe cases.",
+    "topic": "Lazy bladder",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q32",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 32,
+    "stem": "An 11-year-old girl has urinary incontinence only when she giggles. Urodynamic findings are normal. Which medication is most consistently effective for this condition?",
+    "options": [
+      { "id": "a", "text": "Oxybutynin" },
+      { "id": "b", "text": "Desmopressin" },
+      { "id": "c", "text": "Methylphenidate (Ritalin)" },
+      { "id": "d", "text": "Mirabegron" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because:\nMethylphenidate is the most consistently effective pharmacological agent for giggle incontinence, believed to work through its central dopaminergic and noradrenergic effects on the neural pathway that triggers inappropriate bladder emptying during laughter. It is reserved for severely affected patients due to its status as a regulated drug with potential side effects.\n\nA is wrong because:\nOxybutynin, an anticholinergic, is ineffective for giggle incontinence because the condition is not due to detrusor overactivity; urodynamics are normal.\n\nB is wrong because:\nDesmopressin reduces urine production and is used for nocturnal polyuria, not for laughter-induced bladder emptying.\n\nD is wrong because:\nMirabegron, a beta-3 adrenoceptor agonist, relaxes the detrusor and is used for overactive bladder, not giggle incontinence.\n\nTeaching point: Giggle incontinence is thought to be a form of cataplexy; methylphenidate is the most effective treatment, but alarms and behavioural strategies are also used.",
+    "topic": "Giggle incontinence",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 8, "D6_Difficulty_Calibration": 8, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 9, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q33",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 33,
+    "stem": "A 5-year-old boy presents with the sudden onset of passing urine every 10-15 minutes during the day. He is dry at night and urine culture is negative. Ultrasound is normal. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Urge syndrome" },
+      { "id": "b", "text": "Diurnal urinary frequency" },
+      { "id": "c", "text": "Diabetes mellitus" },
+      { "id": "d", "text": "Sensory urgency" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because:\nDiurnal urinary frequency syndrome (pollakiuria) predominantly affects boys aged 4-7 years with the sudden onset of extreme daytime frequency (up to every 10-15 minutes). The child is dry at night, urine culture is sterile, and the condition is always self-limiting over 3-12 weeks.\n\nA is wrong because:\nUrge syndrome presents with urgency and holding manoeuvres (Vincent curtsy), not the isolated, extreme frequency that characterises diurnal frequency syndrome.\n\nC is wrong because:\nDiabetes mellitus would present with polyuria day and night (both diurnal and nocturnal), polydipsia, and glycosuria on dipstick.\n\nD is wrong because:\nSensory urgency is a condition in girls with urgency but stable urodynamics, not the dramatic, sudden-onset frequency seen in young boys with diurnal frequency syndrome.\n\nTeaching point: Diurnal frequency syndrome (pollakiuria) is a benign, self-limiting condition in young boys; investigations are only needed to exclude UTI and diabetes.",
+    "topic": "Diurnal urinary frequency",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q34",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 34,
+    "stem": "A 10-year-old girl has urgency but urodynamic evaluation reveals a stable bladder without detrusor overactivity. She is most likely suffering from which condition?",
+    "options": [
+      { "id": "a", "text": "Urge syndrome" },
+      { "id": "b", "text": "Sensory urgency" },
+      { "id": "c", "text": "Diurnal frequency syndrome" },
+      { "id": "d", "text": "Giggle incontinence" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because:\nSensory urgency is a condition largely confined to girls in which the clinical symptom of urgency is present, but urodynamic evaluation shows a stable bladder with no evidence of detrusor overactivity. The urgency is purely sensory in origin, likely due to heightened bladder afferent sensitivity.\n\nA is wrong because:\nUrge syndrome is associated with urodynamically proven detrusor overactivity; it cannot be diagnosed when urodynamics show a stable bladder.\n\nC is wrong because:\nDiurnal frequency syndrome presents with extreme frequency (every 10-15 minutes) in young boys, not urgency with a stable bladder in a 10-year-old girl.\n\nD is wrong because:\nGiggle incontinence causes complete bladder emptying only with laughter, not generalised urgency, and urodynamics are typically normal.\n\nTeaching point: Sensory urgency = clinical urgency with stable urodynamics; it is distinct from urge syndrome, which requires objective detrusor overactivity.",
+    "topic": "Sensory urgency",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q35",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 35,
+    "stem": "A 7-year-old girl with severe incontinence undergoes imaging that shows a trabeculated, elongated bladder with sacculation and upper tract dilatation. Neurological examination is normal. Which of the following is the hallmark radiological feature of this condition?",
+    "options": [
+      { "id": "a", "text": "Smooth bladder wall with normal capacity" },
+      { "id": "b", "text": "Fir-tree bladder with trabeculation and sacculation" },
+      { "id": "c", "text": "Bladder diverticulum at the ureteric orifice" },
+      { "id": "d", "text": "Hourglass bladder configuration" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because:\nThe fir-tree bladder (trabeculated, elongated, sacculated) is the hallmark radiological feature of Hinman syndrome (non-neuropathic neuropathic bladder). Despite the absence of neurological disease, the bladder has the radiological appearance of a neuropathic bladder due to functional bladder outlet obstruction from learned pelvic floor overactivity.\n\nA is wrong because:\nA smooth bladder wall with normal capacity is the normal appearance; Hinman syndrome produces a grossly abnormal, trabeculated bladder.\n\nC is wrong because:\nA bladder diverticulum at the ureteric orifice is associated with VUR, not the diffuse trabeculation and elongation of Hinman syndrome.\n\nD is wrong because:\nAn hourglass bladder configuration is associated with bladder outlet obstruction or specific congenital anomalies, not the diffuse changes of Hinman syndrome.\n\nTeaching point: Hinman syndrome produces a radiological picture indistinguishable from neuropathic bladder (fir-tree bladder) despite a normal neurological examination.",
+    "topic": "Hinman syndrome",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 8, "D6_Difficulty_Calibration": 8, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q36",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 36,
+    "stem": "A 6-year-old girl with severe daytime incontinence has a history of domestic turmoil around the time of toilet training. Imaging shows a trabeculated bladder with upper tract dilatation but no neurological abnormality is found. What is the most likely diagnosis?",
+    "options": [
+      { "id": "a", "text": "Dysfunctional voiding" },
+      { "id": "b", "text": "Hinman syndrome" },
+      { "id": "c", "text": "Lazy bladder" },
+      { "id": "d", "text": "Occult spinal dysraphism" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because:\nHinman syndrome (non-neuropathic neuropathic bladder) is associated with psychosocial stress or domestic turmoil at the time of toilet training. The child develops functional bladder outlet obstruction from learned pelvic floor overactivity, leading to a neuropathic-like bladder with upper tract changes despite normal neurology.\n\nA is wrong because:\nDysfunctional voiding typically does not cause upper tract dilatation; it causes a staccato flow pattern and is not associated with the severe radiological changes seen here.\n\nC is wrong because:\nLazy bladder presents with a distended, palpable bladder but normal upper tracts and no trabeculation.\n\nD is wrong because:\nOccult spinal dysraphism would show neurological abnormalities on spinal MRI, which are absent here.\n\nTeaching point: Hinman syndrome = functional neuropathic bladder due to psychological factors; it can cause upper tract damage and requires the same aggressive management as true neuropathic bladder.",
+    "topic": "Hinman syndrome",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 8, "D6_Difficulty_Calibration": 8, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 9, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q37",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 37,
+    "stem": "A 7-year-old girl is diagnosed with non-neuropathic neuropathic bladder (Hinman syndrome) with upper tract changes. Her parents are concerned about treatment. What is the recommended management approach?",
+    "options": [
+      { "id": "a", "text": "Same management as for true neuropathic bladder" },
+      { "id": "b", "text": "Observation alone as it is self-limiting" },
+      { "id": "c", "text": "Desmopressin therapy" },
+      { "id": "d", "text": "Bladder neck sling" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because:\nHinman syndrome with upper tract changes requires the same aggressive management as true neuropathic bladder, including clean intermittent catheterisation (CIC), anticholinergic therapy, and close monitoring of upper tract function. Expectant management is not safe due to the risk of progressive renal deterioration.\n\nB is wrong because:\nObservation alone is not safe; Hinman syndrome can cause progressive upper tract damage and renal insufficiency if left untreated.\n\nC is wrong because:\nDesmopressin is for nocturnal enuresis and has no role in managing the high-pressure, neuropathic-like bladder of Hinman syndrome.\n\nD is wrong because:\nA bladder neck sling is for stress incontinence due to sphincter weakness, not for the functional obstruction of Hinman syndrome.\n\nTeaching point: Hinman syndrome is managed identically to neuropathic bladder; failure to treat aggressively can lead to renal scarring and chronic kidney disease.",
+    "topic": "Hinman syndrome",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q38",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 38,
+    "stem": "A paediatric trainee is studying the Butler and Holland 3 Systems Model of nocturnal enuresis. Which of the following is NOT one of the main causative factors in this model?",
+    "options": [
+      { "id": "a", "text": "Nocturnal polyuria due to low arginine vasopressin release" },
+      { "id": "b", "text": "Impaired arousal from sleep in response to bladder fullness" },
+      { "id": "c", "text": "Urethral sphincter weakness causing stress incontinence" },
+      { "id": "d", "text": "Bladder overactivity with associated daytime symptoms" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because:\nThe Butler and Holland 3 Systems Model identifies three main factors: nocturnal polyuria (low nocturnal vasopressin), impaired arousal from sleep, and bladder overactivity with daytime symptoms. Urethral sphincter weakness causing stress incontinence is not part of this model; it pertains to a different pathophysiology.\n\nA is wrong because:\nNocturnal polyuria due to low arginine vasopressin release IS one of the three systems in the model.\n\nB is wrong because:\nImpaired arousal from sleep in response to bladder fullness IS one of the three systems in the model.\n\nD is wrong because:\nBladder overactivity with associated daytime symptoms IS one of the three systems in the model.\n\nTeaching point: The Butler & Holland 3 Systems Model: (1) nocturnal polyuria (low nocturnal AVP), (2) impaired arousal from sleep, and (3) bladder overactivity. Treatment should target the predominant mechanism: alarm therapy addresses arousal deficits, desmopressin targets polyuria, and anticholinergics treat bladder overactivity.",
+    "topic": "Nocturnal enuresis - 3 systems model",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q39",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 39,
+    "stem": "A 7-year-old boy wets the bed every night and has never been dry. He has no daytime symptoms. Urine dipstick is normal. What is the most appropriate next step in management?",
+    "options": [
+      { "id": "a", "text": "Renal ultrasound and MCUG" },
+      { "id": "b", "text": "Reassurance and advice on simple measures; consider alarm or desmopressin if needed" },
+      { "id": "c", "text": "Spinal MRI" },
+      { "id": "d", "text": "Urodynamic studies" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because:\nThis is primary monosymptomatic nocturnal enuresis, which seldom has an underlying organic basis. After a normal urine dipstick to exclude glycosuria, management involves reassurance, advice on simple measures (fluid timing, regular voiding), and offering alarm or desmopressin therapy if the family desires treatment.\n\nA is wrong because:\nRenal ultrasound and MCUG are not indicated in monosymptomatic nocturnal enuresis without red flags such as daytime symptoms, UTI, or poor urinary stream.\n\nC is wrong because:\nSpinal MRI is only indicated if neurological disease is suspected (e.g., abnormal spinal examination, neuropathic signs).\n\nD is wrong because:\nUrodynamic studies are reserved for treatment-resistant cases with daytime symptoms or suspected dysfunctional voiding.\n\nTeaching point: Primary monosymptomatic nocturnal enuresis does not require imaging; management is supportive with alarm or desmopressin as first-line treatments.",
+    "topic": "Primary monosymptomatic nocturnal enuresis",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q40",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 40,
+    "stem": "An 8-year-old boy with primary monosymptomatic nocturnal enuresis is brought to clinic. His father mentions that he also wet the bed until his early teens. The parents ask if there is a genetic component. What proportion of children with primary monosymptomatic nocturnal enuresis have a positive family history?",
+    "options": [
+      { "id": "a", "text": "Approximately 25%" },
+      { "id": "b", "text": "Approximately 50%" },
+      { "id": "c", "text": "Upwards of 75%" },
+      { "id": "d", "text": "Less than 10%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because:\nUpwards of 75% of children with primary monosymptomatic nocturnal enuresis have a positive family history, with strong genetic linkage studies suggesting autosomal dominant inheritance with high penetrance in some families.\n\nA is wrong because:\n25% significantly underestimates the heritability; a positive family history is the rule rather than the exception.\n\nB is wrong because:\n50% is too low; approximately three-quarters of affected children have an affected first-degree relative.\n\nD is wrong because:\nLess than 10% would suggest a negligible genetic component, whereas nocturnal enuresis is strongly heritable.\n\nTeaching point: Nocturnal enuresis has a strong genetic basis (>75% have positive family history); if both parents were affected, the child risk is approximately 75%.",
+    "topic": "Primary monosymptomatic nocturnal enuresis",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 8, "D5_Cognitive_Level": 5, "D6_Difficulty_Calibration": 6, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  }
+,
+  {
+    "id": "ch12-Q41",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 41,
+    "stem": "A 9-year-old boy with nocturnal enuresis has overnight urine output exceeding his functional bladder capacity. His parents ask why this happens. Which of the following best describes the pathophysiology of nocturnal polyuria in children with enuresis?",
+    "options": [
+      { "id": "a", "text": "Increased aldosterone secretion at night" },
+      { "id": "b", "text": "Excessive daytime fluid intake causing overflow at night" },
+      { "id": "c", "text": "Reduced renal concentrating ability" },
+      { "id": "d", "text": "Absent or reduced circadian rhythm of vasopressin release" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because:\nIn normal children, plasma vasopressin (AVP) levels rise at night, reducing urine production. In up to 75% of children with nocturnal enuresis, this circadian surge in AVP is absent or reduced, leading to nocturnal polyuria that exceeds functional bladder capacity and results in bedwetting.\n\nA is wrong because:\nAldosterone affects sodium and water reabsorption but its secretion follows an opposite (morning-peaking) circadian pattern and is not the primary cause of nocturnal polyuria in enuresis.\n\nB is wrong because:\nExcessive daytime fluid intake alone cannot explain the pathophysiology; the core defect is the absence of the normal overnight reduction in urine output.\n\nC is wrong because:\nReduced renal concentrating ability would cause polyuria day and night, not isolated nocturnal polyuria; these children concentrate urine normally during the day.\n\nTeaching point: Nocturnal polyuria in enuresis is due to absent circadian vasopressin release; this explains why desmopressin (AVP analogue) is an effective treatment.",
+    "topic": "Nocturnal enuresis - pathophysiology",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 8, "D6_Difficulty_Calibration": 8, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q42",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 42,
+    "stem": "A 10-year-old girl who was previously dry at night for 2 years has started wetting the bed after her parents divorce. There are no daytime symptoms and urine dipstick is normal. What is the most likely classification?",
+    "options": [
+      { "id": "a", "text": "Primary monosymptomatic nocturnal enuresis" },
+      { "id": "b", "text": "Secondary monosymptomatic nocturnal enuresis" },
+      { "id": "c", "text": "Non-monosymptomatic nocturnal enuresis" },
+      { "id": "d", "text": "Polysymptomatic nocturnal enuresis" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because:\nThis is secondary monosymptomatic nocturnal enuresis, defined as the relapse of bedwetting after at least 6 months of nocturnal dryness. The history of parental divorce provides a clear emotional precipitant, though organic causes such as diabetes should always be excluded.\n\nA is wrong because:\nPrimary enuresis describes a child who has never achieved sustained nocturnal dryness; this girl was dry for 2 years.\n\nC is wrong because:\nNon-monosymptomatic (polysymptomatic) nocturnal enuresis refers to bedwetting with daytime lower urinary tract symptoms, which are absent here.\n\nD is wrong because:\nPolysymptomatic nocturnal enuresis is an older term for non-monosymptomatic enuresis and implies daytime symptoms, which are not present.\n\nTeaching point: Secondary nocturnal enuresis is often precipitated by emotional stress (divorce, bereavement, school changes) but always warrants exclusion of diabetes and UTI.",
+    "topic": "Secondary monosymptomatic nocturnal enuresis",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q43",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 43,
+    "stem": "An 8-year-old boy with primary monosymptomatic nocturnal enuresis has a strong family history and wets the bed shortly after falling asleep. Which treatment is most likely to be effective?",
+    "options": [
+      { "id": "a", "text": "Desmopressin" },
+      { "id": "b", "text": "Oxybutynin" },
+      { "id": "c", "text": "Imipramine" },
+      { "id": "d", "text": "Biofeedback therapy" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because:\nDesmopressin is most likely to be effective when there is a strong family history and the child wets early in the night, as both features suggest nocturnal polyuria due to deficient vasopressin release as the predominant mechanism. Desmopressin replaces the missing night-time AVP surge, reducing urine output.\n\nB is wrong because:\nOxybutynin treats detrusor overactivity, which would be more relevant if the child had daytime symptoms or wet later in the night from a small functional bladder capacity.\n\nC is wrong because:\nImipramine is no longer first-line due to its adverse effect profile and the availability of safer alternatives.\n\nD is wrong because:\nBiofeedback is indicated for daytime dysfunctional voiding, not for monosymptomatic nocturnal enuresis.\n\nTeaching point: Desmopressin is first-line for enuresis driven by nocturnal polyuria (wetting early in sleep + family history); alarm therapy is preferred for deep sleepers.",
+    "topic": "Desmopressin therapy",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 8, "D6_Difficulty_Calibration": 8, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 9, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q44",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 44,
+    "stem": "A 9-year-old boy is being treated for nocturnal enuresis. The clinician considers prescribing desmopressin nasal spray but recalls that these products were withdrawn. Which of the following is a known serious adverse effect of desmopressin nasal spray that led to its withdrawal?",
+    "options": [
+      { "id": "a", "text": "Nephrotoxicity" },
+      { "id": "b", "text": "Cardiac arrhythmias" },
+      { "id": "c", "text": "Hepatotoxicity" },
+      { "id": "d", "text": "Hyponatraemia, seizures and water intoxication" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because:\nDesmopressin nasal spray was withdrawn due to the risk of serious hyponatraemia leading to seizures and water intoxication, resulting from erratic absorption through the nasal mucosa. Oral formulations (tablets, melt) have a more favourable risk-benefit profile.\n\nA is wrong because:\nNephrotoxicity is not a recognised adverse effect of desmopressin; the drug is a synthetic analogue of vasopressin that primarily affects water reabsorption.\n\nB is wrong because:\nCardiac arrhythmias are not associated with desmopressin; the primary concern is electrolyte disturbance from water retention.\n\nC is wrong because:\nHepatotoxicity is not a known adverse effect of desmopressin therapy.\n\nTeaching point: Desmopressin nasal spray is no longer used in children due to the risk of hyponatraemic seizures; oral desmopressin is safer but still requires fluid restriction at night.",
+    "topic": "Desmopressin therapy",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 6, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q45",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 45,
+    "stem": "An 8-year-old boy starts desmopressin for nocturnal enuresis. His parents ask about the likelihood of success and what happens when the medication is stopped. What is the typical success rate and relapse rate for desmopressin in treating nocturnal enuresis?",
+    "options": [
+      { "id": "a", "text": "Success rate up to 70%, relapse rate 30-50%" },
+      { "id": "b", "text": "Success rate >90%, relapse rate <10%" },
+      { "id": "c", "text": "Success rate 50%, relapse rate 10%" },
+      { "id": "d", "text": "Success rate 80%, relapse rate 60%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because:\nDesmopressin achieves a success rate of up to 70% in children with monosymptomatic nocturnal enuresis, but relapse rates after cessation are relatively high at 30-50%. This contrasts with alarm therapy, which has a lower relapse rate and is considered more curative.\n\nB is wrong because:\nA success rate >90% with relapse rate <10% overestimates efficacy and underestimates relapse; desmopressin is suppressive rather than curative.\n\nC is wrong because:\nA success rate of 50% underestimates the response; approximately 70% of children respond, though many relapse when the drug is stopped.\n\nD is wrong because:\nA success rate of 80% with 60% relapse rate does not match the published data of ~70% success and 30-50% relapse.\n\nTeaching point: Desmopressin is effective in ~70% but has 30-50% relapse on cessation; alarm therapy has similar success but lower relapse rates and is preferred for long-term cure.",
+    "topic": "Desmopressin therapy",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 8, "D5_Cognitive_Level": 5, "D6_Difficulty_Calibration": 6, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q46",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 46,
+    "stem": "A 9-year-old boy with primary monosymptomatic nocturnal enuresis is a very deep sleeper and does not wake when he wets the bed. Which treatment is most appropriate?",
+    "options": [
+      { "id": "a", "text": "Desmopressin tablets" },
+      { "id": "b", "text": "Oxybutynin" },
+      { "id": "c", "text": "Enuresis alarm" },
+      { "id": "d", "text": "Imipramine" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because:\nDeep sleepers with poor arousal from sleep are the best candidates for enuresis alarm therapy. The alarm is designed to sensitise the child to the sensation of bladder fullness and condition them to wake in response to detrusor contractions before leakage occurs.\n\nA is wrong because:\nDesmopressin reduces urine production but does not address the impaired arousal mechanism that is the predominant problem in this deep sleeper.\n\nB is wrong because:\nOxybutynin is for detrusor overactivity and daytime urgency, not for nocturnal enuresis in a deep sleeper without daytime symptoms.\n\nD is wrong because:\nImipramine is no longer first-line and has significant side effects; alarm therapy is the preferred treatment for children whose primary problem is impaired arousal.\n\nTeaching point: Alarm therapy is the treatment of choice for children with impaired arousal; it has a higher long-term cure rate and lower relapse rate than desmopressin.",
+    "topic": "Enuresis alarm therapy",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q47",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 47,
+    "stem": "Parents of a 9-year-old boy with nocturnal enuresis are considering an enuresis alarm. They ask about the chance of success at his age. What is the typical success rate of enuresis alarm therapy in children aged 7 years and older?",
+    "options": [
+      { "id": "a", "text": "60-75%" },
+      { "id": "b", "text": "30-40%" },
+      { "id": "c", "text": "80-90%" },
+      { "id": "d", "text": "95-100%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because:\nEnuresis alarm therapy achieves success rates of 60-75% in children aged 7 years and older. Alarms are more effective in older children who are motivated and can understand the conditioning process, and relapse rates (15-30%) are lower than with desmopressin.\n\nB is wrong because:\n30-40% is too low and may reflect success in younger children (<7 years) who are developmentally less ready for alarm therapy.\n\nC is wrong because:\n80-90% overestimates the success rate; while alarms are effective, approximately 60-75% achieve sustained dryness.\n\nD is wrong because:\n95-100% is unrealistic; no single treatment achieves near-100% success in nocturnal enuresis.\n\nTeaching point: Alarm therapy has a 60-75% success rate with lower relapse rates than medication; it is the most cost-effective long-term treatment for monosymptomatic nocturnal enuresis.",
+    "topic": "Enuresis alarm therapy",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 8, "D5_Cognitive_Level": 5, "D6_Difficulty_Calibration": 6, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 7, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q48",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 48,
+    "stem": "A 7-year-old girl with both daytime wetting and nocturnal enuresis is being evaluated for an enuresis alarm. Which of the following is a relative contraindication or predictor of poor response to enuresis alarm therapy?",
+    "options": [
+      { "id": "a", "text": "Patient age under 7 years" },
+      { "id": "b", "text": "Positive family history of enuresis" },
+      { "id": "c", "text": "Coexisting daytime wetting" },
+      { "id": "d", "text": "Deep sleep pattern during the night" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because:\nEnuresis alarm therapy is less successful in children who also have daytime wetting (non-monosymptomatic enuresis). The daytime symptoms suggest bladder overactivity rather than isolated nocturnal polyuria or arousal deficit, and daytime symptoms should be treated before an alarm is used for night-time wetting.\n\nA is wrong because:\nAge under 7 years is a relative contraindication, but this child is 7 years old, so this does not apply to the given scenario.\n\nB is wrong because:\nA positive family history is associated with a better response to desmopressin, not a poor response to alarms.\n\nD is wrong because:\nDeep sleep pattern is an indication for alarm therapy, not a contraindication; deep sleepers are the ideal candidates for alarm conditioning.\n\nTeaching point: Coexisting daytime wetting (non-monosymptomatic enuresis) is a relative contraindication to alarm therapy because the underlying bladder overactivity must be addressed first. Absolute contraindications include age <7 years, lack of motivation, and family dysfunction that prevents consistent alarm use.",
+    "topic": "Enuresis alarm therapy",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 9, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 9, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q49",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 49,
+    "stem": "A 7-year-old girl has nocturnal enuresis accompanied by daytime urgency and frequency. What is the first priority in management?",
+    "options": [
+      { "id": "a", "text": "Start an enuresis alarm immediately" },
+      { "id": "b", "text": "Start desmopressin" },
+      { "id": "c", "text": "Investigate and treat the daytime symptoms first" },
+      { "id": "d", "text": "Combination of desmopressin and alarm" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because:\nThis is non-monosymptomatic (polysymptomatic) nocturnal enuresis. The first priority is to investigate and treat the underlying daytime bladder dysfunction (urgency, frequency). Nocturnal enuresis is unlikely to respond to alarm or desmopressin until the daytime symptoms are managed.\n\nA is wrong because:\nStarting an enuresis alarm immediately is unlikely to be effective if daytime bladder overactivity is not addressed first; the underlying detrusor dysfunction must be treated.\n\nB is wrong because:\nDesmopressin alone may reduce urine output but will not resolve the daytime symptoms; treating daytime dysfunction is the priority.\n\nD is wrong because:\nCombination therapy without addressing daytime symptoms is premature; the first step is to evaluate and treat the daytime bladder problem.\n\nTeaching point: In non-monosymptomatic enuresis, always treat daytime bladder dysfunction first; night-time symptoms may then improve without specific therapy.",
+    "topic": "Non-monosymptomatic nocturnal enuresis",
+    "scores": { "D1_Clinical_Authenticity": 10, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 8, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  },
+  {
+    "id": "ch12-Q50",
+    "chapter": "Urinary Incontinence",
+    "chapterSlug": "ch12_urinary-incontinence",
+    "chapterNumber": 12,
+    "questionNumber": 50,
+    "stem": "A 10-year-old boy with nocturnal enuresis has not responded to desmopressin. The clinician considers other options. Which of the following medications is no longer recommended as first-line treatment for nocturnal enuresis and must never be prescribed in conjunction with desmopressin?",
+    "options": [
+      { "id": "a", "text": "Oxybutynin" },
+      { "id": "b", "text": "Solifenacin" },
+      { "id": "c", "text": "Mirabegron" },
+      { "id": "d", "text": "Imipramine" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because:\nImipramine, a tricyclic antidepressant, is no longer recommended as first-line treatment for nocturnal enuresis due to its narrow therapeutic index and risk of cardiotoxicity, arrhythmias, and overdose. It must never be used with desmopressin because both drugs can cause hyponatraemia and potentiate the risk of seizures.\n\nA is wrong because:\nOxybutynin can be used as an adjunct for enuresis with bladder overactivity and does not have the same dangerous interaction with desmopressin.\n\nB is wrong because:\nSolifenacin, like oxybutynin, is an anticholinergic that can be used for overactive bladder and does not carry the same interaction risk with desmopressin.\n\nC is wrong because:\nMirabegron is a beta-3 adrenoceptor agonist with a different mechanism and no known serious interaction with desmopressin.\n\nTeaching point: Imipramine is contraindicated with desmopressin due to the combined risk of hyponatraemia and seizures; it is no longer first-line for nocturnal enuresis.",
+    "topic": "Treatment of nocturnal enuresis",
+    "scores": { "D1_Clinical_Authenticity": 9, "D2_Stem_Clarity": 10, "D3_Answer_Key_Defensibility": 10, "D4_Distractor_Quality": 9, "D5_Cognitive_Level": 7, "D6_Difficulty_Calibration": 7, "D7_Explanation_Quality": 10, "D8_Language_Professionalism": 10, "D9_Originality": 8, "D10_Format_Compliance": 10 }
+  }
+]

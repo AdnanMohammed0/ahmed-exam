@@ -1,0 +1,70 @@
+QA Report: ch06_vesicoureteral-reflux (Vesicoureteral Reflux)
+================================================================
+
+1. SUMMARY STATISTICS
+   - Total questions: 50 (ch06-Q01 through ch06-Q50)
+   - Topics covered: 16 distinct topics
+   - Questions added/replaced: 1 (Q22 replaced due to redundancy)
+   - Questions with minor explanation improvements: 3 (Q09, Q17, Q04)
+
+2. TOPIC COVERAGE
+
+   Topic                            Questions          Coverage Assessment
+   -------------------------------  ----------------- ------------------------
+   Reflux grading                   Q01-Q04            Excellent
+   Spontaneous resolution           Q05-Q08            Excellent
+   Genetics of VUR                  Q09-Q11            Good
+   Continuous antibiotic prophylaxis Q12-Q17, Q19-Q22  Excellent
+   Breakthrough UTI                 Q20-Q21            Good
+   Minimally invasive surgery       Q22 (NEW)          Gap filled
+   Endoscopic injection             Q23-Q28            Excellent
+   Ureteral reimplantation          Q29-Q33            Excellent
+   Other surgical options           Q34, Q49           Good
+   Reflux nephropathy               Q35-Q38            Excellent
+   Diagnostic imaging               Q39-Q43            Excellent
+   Sibling screening                Q44-Q45            Good
+   Prenatal hydronephrosis screening Q46-Q47           Good
+   Bladder and bowel dysfunction    Q48                Good
+   Breakthrough UTI / Surgical ind. Q21                Good
+   Diagnostic approach / Atypical   Q50                Good
+
+3. ISSUES FOUND AND REMEDIATION
+
+   Issue 1: Q22 redundant with Q20
+   - Both Q20 and Q22 tested the identical concept of "breakthrough UTI"
+   - Q20 uses a clinical scenario (clinically rich, preferred format)
+   - Q22 used a definitional approach ("The historical term used to describe...")
+   - Resolution: Replaced Q22 with a new question on minimally invasive
+     (laparoscopic/robotic) ureteroneocystostomy, which was a notable topic
+     in the chapter with zero MCQ coverage.
+
+   Issue 2: Minor explanation improvements
+   - Q09: Added context about background incidence (1-2% in general population)
+   - Q17: Clarified that the Swedish Reflux Trial was NOT among those at low
+     risk of bias (previous explanation was vague about "other trials")
+   - Q04: Changed option text from "Vesicoureteral reflux index (VURx)" to
+     "VUR index (VURx)" to match the raw chapter text exactly
+
+4. REMAINING COVERAGE GAPS (Low Priority)
+   - Definitional distinction between primary vs secondary VUR (covered in
+     passing but no dedicated MCQ)
+   - Nephroureterectomy as an "Other Surgical Procedure" (only mentioned
+     briefly in the chapter; TUU also mentioned but is a niche topic)
+   - Specific genes in metanephric tissue vs developing kidney (Q11 covers
+     ureteric bud genes but not metanephric)
+   
+   These are considered low priority because they are either covered in other
+   chapters (primary vs secondary VUR), are niche surgical details, or would
+   require expanding beyond 50 questions.
+
+5. OVERALL QUALITY ASSESSMENT
+   - Factual accuracy: HIGH - All questions were cross-referenced against
+     the raw chapter content and found to be factually correct.
+   - Answer options: Appropriate distractors with plausible wrong answers.
+   - Explanations: Clear, reference-specific data from the chapter text.
+   - Coverage: COMPREHENSIVE - All major chapter topics are covered.
+   - The only significant issue was the Q20/Q22 redundancy, which has been
+     resolved by replacing Q22 with a question on minimally invasive surgery.
+   
+   The question bank is well-constructed and suitable for assessing knowledge
+   of Vesicoureteral Reflux as presented in Chapter 6.

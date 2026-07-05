@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch13-Q01",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 1,
+    "stem": "Which of the following is the most common congenital cause of neurogenic bladder in children?",
+    "options": [
+      { "id": "a", "text": "Cerebral palsy" },
+      { "id": "b", "text": "Tethered spinal cord" },
+      { "id": "c", "text": "Spina bifida" },
+      { "id": "d", "text": "Sacral agenesis" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Spina bifida is the most common cause of congenital neurogenic bladder, with a worldwide reported incidence of 3.1 per 10,000 births. In the US, approximately 1,500 children with spina bifida are born each year.\n\nA is wrong because: Cerebral palsy is an acquired cause of neurogenic bladder, not a congenital cause. It is less common as an etiology.\n\nB is wrong because: Tethered spinal cord is a form of occult spinal dysraphism that can cause neurogenic bladder but is less common than open spina bifida.\n\nD is wrong because: Sacral agenesis (caudal regression syndrome) is a congenital cause but is far less common than spina bifida.\n\nTeaching point: While spina bifida (particularly myelomeningocele) is the most common congenital cause, neurogenic bladder has a broad differential including both congenital and acquired etiologies.",
+    "topic": "Etiology"
+  },
+  {
+    "id": "ch13-Q02",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 2,
+    "stem": "What proportion of spina bifida cases are accounted for by myelomeningocele?",
+    "options": [
+      { "id": "a", "text": "50%" },
+      { "id": "b", "text": "70%" },
+      { "id": "c", "text": "90%" },
+      { "id": "d", "text": "99%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Myelomeningocele is the most severe form of spina bifida, accounting for 90% of cases, with lipomyelomeningocele or meningocele comprising the remaining 10%.\n\nA (50%), B (70%), and D (99%) are wrong because: The chapter specifically states that 90% of spina bifida cases are myelomeningocele.\n\nTeaching point: Myelomeningocele involves herniation of neural elements through a vertebral defect and carries the highest risk of neurogenic bladder dysfunction among neural tube defects.",
+    "topic": "Myelomeningocele"
+  },
+  {
+    "id": "ch13-Q03",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 3,
+    "stem": "A newborn with myelomeningocele has persistent urinary retention after 48 hours of life. A baseline renal ultrasound shows mild bilateral hydronephrosis. What is the most appropriate next step in management?",
+    "options": [
+      { "id": "a", "text": "Start prophylactic antibiotics and repeat ultrasound in 1 month" },
+      { "id": "b", "text": "Perform immediate vesicostomy" },
+      { "id": "c", "text": "Initiate clean intermittent catheterization (CIC) every 4 hours" },
+      { "id": "d", "text": "Obtain a baseline video urodynamic study before any intervention" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: In a newborn with myelomeningocele and persistent retention with hydronephrosis, CIC should be initiated early to ensure bladder emptying and protect the upper tracts. CIC is the cornerstone of neurogenic bladder management in infancy.\n\nA is wrong because: Prophylactic antibiotics alone without addressing the retention will not prevent upper tract deterioration. The presence of hydronephrosis with retention requires active bladder drainage.\n\nB is wrong because: Vesicostomy is reserved for cases where CIC is not feasible or has failed. It is not first-line management in a newborn where CIC can be initiated.\n\nD is wrong because: Video urodynamics are typically deferred until after 3 months of age in newborns with myelomeningocele. Immediate CIC is warranted given the retention and hydronephrosis.\n\nTeaching point: In newborns with spina bifida, CIC is initiated early when there is evidence of retention or hostile urodynamic features. Baseline renal ultrasound is obtained after 24-48 hours, and video urodynamics are typically performed after 3 months of age.",
+    "topic": "Newborn management"
+  },
+  {
+    "id": "ch13-Q04",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 4,
+    "stem": "Which of the following is a recognized risk factor for neural tube defects?",
+    "options": [
+      { "id": "a", "text": "Maternal obesity" },
+      { "id": "b", "text": "Maternal hypoglycemia" },
+      { "id": "c", "text": "Young maternal age" },
+      { "id": "d", "text": "High maternal folate levels" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: Maternal obesity is a recognized risk factor for neural tube defects, along with diabetes mellitus and advanced maternal age.\n\nB is wrong because: It is maternal hyperglycemia (diabetes mellitus), not hypoglycemia, that is a risk factor for neural tube defects.\n\nC is wrong because: Advanced maternal age, not young maternal age, is a risk factor for neural tube defects.\n\nD is wrong because: High maternal folate levels are protective against neural tube defects; it is low folate intake that constitutes a risk factor.\n\nTeaching point: Adequate folic acid (400 mcg daily) before and during early pregnancy is a key preventive measure for neural tube defects.",
+    "topic": "Risk factors for neural tube defects"
+  },
+  {
+    "id": "ch13-Q05",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 5,
+    "stem": "What is the recommended daily intake of folic acid for women of childbearing age to reduce the risk of neural tube defects?",
+    "options": [
+      { "id": "a", "text": "100 mcg" },
+      { "id": "b", "text": "200 mcg" },
+      { "id": "c", "text": "400 mcg" },
+      { "id": "d", "text": "800 mcg" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: The US recommendation is that women of childbearing age should consume 400 mcg folic acid daily, with supplements commencing 2 months prior to conception.\n\nA (100 mcg) and B (200 mcg) are wrong because: These doses are insufficient for neural tube defect prevention.\n\nD (800 mcg) is wrong because: While higher doses may be used in certain high-risk populations (e.g., previous NTD), the standard recommendation for the general population is 400 mcg daily.\n\nTeaching point: The critical period of neurulation occurs in the first few weeks of pregnancy, often before a woman knows she is pregnant, emphasizing the importance of periconceptional folic acid supplementation.",
+    "topic": "Folic acid / NTD prevention"
+  },
+  {
+    "id": "ch13-Q06",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 6,
+    "stem": "Regarding fetal repair of myelomeningocele, which of the following has been demonstrated in prospective randomized trials?",
+    "options": [
+      { "id": "a", "text": "Reduced requirement for VP shunts" },
+      { "id": "b", "text": "Improved urodynamic parameters" },
+      { "id": "c", "text": "Elimination of neurogenic bladder dysfunction" },
+      { "id": "d", "text": "Significant reduction in UTI rates" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: A prospective randomized trial demonstrated that fetal intervention reduced the requirement for VP shunts and improved lower limb function at 12 and 30 months.\n\nB is wrong because: The trial did NOT demonstrate any improvement in urodynamic parameters or significant reduction in CIC requirement.\n\nC is wrong because: Neurogenic bladder dysfunction is not eliminated by prenatal repair.\n\nD is wrong because: There was no significant reduction in UTI rates reported.\n\nTeaching point: More recent data suggest that prenatal repair may reduce CIC need between 6-10 years of age, but the primary proven benefits remain reduced VP shunt requirement and improved lower limb function.",
+    "topic": "Prenatal intervention"
+  },
+  {
+    "id": "ch13-Q07",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 7,
+    "stem": "A newborn with an open myelomeningocele is delivered. Within what timeframe should surgical closure be performed to minimize the risk of meningitis?",
+    "options": [
+      { "id": "a", "text": "Within 6 hours" },
+      { "id": "b", "text": "Within 12 hours" },
+      { "id": "c", "text": "Within 24 hours" },
+      { "id": "d", "text": "Within 72 hours" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Closure within 24 hours is recommended to minimize the risk of ascending infection (meningitis). The open neural plaque is a direct portal for bacterial entry.\n\nA (6 hours) and B (12 hours) are wrong because: While early closure is ideal, the standard recommendation is within 24 hours, not a shorter timeframe.\n\nD (72 hours) is wrong because: Delaying beyond 24 hours increases the risk of meningitis.\n\nTeaching point: Cesarean section is the recommended mode of delivery to minimize trauma to the exposed neural tissue before surgical closure.",
+    "topic": "Newborn management"
+  },
+  {
+    "id": "ch13-Q08",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 8,
+    "stem": "In a newborn with myelomeningocele, when is the baseline video urodynamic study typically performed?",
+    "options": [
+      { "id": "a", "text": "Within the first 24 hours" },
+      { "id": "b", "text": "After 1 week" },
+      { "id": "c", "text": "After 3 months" },
+      { "id": "d", "text": "After 12 months" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Video urodynamics are deferred until after 3 months of age in newborns with myelomeningocele.\n\nA (24 hours) is wrong because: A renal and bladder ultrasound, not video urodynamics, is performed at 24-48 hours.\n\nB (1 week) and D (12 months) are wrong because: The standard timing is 3 months, not 1 week or 12 months.\n\nTeaching point: The initial newborn assessment includes a renal ultrasound at 24-48 hours and serum creatinine/cystatin C. VCUG/video urodynamics are performed after 3 months to allow the infant to stabilize before detailed functional assessment.",
+    "topic": "Newborn evaluation"
+  },
+  {
+    "id": "ch13-Q09",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 9,
+    "stem": "The parasympathetic innervation of the detrusor muscle is mediated by which nerve pathways?",
+    "options": [
+      { "id": "a", "text": "Hypogastric nerve fibers from the lumbar region" },
+      { "id": "b", "text": "Pelvic nerve pathways via sacral roots S2-S4" },
+      { "id": "c", "text": "Pudendal nerves originating from the sacrum" },
+      { "id": "d", "text": "Intercostal nerves from the thoracic region" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The parasympathetic innervation of the detrusor muscle is mediated by pelvic nerve pathways transmitted via the sacral roots S2-S4.\n\nA is wrong because: The hypogastric nerve fibers from the lumbar region provide sympathetic innervation to the detrusor and urethral smooth muscle, not parasympathetic.\n\nC is wrong because: The pudendal nerves innervate the striated sphincter, not the detrusor muscle.\n\nD is wrong because: Intercostal nerves are not involved in bladder innervation.\n\nTeaching point: Understanding the distinct innervation pathways — sympathetic (hypogastric, lumbar), parasympathetic (pelvic, S2-S4), and somatic (pudendal, sacral) — is essential for localizing neurologic lesions affecting bladder function.",
+    "topic": "Bladder innervation"
+  },
+  {
+    "id": "ch13-Q10",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 10,
+    "stem": "According to the formula for age-adjusted bladder capacity used during urodynamics, what is the estimated capacity for a 6-year-old child?",
+    "options": [
+      { "id": "a", "text": "180 mL" },
+      { "id": "b", "text": "210 mL" },
+      { "id": "c", "text": "240 mL" },
+      { "id": "d", "text": "270 mL" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: The formula for age-adjusted bladder capacity is (age in years + 2) x 30 mL. For a 6-year-old child: (6 + 2) x 30 = 240 mL.\n\nA (180 mL), B (210 mL), and D (270 mL) are incorrect calculations based on this formula.\n\nTeaching point: This formula is used to determine the appropriate filling rate during urodynamics — typically 10% of the estimated capacity per minute. For a 6-year-old, that would be approximately 24 mL/minute.",
+    "topic": "Urodynamics"
+  },
+  {
+    "id": "ch13-Q11",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 11,
+    "stem": "Which urodynamic parameter is regarded as unsafe if it exceeds 40 cm H2O?",
+    "options": [
+      { "id": "a", "text": "Bladder compliance" },
+      { "id": "b", "text": "Detrusor leak point pressure" },
+      { "id": "c", "text": "Maximum cystometric capacity" },
+      { "id": "d", "text": "Post-void residual volume" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: A detrusor leak point pressure (DLPP) exceeding 40 cm H2O is regarded as unsafe and requires intervention. Bladder compliance below 20 mL/cm H2O indicates reduced compliance.\n\nA is wrong because: Bladder compliance is a measure of volume/pressure, not a pressure threshold.\n\nC is wrong because: Maximum cystometric capacity is a volume measurement, not a pressure parameter.\n\nD is wrong because: Post-void residual is a volume measurement.\n\nTeaching point: DLPP >40 cm H2O and compliance <20 mL/cm H2O are critical thresholds that define an 'unsafe' or 'hostile' bladder requiring active management to protect the upper tracts.",
+    "topic": "Urodynamic parameters"
+  },
+  {
+    "id": "ch13-Q12",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 12,
+    "stem": "Reduced bladder compliance on urodynamics is defined as which of the following values?",
+    "options": [
+      { "id": "a", "text": "<40 mL/cm H2O" },
+      { "id": "b", "text": "<30 mL/cm H2O" },
+      { "id": "c", "text": "<20 mL/cm H2O" },
+      { "id": "d", "text": "<10 mL/cm H2O" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Bladder compliance = ΔVolume/ΔPressure. A value <20 mL/cm H2O denotes reduced compliance, indicating inability of the bladder to accommodate physiological volumes at safe pressures.\n\nA (40 mL/cm H2O) and B (30 mL/cm H2O) are wrong because: These values represent normal or mildly reduced compliance, not the threshold for reduced compliance.\n\nD (10 mL/cm H2O) is wrong because: This is a more severe degree of reduced compliance (used as a threshold for considering bladder augmentation), but the standard definition of reduced compliance is <20 mL/cm H2O.\n\nTeaching point: Poor compliance forces high-pressure transmission to the upper tracts, leading to hydronephrosis and renal deterioration if untreated.",
+    "topic": "Urodynamic parameters"
+  },
+  {
+    "id": "ch13-Q13",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 13,
+    "stem": "A 3-year-old with myelomeningocele undergoes urodynamics showing detrusor contraction against a non-relaxing sphincter with a filling pressure of 55 cm H2O and trabeculation. What is the most appropriate next step?",
+    "options": [
+      { "id": "a", "text": "Initiate CIC and anticholinergic therapy" },
+      { "id": "b", "text": "Proceed directly to bladder augmentation" },
+      { "id": "c", "text": "Insert an indwelling urethral catheter" },
+      { "id": "d", "text": "Continue observation with repeat urodynamics in 6 months" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: Detrusor sphincter dyssynergia with elevated filling pressures (55 cm H2O) represents a 'hostile' bladder pattern that demands prompt intervention. The first-line treatment is CIC and anticholinergic medication.\n\nB is wrong because: Bladder augmentation is reserved for cases where CIC and anticholinergics fail to achieve safe pressures and adequate capacity.\n\nC is wrong because: Indwelling catheterization is not routinely recommended for long-term management; CIC is preferred.\n\nD is wrong because: Continuing observation with unsafe pressures places the upper tracts at high risk of deterioration (>70% within 3 years).\n\nTeaching point: DSD is defined as detrusor contraction against a non-relaxing sphincter, leading to elevated storage pressures, detrusor hypertrophy, and trabeculation.",
+    "topic": "Detrusor sphincter dyssynergia"
+  },
+  {
+    "id": "ch13-Q14",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 14,
+    "stem": "What proportion of patients with detrusor sphincter dyssynergia will experience urinary tract deterioration within 3 years without appropriate intervention?",
+    "options": [
+      { "id": "a", "text": "Over 30%" },
+      { "id": "b", "text": "Over 50%" },
+      { "id": "c", "text": "Over 90%" },
+      { "id": "d", "text": "Over 70%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Without appropriate intervention, over 70% of patients with DSD experience urinary tract deterioration (including hydronephrosis) within 3 years, underscoring why DSD is considered a 'hostile' pattern.\n\nA (30%), B (50%), and C (90%) are incorrect per the chapter data.\n\nTeaching point: The high rate of deterioration in untreated DSD highlights the importance of early identification through urodynamics and prompt initiation of CIC to protect the upper tracts.",
+    "topic": "Detrusor sphincter dyssynergia"
+  },
+  {
+    "id": "ch13-Q15",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 15,
+    "stem": "Which of the following describes a 'safe' neurogenic bladder pattern?",
+    "options": [
+      { "id": "a", "text": "Detrusor overactivity with sphincter dyssynergia" },
+      { "id": "b", "text": "Sphincter weakness due to denervation with low-pressure leakage" },
+      { "id": "c", "text": "High-pressure storage with trabeculation" },
+      { "id": "d", "text": "Reduced compliance with high-grade VUR" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Sphincter weakness from lower motor neuron lesions acts as a 'safety valve', preventing sustained elevated intravesical pressures and thereby protecting the upper tracts. However, functional capacity is reduced due to low-pressure leakage.\n\nA is wrong because: Detrusor overactivity with sphincter dyssynergia (DSD) is a 'hostile' pattern causing high-pressure storage and upper tract risk.\n\nC is wrong because: High-pressure storage with trabeculation is indicative of a hostile, unsafe bladder.\n\nD is wrong because: Reduced compliance and high-grade VUR represent an unsafe pattern threatening renal function.\n\nTeaching point: A 'safe' bladder is defined by its pressure characteristics, not by continence. Sphincter weakness protects the kidneys but makes continence more difficult to achieve.",
+    "topic": "Safe vs hostile bladder"
+  },
+  {
+    "id": "ch13-Q16",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 16,
+    "stem": "A 10-year-old girl with myelomeningocele on CIC has asymptomatic bacteriuria. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Increase the frequency of CIC and avoid unnecessary antibiotics" },
+      { "id": "b", "text": "Obtain a urine culture and treat based on sensitivities" },
+      { "id": "c", "text": "Start prophylactic antibiotics" },
+      { "id": "d", "text": "Treat with a 7-day course of oral antibiotics" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: Approximately 70% of patients on CIC have asymptomatic bacteriuria, but fewer than one-third develop symptomatic UTIs. Increasing CIC frequency minimizes bacterial multiplication time in static urine, lowering UTI risk.\n\nB is wrong because: Treating asymptomatic bacteriuria with antibiotics promotes bacterial resistance without clinical benefit.\n\nC is wrong because: Prophylactic antibiotics should be minimized to reduce bacterial resistance.\n\nD is wrong because: A full course of antibiotics for asymptomatic bacteriuria is not indicated.\n\nTeaching point: Asymptomatic bacteriuria is the norm in CIC patients and does not require treatment. Antibiotics should be reserved for symptomatic UTIs.",
+    "topic": "Catheterization and UTI"
+  },
+  {
+    "id": "ch13-Q17",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 17,
+    "stem": "What is the reported incidence of stomal stenosis following the Mitrofanoff procedure over a 5-year period?",
+    "options": [
+      { "id": "a", "text": "1-5%" },
+      { "id": "b", "text": "5-10%" },
+      { "id": "c", "text": "45-60%" },
+      { "id": "d", "text": "15-40%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Stomal stenosis is the commonest complication of the Mitrofanoff procedure, with a reported incidence of 15-40% over 5 years. It is usually amenable to simple revision, though more than one revision may be required.\n\nA (1-5%), B (5-10%), and C (45-60%) are incorrect per the chapter data.\n\nTeaching point: The Mitrofanoff appendicovesicostomy is particularly beneficial for young females, especially those confined to a wheelchair, as it provides a discreet, accessible catheterization route.",
+    "topic": "Mitrofanoff procedure"
+  },
+  {
+    "id": "ch13-Q18",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 18,
+    "stem": "A 14-year-old with neurogenic bladder requires a continent catheterizable channel but the appendix has been used for an ACE procedure. Which is the most satisfactory alternative?",
+    "options": [
+      { "id": "a", "text": "Monti tube fashioned from ileum" },
+      { "id": "b", "text": "Ureteral segment" },
+      { "id": "c", "text": "Gastric tube" },
+      { "id": "d", "text": "Fallopian tube" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: When the appendix is unavailable (used for ACE, previously removed, or unsuitable), a Monti or Yang-Monti channel fashioned from ileum is the most satisfactory alternative.\n\nB is wrong because: Ureteral segments are not commonly used for catheterizable channels.\n\nC is wrong because: Gastric tubes are not the standard alternative; they are associated with the hematuria-dysuria syndrome.\n\nD is wrong because: The fallopian tube is not used for this purpose.\n\nTeaching point: The appendix is the preferred source for continent catheterizable channels due to its reliable catheter passage and lower complication rate compared to alternatives.",
+    "topic": "Catheterizable channels"
+  },
+  {
+    "id": "ch13-Q19",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 19,
+    "stem": "Which anticholinergic medication is currently the only FDA-approved drug for treatment of neurogenic bladder in children?",
+    "options": [
+      { "id": "a", "text": "Oxybutynin" },
+      { "id": "b", "text": "Tolterodine" },
+      { "id": "c", "text": "Solifenacin" },
+      { "id": "d", "text": "Darifenacin" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: Oxybutynin is the only anticholinergic drug currently approved by the FDA for treatment of neurogenic bladder in children.\n\nB (Tolterodine), C (Solifenacin), and D (Darifenacin) are wrong because: These anticholinergics are not FDA-approved for pediatric neurogenic bladder, though they may be prescribed off-label.\n\nTeaching point: Oxybutynin suppresses detrusor overactivity but can cause anticholinergic side effects including dry mouth, constipation, flushing, and impaired concentration. Mirabegron (beta-3 agonist) is another off-label alternative.",
+    "topic": "Anticholinergic therapy"
+  },
+  {
+    "id": "ch13-Q20",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 20,
+    "stem": "Mirabegron, an alternative to anticholinergic therapy for detrusor overactivity, belongs to which class of medications?",
+    "options": [
+      { "id": "a", "text": "Beta-2 adrenergic agonist" },
+      { "id": "b", "text": "Calcium channel blocker" },
+      { "id": "c", "text": "Beta-3 adrenergic agonist" },
+      { "id": "d", "text": "Alpha-adrenergic blocker" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Mirabegron is a beta-3 adrenergic agonist that relaxes the detrusor muscle by stimulating beta-3 adrenergic receptors. It is not FDA-approved for children but may be used off-label.\n\nA is wrong because: Beta-2 agonists are used primarily as bronchodilators (e.g., albuterol), not for detrusor relaxation.\n\nB and D are wrong because: Calcium channel blockers and alpha-blockers have different mechanisms of action.\n\nTeaching point: Unlike anticholinergics, beta-3 agonists do not commonly cause dry mouth or constipation, making them a useful alternative for patients who cannot tolerate anticholinergic side effects.",
+    "topic": "Pharmacological therapy"
+  },
+  {
+    "id": "ch13-Q21",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 21,
+    "stem": "Which of the following is a potential side effect of alpha-adrenergic blockers used for functional outflow obstruction in children?",
+    "options": [
+      { "id": "a", "text": "Hyperglycemia" },
+      { "id": "b", "text": "Bronchospasm" },
+      { "id": "c", "text": "Nephrotoxicity" },
+      { "id": "d", "text": "Reflex tachycardia" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Alpha-adrenergic blocker side effects include orthostatic hypotension, reflex tachycardia, syncope, dizziness, and palpitations.\n\nA is wrong because: Hyperglycemia is not a recognized side effect of alpha-blockers.\n\nB is wrong because: Bronchospasm is not typically associated with alpha-blockers.\n\nC is wrong because: Nephrotoxicity is not a known side effect of alpha-blockers.\n\nTeaching point: Alpha-blockers (doxazosin, tamsulosin) act on receptors at the bladder neck smooth muscle to reduce functional outflow obstruction. Studies on their use in children show mixed results with varying quality of evidence.",
+    "topic": "Alpha-adrenergic blockers"
+  },
+  {
+    "id": "ch13-Q22",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 22,
+    "stem": "Intravesical botulinum toxin A injection into the detrusor muscle works by which mechanism?",
+    "options": [
+      { "id": "a", "text": "Blocking calcium channels at the neuromuscular junction" },
+      { "id": "b", "text": "Stimulating nitric oxide production" },
+      { "id": "c", "text": "Inhibiting release of acetylcholine from presynaptic neurons" },
+      { "id": "d", "text": "Blocking beta-adrenergic receptors" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Botulinum A toxin inhibits the release of acetylcholine from the presynaptic neuron at the neuromuscular junction, causing temporary chemodenervation of the detrusor muscle.\n\nA is wrong because: Botox does not block calcium channels; it cleaves SNAP-25, a protein required for vesicle fusion and acetylcholine release.\n\nB is wrong because: Botox does not stimulate nitric oxide production.\n\nD is wrong because: Beta-adrenergic receptors are targeted by mirabegron, not botulinum toxin.\n\nTeaching point: Intravesical Botox is administered via cystoscopic injection into the detrusor at multiple sites. The standard dosage is 10 IU/kg up to 300 IU in adults. Effects last 6-12 months and repeat injections do not cause tolerance or fibrosis.",
+    "topic": "Botulinum toxin"
+  },
+  {
+    "id": "ch13-Q23",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 23,
+    "stem": "What is the typical duration of effect of a single intravesical botulinum toxin injection for neurogenic bladder?",
+    "options": [
+      { "id": "a", "text": "1-3 months" },
+      { "id": "b", "text": "6-12 months" },
+      { "id": "c", "text": "18-24 months" },
+      { "id": "d", "text": "3-5 years" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The duration of effect of intravesical Botox is approximately 6-12 months. In a study of children with spina bifida, 73% were dry between catheterizations for 4 months, and 88% experienced symptomatic improvement.\n\nA (1-3 months) is too short, C (18-24 months) and D (3-5 years) are too long for the typical duration of Botox effect.\n\nTeaching point: Repeat Botox injections can be administered without loss of effectiveness (tolerance) or causing fibrosis in the bladder wall. The principal side effect is impaired bladder emptying — patients should be prepared to perform CIC if not already doing so.",
+    "topic": "Botulinum toxin"
+  },
+  {
+    "id": "ch13-Q24",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 24,
+    "stem": "A 15-year-old with myelomeningocele is being evaluated for augmentation cystoplasty. Which urodynamic profile would support this decision?",
+    "options": [
+      { "id": "a", "text": "Pdet < 20 cm H2O, compliance > 40 mL/cm H2O" },
+      { "id": "b", "text": "Detrusor leak point pressure of 25 cm H2O" },
+      { "id": "c", "text": "Sphincter weakness with low-pressure leakage" },
+      { "id": "d", "text": "Pdet > 40 cm H2O, compliance < 10 mL/cm H2O" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Bladder augmentation is indicated when there is a hostile urodynamic profile: elevated detrusor filling pressures (Pdet >40 cm H2O), detrusor leak point pressure >35 cm H2O, and poor bladder compliance (<10 mL/cm H2O), often accompanied by upper tract changes such as hydronephrosis or secondary VUR.\n\nA is wrong because: Pdet <20 cm H2O and compliance >40 mL/cm H2O represent a safe bladder that does not require augmentation.\n\nB is wrong because: DLPP of 25 cm H2O is within the safe range.\n\nC is wrong because: Sphincter weakness with low-pressure leakage is a safe pattern that does not threaten the upper tracts.\n\nTeaching point: Bladder augmentation is most commonly indicated in children with thoracic and lumbar myelomeningocele and rarely required in tethered cord cases.",
+    "topic": "Bladder augmentation indications"
+  },
+  {
+    "id": "ch13-Q25",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 25,
+    "stem": "The 'Clam' ileocystoplasty involves incorporating which segment of intestine into the bladder wall?",
+    "options": [
+      { "id": "a", "text": "Ileum" },
+      { "id": "b", "text": "Jejunum" },
+      { "id": "c", "text": "Stomach" },
+      { "id": "d", "text": "Sigmoid colon" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: The Clam ileocystoplasty uses a detubularized segment of ileum opened along its antemesenteric border and incorporated into the bivalved bladder wall. Ileum is the classic segment used for this procedure.\n\nB is wrong because: Jejunum is rarely used for augmentation due to metabolic complications including salt wasting and hyperkalemia.\n\nC is wrong because: Gastric augmentation (gastrocystoplasty) uses a segment of stomach, not ileum. It has the advantage of net acid excretion but is not the segment used in Clam ileocystoplasty.\n\nD is wrong because: Sigmoid colon may be used for augmentation (sigmoid cystoplasty), but the 'Clam' procedure specifically uses ileum, not colon.\n\nTeaching point: The 'Clam' name comes from the bivalve-like opening of the bladder; a detubularized ileal segment is the standard bowel segment used.",
+    "topic": "Enterocystoplasty"
+  },
+  {
+    "id": "ch13-Q26",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 26,
+    "stem": "Which metabolic complication is associated with incorporating intestine into the urinary tract during augmentation cystoplasty?",
+    "options": [
+      { "id": "a", "text": "Respiratory alkalosis" },
+      { "id": "b", "text": "Metabolic alkalosis" },
+      { "id": "c", "text": "Hypocalcemic tetany" },
+      { "id": "d", "text": "Hyperchloremic hypokalemic metabolic acidosis" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Hyperchloremic hypokalemic metabolic acidosis results from intestinal absorption of urinary solutes (ammonium and chloride) when bowel is incorporated into the urinary tract.\n\nA and B are wrong because: Respiratory alkalosis and metabolic alkalosis are not the typical metabolic consequences of enterocystoplasty.\n\nC is wrong because: Hypocalcemic tetany is not directly associated with augmentation.\n\nTeaching point: Additional metabolic risks include Vitamin B12 deficiency (particularly with distal ileum use) and, in gastrocystoplasty, the hematuria-dysuria syndrome.",
+    "topic": "Metabolic complications"
+  },
+  {
+    "id": "ch13-Q27",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 27,
+    "stem": "Approximately what proportion of patients require further surgery within 13 years of bladder augmentation?",
+    "options": [
+      { "id": "a", "text": "One-quarter" },
+      { "id": "b", "text": "One-third" },
+      { "id": "c", "text": "One-half" },
+      { "id": "d", "text": "Two-thirds" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Approximately one-third of patients require further surgery within 13 years of the original augmentation operation.\n\nA (one-quarter), C (one-half), and D (two-thirds) are incorrect per the chapter data.\n\nTeaching point: The high reoperation rate reflects the significant long-term morbidity of enterocystoplasty, including stones, perforation, bowel obstruction, and metabolic complications. Lifelong urologic surveillance is essential.",
+    "topic": "Augmentation outcomes"
+  },
+  {
+    "id": "ch13-Q28",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 28,
+    "stem": "A patient with an augmented bladder presents with acute abdominal pain and fever. What is the most accurate diagnostic investigation for suspected spontaneous perforation?",
+    "options": [
+      { "id": "a", "text": "Plain abdominal radiograph" },
+      { "id": "b", "text": "Renal ultrasound" },
+      { "id": "c", "text": "Intravenous urogram" },
+      { "id": "d", "text": "CT cystogram" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: CT cystogram is the most accurate diagnostic investigation for spontaneous bladder perforation. Perforation is a serious, potentially lethal complication if not diagnosed promptly.\n\nA is wrong because: Plain abdominal radiograph has poor sensitivity for detecting bladder perforation.\n\nB is wrong because: Renal ultrasound may not reliably demonstrate extravasation of urine.\n\nC is wrong because: Intravenous urogram primarily assesses the upper tracts and may miss a small bladder perforation.\n\nTeaching point: Spontaneous bladder perforation occurs in approximately 5% of augmented patients. A high index of suspicion is required because the initial presentation may consist of vague abdominal pain alone.",
+    "topic": "Augmentation complications"
+  },
+  {
+    "id": "ch13-Q29",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 29,
+    "stem": "What is the incidence of bladder stone formation in patients following augmentation cystoplasty?",
+    "options": [
+      { "id": "a", "text": "1-5%" },
+      { "id": "b", "text": "10-20%" },
+      { "id": "c", "text": "30-40%" },
+      { "id": "d", "text": "50-60%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Bladder stone formation occurs in 10-20% of patients following enterocystoplasty. Stones form due to mucus production, bacterial colonization, and urinary stasis in the augmented bladder.\n\nA (1-5%) is wrong because: This is the rate of spontaneous perforation, not stone formation.\n\nC and D are wrong because: The incidence of stones is 10-20%, not higher.\n\nTeaching point: Additional long-term complications include spontaneous perforation (~5%), metabolic acidosis, vitamin B12 deficiency, and adhesive intestinal obstruction (~5% within 15 years).",
+    "topic": "Augmentation complications"
+  },
+  {
+    "id": "ch13-Q30",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 30,
+    "stem": "Which of the following is true regarding malignancy risk after bladder augmentation in spina bifida patients?",
+    "options": [
+      { "id": "a", "text": "The risk is significantly higher than in non-augmented patients" },
+      { "id": "b", "text": "Routine cystoscopic surveillance starting 10 years after augmentation is cost-effective" },
+      { "id": "c", "text": "Malignancy typically presents within 5 years of augmentation" },
+      { "id": "d", "text": "The risk is not significantly higher than in age-matched non-augmented patients" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Long-term studies have found that the risk of bladder cancer in augmented spina bifida patients is not significantly higher than in age-matched non-augmented patients. The overall long-term incidence is 1-4%.\n\nA is wrong because: Initial concerns about increased malignancy risk were largely unfounded.\n\nB is wrong because: Cystoscopic surveillance starting 10 years after augmentation was previously advocated but has been discontinued in most centers as it was not shown to be helpful or cost-effective.\n\nC is wrong because: There is no evidence that malignancy presents earlier in augmented patients.\n\nTeaching point: The overall long-term incidence of bladder cancer in spina bifida patients (both augmented and non-augmented) is 1-4%, with no significant differences in age at diagnosis or survival rates.",
+    "topic": "Malignancy risk"
+  },
+  {
+    "id": "ch13-Q31",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 31,
+    "stem": "A 26-year-old woman with spina bifida who underwent bladder augmentation in childhood is now pregnant. Which of the following is the most appropriate approach to her obstetric care?",
+    "options": [
+      { "id": "a", "text": "Vaginal delivery should be attempted to avoid surgical complications" },
+      { "id": "b", "text": "Care should be provided by a multidisciplinary team including urology" },
+      { "id": "c", "text": "Pregnancy is contraindicated after bladder augmentation" },
+      { "id": "d", "text": "Bladder function is unaffected by pregnancy and requires no special monitoring" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: Obstetric care for women with spina bifida and prior reconstructive procedures should be provided by a multidisciplinary team including an obstetrician-gynecologist, urologist, and other clinicians. Elective cesarean section is often more appropriate than vaginal delivery.\n\nA is wrong because: Cesarean section is often more appropriate than vaginal delivery in these patients.\n\nC is wrong because: Pregnancy is not contraindicated after bladder augmentation, though it requires specialized care.\n\nD is wrong because: Pregnancy creates specific problems, particularly in women with prior reconstructive procedures, and requires careful monitoring.\n\nTeaching point: Early onset of menarche is more common in female myelomeningocele patients (12% vs 0.6% in the general population), and they are less likely to use contraception when sexually active.",
+    "topic": "Pregnancy and reproductive health"
+  },
+  {
+    "id": "ch13-Q32",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 32,
+    "stem": "A Phase II study of autologous seeded biodegradable scaffolds for bladder augmentation found which result?",
+    "options": [
+      { "id": "a", "text": "Improved bladder compliance and capacity" },
+      { "id": "b", "text": "No improvement in compliance or capacity, with serious adverse events including bladder rupture" },
+      { "id": "c", "text": "High rate of malignancy" },
+      { "id": "d", "text": "Universal development of bladder stones" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The Phase II study of autologous seeded biodegradable scaffolds for bladder augmentation in spina bifida patients found no improvement in bladder compliance or capacity, with a relatively high rate of serious adverse events including bladder rupture. The authors concluded the technique could not be recommended for clinical use.\n\nA is wrong because: The scaffolds did not result in any improvement in bladder compliance or capacity; this was a negative trial.\n\nC is wrong because: Malignancy was not a reported finding in this study. Long-term studies have shown that malignancy risk is not significantly increased in augmented bladders.\n\nD is wrong because: Bladder stones were not a universal finding; the main adverse events were related to bladder rupture.\n\nTeaching point: The complications of bladder augmentation are largely attributable to the use of intestine, driving research into alternative materials. However, tissue-engineered approaches remain experimental and are not yet ready for clinical use.",
+    "topic": "Tissue engineering"
+  },
+  {
+    "id": "ch13-Q33",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 33,
+    "stem": "Up to what percentage of infants with neurogenic bladder have vesicoureteral reflux?",
+    "options": [
+      { "id": "a", "text": "5%" },
+      { "id": "b", "text": "10%" },
+      { "id": "c", "text": "20%" },
+      { "id": "d", "text": "40%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Up to 20% of infants with neurogenic bladder have VUR. This VUR is often secondary to the unfavorable urodynamic features of the neuropathic bladder.\n\nA (5%) and B (10%) are wrong because: These underestimate the prevalence; the chapter states up to 20% of infants with neurogenic bladder have VUR.\n\nD (40%) is wrong because: This overestimates the prevalence.\n\nTeaching point: VUR in neurogenic bladder resolves in approximately 50% of cases once bladder dynamics are improved by CIC and anticholinergic medication. Ureteral reimplantation is often unnecessary because secondary VUR tends to resolve after the unfavorable bladder characteristics are corrected (e.g., by augmentation).",
+    "topic": "Vesicoureteral reflux"
+  },
+  {
+    "id": "ch13-Q34",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 34,
+    "stem": "What success rate for endoscopic correction of VUR in neuropathic bladders has been claimed by some authors?",
+    "options": [
+      { "id": "a", "text": "10-20%" },
+      { "id": "b", "text": "25-30%" },
+      { "id": "c", "text": "60-70%" },
+      { "id": "d", "text": "85-95%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Some authors have claimed success rates of 60-70% for endoscopic correction of VUR by sub-ureteric injection of bulking agents in neuropathic bladders. However, this is lower than the success rate in non-neuropathic bladders.\n\nA (10-20%) and B (25-30%) are wrong because: These underestimate the success rates that have been claimed.\n\nD (85-95%) is wrong because: This overestimates the success rate; endoscopic correction has a lower success rate in neuropathic bladders compared to normal bladders.\n\nTeaching point: Ureteral reimplantation can be combined with bladder augmentation but is technically more difficult than in a normal bladder. Reimplantation is often unnecessary because secondary VUR has a high tendency to resolve once the unfavorable bladder characteristics are corrected.",
+    "topic": "VUR management"
+  },
+  {
+    "id": "ch13-Q35",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 35,
+    "stem": "Which procedure increases bladder outlet resistance by narrowing the bladder outlet and lengthening the urethra?",
+    "options": [
+      { "id": "a", "text": "Artificial urinary sphincter" },
+      { "id": "b", "text": "Kropp procedure" },
+      { "id": "c", "text": "Sling procedure" },
+      { "id": "d", "text": "Bladder neck closure" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The Kropp and Pippi Salle procedures are designed to increase fixed outflow resistance by narrowing the bladder outlet and/or increasing the length of the urethra.\n\nA is wrong because: The artificial urinary sphincter enhances outflow resistance by externally compressing the urethra, not by narrowing or lengthening it.\n\nC is wrong because: The sling procedure enhances outflow resistance by compressing or angulating the bladder neck and/or urethra.\n\nD is wrong because: Bladder neck closure is the most effective means of achieving continence but is generally reserved as a last resort when other techniques have failed.\n\nTeaching point: Bladder outlet procedures are categorized into three types: (1) operations increasing fixed outflow resistance by narrowing/lengthening (Kropp, Pippi Salle), (2) operations enhancing resistance by compression/angulation (AUS, sling, colposuspension), and (3) bladder neck closure.",
+    "topic": "Bladder outlet procedures"
+  },
+  {
+    "id": "ch13-Q36",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 36,
+    "stem": "Before performing a bladder outlet procedure to increase sphincter resistance, it is essential to ensure that the patient:",
+    "options": [
+      { "id": "a", "text": "Has normal renal function" },
+      { "id": "b", "text": "Has the ability and motivation to perform intermittent catheterization" },
+      { "id": "c", "text": "Has not had previous abdominal surgery" },
+      { "id": "d", "text": "Is at least 10 years old" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: When considering any bladder outlet procedure, it is essential to ensure that the patient has the physical ability and motivation to perform intermittent catheterization, as these procedures increase outlet resistance and may make spontaneous voiding more difficult or impossible.\n\nA is wrong because: While renal function is part of preoperative evaluation, it is not the essential criterion specific to outlet procedures. The critical factor is the patient's ability to empty the bladder via CIC.\n\nC is wrong because: Previous abdominal surgery is not an absolute contraindication to outlet procedures.\n\nD is wrong because: Age alone is not a determining factor; the patient's physical ability and motivation are more important.\n\nTeaching point: Unless there is good evidence that the bladder will function as a safe low-pressure reservoir after increasing outlet resistance, strong consideration should be given to performing bladder augmentation at the same time as the outlet procedure.",
+    "topic": "Preoperative evaluation"
+  },
+  {
+    "id": "ch13-Q37",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 37,
+    "stem": "A 16-year-old with spina bifida has persistent incontinence despite maximal medical therapy and failed outlet procedures. Which is the most reliable last resort for achieving continence?",
+    "options": [
+      { "id": "a", "text": "Artificial urinary sphincter" },
+      { "id": "b", "text": "Bulking agent injection" },
+      { "id": "c", "text": "Kropp urethral lengthening" },
+      { "id": "d", "text": "Bladder neck closure" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Bladder neck closure is the most effective means of achieving continence and is generally seen as a reliable last resort when other techniques have failed. However, the principal drawback is that the bladder becomes an enclosed system, with emptying entirely dependent on a catheterizable channel, indwelling suprapubic catheter, or other drainage device.\n\nA is wrong because: The AUS is a reversible option that enhances resistance by compression, but it carries risks of tissue erosion, infection, and malfunction. It is not the last-resort option.\n\nB is wrong because: Bulking agent injections have lower continence rates (approximately 25% with one or two injections) compared to open surgical techniques.\n\nC is wrong because: Kropp urethral lengthening is a first-line surgical option for increasing fixed outflow resistance, not a last resort.\n\nTeaching point: Some pediatric urologists favor bladder neck closure sooner rather than later. Cutaneous urinary diversion (ileal conduit) was once the mainstay but is now rarely used due to better alternatives.",
+    "topic": "Bladder neck closure"
+  },
+  {
+    "id": "ch13-Q38",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 38,
+    "stem": "What is the incidence of retethering after surgical untethering of the spinal cord?",
+    "options": [
+      { "id": "a", "text": "5%" },
+      { "id": "b", "text": "10%" },
+      { "id": "c", "text": "25%" },
+      { "id": "d", "text": "50%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: There is a 25% incidence of retethering after surgical untethering of the spinal cord. This is why continuous monitoring and follow-up remain necessary after surgery.\n\nA (5%) and B (10%) are wrong because: These underestimate the retethering rate.\n\nD (50%) is wrong because: This overestimates the retethering rate.\n\nTeaching point: Up to 60% of children with tethered spinal cord have normal urodynamic findings in early infancy, but this falls to 20% by 3 years, suggesting a progressive lesion. There are differing opinions between US and UK neurosurgeons regarding the timing of surgical intervention.",
+    "topic": "Tethered spinal cord"
+  },
+  {
+    "id": "ch13-Q39",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 39,
+    "stem": "What percentage of children with tethered spinal cord have normal urodynamic findings during early infancy?",
+    "options": [
+      { "id": "a", "text": "20%" },
+      { "id": "b", "text": "40%" },
+      { "id": "c", "text": "60%" },
+      { "id": "d", "text": "80%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: Up to 60% of children with tethered spinal cord have normal urodynamic findings during early infancy. However, this figure falls to 20% by 3 years of age, suggesting a progressive neurologic lesion.\n\nA (20%) is wrong because: This is the percentage of children who retain normal urodynamics by 3 years of age, not during early infancy.\n\nB (40%) and D (80%) are wrong because: The chapter specifically states that up to 60% have normal findings in early infancy.\n\nTeaching point: The progressive decline in normal urodynamics from 60% in infancy to 20% by age 3 years is cited as evidence that tethered cord is a progressive lesion for which early surgical untethering may be indicated to improve urodynamic outcomes.",
+    "topic": "Tethered spinal cord"
+  },
+  {
+    "id": "ch13-Q40",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 40,
+    "stem": "Which external sign is present in more than 80% of cases of occult spinal dysraphism?",
+    "options": [
+      { "id": "a", "text": "Lumbosacral hirsutism" },
+      { "id": "b", "text": "Bilateral leg length discrepancy" },
+      { "id": "c", "text": "Gluteal muscle atrophy" },
+      { "id": "d", "text": "Prominent sacral dimple, fatty mass, tuft of hair, hemangioma, or skin tag" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: External signs of the underlying abnormality in occult spinal dysraphism include a prominent sacral dimple, fatty subcutaneous mass, tuft of hair, hemangioma, or skin tag. One or more of these signs are present in more than 80% of cases.\n\nA is wrong because: While a tuft of hair is one possible sign, lumbosacral hirsutism alone is not the most comprehensive description. Option D includes the complete list of features mentioned in the chapter.\n\nB and C are wrong because: Leg length discrepancy and gluteal muscle atrophy are not listed as external signs of occult spinal dysraphism. Sacral agenesis may present with an asymmetric gluteal cleft.\n\nTeaching point: The spine can be evaluated with ultrasound in the first 2-3 months of life, but beyond that, spinal MRI is the gold standard imaging modality for evaluating occult spinal dysraphism.",
+    "topic": "Occult spinal dysraphism"
+  },
+  {
+    "id": "ch13-Q41",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 41,
+    "stem": "What is the gold standard imaging modality for evaluating the spine in suspected occult spinal dysraphism beyond 3 months of age?",
+    "options": [
+      { "id": "a", "text": "CT myelogram" },
+      { "id": "b", "text": "Spinal ultrasound" },
+      { "id": "c", "text": "Plain radiography of the spine" },
+      { "id": "d", "text": "Spinal MRI" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: Spinal MRI is the gold standard imaging modality for evaluating the spine in suspected occult spinal dysraphism beyond 3 months of age.\n\nA is wrong because: CT myelogram is not the gold standard and involves radiation and intrathecal contrast; MRI provides superior soft tissue resolution without ionizing radiation.\n\nB is wrong because: Spinal ultrasound can be used in the first 2-3 months of life when the posterior spinous processes are not yet ossified, but it is not the gold standard beyond this age.\n\nC is wrong because: Plain radiography only shows bony abnormalities (e.g., spina bifida occulta) and cannot visualize the neural elements.\n\nTeaching point: Spina bifida occulta (isolated vertebral anomaly without underlying neurological lesion) is found in up to 15% of the population and is usually an incidental finding. In contrast, occult spinal dysraphism involves underlying neural abnormalities requiring MRI for diagnosis.",
+    "topic": "Imaging"
+  },
+  {
+    "id": "ch13-Q42",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 42,
+    "stem": "In the United States, what proportion of adult spina bifida patients cease performing CIC contrary to medical advice?",
+    "options": [
+      { "id": "a", "text": "Over 25%" },
+      { "id": "b", "text": "Over 50%" },
+      { "id": "c", "text": "Over 75%" },
+      { "id": "d", "text": "Over 90%" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: In the United States, over 50% of adult spina bifida patients whose neurogenic bladders were previously managed by intermittent catheterization will cease to perform CIC contrary to medical advice.\n\nA (over 25%) is wrong because: This underestimates the problem; the chapter states over 50%.\n\nC (over 75%) and D (over 90%) are wrong because: These overestimate the rate of discontinuation.\n\nTeaching point: Factors implicated in poor compliance with treatment include obesity, immobility, developmental delay, and alcohol/drug dependence. Patients who comply with treatment and remain under surveillance have a very low risk of severe renal impairment (2%).",
+    "topic": "Transition to adulthood"
+  },
+  {
+    "id": "ch13-Q43",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 43,
+    "stem": "Adult spina bifida patients who comply with treatment and remain under urologic surveillance have a very low long-term risk of which of the following?",
+    "options": [
+      { "id": "a", "text": "Severe renal impairment" },
+      { "id": "b", "text": "Urinary tract infections" },
+      { "id": "c", "text": "Bladder stones" },
+      { "id": "d", "text": "Erectile dysfunction" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: Patients who comply with measures to manage their neuropathic bladder appropriately and who remain under urologic surveillance have a very low long-term risk of severe renal impairment (2%). Indeed, they are more likely to die from infection, shunt complications, and pulmonary embolism than from renal failure.\n\nB is wrong because: UTIs remain a common problem even in compliant patients on CIC; approximately 70% have asymptomatic bacteriuria and up to a third experience symptomatic UTIs.\n\nC is wrong because: Bladder stones are a well-recognized complication, particularly in patients who have undergone augmentation cystoplasty (10-20% incidence).\n\nD is wrong because: Erectile dysfunction affects many men with spina bifida regardless of compliance, though 80% respond to sildenafil.\n\nTeaching point: The risks of renal impairment and urological complications are significantly higher in adult spina bifida patients who do not comply with recommended treatment or are lost to urologic surveillance.",
+    "topic": "Renal protection"
+  },
+  {
+    "id": "ch13-Q44",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 44,
+    "stem": "In females with myelomeningocele, what is the prevalence of early onset of menarche compared to the general population?",
+    "options": [
+      { "id": "a", "text": "12% vs 0.6%" },
+      { "id": "b", "text": "25% vs 5%" },
+      { "id": "c", "text": "50% vs 10%" },
+      { "id": "d", "text": "Similar to the general population" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: The early onset of menarche is more common in female myelomeningocele patients (12%) compared to the general population (0.6%).\n\nB (25% vs 5%), C (50% vs 10%), and D (similar) are wrong because: The chapter specifically states 12% versus 0.6%.\n\nTeaching point: Female myelomeningocele patients are less likely to use contraception when sexually active. Pregnancy creates specific problems, particularly in women who have undergone reconstructive procedures such as bladder augmentation or creation of catheterizable channels.",
+    "topic": "Sexual health"
+  },
+  {
+    "id": "ch13-Q45",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 45,
+    "stem": "What percentage of men with spina bifida have improved erectile function with the use of sildenafil?",
+    "options": [
+      { "id": "a", "text": "30%" },
+      { "id": "b", "text": "50%" },
+      { "id": "c", "text": "80%" },
+      { "id": "d", "text": "95%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "C is correct because: 80% of men with spina bifida have been demonstrated to have improved erectile function with the use of sildenafil.\n\nA (30%) and B (50%) are wrong because: These underestimate the response rate.\n\nD (95%) is wrong because: This overestimates the response rate.\n\nTeaching point: Males with spina bifida may experience erectile dysfunction of varying severity. Additionally, one-quarter to one-third of adolescents and young adults with meningomyelocele between 14 and 23 years report having had sexual encounters, but only half state they are satisfied with their sexual lives.",
+    "topic": "Sexual function"
+  },
+  {
+    "id": "ch13-Q46",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 46,
+    "stem": "Which nerve roots provide the shared innervation pathway for both the lower urinary tract and the rectum?",
+    "options": [
+      { "id": "a", "text": "T10-L2" },
+      { "id": "b", "text": "S2-S4" },
+      { "id": "c", "text": "L4-S1" },
+      { "id": "d", "text": "S1-S2" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: The lower urinary tract and rectum share similar innervation pathways via the sacral nerve roots S2-S4. This shared sacral innervation explains why the majority of children with neurogenic bladder also suffer from neurogenic bowel dysfunction.\n\nA (T10-L2) is wrong because: This corresponds to the sympathetic (hypogastric) innervation, which is not the shared pathway for bladder and bowel.\n\nC (L4-S1) and D (S1-S2) are wrong because: These do not represent the correct sacral roots; the pelvic nerves and pudendal nerves originate from S2-S4.\n\nTeaching point: For children with neurogenic bowel, initial treatment options include increasing dietary fiber, fecal softeners, bulking agents (polyethylene glycol), oral laxatives (bisacodyl), and suppositories. More active measures include enemas and the ACE (antegrade continence enema) procedure.",
+    "topic": "Neurogenic bowel"
+  },
+  {
+    "id": "ch13-Q47",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 47,
+    "stem": "The ACE (antegrade continence enema) procedure uses which structure for access to the proximal colon?",
+    "options": [
+      { "id": "a", "text": "Ileal conduit" },
+      { "id": "b", "text": "Sigmoid colostomy" },
+      { "id": "c", "text": "Peristeen rectal system" },
+      { "id": "d", "text": "Appendicocecostomy" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "D is correct because: The ACE procedure involves administration of enemas into the proximal colon via a catheterizable channel (appendicocecostomy) or an indwelling cecostomy tube. First described by Malone, this technique has made an important contribution to the management of neuropathic bowel.\n\nA is wrong because: An ileal conduit is a form of urinary diversion, not used for bowel management.\n\nB is wrong because: A sigmoid colostomy is a different form of bowel diversion; the ACE procedure uses the appendix as a catheterizable channel to the cecum.\n\nC is wrong because: Peristeen is a commercially available rectal washout system, not an ACE procedure. It is an alternative method of bowel management.\n\nTeaching point: For many spina bifida patients, the practical difficulties surrounding independent management of the neuropathic bowel are often more challenging than those of the neuropathic bladder. Complications of the ACE procedure include stomal stenosis and false passage.",
+    "topic": "ACE procedure"
+  },
+  {
+    "id": "ch13-Q48",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 48,
+    "stem": "A 9-year-old with voiding dysfunction and urinary incontinence has no identifiable neurologic lesion. Which condition best describes this presentation?",
+    "options": [
+      { "id": "a", "text": "Acquired non-neurogenic neurogenic bladder (Hinman syndrome)" },
+      { "id": "b", "text": "Neurogenic bladder due to spinal cord injury" },
+      { "id": "c", "text": "Bladder dysfunction secondary to posterior urethral valves" },
+      { "id": "d", "text": "Congenital neurogenic bladder due to myelomeningocele" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: Non-neurogenic neurogenic bladder (Hinman syndrome) is an acquired condition in which adverse features of neurogenic bladder are present without an identifiable neurologic lesion. It is mentioned in the chapter as a condition that may present with similar features to neurogenic bladder.\n\nB is wrong because: Spinal cord injury is an identifiable neurologic cause; the question specifies no identifiable neurologic lesion.\n\nC is wrong because: Posterior urethral valves are a congenital obstructive cause of bladder dysfunction in males, not a neurogenic condition.\n\nD is wrong because: Myelomeningocele is a congenital structural neurologic lesion; the question states there is no identifiable neurologic lesion.\n\nTeaching point: Hinman syndrome is also known as the 'acquired non-neurogenic neurogenic bladder' and represents a functional disorder in which the patient develops a pattern of detrusor-sphincter dyssynergia without an underlying neurologic abnormality.",
+    "topic": "Hinman syndrome"
+  },
+  {
+    "id": "ch13-Q49",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 49,
+    "stem": "In the UK, which modality is used in preference to electromyography for the assessment of sphincter function during urodynamics?",
+    "options": [
+      { "id": "a", "text": "Needle electrode EMG" },
+      { "id": "b", "text": "X-ray screening (videocystography)" },
+      { "id": "c", "text": "Magnetic resonance urography" },
+      { "id": "d", "text": "Urethral pressure profilometry" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "B is correct because: In the UK, X-ray screening (videocystography) is used in preference to electromyography for the assessment of sphincter function during urodynamics. This allows direct visualization of the bladder outlet and sphincter.\n\nA is wrong because: Needle electrode EMG (or patch electrodes) is used in some centers and is believed to be more accurate, but in the UK, videocystography is preferred over EMG.\n\nC is wrong because: Magnetic resonance urography is used for anatomic assessment of the urinary tract, not for real-time sphincter assessment during urodynamics.\n\nD is wrong because: Urethral pressure profilometry measures urethral closure pressure but is not the modality preferred in the UK over EMG.\n\nTeaching point: During video urodynamics, the bladder is filled with radiographic contrast material and fluoroscopic imaging is performed to visualize the bladder, detect abnormalities (trabeculation, diverticula, stones, VUR), and observe the relationship between sphincter activity and detrusor contractions.",
+    "topic": "Urodynamic technique"
+  },
+  {
+    "id": "ch13-Q50",
+    "chapter": "Neurogenic Bladder",
+    "chapterSlug": "ch13_neurogenic-bladder",
+    "chapterNumber": 13,
+    "questionNumber": 50,
+    "stem": "A child with myelomeningocele on the observational approach develops new hydronephrosis on surveillance ultrasound. What is the most appropriate management?",
+    "options": [
+      { "id": "a", "text": "Abandon observation and commence CIC with anticholinergic medication" },
+      { "id": "b", "text": "Schedule a renal transplant evaluation" },
+      { "id": "c", "text": "Perform immediate bladder augmentation" },
+      { "id": "d", "text": "Continue observation as hydronephrosis is often self-limiting" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A is correct because: Indications to abandon the observational approach in favor of CIC and anticholinergics include development of hydronephrosis, worsening parameters of bladder function on urodynamics, or recurrent UTIs. The development of hydronephrosis signals that the current management strategy is failing to protect the upper tracts.\n\nB is wrong because: Renal transplant evaluation is premature; the first step is to address the underlying bladder dysfunction with CIC and anticholinergics.\n\nC is wrong because: Bladder augmentation is reserved for cases where CIC and anticholinergic therapy fail to achieve safe bladder pressures and adequate capacity.\n\nD is wrong because: Hydronephrosis in the setting of neurogenic bladder is not self-limiting and indicates a hostile bladder pattern that requires intervention.\n\nTeaching point: The observational approach is only appropriate for infants who have safe urodynamic parameters. CIC should be commenced if urodynamics show reduced compliance, significant DSD, or high-grade VUR. The development of hydronephrosis is a clear indication to abandon observation.",
+    "topic": "Deferred CIC indications"
+  }
+]

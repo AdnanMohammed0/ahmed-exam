@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ch23-Q01",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 1,
+    "stem": "A 3-year-old boy with an impalpable testis is scheduled for diagnostic laparoscopy. In 1976, who first reported using laparoscopy therapeutically for cryptorchidism?",
+    "options": [
+      { "id": "a", "text": "Hasson" },
+      { "id": "b", "text": "Cortesi" },
+      { "id": "c", "text": "Da Vinci" },
+      { "id": "d", "text": "Gundeti" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Cortesi was the first to report the use of laparoscopy for a therapeutic procedure in the treatment of cryptorchidism in 1976.",
+    "topic": "History / Introduction"
+  },
+  {
+    "id": "ch23-Q02",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 2,
+    "stem": "Which of the following is NOT a recognised benefit of laparoscopic surgery in children?",
+    "options": [
+      { "id": "a", "text": "Reduced postoperative pain" },
+      { "id": "b", "text": "Shorter hospital stay" },
+      { "id": "c", "text": "Higher wound complication rate" },
+      { "id": "d", "text": "Improved cosmesis" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Laparoscopic surgery is associated with fewer wound complications, not higher. The other options are all established benefits.",
+    "topic": "Benefits and limitations"
+  },
+  {
+    "id": "ch23-Q03",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 3,
+    "stem": "An 8-year-old is listed for laparoscopic nephrectomy. What anatomical advantage does a smaller patient confer during laparoscopy?",
+    "options": [
+      { "id": "a", "text": "Insufflation pressures can be higher than in adults" },
+      { "id": "b", "text": "Both upper and lower urinary tract are accessible through the same port sites" },
+      { "id": "c", "text": "The Hasson technique is not required" },
+      { "id": "d", "text": "Carbon dioxide absorption is negligible" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The smaller size of the paediatric patient allows access to both the upper and lower urinary tract through the same port sites, a great advantage.",
+    "topic": "Benefits and limitations"
+  },
+  {
+    "id": "ch23-Q04",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 4,
+    "stem": "During a robotic-assisted procedure, the operating surgeon notices the absence of haptic feedback. Which major limitation of the Da Vinci system does this describe?",
+    "options": [
+      { "id": "a", "text": "Inferior cosmetic outcomes" },
+      { "id": "b", "text": "Lack of tactile feedback" },
+      { "id": "c", "text": "Longer hospital stay" },
+      { "id": "d", "text": "Inability to perform intracorporeal suturing" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "A major limitation of the Da Vinci robotic system is the lack of tactile feedback, requiring the surgeon to rely far more on visual information.",
+    "topic": "Robotic surgery – benefits and limitations"
+  },
+  {
+    "id": "ch23-Q05",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 5,
+    "stem": "When considering the economic impact of laparoscopic surgery in paediatric patients, how does the value of reduced hospital stay compare with that in adults?",
+    "options": [
+      { "id": "a", "text": "It is more important in children" },
+      { "id": "b", "text": "It is of less importance in children than in adults" },
+      { "id": "c", "text": "It is the primary driver for laparoscopic adoption in children" },
+      { "id": "d", "text": "It is of equal importance in both groups" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The economic advantage of reduced hospital stay is of less importance in children than in adults, as stated in the chapter.",
+    "topic": "Benefits and limitations"
+  },
+  {
+    "id": "ch23-Q06",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 6,
+    "stem": "A 2-year-old child with bilateral MCDK requires surgery. Which condition would be an absolute contraindication to a minimally invasive approach?",
+    "options": [
+      { "id": "a", "text": "Multicystic dysplastic kidney" },
+      { "id": "b", "text": "Uncorrectable coagulopathy" },
+      { "id": "c", "text": "Pelviureteric junction obstruction" },
+      { "id": "d", "text": "Previous open nephrectomy" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Uncorrectable coagulopathy is listed as an absolute contraindication to MIS, along with significant comorbidity and sepsis.",
+    "topic": "Contraindications"
+  },
+  {
+    "id": "ch23-Q07",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 7,
+    "stem": "A 6-month-old infant requires diagnostic laparoscopy. What is the preferred method for establishing a pneumoperitoneum in children?",
+    "options": [
+      { "id": "a", "text": "Veress needle blind technique" },
+      { "id": "b", "text": "Hasson open technique" },
+      { "id": "c", "text": "Direct trocar insertion" },
+      { "id": "d", "text": "Palmer's point entry" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The Hasson technique (open technique) is the preferred method for establishing a pneumoperitoneum in children. The Veress needle is a blind technique.",
+    "topic": "Access"
+  },
+  {
+    "id": "ch23-Q08",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 8,
+    "stem": "A trainee is selecting a laparoscope for a routine paediatric nephrectomy. Which size and angle provides optimum visualisation for most procedures?",
+    "options": [
+      { "id": "a", "text": "2 mm 0\u00b0 laparoscope" },
+      { "id": "b", "text": "3 mm 30\u00b0 laparoscope" },
+      { "id": "c", "text": "5 mm 30\u00b0 laparoscope" },
+      { "id": "d", "text": "10 mm 0\u00b0 laparoscope" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "A 5 mm 30\u00b0 laparoscope provides optimum visualisation for most procedures. Laparoscopic instruments are available in 2, 2.5, 3 and 5 mm sizes.",
+    "topic": "Instrumentation"
+  },
+  {
+    "id": "ch23-Q09",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 9,
+    "stem": "Why are bladeless trocars considered safer for use in children than bladed trocars?",
+    "options": [
+      { "id": "a", "text": "They are significantly cheaper than bladed trocars" },
+      { "id": "b", "text": "The paediatric abdominal wall is more compliant and less muscular" },
+      { "id": "c", "text": "They allow higher insufflation pressures" },
+      { "id": "d", "text": "They can be inserted without a skin incision" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Bladeless trocars are generally safer for use in children because the paediatric abdominal wall is more compliant and less muscular.",
+    "topic": "Instrumentation"
+  },
+  {
+    "id": "ch23-Q10",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 10,
+    "stem": "During a transperitoneal laparoscopic procedure on a 1-year-old, why must trocar insertion always be performed under direct vision?",
+    "options": [
+      { "id": "a", "text": "It is faster than blind insertion" },
+      { "id": "b", "text": "The liver, spleen and bladder are relatively large compared with the working space" },
+      { "id": "c", "text": "General anaesthesia precludes blind insertion" },
+      { "id": "d", "text": "The Hasson cannula cannot be used blindly" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Because of the limited working space and relatively large size of the liver, spleen and bladder in children, trocars and instruments should always be inserted under direct vision to avoid iatrogenic complications.",
+    "topic": "Access"
+  },
+  {
+    "id": "ch23-Q11",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 11,
+    "stem": "A 4-month-old undergoes laparoscopic pyeloplasty. The anaesthetist plans close monitoring in the early postoperative period because young children:",
+    "options": [
+      { "id": "a", "text": "Have a higher risk of wound infection" },
+      { "id": "b", "text": "Require higher insufflation pressures than adults" },
+      { "id": "c", "text": "Are more likely to require conversion to open surgery" },
+      { "id": "d", "text": "Absorb proportionately more CO2 and have greater transient CO2 elimination postdesufflation" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Younger children absorb proportionately more CO2 during pneumoperitoneum and may experience greater transient elimination of CO2 postdesufflation, necessitating close monitoring.",
+    "topic": "Anaesthesia"
+  },
+  {
+    "id": "ch23-Q12",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 12,
+    "stem": "A neonate is undergoing a prolonged laparoscopic procedure. Why are underbody warming mats routinely used?",
+    "options": [
+      { "id": "a", "text": "Children have a significant risk of hypothermia, especially with prolonged operating times and high gas flow" },
+      { "id": "b", "text": "To reduce the risk of hyperthermia from insufflation" },
+      { "id": "c", "text": "To improve trocar site healing" },
+      { "id": "d", "text": "To reduce CO2 absorption" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Children are at significant risk of developing hypothermia during laparoscopic surgery, especially with prolonged operating times and high gas flow, so warming mats are used routinely.",
+    "topic": "Anaesthesia"
+  },
+  {
+    "id": "ch23-Q13",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 13,
+    "stem": "During a laparoscopic nephrectomy, the surgeon anticipates needing an Endopouch retrieval device. What size of Hasson cannula is required?",
+    "options": [
+      { "id": "a", "text": "3 mm" },
+      { "id": "b", "text": "5 mm" },
+      { "id": "c", "text": "10 mm" },
+      { "id": "d", "text": "12 mm" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "A 10 mm cannula is required when an Endopouch retrieval device is needed for specimen extraction. For diagnostic and reconstructive procedures, a 5 mm cannula is sufficient.",
+    "topic": "Instrumentation"
+  },
+  {
+    "id": "ch23-Q14",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 14,
+    "stem": "A 6-month-old infant is scheduled for laparoscopic nephrectomy. The surgeon chooses an approach that avoids colonic mobilisation. Which approach is being used?",
+    "options": [
+      { "id": "a", "text": "Transperitoneal approach" },
+      { "id": "b", "text": "Retroperitoneoscopic approach" },
+      { "id": "c", "text": "Single-port transumbilical approach" },
+      { "id": "d", "text": "Hand-assisted laparoscopic approach" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "The retroperitoneoscopic approach obviates the need for colonic mobilisation and avoids the risks of injury to hollow viscera and the potential for adhesion formation.",
+    "topic": "Nephrectomy"
+  },
+  {
+    "id": "ch23-Q15",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 15,
+    "stem": "Which disadvantage is associated with the retroperitoneoscopic approach for nephrectomy?",
+    "options": [
+      { "id": "a", "text": "Larger incisions are required" },
+      { "id": "b", "text": "Higher risk of adhesion formation" },
+      { "id": "c", "text": "Reversed orientation of the kidney and hilum with the patient semiprone" },
+      { "id": "d", "text": "Inability to perform bilateral procedures" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The retroperitoneoscopic approach has the disadvantage of reversed orientation of the kidney and hilum with the patient semiprone or prone, and the comparatively smaller working space makes it more difficult to master.",
+    "topic": "Nephrectomy"
+  },
+  {
+    "id": "ch23-Q16",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 16,
+    "stem": "During retroperitoneoscopic nephrectomy, after dividing the hilar vessels, the ureter is traced and divided. If vesicoureteric reflux is present, what additional step is recommended?",
+    "options": [
+      { "id": "a", "text": "The ureter is left undivided" },
+      { "id": "b", "text": "A ureteric stent is placed for 4 weeks" },
+      { "id": "c", "text": "The ureteric stump is fulgurated" },
+      { "id": "d", "text": "The ureter is ligated before division or a urethral catheter is left for 48 hours" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "If there is reflux into the ureter, it is ligated before being divided, or alternatively the bladder is drained with a urethral catheter for 48 hours.",
+    "topic": "Nephrectomy"
+  },
+  {
+    "id": "ch23-Q17",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 17,
+    "stem": "A systematic review comparing transperitoneal (TP) and retroperitoneoscopic (RP) nephrectomy found that RP nephrectomy had which outcome advantage?",
+    "options": [
+      { "id": "a", "text": "Faster recovery with a lower conversion rate (<3%) and fewer complications" },
+      { "id": "b", "text": "Shorter operating time" },
+      { "id": "c", "text": "Better long-term renal function preservation" },
+      { "id": "d", "text": "Lower rate of ureteric injury" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A systematic review found that while overall results were broadly similar, recovery was faster after RP nephrectomy, with a lower conversion rate (<3%) and fewer complications.",
+    "topic": "Nephrectomy"
+  },
+  {
+    "id": "ch23-Q18",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 18,
+    "stem": "A child with end-stage renal disease requires bilateral nephrectomy before peritoneal dialysis. Why is the retroperitoneoscopic approach particularly suitable?",
+    "options": [
+      { "id": "a", "text": "It allows simultaneous bilateral access" },
+      { "id": "b", "text": "The peritoneum remains intact, so peritoneal dialysis can begin immediately" },
+      { "id": "c", "text": "It preserves the ureters for transplantation" },
+      { "id": "d", "text": "It has a lower risk of bleeding than TP" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Because the peritoneum remains intact during RP nephrectomy, postoperative peritoneal dialysis can be performed immediately, avoiding the need for a period of haemodialysis.",
+    "topic": "Nephrectomy"
+  },
+  {
+    "id": "ch23-Q19",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 19,
+    "stem": "The authors' institution has performed over 150 SIMPL nephrectomies. What does SIMPL stand for?",
+    "options": [
+      { "id": "a", "text": "Single incision multiport laparoscopic nephrectomy" },
+      { "id": "b", "text": "Standardised intracorporeal manual pure laparoscopic nephrectomy" },
+      { "id": "c", "text": "Simultaneous ipsilateral multiport laparoscopic nephrectomy" },
+      { "id": "d", "text": "Single instrument port laparoscopic nephrectomy" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "SIMPL stands for 'single instrument port laparoscopic technique nephrectomy', used in patients from 1 month to 18 years of age.",
+    "topic": "Nephrectomy"
+  },
+  {
+    "id": "ch23-Q20",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 20,
+    "stem": "In the SIMPL nephrectomy technique, where can a second instrument port be placed if needed?",
+    "options": [
+      { "id": "a", "text": "Through the rectus abdominis muscle" },
+      { "id": "b", "text": "Through the sacrospinalis muscle medial to the camera port" },
+      { "id": "c", "text": "In the suprapubic region" },
+      { "id": "d", "text": "Through the umbilicus" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "If required, a second instrument port can be placed through the sacrospinalis muscle in a position medial to the camera port site.",
+    "topic": "Nephrectomy"
+  },
+  {
+    "id": "ch23-Q21",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 21,
+    "stem": "A 4-year-old girl has a poorly functioning upper pole moiety with an ectopic ureter causing continuous urinary incontinence. What is the most commonly performed laparoscopic procedure?",
+    "options": [
+      { "id": "a", "text": "Upper pole heminephrectomy" },
+      { "id": "b", "text": "Lower pole heminephrectomy" },
+      { "id": "c", "text": "Total nephrectomy" },
+      { "id": "d", "text": "Ureteric reimplantation" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Upper pole heminephrectomy is the most commonly performed heminephrectomy. It is used to remove a poorly functioning upper pole with an ectopic ureter causing incontinence in girls.",
+    "topic": "Heminephrectomy"
+  },
+  {
+    "id": "ch23-Q22",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 22,
+    "stem": "Lower pole heminephrectomy is most commonly performed for which indication?",
+    "options": [
+      { "id": "a", "text": "Wilms tumour" },
+      { "id": "b", "text": "Adrenal adenoma" },
+      { "id": "c", "text": "Multicystic dysplastic kidney" },
+      { "id": "d", "text": "Reflux-associated nephropathy with loss of function" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Lower pole heminephrectomy is mostly performed for reflux-associated nephropathy or, rarely, lower moiety PUJ obstruction with loss of function.",
+    "topic": "Heminephrectomy"
+  },
+  {
+    "id": "ch23-Q23",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 23,
+    "stem": "During retroperitoneoscopic heminephrectomy, after dividing the blood supply to the affected moiety, what intraoperative finding demarcates it from the healthy moiety?",
+    "options": [
+      { "id": "a", "text": "Swelling of the affected tissue" },
+      { "id": "b", "text": "Haemorrhage from the cut surface" },
+      { "id": "c", "text": "Colour change on Doppler ultrasound" },
+      { "id": "d", "text": "Pallor of the affected renal parenchyma" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Pallor of the renal parenchyma following division of the blood vessels to the affected moiety serves to demarcate it from the healthy moiety.",
+    "topic": "Heminephrectomy"
+  },
+  {
+    "id": "ch23-Q24",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 24,
+    "stem": "Which statement accurately describes retroperitoneoscopic heminephrectomy?",
+    "options": [
+      { "id": "a", "text": "It has a long learning curve, especially for lower pole heminephrectomy" },
+      { "id": "b", "text": "It is easier than transperitoneal heminephrectomy" },
+      { "id": "c", "text": "It is contraindicated in children under 2 years" },
+      { "id": "d", "text": "It does not allow direct visualisation of the duplex kidney" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Retroperitoneoscopic heminephrectomy is a challenging procedure with a long learning curve, especially for lower pole heminephrectomy.",
+    "topic": "Heminephrectomy"
+  },
+  {
+    "id": "ch23-Q25",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 25,
+    "stem": "In a child with recurrent UTIs and dense adhesions from prior inflammation, which approach may be preferable for heminephrectomy?",
+    "options": [
+      { "id": "a", "text": "Laparoscopic upper pole heminephrectomy is always preferred" },
+      { "id": "b", "text": "Robotic-assisted heminephrectomy" },
+      { "id": "c", "text": "An open approach" },
+      { "id": "d", "text": "Percutaneous ablation of the affected moiety" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "In children with recurrent or recent UTIs causing dense adhesions, an open approach may be preferable for technical reasons and to avoid excessive blood loss.",
+    "topic": "Heminephrectomy"
+  },
+  {
+    "id": "ch23-Q26",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 26,
+    "stem": "A 9-year-old with symptomatic PUJ obstruction has an ultrasound showing pelvic AP diameter 25 mm with calyceal dilatation and differential function of 38%. Which of the following is an indication for pyeloplasty?",
+    "options": [
+      { "id": "a", "text": "Pelvic AP diameter >15 mm with calyceal dilatation" },
+      { "id": "b", "text": "Pelvic AP diameter >10 mm without calyceal dilatation" },
+      { "id": "c", "text": "Differential function of 45% with no symptoms" },
+      { "id": "d", "text": "Symptomatic obstruction with AP diameter >20 mm and reduced function <40%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Symptomatic PUJ obstruction with AP diameter >20 mm and calyceal dilatation and reduced function (<40%), or severe hydronephrosis with AP >30 mm, are indications for pyeloplasty.",
+    "topic": "Pyeloplasty"
+  },
+  {
+    "id": "ch23-Q27",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 27,
+    "stem": "Which anatomical variant is a contraindication to laparoscopic pyeloplasty?",
+    "options": [
+      { "id": "a", "text": "Differential renal function of 35%" },
+      { "id": "b", "text": "Worsening hydronephrosis on serial imaging" },
+      { "id": "c", "text": "Small extrarenal pelvis" },
+      { "id": "d", "text": "Symptomatic PUJ obstruction" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Contraindications for laparoscopic pyeloplasty include a small extrarenal pelvis, previous renal surgery and anatomical variants such as a horseshoe kidney.",
+    "topic": "Pyeloplasty"
+  },
+  {
+    "id": "ch23-Q28",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 28,
+    "stem": "During laparoscopic pyeloplasty, what is the function of the 'hitch stitch'?",
+    "options": [
+      { "id": "a", "text": "To occlude the ureter temporarily" },
+      { "id": "b", "text": "To retract the liver during right-sided procedures" },
+      { "id": "c", "text": "To close the retroperitoneum at the end of the case" },
+      { "id": "d", "text": "To stabilise the renal pelvis by passing it through the abdominal wall" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "A 'hitch stitch' is used to stabilise the renal pelvis by passing it through the abdominal wall, facilitating suturing during dismembered pyeloplasty.",
+    "topic": "Pyeloplasty"
+  },
+  {
+    "id": "ch23-Q29",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 29,
+    "stem": "After completing the posterior wall of the anastomosis during laparoscopic pyeloplasty, how is urinary drainage established before completing the anterior wall?",
+    "options": [
+      { "id": "a", "text": "A JJ stent is introduced antegradely into the bladder over a guidewire" },
+      { "id": "b", "text": "The hitch stitch is removed and a nephrostomy is placed" },
+      { "id": "c", "text": "A urethral catheter is inserted before closure" },
+      { "id": "d", "text": "An external drain is placed in the renal pelvis" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "A JJ stent is introduced and passed antegradely down to the bladder over a guidewire before completion of the anastomosis with a further continuous absorbable suture.",
+    "topic": "Pyeloplasty"
+  },
+  {
+    "id": "ch23-Q30",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 30,
+    "stem": "Some authors prefer a 'nephrostent' over a JJ stent after laparoscopic pyeloplasty. What advantage does it offer?",
+    "options": [
+      { "id": "a", "text": "It provides better internal drainage" },
+      { "id": "b", "text": "It remains patent for longer" },
+      { "id": "c", "text": "It drains externally and can be removed without a second procedure" },
+      { "id": "d", "text": "It reduces the risk of stricture formation" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The nephrostent drains externally, overcoming complications of an indwelling JJ stent, and can be removed without a second procedure.",
+    "topic": "Pyeloplasty"
+  },
+  {
+    "id": "ch23-Q31",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 31,
+    "stem": "During robotic-assisted laparoscopic pyeloplasty, what minimum distance between ports is required to maximise robotic arm movement?",
+    "options": [
+      { "id": "a", "text": "3\u20134 cm" },
+      { "id": "b", "text": "4\u20135 cm" },
+      { "id": "c", "text": "6\u20138 cm" },
+      { "id": "d", "text": "10\u201312 cm" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Ports should be separated by at least 6\u20138 cm to maximise robotic arm movement during robotic-assisted laparoscopic pyeloplasty.",
+    "topic": "Robotic pyeloplasty"
+  },
+  {
+    "id": "ch23-Q32",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 32,
+    "stem": "In a large single-centre study, robotic-assisted laparoscopic pyeloplasty (RALP) had what overall success rate?",
+    "options": [
+      { "id": "a", "text": "85%" },
+      { "id": "b", "text": "90%" },
+      { "id": "c", "text": "96%" },
+      { "id": "d", "text": "99%" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The overall success rate for RALP in a large single-centre study was 96%, with 98% performed via a transperitoneal approach and mean operating time of 199 minutes.",
+    "topic": "Robotic pyeloplasty"
+  },
+  {
+    "id": "ch23-Q33",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 33,
+    "stem": "A comparative study of open, conventional laparoscopic and robotic-assisted pyeloplasty found no difference in success rates. What advantage did RALP specifically demonstrate?",
+    "options": [
+      { "id": "a", "text": "Shorter operating time than open surgery" },
+      { "id": "b", "text": "Lower complication rates than laparoscopy" },
+      { "id": "c", "text": "Longer hospital stay but better cosmesis" },
+      { "id": "d", "text": "Reduced analgesic requirements and shorter hospital stay" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "RALP was associated with reduced analgesic requirements and shorter hospital stay, with no difference in success rates between the three modalities.",
+    "topic": "Robotic pyeloplasty"
+  },
+  {
+    "id": "ch23-Q34",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 34,
+    "stem": "The Da Vinci surgical instruments provide how many degrees of freedom in movement?",
+    "options": [
+      { "id": "a", "text": "Five" },
+      { "id": "b", "text": "Six" },
+      { "id": "c", "text": "Seven" },
+      { "id": "d", "text": "Eight" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "The Da Vinci instruments provide seven degrees of freedom in movement, with 8-mm instruments articulating via a pitch-roll-yaw mechanism and 5-mm instruments in a 'serpentine' manner.",
+    "topic": "Robotic assistance"
+  },
+  {
+    "id": "ch23-Q35",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 35,
+    "stem": "Why is the Da Vinci robot currently unsuitable for use in neonates?",
+    "options": [
+      { "id": "a", "text": "3-mm instruments are unavailable and a minimum 8 cm port separation is required" },
+      { "id": "b", "text": "Neonates cannot tolerate general anaesthesia for robotic surgery" },
+      { "id": "c", "text": "There are no approved robotic procedures for neonates" },
+      { "id": "d", "text": "The neonatal abdominal wall is too compliant for safe port placement" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The lack of commercially available 3-mm instruments combined with the minimum 8 cm distance required between each port precludes the use of the robot in neonates.",
+    "topic": "Robotic assistance"
+  },
+  {
+    "id": "ch23-Q36",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 36,
+    "stem": "In antenatally detected hydronephrosis, lower pole crossing vessels are present in what percentage of cases?",
+    "options": [
+      { "id": "a", "text": "6\u201311%" },
+      { "id": "b", "text": "15\u201325%" },
+      { "id": "c", "text": "30\u201340%" },
+      { "id": "d", "text": "50\u201360%" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Lower pole crossing vessels are found in only 6\u201311% of cases of antenatally detected hydronephrosis, compared with 50\u201360% of PUJ obstruction in older children and adults.",
+    "topic": "Vascular hitch"
+  },
+  {
+    "id": "ch23-Q37",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 37,
+    "stem": "A 14-year-old with intermittent flank pain and no history of antenatal hydronephrosis has extrinsic PUJ compression by crossing vessels without intrinsic obstruction. Which procedure is indicated?",
+    "options": [
+      { "id": "a", "text": "Nephrectomy" },
+      { "id": "b", "text": "Ureteric reimplantation" },
+      { "id": "c", "text": "Vascular hitch" },
+      { "id": "d", "text": "Endopyelotomy" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "If obstruction is due to extrinsic compression without intrinsic obstruction, a vascular hitch can be considered, where vessels are relocated and anchored to the anterior wall of the renal pelvis.",
+    "topic": "Vascular hitch"
+  },
+  {
+    "id": "ch23-Q38",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 38,
+    "stem": "What advantage does the vascular hitch procedure have over dismembered pyeloplasty?",
+    "options": [
+      { "id": "a", "text": "Higher success rates in all age groups" },
+      { "id": "b", "text": "Suitable for all types of PUJ obstruction" },
+      { "id": "c", "text": "Can be performed without a stent or drain" },
+      { "id": "d", "text": "Avoids transecting the pelvis, reducing leak risk, and is less technically demanding" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "The vascular hitch avoids transecting the pelvis, minimising urinary leak risk, is less technically demanding, carries a lower complication rate and results in shorter hospital stay.",
+    "topic": "Vascular hitch"
+  },
+  {
+    "id": "ch23-Q39",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 39,
+    "stem": "With appropriate patient selection, a recent multicentre study of the vascular hitch procedure reported what rate of symptom resolution?",
+    "options": [
+      { "id": "a", "text": "75%" },
+      { "id": "b", "text": "85%" },
+      { "id": "c", "text": "95%" },
+      { "id": "d", "text": "100%" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "With appropriate selection, the vascular hitch offers 100% resolution of symptoms, decreased hydronephrosis and improved MAG3 renogram drainage.",
+    "topic": "Vascular hitch"
+  },
+  {
+    "id": "ch23-Q40",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 40,
+    "stem": "Which finding is a contraindication to laparoscopic adrenalectomy?",
+    "options": [
+      { "id": "a", "text": "Tumour larger than 8 cm in diameter" },
+      { "id": "b", "text": "Phaeochromocytoma" },
+      { "id": "c", "text": "Adrenal adenoma smaller than 3 cm" },
+      { "id": "d", "text": "ACTH-dependent Cushing's syndrome" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Contraindications to laparoscopic adrenalectomy include tumours exceeding 8 cm, previous renal surgery, tumour thrombus in the adrenal vein or IVC, coagulation disorders and suspected adrenal carcinoma.",
+    "topic": "Adrenalectomy"
+  },
+  {
+    "id": "ch23-Q41",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 41,
+    "stem": "A child with phaeochromocytoma is scheduled for laparoscopic adrenalectomy. What is the recommended preoperative pharmacological regimen?",
+    "options": [
+      { "id": "a", "text": "\u03b1-blockers for 7 days, with \u03b2-blockers added if required" },
+      { "id": "b", "text": "\u03b2-blockers alone for 7 days" },
+      { "id": "c", "text": "Calcium channel blockers for 14 days" },
+      { "id": "d", "text": "ACE inhibitors for 5 days" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Children receive 7 days preoperative \u03b1-blockers such as phenoxybenzamine; \u03b2-blockers such as propranolol may be added to decrease tachyarrhythmia risk.",
+    "topic": "Adrenalectomy"
+  },
+  {
+    "id": "ch23-Q42",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 42,
+    "stem": "Why is left laparoscopic adrenalectomy considered more difficult than right?",
+    "options": [
+      { "id": "a", "text": "The gland and adrenal vein are smaller with fewer clear landmarks like the IVC" },
+      { "id": "b", "text": "The left adrenal gland is larger and more vascular" },
+      { "id": "c", "text": "The left adrenal vein is longer and more fragile" },
+      { "id": "d", "text": "The spleen constantly obstructs the view" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Left adrenalectomy is more difficult due to the smaller gland and adrenal vein and the lack of clear landmarks such as the IVC.",
+    "topic": "Adrenalectomy"
+  },
+  {
+    "id": "ch23-Q43",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 43,
+    "stem": "What is the single most critical intraoperative priority during laparoscopic adrenalectomy for tumour?",
+    "options": [
+      { "id": "a", "text": "Minimising operating time" },
+      { "id": "b", "text": "Using the transperitoneal rather than RP approach" },
+      { "id": "c", "text": "Preserving the adrenal vein" },
+      { "id": "d", "text": "Avoiding capsular breach and tumour spillage" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Laparoscopic adrenalectomy remains challenging, particularly due to the paramount importance of avoiding capsular breach and tumour spillage.",
+    "topic": "Adrenalectomy"
+  },
+  {
+    "id": "ch23-Q44",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 44,
+    "stem": "In vesicoscopic ureteric reimplantation using the Cohen technique, how is the working space created?",
+    "options": [
+      { "id": "a", "text": "Through an open cystotomy" },
+      { "id": "b", "text": "The bladder is insufflated with CO2 to create a pneumovesicum" },
+      { "id": "c", "text": "Transperitoneal extravesical dissection is used" },
+      { "id": "d", "text": "Via a suprapubic catheter inserted under vision" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "In the vesicoscopic technique, the bladder is insufflated with CO2 to create a pneumovesicum, and the refluxing ureter is mobilised and reimplanted via a cross-trigonal submucosal tunnel.",
+    "topic": "Ureteric reimplantation"
+  },
+  {
+    "id": "ch23-Q45",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 45,
+    "stem": "A recognised risk of laparoscopic extravesical ureteral reimplantation, shared with the open approach, is:",
+    "options": [
+      { "id": "a", "text": "Ureteric stricture at the reimplantation site" },
+      { "id": "b", "text": "Higher rate of recurrent UTIs" },
+      { "id": "c", "text": "Nephrocalcinosis" },
+      { "id": "d", "text": "Damage to pelvic innervation causing bladder dysfunction and urinary retention" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "As with open extravesical reimplantation, the laparoscopic technique carries risk of damage to pelvic innervation, with consequent bladder dysfunction, urinary retention and constipation.",
+    "topic": "Ureteric reimplantation"
+  },
+  {
+    "id": "ch23-Q46",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 46,
+    "stem": "In a child with a disorder of sex development (DSD), what role does laparoscopy play?",
+    "options": [
+      { "id": "a", "text": "It is restricted to gonadal biopsy alone" },
+      { "id": "b", "text": "It is contraindicated due to anatomical ambiguity" },
+      { "id": "c", "text": "It allows direct visualisation of internal genitalia, gonadal biopsy and gonadectomy when indicated" },
+      { "id": "d", "text": "It is only used for M\u00fcllerian remnant excision" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "Laparoscopy in DSD permits direct visualisation of internal genital anatomy, gonadal biopsies, and removal of dysgenetic gonads or those discordant with the sex of rearing.",
+    "topic": "DSD"
+  },
+  {
+    "id": "ch23-Q47",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 47,
+    "stem": "Before docking the robot for a robotic-assisted laparoscopic augmentation ileocystoplasty with Mitrofanoff, what preliminary step should be performed?",
+    "options": [
+      { "id": "a", "text": "48 hours of bowel preparation" },
+      { "id": "b", "text": "Placement of bilateral ureteric stents" },
+      { "id": "c", "text": "Insertion of a suprapubic catheter" },
+      { "id": "d", "text": "Diagnostic laparoscopy to confirm adequate appendix length" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "Diagnostic laparoscopy is performed initially to confirm adequate appendix length for a Mitrofanoff procedure prior to docking the robot.",
+    "topic": "Reconstructive surgery"
+  },
+  {
+    "id": "ch23-Q48",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 48,
+    "stem": "What currently limits widespread acceptance of robotic reconstructive surgery in paediatric urology?",
+    "options": [
+      { "id": "a", "text": "Paucity of published data and lack of randomised controlled trials" },
+      { "id": "b", "text": "Higher complication rates compared with open surgery" },
+      { "id": "c", "text": "Inability to perform intracorporeal suturing with the robot" },
+      { "id": "d", "text": "Longer recovery times than conventional laparoscopy" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Acceptance of robotic reconstructive surgery is limited by the paucity of published data and lack of randomised controlled trials.",
+    "topic": "Reconstructive surgery"
+  },
+  {
+    "id": "ch23-Q49",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 49,
+    "stem": "What is the current role of minimally invasive surgery for Wilms tumour?",
+    "options": [
+      { "id": "a", "text": "In selected patients results are comparable to open surgery, but most centres still favour open surgery" },
+      { "id": "b", "text": "MIS is the standard of care for all Wilms tumours" },
+      { "id": "c", "text": "MIS is contraindicated in all Wilms tumour cases" },
+      { "id": "d", "text": "MIS is used only for bilateral Wilms tumour" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "In selected patients, laparoscopic total nephrectomy and lymphadenectomy results are comparable to open surgery, but most oncology centres still favour open surgery for Wilms tumour.",
+    "topic": "Oncology / Wilms tumour"
+  },
+  {
+    "id": "ch23-Q50",
+    "chapter": "Laparoscopic Pediatric Urology",
+    "chapterSlug": "ch23_laparoscopic-pediatric-urology",
+    "chapterNumber": 23,
+    "questionNumber": 50,
+    "stem": "What are the three major components of the Da Vinci robotic surgical system?",
+    "options": [
+      { "id": "a", "text": "Robot, bedside cart, and console" },
+      { "id": "b", "text": "Camera, insufflator, and monitor stack" },
+      { "id": "c", "text": "Laparoscope, trocars, and energy source" },
+      { "id": "d", "text": "Master console, slave unit, and video tower" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "The three components are: the robot (mobile tower with arms), bedside cart (image processing and light source), and console (surgeon's workstation).",
+    "topic": "Robotic assistance"
+  }
+]
